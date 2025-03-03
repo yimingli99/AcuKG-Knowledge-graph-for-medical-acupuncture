@@ -1,15 +1,15 @@
-# AcuKG: Acupuncture Knowledge Graph
+# **AcuKG: Acupuncture Knowledge Graph**
 
-## Overview
+## **Overview**
 AcuKG is a structured and scalable acupuncture knowledge graph that integrates diverse data sources to enhance the accessibility, discoverability, and application of acupuncture knowledge. By leveraging structured domain knowledge, AcuKG supports clinical decision-making, evidence-based acupuncture research, and the integration of acupuncture with modern digital healthcare tools.
 
-## Features
+## **Features**
 - **Comprehensive Knowledge Integration**: AcuKG consolidates information from authoritative sources, including acupuncture textbooks, official websites, clinical trials, and biomedical literature.
 - **Standardized Representation**: Utilizes anatomical ontologies such as UBERON and SNOMED-CT for consistent classification of acupuncture points.
 - **Enhanced Queryability**: Enables efficient retrieval of relationships between acupoints, anatomical structures, and therapeutic indications.
 - **Clinical Decision Support**: Facilitates personalized treatment recommendations based on structured knowledge.
 
-## Data Files
+## **Data Files**
 AcuKG is built from multiple data sources, structured into CSV files:
 
 | File Name            | Description |
@@ -26,7 +26,7 @@ AcuKG is built from multiple data sources, structured into CSV files:
 | `pinyinname.csv`     | Pinyin transliterations of acupuncture point names. |
 | `PubMed.csv`         | Conditions of acupoints to PubMed articles. |
 
-## Applications
+## **Applications**
 - **Clinical Decision Support**: AcuKG helps practitioners identify effective acupoints for specific conditions based on evidence-based insights.
 - **Medical Knowledge Integration**: Provides interoperability with standardized medical ontologies for broader healthcare applications.
 
