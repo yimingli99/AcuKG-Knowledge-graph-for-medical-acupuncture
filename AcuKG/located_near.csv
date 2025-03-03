@@ -1,0 +1,1128 @@
+﻿Acupoint_Code,Relation,Anatomy,UBERON_code,SNOMED_CT_code
+BL1,located_near,face,UBERON_0001456,89545001
+BL1,located_near,eye,UBERON_0000970,81745001
+BL1,located_near,orbit,UBERON_0004867,87716009
+BL2,located_near,head,UBERON_0000033,69536005
+BL1,located_near,eyebrow,UBERON_0010163,84238004
+BL2,located_near,eyebrow,UBERON_0010163,84238004
+BL1,located_near,frontal notch,,
+BL3,located_near,head,UBERON_0000033,69536005
+BL3,located_near,frontal notch,,
+BL3,located_near,anterior hairline,,
+BL4,located_near,head,UBERON_0000033,69536005
+BL4,located_near,anterior hairline,,
+BL4,located_near,anterior median line,,
+BL5,located_near,head,UBERON_0000033,69536005
+BL5,located_near,anterior hairline,,
+BL5,located_near,anterior median line,,
+BL6,located_near,head,UBERON_0000033,69536005
+BL6,located_near,anterior hairline,,
+BL6,located_near,anterior median line,,
+BL7,located_near,head,UBERON_0000033,69536005
+BL7,located_near,anterior hairline,,
+BL7,located_near,anterior median line,,
+BL8,located_near,head,UBERON_0000033,69536005
+BL8,located_near,anterior hairline,,
+BL8,located_near,anterior median line,,
+BL9,located_near,head,UBERON_0000033,69536005
+BL9,located_near,external occipital protuberance,UBERON_0013469,61918000
+BL9,located_near,posterior median line,,
+BL9,located_near,trapezius muscle,UBERON_0002380,31764008
+BL10,located_near,neck,UBERON_0000974,45048000
+BL10,located_near,second cervical vertebra (C2),,
+BL10,located_near,trapezius muscle,UBERON_0002380,31764008
+BL11,located_near,upper back region,,
+BL11,located_near,posterior median line,,
+BL12,located_near,upper back region,,
+BL12,located_near,posterior median line,,
+BL12,located_near,second thoracic vertebra (T2),,
+BL13,located_near,upper back region,,
+BL13,located_near,posterior median line,,
+BL13,located_near,third thoracic vertebra (T3),,
+BL14,located_near,upper back region,,
+BL14,located_near,posterior median line,,
+BL14,located_near,fourth thoracic vertebra (T4),,
+BL15,located_near,upper back region,,
+BL15,located_near,posterior median line,,
+BL15,located_near,fifth thoracic vertebra (T5),,
+BL16,located_near,sixth thoracic vertebra (T6),,
+BL17,located_near,upper back region,,
+BL17,located_near,posterior median line,,
+BL17,located_near,seventh thoracic vertebra (T7),,
+BL18,located_near,upper back region,,
+BL18,located_near,posterior median line,,
+BL18,located_near,ninth thoracic vertebra (T9),,
+BL19,located_near,upper back region,,
+BL19,located_near,posterior median line,,
+BL19,located_near,tenth thoracic vertebra (T10),,
+BL20,located_near,upper back region,,
+BL20,located_near,posterior median line,,
+BL20,located_near,11th thoracic vertebra (T11),,
+BL21,located_near,upper back region,,
+BL21,located_near,posterior median line,,
+BL21,located_near,12th thoracic vertebra (T12),,
+BL22,located_near,lumbar region,,52612000
+BL22,located_near,posterior median line,,
+BL22,located_near,first lumbar vertebra (L1),,
+BL23,located_near,lumbar region,,52612000
+BL23,located_near,posterior median line,,
+BL23,located_near,second lumbar vertebra (L2),,
+BL24,located_near,lumbar region,,52612000
+BL24,located_near,posterior median line,,
+BL24,located_near,third lumbar vertebra (L3),,
+BL25,located_near,lumbar region,,52612000
+BL25,located_near,posterior median line,,
+BL25,located_near,fourth lumbar vertebra (L4),,
+BL26,located_near,lumbar region,,52612000
+BL26,located_near,fifth lumbar vertebra (L5),,
+BL26,located_near,posterior median line,,
+BL27,located_near,sacral region,UBERON_0005473,46452000
+BL27,located_near,first posterior sacral foramen,,
+BL27,located_near,median sacral crest,,
+BL28,located_near,sacral region,UBERON_0005473,46452000
+BL28,located_near,second posterior sacral foramen,,
+BL28,located_near,median sacral crest,,
+BL29,located_near,sacral region,UBERON_0005473,46452000
+BL29,located_near,third posterior sacral foramen,,
+BL29,located_near,median sacral crest,,
+BL30,located_near,sacral region,UBERON_0005473,46452000
+BL30,located_near,fourth posterior sacral foramen,,
+BL30,located_near,median sacral crest,,
+BL34,located_near,sacral hiatus,,
+BL31,located_near,sacral region,UBERON_0005473,46452000
+BL31,located_near,first posterior sacral foramen,,
+BL32,located_near,sacral region,UBERON_0005473,46452000
+BL32,located_near,second posterior sacral foramen,,
+BL33,located_near,sacral region,UBERON_0005473,46452000
+BL33,located_near,third posterior sacral foramen,,
+BL32,located_near,third posterior sacral foramen,,
+BL34,located_near,sacral region,UBERON_0005473,46452000
+BL34,located_near,fourth posterior sacral foramen,,
+BL35,located_near,buttock region,,
+BL35,located_near,coccyx,UBERON_0001350,64688005
+BL36,located_near,buttock region,,
+BL36,located_near,gluteal fold,,89508007
+BL37,located_near,thigh,,68367000
+BL37,located_near,biceps femoris,UBERON_0001374,181672002
+BL37,located_near,semitendinosus muscles,,
+BL37,located_near,gluteal fold,,89508007
+BL38,located_near,knee,UBERON_0001465,72696002
+BL38,located_near,biceps femoris tendon,,
+BL38,located_near,popliteal crease,,
+BL39,located_near,knee,UBERON_0001465,72696002
+BL39,located_near,biceps femoris tendon,,
+BL39,located_near,popliteal crease,,
+BL40,located_near,knee,UBERON_0001465,72696002
+BL40,located_near,popliteal crease,,
+BL41,located_near,upper back region,,
+BL41,located_near,posterior median line,,
+BL41,located_near,second thoracic vertebra (T2),,
+BL42,located_near,upper back region,,
+BL42,located_near,posterior median line,,
+BL42,located_near,third thoracic vertebra (T3),,
+GV12,located_near,third thoracic vertebra (T3),,
+BL43,located_near,upper back region,,
+BL43,located_near,posterior median line,,
+BL43,located_near,fourth thoracic vertebra (T4),,
+BL44,located_near,upper back region,,
+BL44,located_near,posterior median line,,
+BL44,located_near,fifth thoracic vertebra (T5),,
+GV11,located_near,fifth thoracic vertebra (T5),,
+BL45,located_near,upper back region,,
+BL45,located_near,posterior median line,,
+BL45,located_near,sixth thoracic vertebra (T6),,
+GV10,located_near,sixth thoracic vertebra (T6),,
+BL46,located_near,upper back region,,
+BL46,located_near,posterior median line,,
+BL 46,located_near,seventh thoracic vertebra (T7),,
+BL47,located_near,upper back region,,
+BL47,located_near,posterior median line,,
+BL47,located_near,ninth thoracic vertebra (T9),,
+BL48,located_near,upper back region,,
+BL48,located_near,posterior median line,,
+BL48,located_near,tenth thoracic vertebra (T10),,
+BL49,located_near,upper back region,,
+BL49,located_near,posterior median line,,
+BL49,located_near,11th thoracic vertebra (T11),,
+BL50,located_near,upper back region,,
+BL50,located_near,posterior median line,,
+BL50,located_near,12th thoracic vertebra (T12),,
+BL51,located_near,lumbar region,,52612000
+BL51,located_near,first lumbar vertebra (L1),,
+BL51,located_near,posterior median line,,
+BL52,located_near,lumbar region,,52612000
+BL52,located_near,second lumbar vertebra (L2),,
+BL52,located_near,posterior median line,,
+BL53,located_near,buttock region,,
+BL53,located_near,second posterior sacral foramen,,
+BL53,located_near,median sacral crest,,
+BL54,located_near,buttock region,,
+BL54,located_near,fourth posterior sacral foramen,,
+BL54,located_near,median sacral crest,,
+BL 30,located_near,sacral hiatus,,
+BL55,located_near,leg,UBERON_0000978,30021000
+BL55,located_near,popliteal crease,,
+BL56,located_near,leg,UBERON_0000978,30021000
+BL56,located_near,gastrocnemius muscle,,35616000
+BL56,located_near,popliteal crease,,
+BL57,located_near,leg,UBERON_0000978,30021000
+BL57,located_near,calcaneal tendon,UBERON_0003701,
+BL57,located_near,gastrocnemius muscle,,35616000
+BL58,located_near,leg,UBERON_0000978,30021000
+BL58,located_near,gastrocnemius muscle,,35616000
+BL58,located_near,calcaneal tendon,UBERON_0003701,
+BL59,located_near,leg,UBERON_0000978,30021000
+BL59,located_near,fibula,UBERON_0001446,87342007
+BL59,located_near,calcaneal tendon,UBERON_0003701,
+BL60,located_near,ankle,,344001
+BL60,located_near,lateral malleolus,,113225006
+BL60,located_near,calcaneal tendon,UBERON_0003701,
+BL61,located_near,foot,,56459004
+BL61,located_near,calcaneus,UBERON_0001450,80144004
+BL61,located_near,red and white flesh,,
+BL62,located_near,lateral malleolus,,113225006
+BL62,located_near,foot,,56459004
+BL63,located_near,foot,,56459004
+BL63,located_near,lateral malleolus,,113225006
+BL63,located_near,fifth metatarsal bone,,301000
+BL63,located_near,cuboid bone,UBERON_0001455,
+BL64,located_near,foot,,56459004
+BL64,located_near,fifth metatarsal bone,,301000
+BL64,located_near,red and white flesh,,
+BL65,located_near,foot,,56459004
+BL65,located_near,fifth metatarsophalangeal joint,,50133002
+BL65,located_near,red and white flesh,,
+BL66,located_near,little toe,,39915008
+BL66,located_near,fifth metatarsophalangeal joint,,50133002
+BL66,located_near,red and white flesh,,
+BL67,located_near,little toe,,39915008
+BL67,located_near,toenail,,76578001
+CV1,located_near,perineal region,,
+CV1,located_near,anus,UBERON_0001245,53505006
+CV1,located_near,scrotum,UBERON_0001300,20233005
+CV1,located_near,labium majoris,,
+CV1,located_near,genital organ,,128181006
+CV2,located_near,lower abdomen,,27033000
+CV2,located_near,pubic symphysis,UBERON_0003699,182200001
+CV2,located_near,anterior median line,,
+CV3,located_near,lower abdomen,,27033000
+CV3,located_near,umbilicus,UBERON_0007118,78220002
+CV3,located_near,anterior median line,,
+CV4,located_near,lower abdomen,,27033000
+CV4,located_near,umbilicus,UBERON_0007118,78220002
+CV4,located_near,anterior median line,,
+CV5,located_near,lower abdomen,,27033000
+CV5,located_near,umbilicus,UBERON_0007118,78220002
+CV5,located_near,anterior median line,,
+CV6,located_near,lower abdomen,,27033000
+CV6,located_near,umbilicus,UBERON_0007118,78220002
+CV6,located_near,anterior median line,,
+CV7,located_near,lower abdomen,,27033000
+CV7,located_near,umbilicus,UBERON_0007118,78220002
+CV7,located_near,anterior median line,,
+CV8,located_near,upper abdomen,,80581009
+CV8,located_near,umbilicus,UBERON_0007118,78220002
+CV9,located_near,upper abdomen,,80581009
+CV9,located_near,umbilicus,UBERON_0007118,78220002
+CV9,located_near,anterior median line,,
+CV10,located_near,upper abdomen,,80581009
+CV10,located_near,umbilicus,UBERON_0007118,78220002
+CV10,located_near,anterior median line,,
+CV11,located_near,upper abdomen,,80581009
+CV11,located_near,umbilicus,UBERON_0007118,78220002
+CV11,located_near,anterior median line,,
+CV12,located_near,umbilicus,UBERON_0007118,78220002
+CV12,located_near,upper abdomen,,80581009
+CV12,located_near,anterior median line,,
+CV12,located_near,xiphisternal junction,,
+CV13,located_near,upper abdomen,,80581009
+CV13,located_near,umbilicus,UBERON_0007118,78220002
+CV13,located_near,anterior median line,,
+CV14,located_near,upper abdomen,,80581009
+CV14,located_near,umbilicus,UBERON_0007118,78220002
+CV14,located_near,anterior median line,,
+CV15,located_near,upper abdomen,,80581009
+CV15,located_near,xiphisternal junction,,
+CV15,located_near,anterior median line,,
+CV16,located_near,anterior thoracic region,,
+CV16,located_near,xiphisternal junction,,
+CV16,located_near,anterior median line,,
+CV17,located_near,anterior thoracic region,,
+CV17,located_near,fourth intercostal space,,117136008
+CV17,located_near,anterior median line,,
+CV18,located_near,anterior thoracic region,,
+CV18,located_near,third intercostal space,,117135007
+CV18,located_near,anterior median line,,
+CV19,located_near,anterior thoracic region,,
+CV19,located_near,second intercostal space,,117134006
+CV19,located_near,anterior median line,,
+CV20,located_near,anterior thoracic region,,
+CV20,located_near,first intercostal space,,117133000
+CV20,located_near,anterior median line,,
+CV21,located_near,anterior thoracic region,,
+CV21,located_near,suprasternal fossa,,
+CV21,located_near,anterior median line,,
+CV22,located_near,neck,UBERON_0000974,45048000
+CV22,located_near,suprasternal fossa,,
+CV22,located_near,anterior median line,,
+CV22,located_near,each clavicle,,
+CV23,located_near,neck,UBERON_0000974,45048000
+CV23,located_near,thyroid cartilage,UBERON_0001738,52940008
+CV23,located_near,hyoid bone,UBERON_0001685,21387005
+CV23,located_near,anterior median line,,
+CV24,located_near,face,UBERON_0001456,89545001
+CV24,located_near,mentolabial sulcus,,45114004
+GB1,located_near,head,UBERON_0000033,69536005
+GB1,located_near,eye,UBERON_0000970,81745001
+GB2,located_near,face,UBERON_0001456,89545001
+GB2,located_near,intertragic notch,,
+GB2,located_near,mandible,UBERON_0001684,91609006
+GB3,located_near,head,UBERON_0000033,69536005
+GB3,located_near,zygomatic arch,UBERON_0002500,51204001
+GB4,located_near,head,UBERON_0000033,69536005
+GB5,located_near,head,UBERON_0000033,69536005
+GB6,located_near,head,UBERON_0000033,69536005
+GB7,located_near,head,UBERON_0000033,69536005
+GB7,located_near,temple hairline,,
+GB7,located_near,auricle,,113327001
+GB8,located_near,head,UBERON_0000033,69536005
+GB8,located_near,auricular apex,,
+GB8,located_near,temporal hairline,,
+GB9,located_near,head,UBERON_0000033,69536005
+GB9,located_near,auricular root,,
+GB9,located_near,hairline,UBERON_0004104,
+GB10,located_near,head,UBERON_0000033,69536005
+GB10,located_near,mastoid process,,
+GB11,located_near,head,UBERON_0000033,69536005
+GB11,located_near,mastoid process,,
+GB12,located_near,neck,UBERON_0000974,45048000
+GB12,located_near,mastoid process,,
+GB13,located_near,head,UBERON_0000033,69536005
+GB13,located_near,anterior hairline,,
+GB13,located_near,anterior median line,,
+GB14,located_near,head,UBERON_0000033,69536005
+GB14,located_near,eyebrow,UBERON_0010163,84238004
+GB14,located_near,pupil,UBERON_0001771,35146001
+GB15,located_near,head,UBERON_0000033,69536005
+GB15,located_near,anterior hairline,,
+GB15,located_near,pupil,UBERON_0001771,35146001
+GB16,located_near,head,UBERON_0000033,69536005
+GB16,located_near,anterior hairline,,
+GB16,located_near,pupil,UBERON_0001771,35146001
+GB17,located_near,head,UBERON_0000033,69536005
+GB17,located_near,anterior hairline,,
+GB17,located_near,pupil,UBERON_0001771,35146001
+GB18,located_near,head,UBERON_0000033,69536005
+GB18,located_near,anterior hairline,,
+GB18,located_near,pupil,UBERON_0001771,35146001
+GB19,located_near,head,UBERON_0000033,69536005
+GB19,located_near,external occipital protuberance,UBERON_0013469,61918000
+GB20,located_near,neck,UBERON_0000974,45048000
+GB20,located_near,occipital bone,UBERON_0001676,31640002
+GB20,located_near,sternocleidomastoid,UBERON_0001128,181741009
+GB20,located_near,trapezius muscles,,
+GB21,located_near,neck,UBERON_0000974,45048000
+GB21,located_near,seventh cervical vertebra (C7),,
+GB21,located_near,acromion,UBERON_0002497,31934006
+GB22,located_near,lateral thoracic region,,
+GB22,located_near,fourth intercostal space,,117136008
+GB22,located_near,midaxillary line,,260515002
+GB23,located_near,lateral thoracic region,,
+GB23,located_near,fourth intercostal space,,117136008
+GB23,located_near,midaxillary line,,260515002
+GB24,located_near,anterior thoracic region,,
+GB24,located_near,seventh intercostal space,,117139001
+GB24,located_near,anterior median line,,
+GB24,located_near,nipple,UBERON_0002030,265780004
+GB24,located_near,midclavicular line,,279013009
+GB25,located_near,lateral abdomen,,
+GB25,located_near,12th rib,,
+GB25,located_near,costal arch,UBERON_0002225,24256007
+GB25,located_near,posterior axillary line,,45903001
+GB26,located_near,lateral abdomen,,
+GB26,located_near,11th rib,,
+GB26,located_near,tenth rib,,77644006
+GB26,located_near,costal arch,UBERON_0002225,24256007
+GB27,located_near,lower abdomen,,27033000
+GB27,located_near,umbilicus,UBERON_0007118,78220002
+GB27,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+GB28,located_near,lower abdomen,,27033000
+GB28,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+GB29,located_near,buttock region,,
+GB29,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+GB29,located_near,greater trochanter,UBERON_0002503,30547004
+GB30,located_near,buttock region,,
+GB30,located_near,greater trochanter,UBERON_0002503,30547004
+GB30,located_near,sacral hiatus,,
+GB30,located_near,thigh,,68367000
+GB30,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+GB31,located_near,thigh,,68367000
+GB31,located_near,iliotibial band,,
+GB31,located_near,middle finger,,65531009
+GB32,located_near,thigh,,68367000
+GB32,located_near,iliotibial band,,
+GB32,located_near,popliteal crease,,
+GB33,located_near,knee,UBERON_0001465,72696002
+GB33,located_near,biceps femoris tendon,,
+GB33,located_near,iliotibial band,,
+GB33,located_near,femur,UBERON_0000981,71341001
+GB34,located_near,leg,UBERON_0000978,30021000
+GB34,located_near,fibula,UBERON_0001446,87342007
+GB35,located_near,leg,UBERON_0000978,30021000
+GB35,located_near,fibula,UBERON_0001446,87342007
+GB35,located_near,lateral malleolus,,113225006
+GB35,located_near,popliteal crease,,
+GB36,located_near,leg,UBERON_0000978,30021000
+GB36,located_near,fibula,UBERON_0001446,87342007
+GB36,located_near,lateral malleolus,,113225006
+GB36,located_near,popliteal crease,,
+GB37,located_near,leg,UBERON_0000978,30021000
+GB37,located_near,fibula,UBERON_0001446,87342007
+GB37,located_near,lateral malleolus,,113225006
+GB38,located_near,leg,UBERON_0000978,30021000
+GB38,located_near,fibula,UBERON_0001446,87342007
+GB38,located_near,lateral malleolus,,113225006
+GB39,located_near,leg,UBERON_0000978,30021000
+GB39,located_near,fibula,UBERON_0001446,87342007
+GB39,located_near,lateral malleolus,,113225006
+GB40,located_near,ankle,,344001
+GB40,located_near,extensor digitorum longus tendon,,
+GB40,located_near,lateral malleolus,,113225006
+GB40,located_near,second to fifth toes,,
+GB41,located_near,foot,,56459004
+GB41,located_near,fourth and fifth metatarsal bones,,
+GB41,located_near,fifth extensor digitorum longus tendon,,
+GB42,located_near,foot,,56459004
+GB42,located_near,fourth and fifth metatarsal bones,,
+GB42,located_near,fourth metatarsophalangeal joint,,45230000
+GB43,located_near,foot,,56459004
+GB43,located_near,fourth and fifth toes,,
+GB43,located_near,red and white flesh,,
+GB44,located_near,fourth toe,,80349001
+GB44,located_near,distal phalanx,UBERON_0004300,299711006
+GB44,located_near,toenail,,76578001
+GB44,located_near,nail,UBERON_0001705,72651009
+GB44,located_near,fourth toenail,,
+GV1,located_near,perineal region,,
+GV1,located_near,coccyx,UBERON_0001350,64688005
+GV1,located_near,anus,UBERON_0001245,53505006
+GV2,located_near,sacral region,UBERON_0005473,46452000
+GV2,located_near,sacral hiatus,,
+GV2,located_near,posterior median line,,
+GV3,located_near,lumbar region,,52612000
+GV3,located_near,fourth lumbar vertebra (L4),,
+GV3,located_near,posterior median line,,
+GV3,located_near,iliac crests,,
+GV3,located_near,both iliac crests,,
+GV4,located_near,lumbar region,,52612000
+GV4,located_near,second lumbar vertebra (L2),,
+GV4,located_near,posterior median line,,
+GV5,located_near,lumbar region,,52612000
+GV5,located_near,first lumbar vertebra (L1),,
+GV5,located_near,posterior median line,,
+GV6,located_near,upper back region,,
+GV6,located_near,11th thoracic vertebra (T11),,
+GV6,located_near,posterior median line,,
+GV7,located_near,upper back region,,
+GV7,located_near,tenth thoracic vertebra (T10),,
+GV7,located_near,posterior median line,,
+GV8,located_near,upper back region,,
+GV8,located_near,ninth thoracic vertebra (T9),,
+GV8,located_near,posterior median line,,
+GV9,located_near,upper back region,,
+GV9,located_near,seventh thoracic vertebra (T7),,
+GV9,located_near,posterior median line,,
+GV10,located_near,upper back region,,
+GV10,located_near,posterior median line,,
+GV11,located_near,upper back region,,
+GV11,located_near,posterior median line,,
+GV12,located_near,upper back region,,
+GV12,located_near,posterior median line,,
+GV13,located_near,upper back region,,
+GV13,located_near,posterior median line,,
+GV13,located_near,first thoracic vertebra (T1),,
+GV14,located_near,neck,UBERON_0000974,45048000
+GV14,located_near,seventh cervical vertebra (C7),,
+GV14,located_near,posterior median line,,
+GV15,located_near,neck,UBERON_0000974,45048000
+GV15,located_near,posterior median line,,
+GV16,located_near,neck,UBERON_0000974,45048000
+GV16,located_near,external occipital protuberance,UBERON_0013469,61918000
+GV16,located_near,trapezius muscles,,
+gV16,located_near,occipital bone,UBERON_0001676,31640002
+gV16,located_near,posterior hairline,,
+GV17,located_near,head,UBERON_0000033,69536005
+GV17,located_near,external occipital protuberance,UBERON_0013469,61918000
+GV17,located_near,posterior median line,,
+GV18,located_near,head,UBERON_0000033,69536005
+GV18,located_near,posterior hairline,,
+GV19,located_near,head,UBERON_0000033,69536005
+GV19,located_near,posterior hairline,,
+GV19,located_near,posterior median line,,
+GV20,located_near,head,UBERON_0000033,69536005
+GV20,located_near,anterior hairline,,
+GV20,located_near,anterior median line,,
+GV20,located_near,posterior hairline,,
+GV20,located_near,auricular apices,,
+GV21,located_near,head,UBERON_0000033,69536005
+GV21,located_near,anterior hairline,,
+GV21,located_near,anterior median line,,
+GV22,located_near,head,UBERON_0000033,69536005
+GV22,located_near,anterior median line,,
+GV23,located_near,head,UBERON_0000033,69536005
+GV23,located_near,anterior hairline,,
+GV23,located_near,anterior median line,,
+GV24,located_near,head,UBERON_0000033,69536005
+GV24,located_near,anterior hairline,,
+GV24,located_near,anterior median line,,
+GV 24,located_near,eyebrows,,
+GV25,located_near,face,UBERON_0001456,89545001
+GV25,located_near,nose,UBERON_0000004,45206002
+GV26,located_near,philtrum midline,,
+GV27,located_near,face,UBERON_0001456,89545001
+GV27,located_near,upper lip,UBERON_0001834,11681001
+GV28,located_near,face,UBERON_0001456,89545001
+GV28,located_near,upper lip,UBERON_0001834,11681001
+GV28,located_near,upper gum,,23114008
+gV28,located_near,upper lip,UBERON_0001834,11681001
+gV28,located_near,upper gum,,23114008
+HT1,located_near,axilla,UBERON_0009472,34797008
+HT1,located_near,axillary fossa,,34797008
+HT1,located_near,axillary artery,UBERON_0001394,67937003
+HT2,located_near,arm,UBERON_0001460,40983000
+HT2,located_near,biceps brachii muscle,,16225001
+HT2,located_near,cubital crease,,
+HT3,located_near,elbow,UBERON_0001461,76248009
+HT3,located_near,humerus,UBERON_0004250,85050009
+HT3,located_near,cubital crease,,
+HT4,located_near,forearm,,14975008
+HT4,located_near,flexor carpi ulnaris tendon,,
+HT4,located_near,palmar wrist crease,,
+HT5,located_near,forearm,,14975008
+HT5,located_near,flexor carpi ulnaris tendon,,
+HT5,located_near,palmar wrist crease,,
+HT 4,located_near,ulna,UBERON_0001424,23416004
+HT 5,located_near,ulna,UBERON_0001424,23416004
+Ht 6,located_near,ulna,UBERON_0001424,23416004
+HT6,located_near,forearm,,14975008
+HT6,located_near,flexor carpi ulnaris tendon,,
+HT6,located_near,palmar wrist crease,,
+HT7,located_near,wrist,,8205005
+HT7,located_near,flexor carpi ulnaris tendon,,
+HT7,located_near,palmar wrist crease,,
+HT8,located_near,hand,,85562004
+HT8,located_near,fourth and fifth metacarpal bones,,
+HT8,located_near,fifth metacarpophalangeal joint,,
+HT9,located_near,little finger,,12406000
+HT9,located_near,distal phalanx,UBERON_0004300,299711006
+HT9,located_near,little fingernail,,
+HT9,located_near,nail,UBERON_0001705,72651009
+KI1,located_near,foot,,56459004
+KI1,located_near,toes,,
+KI1,located_near,heel,UBERON_0015875,76853006
+KI1,located_near,second and third toes,,
+KI2,located_near,foot,,56459004
+KI2,located_near,navicular bone,,
+KI2,located_near,red and white flesh,,
+KI3,located_near,ankle,,344001
+KI3,located_near,medial malleolus,,6417001
+KI3,located_near,calcaneal tendon,UBERON_0003701,
+KI4,located_near,foot,,56459004
+KI4,located_near,medial malleolus,,6417001
+KI4,located_near,calcaneus,UBERON_0001450,80144004
+KI4,located_near,calcaneal tendon,UBERON_0003701,
+KI5,located_near,foot,,56459004
+KI5,located_near,calcaneal tuberosity,,
+KI6,located_near,foot,,56459004
+KI6,located_near,medial malleolus,,6417001
+KI7,located_near,leg,UBERON_0000978,30021000
+KI7,located_near,calcaneal tendon,UBERON_0003701,
+KI7,located_near,medial malleolus,,6417001
+KI8,located_near,leg,UBERON_0000978,30021000
+KI8,located_near,tibial bone,,
+KI8,located_near,medial malleolus,,6417001
+KI9,located_near,leg,UBERON_0000978,30021000
+KI9,located_near,soleus muscle,UBERON_0001389,78376008
+KI9,located_near,calcaneal tendon,UBERON_0003701,
+KI9,located_near,medial malleolus,,6417001
+KI10,located_near,knee,UBERON_0001465,72696002
+KI10,located_near,semitendinosus tendon,UBERON_8480009,128510008
+KI10,located_near,popliteal crease,,
+KI11,located_near,lower abdomen,,27033000
+KI11,located_near,umbilicus,UBERON_0007118,78220002
+KI11,located_near,anterior median line,,
+KI12,located_near,lower abdomen,,27033000
+KI12,located_near,umbilicus,UBERON_0007118,78220002
+KI12,located_near,anterior median line,,
+KI13,located_near,lower abdomen,,27033000
+KI13,located_near,umbilicus,UBERON_0007118,78220002
+KI13,located_near,anterior median line,,
+KI14,located_near,lower abdomen,,27033000
+KI14,located_near,umbilicus,UBERON_0007118,78220002
+KI14,located_near,anterior median line,,
+KI15,located_near,lower abdomen,,27033000
+KI15,located_near,umbilicus,UBERON_0007118,78220002
+KI15,located_near,anterior median line,,
+KI16,located_near,upper abdomen,,80581009
+KI16,located_near,umbilicus,UBERON_0007118,78220002
+KI17,located_near,upper abdomen,,80581009
+KI17,located_near,umbilicus,UBERON_0007118,78220002
+KI17,located_near,anterior median line,,
+KI18,located_near,upper abdomen,,80581009
+KI18,located_near,umbilicus,UBERON_0007118,78220002
+KI18,located_near,anterior median line,,
+KI19,located_near,upper abdomen,,80581009
+KI19,located_near,umbilicus,UBERON_0007118,78220002
+KI19,located_near,anterior median line,,
+KI20,located_near,upper abdomen,,80581009
+KI20,located_near,umbilicus,UBERON_0007118,78220002
+KI20,located_near,anterior median line,,
+KI21,located_near,upper abdomen,,80581009
+KI21,located_near,umbilicus,UBERON_0007118,78220002
+KI21,located_near,anterior median line,,
+KI22,located_near,anterior thoracic region,,
+KI22,located_near,fifth intercostal space,,117137004
+KI22,located_near,anterior median line,,
+KI23,located_near,anterior thoracic region,,
+KI23,located_near,fourth intercostal space,,117136008
+KI23,located_near,anterior median line,,
+KI24,located_near,anterior thoracic region,,
+KI24,located_near,third intercostal space,,117135007
+KI24,located_near,anterior median line,,
+KI25,located_near,anterior thoracic region,,
+KI25,located_near,second intercostal space,,117134006
+KI25,located_near,anterior median line,,
+KI26,located_near,anterior thoracic region,,
+KI26,located_near,first intercostal space,,117133000
+KI26,located_near,anterior median line,,
+KI27,located_near,anterior thoracic region,,
+KI27,located_near,clavicle,UBERON_0011658,51299004
+KI27,located_near,anterior median line,,
+LI1,located_near,index finger,,83738005
+LI1,located_near,distal phalanx,UBERON_0004300,299711006
+LI1,located_near,index fingernail,,
+LI1,located_near,fingernail,,91456000
+LI2,located_near,index finger,,83738005
+LI2,located_near,second metacarpophalangeal,,
+LI2,located_near,red and white flesh,,
+LI3,located_near,hand,,85562004
+LI3,located_near,second metacarpophalangeal joint,,
+LI4,located_near,hand,,85562004
+LI4,located_near,second metacarpal bone,,81921009
+LI5,located_near,wrist,,8205005
+LI5,located_near,dorsal wrist crease,,
+LI5,located_near,radial styloid process,,
+LI5,located_near,anatomical snuffbox,,278825003
+LI6,located_near,forearm,,14975008
+LI6,located_near,dorsal wrist crease,,
+LI7,located_near,forearm,,14975008
+LI7,located_near,dorsal wrist crease,,
+LI8,located_near,forearm,,14975008
+LI8,located_near,cubital crease,,
+LI9,located_near,forearm,,14975008
+LI9,located_near,cubital crease,,
+LI10,located_near,forearm,,14975008
+LI10,located_near,cubital crease,,
+LI11,located_near,elbow,UBERON_0001461,76248009
+LI11,located_near,humerus,UBERON_0004250,85050009
+LI11,located_near,cubital crease,,
+LI12,located_near,elbow,UBERON_0001461,76248009
+LI12,located_near,humerus,UBERON_0004250,85050009
+LI12,located_near,lateral supraepicondylar ridge,,
+LI13,located_near,arm,UBERON_0001460,40983000
+LI13,located_near,cubital crease,,
+LI14,located_near,arm,UBERON_0001460,40983000
+LI14,located_near,deltoid muscle,,35259002
+LI15,located_near,shoulder girdle,,26444007
+LI15,located_near,acromion,UBERON_0002497,31934006
+LI15,located_near,humerus,UBERON_0004250,85050009
+LI16,located_near,shoulder girdle,,26444007
+LI16,located_near,clavicle,UBERON_0011658,51299004
+LI16,located_near,scapula,UBERON_0006849,79601000
+LI17,located_near,neck,UBERON_0000974,45048000
+LI17,located_near,cricoid cartilage,UBERON_0002375,8600008
+LI17,located_near,sternocleidomastoid muscle,,22823000
+LI18,located_near,neck,UBERON_0000974,45048000
+LI18,located_near,thyroid cartilage,UBERON_0001738,52940008
+LI18,located_near,sternocleidomastoid muscle,,22823000
+LI19,located_near,face,UBERON_0001456,89545001
+LI19,located_near,philtrum,UBERON_0005402,32087006
+LI19,located_near,nostril,,1797002
+LI20,located_near,face,UBERON_0001456,89545001
+LI20,located_near,nasolabial sulcus,,55785008
+LI20,located_near,nose,UBERON_0000004,45206002
+LR1,located_near,great toe,,78883009
+LR1,located_near,distal phalanx,UBERON_0004300,299711006
+LR1,located_near,toenail,,76578001
+LR1,located_near,nail,UBERON_0001705,72651009
+LR2,located_near,foot,,56459004
+LR2,located_near,first and second toes,,
+LR2,located_near,red and white flesh,,
+LR3,located_near,foot,,56459004
+LR3,located_near,first and second metatarsal bones,,
+LR3,located_near,two bones,,
+LR3,located_near,dorsalis pedis artery,UBERON_0001539,86547008
+LR3,located_near,two metatarsal bones,,
+LR4,located_near,ankle,,344001
+LR4,located_near,tibialis anterior tendon,,
+LR4,located_near,medial malleolus,,6417001
+LR5,located_near,leg,UBERON_0000978,30021000
+LR5,located_near,tibia,UBERON_0000979,12611008
+LR5,located_near,medial malleolus,,6417001
+LR5,located_near,patella,UBERON_0002446,64234005
+LR6,located_near,leg,UBERON_0000978,30021000
+LR6,located_near,tibia,UBERON_0000979,12611008
+LR6,located_near,medial malleolus,,6417001
+LR6,located_near,patella,UBERON_0002446,64234005
+LR7,located_near,leg,UBERON_0000978,30021000
+LR7,located_near,tibia,UBERON_0000979,12611008
+LR8,located_near,knee,UBERON_0001465,72696002
+LR8,located_near,semitendinosus and the semimembranosus muscles,,
+LR8,located_near,popliteal crease,,
+LR8,located_near,most prominent tendon,,
+LR9,located_near,thigh,,68367000
+LR9,located_near,gracilis,UBERON_0000950,181689005
+LR9,located_near,sartorius muscles,,
+LR9,located_near,patella,UBERON_0002446,64234005
+Lr 9,located_near,muscle,UBERON_0001630,71616004
+LR10,located_near,thigh,,68367000
+LR10,located_near,artery,UBERON_0001637,51114001
+LR11,located_near,thigh,,68367000
+LR11,located_near,adductor longus muscle,,85629004
+LR12,located_near,groin region,,
+LR12,located_near,pubic symphysis,UBERON_0003699,182200001
+LR12,located_near,anterior median line,,
+LR13,located_near,lateral abdomen,,
+LR13,located_near,11th rib,,
+LR13,located_near,shoulder,UBERON_0001467,16982005
+LR14,located_near,anterior thoracic region,,
+LR14,located_near,sixth intercostal space,,117138009
+LR14,located_near,anterior median line,,
+LR14,located_near,nipple,UBERON_0002030,265780004
+Lr14,located_near,midclavicular line,,279013009
+Lr14,located_near,sixth intercostal space,,117138009
+LU1,located_near,anterior thoracic region,,
+LU1,located_near,first intercostal space,,117133000
+LU1,located_near,infraclavicular fossa,,
+LU1,located_near,anterior median line,,
+LU2,located_near,anterior thoracic region,,
+LU2,located_near,infraclavicular fossa,,
+LU2,located_near,scapula,UBERON_0006849,79601000
+LU2,located_near,anterior median line,,
+LU2,located_near,deltopectoral triangle,,
+LU2,located_near,clavicle,UBERON_0011658,51299004
+LU3,located_near,arm,UBERON_0001460,40983000
+LU3,located_near,biceps brachii muscle,,16225001
+LU3,located_near,anterior axillary fold,,52239003
+LU4,located_near,arm,UBERON_0001460,40983000
+LU4,located_near,biceps brachii muscle,,16225001
+LU4,located_near,anterior axillary fold,,52239003
+LU5,located_near,elbow,UBERON_0001461,76248009
+LU5,located_near,cubital crease,,
+LU5,located_near,biceps brachii tendon,,
+LU6,located_near,forearm,,14975008
+LU6,located_near,palmar wrist crease,,
+LU7,located_near,forearm,,14975008
+LU7,located_near,abductor pollicis longus,UBERON_0001527,256671001
+LU7,located_near,extensor pollicis brevis muscles,,
+LU7,located_near,abductor pollicis longus tendon,,
+LU7,located_near,palmar wrist crease,,
+LU8,located_near,forearm,,14975008
+LU8,located_near,radial styloid process,,
+LU8,located_near,radial artery,UBERON_0001404,45631007
+LU8,located_near,palmar wrist crease,,
+LU9,located_near,wrist,,8205005
+LU9,located_near,radial styloid process,,
+LU9,located_near,scaphoid bone,,30518006
+LU9,located_near,abductor pollicis longus tendon,,
+LU9,located_near,palmar wrist crease,,
+LU9,located_near,radial artery,UBERON_0001404,45631007
+LU10,located_near,palm,,21547004
+LU10,located_near,first metacarpal bone,,4247003
+LU10,located_near,red and white flesh,,
+LU11,located_near,thumb,,76505004
+LU11,located_near,distal phalanx,UBERON_0004300,299711006
+LU11,located_near,thumb nail,,
+LU11,located_near,radial border,,
+PC1,located_near,anterior thoracic region,,
+PC1,located_near,fourth intercostal space,,117136008
+PC1,located_near,anterior median line,,
+PC2,located_near,arm,UBERON_0001460,40983000
+PC2,located_near,biceps brachii muscle,,16225001
+PC2,located_near,anterior axillary fold,,52239003
+PC3,located_near,elbow,UBERON_0001461,76248009
+PC3,located_near,cubital crease,,
+PC3,located_near,biceps brachii tendon,,
+PC4,located_near,forearm,,14975008
+PC4,located_near,palmaris longus,,181636009
+PC4,located_near,flexor carpi radialis,UBERON_0001521,30339000
+PC4,located_near,palmar wrist crease,,
+PC4,located_near,flexor carpi radialis tendon,,
+PC5,located_near,forearm,,14975008
+PC5,located_near,palmaris longus,,181636009
+PC5,located_near,flexor carpi radialis,UBERON_0001521,30339000
+PC5,located_near,palmar wrist crease,,
+PC5,located_near,flexor carpi radialis tendon,,
+PC6,located_near,forearm,,14975008
+PC6,located_near,palmaris longus,,181636009
+PC6,located_near,flexor carpi radialis,UBERON_0001521,30339000
+PC6,located_near,palmar wrist crease,,
+PC6,located_near,flexor carpi radialis tendon,,
+PC7,located_near,wrist,,8205005
+PC7,located_near,palmaris longus,,181636009
+PC7,located_near,flexor carpi radialis,UBERON_0001521,30339000
+PC7,located_near,palmar wrist crease,,
+PC7,located_near,pisiform bone,,
+PC8,located_near,hand,,85562004
+PC8,located_near,second and third metacarpal bones,,
+PC8,located_near,metacarpophalangeal joints,,
+PC8,located_near,third and fourth metacarpal bones,,
+PC9,located_near,middle finger,,65531009
+PC9,located_near,middle fingernail,,
+PC9,located_near,nail,UBERON_0001705,72651009
+PC9,located_near,fingernail,,91456000
+SI1,located_near,little finger,,12406000
+SI1,located_near,distal phalanx,UBERON_0004300,299711006
+SI1,located_near,little fingernail,,
+SI1,located_near,nail,UBERON_0001705,72651009
+SI2,located_near,little finger,,12406000
+SI2,located_near,fifth metacarpophalangeal joint,,
+SI2,located_near,red and white flesh,,
+SI3,located_near,hand,,85562004
+SI3,located_near,fifth metacarpophalangeal joint,,
+SI3,located_near,red and white flesh,,
+SI4,located_near,wrist,,8205005
+SI4,located_near,fifth metacarpal bone,,50939004
+SI4,located_near,triquetrum bone,,
+SI5,located_near,wrist,,8205005
+SI5,located_near,triquetrum bone,,
+SI5,located_near,ulnar styloid process,,
+SI6,located_near,forearm,,14975008
+SI6,located_near,ulnar bone,,
+SI6,located_near,dorsal wrist crease,,
+SI6,located_near,finger,,7569003
+SI7,located_near,forearm,,14975008
+SI7,located_near,ulnar bone,,
+SI7,located_near,flexor carpi ulnaris muscle,UBERON_0001522,14437004
+SI7,located_near,dorsal wrist crease,,
+SI8,located_near,elbow,UBERON_0001461,76248009
+SI8,located_near,olecranon,UBERON_0006810,37888007
+SI8,located_near,humerus bone,,
+SI9,located_near,shoulder girdle,,26444007
+SI9,located_near,shoulder joint,UBERON_0016884,31398001
+SI9,located_near,posterior axillary fold,,55665000
+SI 9,located_near,posterior axillary fold,,55665000
+SI 9,located_near,deltoid muscle,,35259002
+SI10,located_near,shoulder girdle,,26444007
+SI10,located_near,posterior axillary fold,,55665000
+SI10,located_near,scapula,UBERON_0006849,79601000
+SI11,located_near,scapular region,,182345000
+SI11,located_near,scapula,UBERON_0006849,79601000
+SI12,located_near,scapular region,,182345000
+SI12,located_near,supraspinatous fossa,,
+SI12,located_near,scapula,UBERON_0006849,79601000
+SI13,located_near,scapular region,,182345000
+SI13,located_near,scapula,UBERON_0006849,79601000
+SI13,located_near,second thoracic vertebra (T2),,
+SI14,located_near,upper back region,,
+SI14,located_near,first thoracic vertebra (T1),,
+SI14,located_near,posterior median line,,
+SI14,located_near,scapula,UBERON_0006849,79601000
+SI15,located_near,upper back region,,
+SI15,located_near,seventh cervical vertebra (C7),,
+SI15,located_near,posterior median line,,
+SI15,located_near,scapula,UBERON_0006849,79601000
+SI16,located_near,neck,UBERON_0000974,45048000
+SI16,located_near,sternocleidomastoid muscle,,22823000
+SI16,located_near,thyroid cartilage,UBERON_0001738,52940008
+SI17,located_near,neck,UBERON_0000974,45048000
+SI17,located_near,mandible,UBERON_0001684,91609006
+SI17,located_near,sternocleidomastoid muscle,,22823000
+SI18,located_near,face,UBERON_0001456,89545001
+SI18,located_near,zygomatic bone,,13881006
+SI18,located_near,eye,UBERON_0000970,81745001
+SI19,located_near,face,UBERON_0001456,89545001
+SI19,located_near,tragus,UBERON_0010887,59581006
+SI19,located_near,mandible,UBERON_0001684,91609006
+SP1,located_near,great toe,,78883009
+SP1,located_near,distal phalanx,UBERON_0004300,299711006
+SP1,located_near,toenail,,76578001
+SP2,located_near,great toe,,78883009
+SP2,located_near,first metatarsophalangeal joint,,182223003
+SP2,located_near,red and white flesh,,
+SP3,located_near,foot,,56459004
+SP3,located_near,first metatarsophalangeal joint,,182223003
+SP3,located_near,red and white flesh,,
+SP4,located_near,foot,,56459004
+SP4,located_near,first metatarsal bone,,20151003
+SP4,located_near,red and white flesh,,
+SP5,located_near,foot,,56459004
+SP5,located_near,medial malleolus,,6417001
+SP5,located_near,navicular bone,,
+SP6,located_near,leg,UBERON_0000978,30021000
+SP6,located_near,tibia,UBERON_0000979,12611008
+SP6,located_near,medial malleolus,,6417001
+SP7,located_near,leg,UBERON_0000978,30021000
+SP7,located_near,tibia,UBERON_0000979,12611008
+SP7,located_near,medial malleolus,,6417001
+SP8,located_near,leg,UBERON_0000978,30021000
+SP8,located_near,tibia,UBERON_0000979,12611008
+SP8,located_near,patella,UBERON_0002446,64234005
+SP8,located_near,medial malleolus,,6417001
+SP9,located_near,leg,UBERON_0000978,30021000
+SP9,located_near,tibia,UBERON_0000979,12611008
+SP10,located_near,thigh,,68367000
+SP10,located_near,vastus medialis muscle,,3478008
+SP10,located_near,patella,UBERON_0002446,64234005
+SP11,located_near,thigh,,68367000
+SP11,located_near,patella,UBERON_0002446,64234005
+SP11,located_near,sartorius muscle,UBERON_0001373,12595009
+SP11,located_near,adductor longus muscle,,85629004
+SP11,located_near,femoral artery,UBERON_0002060,7657000
+SP12,located_near,groin region,,
+SP12,located_near,inguinal crease,,
+SP12,located_near,femoral artery,UBERON_0002060,7657000
+SP13,located_near,lower abdomen,,27033000
+SP13,located_near,umbilicus,UBERON_0007118,78220002
+SP13,located_near,anterior median line,,
+SP14,located_near,lower abdomen,,27033000
+SP14,located_near,umbilicus,UBERON_0007118,78220002
+SP14,located_near,anterior median line,,
+SP15,located_near,upper abdomen,,80581009
+SP15,located_near,umbilicus,UBERON_0007118,78220002
+SP16,located_near,upper abdomen,,80581009
+SP16,located_near,umbilicus,UBERON_0007118,78220002
+SP16,located_near,anterior median line,,
+SP17,located_near,anterior thoracic region,,
+SP17,located_near,fifth intercostal space,,117137004
+SP17,located_near,anterior median line,,
+SP18,located_near,anterior thoracic region,,
+SP18,located_near,fourth intercostal space,,117136008
+SP18,located_near,anterior median line,,
+SP19,located_near,anterior thoracic region,,
+SP19,located_near,third intercostal space,,117135007
+SP19,located_near,anterior median line,,
+SP20,located_near,anterior thoracic region,,
+SP20,located_near,second intercostal space,,117134006
+SP20,located_near,anterior median line,,
+SP21,located_near,lateral thoracic region,,
+SP21,located_near,sixth intercostal space,,117138009
+SP21,located_near,midaxillary line,,260515002
+ST1,located_near,face,UBERON_0001456,89545001
+ST1,located_near,eyeball,,81745001
+ST1,located_near,infraorbital margin,UBERON_0035848,44326005
+ST1,located_near,pupil,UBERON_0001771,35146001
+ST2,located_near,face,UBERON_0001456,89545001
+ST2,located_near,infraorbital foramen,,409994008
+ST3,located_near,face,UBERON_0001456,89545001
+ST3,located_near,pupil,UBERON_0001771,35146001
+ST3,located_near,nose,UBERON_0000004,45206002
+ST4,located_near,face,UBERON_0001456,89545001
+ST4,located_near,mouth,UBERON_0000165,21082005
+ST5,located_near,face,UBERON_0001456,89545001
+ST5,located_near,mandible,UBERON_0001684,91609006
+ST5,located_near,masseter attachment,,
+ST5,located_near,facial artery,UBERON_0001612,23074001
+ST6,located_near,face,UBERON_0001456,89545001
+ST6,located_near,mandible,UBERON_0001684,91609006
+ST7,located_near,face,UBERON_0001456,89545001
+ST7,located_near,zygomatic arch,UBERON_0002500,51204001
+ST7,located_near,mandibular notch,,410000007
+ST8,located_near,head,UBERON_0000033,69536005
+ST8,located_near,anterior hairline,,
+ST8,located_near,forehead,UBERON_0008200,52795006
+ST8,located_near,anterior median line,,
+ST9,located_near,neck,UBERON_0000974,45048000
+ST9,located_near,thyroid cartilage,UBERON_0001738,52940008
+ST9,located_near,sternocleidomastoid muscle,,22823000
+ST9,located_near,common carotid artery,,32062004
+St9,located_near,sternocleidomastoid muscle,,22823000
+ST10,located_near,neck,UBERON_0000974,45048000
+ST10,located_near,cricoid cartilage,UBERON_0002375,8600008
+ST10,located_near,sternocleidomastoid muscle,,22823000
+ST11,located_near,neck,UBERON_0000974,45048000
+ST11,located_near,lesser supraclavicular fossa,,66106009
+ST11,located_near,clavicle,UBERON_0011658,51299004
+ST11,located_near,sternocleidomastoid muscle,,22823000
+ST12,located_near,neck,UBERON_0000974,45048000
+ST12,located_near,greater supraclavicular fossa,,79087004
+ST12,located_near,anterior median line,,
+ST12,located_near,clavicle,UBERON_0011658,51299004
+ST13,located_near,anterior thoracic region,,
+ST13,located_near,clavicle,UBERON_0011658,51299004
+ST13,located_near,anterior median line,,
+ST14,located_near,anterior thoracic region,,
+ST14,located_near,first intercostal space,,117133000
+ST14,located_near,anterior median line,,
+ST15,located_near,anterior thoracic region,,
+ST15,located_near,second intercostal space,,117134006
+ST15,located_near,anterior median line,,
+ST16,located_near,anterior thoracic region,,
+ST16,located_near,third intercostal space,,117135007
+ST16,located_near,anterior median line,,
+ST17,located_near,anterior thoracic region,,
+ST17,located_near,nipple,UBERON_0002030,265780004
+ST18,located_near,anterior thoracic region,,
+ST18,located_near,fifth intercostal space,,117137004
+ST18,located_near,anterior median line,,
+ST18,located_near,nipple line,,
+St18,located_near,breast,UBERON_0000310,181131000
+ST19,located_near,upper abdomen,,80581009
+ST19,located_near,umbilicus,UBERON_0007118,78220002
+ST19,located_near,anterior median line,,
+ST20,located_near,upper abdomen,,80581009
+ST20,located_near,umbilicus,UBERON_0007118,78220002
+ST20,located_near,anterior median line,,
+ST21,located_near,upper abdomen,,80581009
+ST21,located_near,umbilicus,UBERON_0007118,78220002
+ST21,located_near,anterior median line,,
+ST22,located_near,upper abdomen,,80581009
+ST22,located_near,umbilicus,UBERON_0007118,78220002
+ST22,located_near,anterior median line,,
+ST23,located_near,upper abdomen,,80581009
+ST23,located_near,umbilicus,UBERON_0007118,78220002
+ST23,located_near,anterior median line,,
+ST24,located_near,upper abdomen,,80581009
+ST24,located_near,umbilicus,UBERON_0007118,78220002
+ST24,located_near,anterior median line,,
+ST25,located_near,upper abdomen,,80581009
+ST25,located_near,umbilicus,UBERON_0007118,78220002
+ST26,located_near,lower abdomen,,27033000
+ST26,located_near,umbilicus,UBERON_0007118,78220002
+ST26,located_near,anterior median line,,
+ST27,located_near,lower abdomen,,27033000
+ST27,located_near,umbilicus,UBERON_0007118,78220002
+ST27,located_near,anterior median line,,
+ST28,located_near,lower abdomen,,27033000
+ST28,located_near,umbilicus,UBERON_0007118,78220002
+ST28,located_near,anterior median line,,
+ST29,located_near,lower abdomen,,27033000
+ST29,located_near,umbilicus,UBERON_0007118,78220002
+ST29,located_near,anterior median line,,
+ST30,located_near,groin region,,
+ST30,located_near,pubic symphysis,UBERON_0003699,182200001
+ST30,located_near,anterior median line,,
+ST30,located_near,femoral artery,UBERON_0002060,7657000
+ST31,located_near,thigh,,68367000
+ST31,located_near,muscles,,
+ST31,located_near,rectus femoris muscle,,72226001
+ST31,located_near,sartorius muscle,UBERON_0001373,12595009
+ST31,located_near,tensor fasciae latae muscle,UBERON_0001376,28190000
+ST31,located_near,patella,UBERON_0002446,64234005
+ST31,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+ST31,located_near,pubic symphysis,UBERON_0003699,182200001
+ST32,located_near,thigh,,68367000
+ST32,located_near,patella,UBERON_0002446,64234005
+ST32,located_near,anterior superior iliac spine,UBERON_0013708,39583001
+ST33,located_near,thigh,,68367000
+ST33,located_near,rectus femoris tendon,,
+ST33,located_near,patella,UBERON_0002446,64234005
+ST34,located_near,thigh,,68367000
+ST34,located_near,vastus lateralis muscle,,1403006
+ST34,located_near,rectus femoris tendon,,
+ST34,located_near,patella,UBERON_0002446,64234005
+ST35,located_near,knee,UBERON_0001465,72696002
+ST35,located_near,patellar ligament,UBERON_0003676,18033002
+ST35,located_near,patella,UBERON_0002446,64234005
+ST36,located_near,leg,UBERON_0000978,30021000
+ST36,located_near,tibialis anterior muscle,,73508007
+ST37,located_near,leg,UBERON_0000978,30021000
+ST37,located_near,tibialis anterior muscle,,73508007
+ST38,located_near,leg,UBERON_0000978,30021000
+ST38,located_near,tibialis anterior muscle,,73508007
+ST39,located_near,leg,UBERON_0000978,30021000
+ST39,located_near,tibialis anterior muscle,,73508007
+ST40,located_near,leg,UBERON_0000978,30021000
+ST40,located_near,tibialis anterior muscle,,73508007
+ST40,located_near,lateral malleolus,,113225006
+ST41,located_near,ankle,,344001
+ST41,located_near,ankle joint,UBERON_0001488,70258002
+ST41,located_near,extensor hallucis longus,,181697003
+ST41,located_near,extensor digitorum longus,UBERON_0001386,181698008
+ST41,located_near,lateral malleolus,,113225006
+ST41,located_near,medial malleolus,,6417001
+ST42,located_near,foot,,56459004
+ST42,located_near,second metatarsal bone,,23468006
+ST42,located_near,intermediate cuneiform bone,,19193007
+ST42,located_near,dorsalis pedis artery,UBERON_0001539,86547008
+ST43,located_near,foot,,56459004
+ST43,located_near,second and third metatarsal bones,,
+ST43,located_near,second metatarsophalangeal joint,,71721008
+ST44,located_near,foot,,56459004
+ST44,located_near,second and third toes,,
+ST44,located_near,web margin,,
+ST44,located_near,red and white flesh,,
+ST45,located_near,second toe,,55078004
+ST45,located_near,distal phalanx,UBERON_0004300,299711006
+ST45,located_near,second toenail,,
+TE1,located_near,ring finger,,82002001
+TE1,located_near,distal phalanx,UBERON_0004300,299711006
+TE1,located_near,fingernail,,91456000
+TE1,located_near,nail,UBERON_0001705,72651009
+TE2,located_near,hand,,85562004
+TE2,located_near,ring and little fingers,,
+TE2,located_near,red and white flesh,,
+TE3,located_near,hand,,85562004
+TE3,located_near,fourth and fifth metacarpal bones,,
+TE3,located_near,fourth metacarpophalangeal joint,,
+TE4,located_near,wrist,,8205005
+TE4,located_near,extensor digitorum tendon,,
+TE4,located_near,dorsal wrist crease,,
+TE4,located_near,fifth and fourth metacarpal bones,,
+TE5,located_near,forearm,,14975008
+TE5,located_near,radius,UBERON_0001423,62413002
+TE5,located_near,ulna,UBERON_0001424,23416004
+TE5,located_near,dorsal wrist crease,,
+TE6,located_near,forearm,,14975008
+TE6,located_near,radius,UBERON_0001423,62413002
+TE6,located_near,ulna,UBERON_0001424,23416004
+TE6,located_near,dorsal wrist crease,,
+TE7,located_near,forearm,,14975008
+TE7,located_near,ulna,UBERON_0001424,23416004
+TE7,located_near,dorsal wrist crease,,
+TE8,located_near,forearm,,14975008
+TE8,located_near,radius,UBERON_0001423,62413002
+TE8,located_near,ulna,UBERON_0001424,23416004
+TE8,located_near,dorsal wrist crease,,
+TE9,located_near,forearm,,14975008
+TE9,located_near,radius,UBERON_0001423,62413002
+TE9,located_near,ulna,UBERON_0001424,23416004
+TE9,located_near,olecranon,UBERON_0006810,37888007
+TE10,located_near,elbow,UBERON_0001461,76248009
+TE10,located_near,olecranon,UBERON_0006810,37888007
+TE10,located_near,olecranon fossa,UBERON_0012130,
+TE11,located_near,arm,UBERON_0001460,40983000
+TE11,located_near,olecranon,UBERON_0006810,37888007
+TE11,located_near,acromial angle,,
+TE12,located_near,arm,UBERON_0001460,40983000
+TE12,located_near,olecranon,UBERON_0006810,37888007
+TE12,located_near,acromial angle,,
+TE13,located_near,arm,UBERON_0001460,40983000
+TE13,located_near,deltoid muscle,,35259002
+TE13,located_near,acromial angle,,
+TE14,located_near,shoulder girdle,,26444007
+TE14,located_near,acromial angle,,
+TE14,located_near,humerus,UBERON_0004250,85050009
+TE15,located_near,scapular region,,182345000
+TE15,located_near,scapula,UBERON_0006849,79601000
+TE16,located_near,neck,UBERON_0000974,45048000
+TE16,located_near,mandible,UBERON_0001684,91609006
+TE16,located_near,sternocleidomastoid muscle,,22823000
+TE17,located_near,neck,UBERON_0000974,45048000
+TE17,located_near,ear lobe,,48800003
+TE17,located_near,mastoid process,,
+TE18,located_near,head,UBERON_0000033,69536005
+TE18,located_near,mastoid process,,
+TE19,located_near,head,UBERON_0000033,69536005
+TE20,located_near,head,UBERON_0000033,69536005
+TE20,located_near,auricular apex,,
+TE21,located_near,face,UBERON_0001456,89545001
+TE21,located_near,supratragic notch,,
+TE21,located_near,mandible,UBERON_0001684,91609006
+tE21,located_near,supratragic notch,,
+TE22,located_near,head,UBERON_0000033,69536005
+TE22,located_near,temple hairline,,
+TE22,located_near,auricular root,,
+TE22,located_near,superficial temporal artery,UBERON_0001614,15672000
+TE23,located_near,head,UBERON_0000033,69536005
+TE23,located_near,eyebrow,UBERON_0010163,84238004

@@ -1,0 +1,2364 @@
+﻿Acupoint_Code,Relation,Indication
+LU2,treats,Cough
+LU2,treats,Asthma
+LU2,treats,Chest Pain
+LU2,treats,Arm Pain
+LU2,treats,Shoulder Pain
+LU2,treats,Chest Fullness
+LU3,treats,Asthma
+LU3,treats,Epistaxis
+LU3,treats,Medial Aspect Of Upper Arm Pain
+LU4,treats,Cough
+LU4,treats,Chest Fullness
+LU4,treats,Medial Aspect Of Upper Arm Pain
+LU5,treats,Cough
+LU5,treats,Hemoptysis
+LU5,treats,Afternoon Fever
+LU5,treats,Asthma
+LU5,treats,Sore Throat
+LU5,treats,Chest Fullness
+LU5,treats,Infantile Convulsion
+LU5,treats,Arm Spasmodic Pain
+LU5,treats,Elbow Spasmodic Pain
+LU5,treats,Mastitis
+LU6,treats,Cough
+LU6,treats,Chest Pain
+LU6,treats,Asthma
+LU6,treats,Hemoptysis
+LU6,treats,Sore Throat
+LU6,treats,Arm Spasmodic Pain
+LU6,treats,Elbow Spasmodic Pain
+LU7,treats,Persistent Cough
+LU7,treats,Sore Throat
+LU7,treats,Headache
+LU7,treats,Migraine
+LU7,treats,Neck Stiffness
+LU7,treats,Face Paralysis
+LU7,treats,Toothache
+LU7,treats,Wrist Pain
+LU7,treats,Wrist Weakness
+LU7,treats,Cerebral Circulation Insufficiency
+LU7,treats,Memory Loss
+LU7,treats,Cough
+LU8,treats,Cough
+LU8,treats,Asthma
+LU8,treats,Fever
+LU8,treats,Chest Pain
+LU8,treats,Sore Throat
+LU8,treats,Wrist Pain
+LU9,treats,Cough
+LU9,treats,Asthma
+LU9,treats,Hemoptysis
+LU9,treats,Sore Throat
+LU9,treats,Palpitation
+LU9,treats,Chest Pain
+LU9,treats,Arm Pain
+LU9,treats,Wrist Pain
+LU10,treats,Cough
+LU10,treats,Hemoptysis
+LU10,treats,Sore Throat
+LU10,treats,Voice Loss
+LU10,treats,Fever
+LU10,treats,Feverish Sensation On Palm
+LU11,treats,Sore Throat
+LU11,treats,Cough
+LU11,treats,Asthma
+LU11,treats,Epistaxis
+LU11,treats,Fever
+LU11,treats,Consciousness Loss
+LU11,treats,Mania
+LU11,treats,Thumb Spasmodic Pain
+LI1,treats,Toothache
+LI1,treats,Sore Throat
+LI1,treats,Submandibular Region Swelling
+LI1,treats,Finger Numbness
+LI1,treats,Febrile Diseases With Anhidrosis
+LI1,treats,Xerostomia
+LI1,treats,Consciousness Loss
+LI2,treats,Blurred Vision
+LI2,treats,Epistaxis
+LI2,treats,Toothache
+LI2,treats,Sore Throat
+LI2,treats,Febrile Disease
+LI2,treats,Decreased Saliva
+LI2,treats,Dry Mouth
+LI2,treats,Xerostomia
+LI3,treats,Toothache
+LI3,treats,Ophthalmalgia
+LI3,treats,Sore Throat
+LI3,treats,Finger Redness
+LI3,treats,Finger Swelling
+LI3,treats,Dorsum Of Hand Redness
+LI3,treats,Dorsum Of Hand Swelling
+LI4,treats,Headache
+LI4,treats,Pain
+LI4,treats,Neck Pain
+LI4,treats,Eye Redness
+LI4,treats,Eye Pain
+LI4,treats,Eye Swelling
+LI4,treats,Epistaxis
+LI4,treats,Nasal Obstruction
+LI4,treats,Rhinorrhea
+LI4,treats,Toothache
+LI4,treats,Deafness
+LI4,treats,Face Swelling
+LI4,treats,Sore Throat
+LI5,treats,Headache
+LI5,treats,Eye Redness
+LI5,treats,Eye Swelling
+LI5,treats,Eye Pain
+LI5,treats,Toothache
+LI5,treats,Sore Throat
+LI5,treats,Wrist Pain
+LI6,treats,Eye Redness
+LI6,treats,Tinnitus
+LI6,treats,Deafness
+LI6,treats,Epistaxis
+LI6,treats,Arm Pain
+LI6,treats,Handache
+LI6,treats,Sore Throat
+LI6,treats,Edema
+LI7,treats,Headache
+LI7,treats,Face Swelling
+LI7,treats,Sore Throat
+LI7,treats,Borborygmus
+LI7,treats,Abdominal Pain
+LI7,treats,Arm Pain
+LI7,treats,Shoulder Pain
+LI8,treats,Abdominal Pain
+LI8,treats,Borborygmus
+LI8,treats,Arm Pain
+LI8,treats,Elbow Pain
+LI8,treats,Upper Limb Motor Impairment
+LI9,treats,Arm Pain
+LI9,treats,Shoulder Pain
+LI9,treats,Upper Limb Motor Impairment
+LI9,treats,Arm Numbness
+LI9,treats,Hand Numbness
+LI9,treats,Borborygmus
+LI9,treats,Abdominal Pain
+LI10,treats,Abdominal Pain
+LI10,treats,Diarrhea
+LI10,treats,Toothache
+LI10,treats,Cheek Swelling
+LI10,treats,Upper Limb Motor Impairment
+LI10,treats,Back Pain
+LI10,treats,Shoulder Pain
+LI11,treats,Sore Throat
+LI11,treats,Toothache
+LI11,treats,Eye Pain
+LI11,treats,Eye Redness
+LI11,treats,Scrofula
+LI11,treats,Urticaria
+LI11,treats,Upper Extremity Motor Impairment
+LI11,treats,Abdominal Pain
+LI11,treats,Vomiting
+LI11,treats,Diarrhea
+LI11,treats,Febrile Disease
+LI12,treats,Pain
+LI12,treats,Arm Contracture
+LI12,treats,Elbow Contracture
+LI12,treats,Arm Numbness
+LI12,treats,Elbow Numbness
+LI13,treats,Arm Pain
+LI13,treats,Elbow Pain
+LI13,treats,Arm Contracture
+LI13,treats,Elbow Contracture
+LI13,treats,Scrofula
+LI14,treats,Arm Pain
+LI14,treats,Shoulder Pain
+LI14,treats,Neck Stiffness
+LI14,treats,Scrofula
+LI15,treats,Shoulder Pain
+LI15,treats,Arm Pain
+LI15,treats,Motor Impairment Of Upper Extremity
+LI15,treats,Rubella
+LI15,treats,Scrofula
+LI16,treats,Upper Extremity Motor Impairment
+LI16,treats,Upper Extremity Pain
+LI16,treats,Back Pain
+LI16,treats,Shoulder Pain
+LI17,treats,Voice Sudden Loss
+LI17,treats,Sore Throat
+LI17,treats,Scrofula
+LI17,treats,Goiter
+LI18,treats,Cough
+LI18,treats,Asthma
+LI18,treats,Sore Throat
+LI18,treats,Voice Sudden Loss
+LI18,treats,Scrofula
+LI18,treats,Goiter
+LI19,treats,Nasal Obstruction
+LI19,treats,Epistaxis
+LI19,treats,Mouth Deviation
+LI20,treats,Nasal Obstruction
+LI20,treats,Hyposmia
+LI20,treats,Epistaxis
+LI20,treats,Rhinorrhea
+LI20,treats,Mouth Deviation
+LI20,treats,Face Swelling
+LI20,treats,Face Itching
+ST1,treats,Eye Redness
+ST1,treats,Eye Pain
+ST1,treats,Eye Swelling
+ST1,treats,Lacrimation
+ST1,treats,Night Blindness
+ST1,treats,Eyelid Twitching
+ST1,treats,Face Paralysis
+ST2,treats,Eye Redness
+ST2,treats,Eye Itching
+ST2,treats,Eye Pain
+ST2,treats,Face Paralysis
+ST2,treats,Eyelid Twitching
+ST2,treats,Face Pain
+ST3,treats,Face Paralysis
+ST3,treats,Eyelid Twitching
+ST3,treats,Epistaxis
+ST3,treats,Toothache
+ST3,treats,Cheek Swelling
+ST3,treats,Lip Swelling
+ST4,treats,Mouth Deviation
+ST4,treats,Salivation
+ST4,treats,Eyelid Twitching
+ST5,treats,Face Paralysis
+ST5,treats,Trismus
+ST5,treats,Cheek Swelling
+ST5,treats,Face Pain
+ST5,treats,Toothache
+ST6,treats,Face Paralysis
+ST6,treats,Toothache
+ST6,treats,Face Swelling
+ST6,treats,Cheek Swelling
+ST6,treats,Mumps
+ST6,treats,Trismus
+ST7,treats,Deafness
+ST7,treats,Tinnitus
+ST7,treats,Otorrhea
+ST7,treats,Toothache
+ST7,treats,Face Paralysis
+ST7,treats,Face Pain
+ST7,treats,Jaw Motor Impairment
+ST8,treats,Headache
+ST8,treats,Vision Blurring
+ST8,treats,Ophthalmalgia
+ST8,treats,Lacrimation
+ST9,treats,Sore Throat
+ST9,treats,Asthma
+ST9,treats,Goiter
+ST9,treats,Dizziness
+ST9,treats,Face Flush
+ST10,treats,Sore Throat
+ST10,treats,Asthma
+ST10,treats,Cough
+ST11,treats,Sore Throat
+ST11,treats,Neck Stiffness
+ST11,treats,Neck Pain
+ST11,treats,Asthma
+ST11,treats,Hiccup
+ST11,treats,Goiter
+ST12,treats,Cough
+ST12,treats,Asthma
+ST12,treats,Sore Throat
+ST12,treats,Supraclavicular Fossa Pain
+ST13,treats,Chest Fullness
+ST13,treats,Asthma
+ST13,treats,Cough
+ST13,treats,Hiccup
+ST13,treats,Hypochrondrium Pain
+ST13,treats,Chest Pain
+ST14,treats,Fullness Sensation
+ST14,treats,Chest Pain
+ST14,treats,Cough
+ST15,treats,Costal Pain
+ST15,treats,Chest Pain
+ST15,treats,Costal Fullness
+ST15,treats,Chest Fullness
+ST15,treats,Cough
+ST15,treats,Asthma
+ST15,treats,Mastitis
+ST16,treats,Hypochrondrium Pain
+ST16,treats,Chest Pain
+ST16,treats,Hypochrondrium Fullness
+ST16,treats,Chest Fullness
+ST16,treats,Cough
+ST16,treats,Asthma
+ST16,treats,Mastitis
+ST18,treats,Chest Pain
+ST18,treats,Cough
+ST18,treats,Asthma
+ST18,treats,Mastitis
+ST18,treats,Insufficient Lactation
+ST19,treats,Abdominal Distension
+ST19,treats,Vomiting
+ST19,treats,Gastric Pain
+ST19,treats,Anorexia
+ST20,treats,Gastric Pain
+ST20,treats,Abdominal Distension
+ST20,treats,Vomiting
+ST20,treats,Anorexia
+ST21,treats,Gastric Pain
+ST21,treats,Vomiting
+ST21,treats,Anorexia
+ST21,treats,Abdominal Distension
+ST21,treats,Diarrhea
+ST22,treats,Abdominal Pain
+ST22,treats,Abdominal Distension
+ST22,treats,Anorexia
+ST22,treats,Borborygmus
+ST22,treats,Diarrhea
+ST22,treats,Edema
+ST23,treats,Gastric Pain
+ST23,treats,Irritability
+ST23,treats,Mania
+ST23,treats,Indigestion
+ST24,treats,Gastric Pain
+ST24,treats,Vomiting
+ST24,treats,Mania
+ST25,treats,Abdominal Distension
+ST25,treats,Abdominal Pain
+ST25,treats,Borborygmus
+ST25,treats,Umbilical Pain
+ST25,treats,Constipation
+ST25,treats,Diarrhea
+ST25,treats,Dysentery
+ST25,treats,Irregular Menstruation
+ST25,treats,Edema
+ST26,treats,Abdominal Pain
+ST26,treats,Hernia
+ST26,treats,Dysmenorrhea
+ST27,treats,Lower Abdominal Distensiodysuria
+ST27,treats,Hernia
+ST27,treats,Seminal Emission
+ST27,treats,Premature Ejaculation
+ST28,treats,Lower Abdominal Distension
+ST28,treats,Urine Retention
+ST28,treats,Edema
+ST28,treats,Hernia
+ST28,treats,Dysmenorrhea
+ST28,treats,Sterility
+ST29,treats,Abdominal Pain
+ST29,treats,Hernia
+ST29,treats,Dysmenorrhea
+ST29,treats,Irregular Menstruation
+ST29,treats,Amenorrhea
+ST29,treats,Leukorrhea
+ST29,treats,Uterus Prolapse
+ST30,treats,Abdominal Pain
+ST30,treats,Borborygmus
+ST30,treats,Hernia
+ST30,treats,External Genitalia Pain
+ST30,treats,External Genitalia Swelling
+ST30,treats,Impotence
+ST30,treats,Dysmenorrhea
+ST30,treats,Irregular Menstruation
+ST31,treats,Thigh Pain
+ST31,treats,Muscular Atrophy
+ST31,treats,Motor Impairment
+ST31,treats,Low Extremity Pain
+ST31,treats,Low Extremity Numbness
+ST32,treats,Iliac Region Pain
+ST32,treats,Lumbar Pain
+ST32,treats,Knee Coldness
+ST32,treats,Low Extremity Pain
+ST32,treats,Low Extremity Motor Impairment
+ST32,treats,Paralysis
+ST32,treats,Beriberi
+ST33,treats,Leg Numbness
+ST33,treats,Leg Soreness
+ST33,treats,Knee Numbness
+ST33,treats,Knee Soreness
+ST33,treats,Knee Motor Impairment
+ST33,treats,Leg Motor Impairment
+ST33,treats,Low Extremity Motor Impairment
+ST34,treats,Knee Numbness
+ST34,treats,Knee Pain
+ST34,treats,Gastric Pain
+ST34,treats,Mastitis
+ST34,treats,Low Extremity Motor Impairment
+ST35,treats,Pain
+ST35,treats,Knee Motor Impairment
+ST35,treats,Knee Numbness
+ST35,treats,Beriberi
+ST36,treats,Gastric Pain
+ST36,treats,Vomiting
+ST36,treats,Hiccup
+ST36,treats,Abdominal Distension
+ST36,treats,Borborygmus
+ST36,treats,Diarrhea
+ST36,treats,Dysentery
+ST36,treats,Constipation
+ST36,treats,Mastitis
+ST36,treats,Enteritiris
+ST36,treats,Leg Pain
+ST36,treats,Knee Joint Pain
+ST36,treats,Beriberi
+ST36,treats,Dizziness
+ST36,treats,Insomnia
+ST36,treats,Edema
+ST36,treats,Cough
+ST36,treats,Asthma
+ST36,treats,Emaciation Due To General Deficiency
+ST36,treats,Indigestion
+ST36,treats,Apoplexy
+ST36,treats,Hemiplegia
+ST36,treats,Mania
+ST37,treats,Abdominal Distension
+ST37,treats,Abdominal Pain
+ST37,treats,Borborygmus
+ST37,treats,Diarrhea
+ST37,treats,Dysentery
+ST37,treats,Constipation
+ST37,treats,Enteritiris
+ST37,treats,Paralysis Due To Stroke
+ST37,treats,Beriberi
+ST38,treats,Knee Numbness
+ST38,treats,Leg Numbness
+ST38,treats,Leg Pain
+ST38,treats,Knee Pain
+ST38,treats,Leg Soreness
+ST38,treats,Knee Soreness
+ST38,treats,Shoulder Motor Impairment
+ST38,treats,Shoulder Weakness
+ST38,treats,Abdominal Pain
+ST39,treats,Lower Abdominal Pain
+ST39,treats,Backache Refer To Testis
+ST39,treats,Mastitis
+ST39,treats,Low Extremity Paralysis
+ST39,treats,Low Extremity Numbness
+ST40,treats,Headache
+ST40,treats,Vertigo
+ST40,treats,Dizziness
+ST40,treats,Cough
+ST40,treats,Asthma
+ST40,treats,Excessive Sputum
+ST40,treats,Chest Pain
+ST40,treats,Constipation
+ST40,treats,Mania
+ST40,treats,Epilepsy
+ST40,treats,Muscular Atrophy
+ST40,treats,Low Extremity Motor Impairment
+ST40,treats,Low Extremity Pain
+ST40,treats,Low Extremity Paralysis
+ST40,treats,Low Extremity Swelling
+ST41,treats,Ankle Joint Pain
+ST41,treats,Muscular Atrophy
+ST41,treats,Low Extremity Motor Impairment
+ST41,treats,Low Extremity Paralysis
+ST41,treats,Low Extremity Pain
+ST41,treats,Epilepsy
+ST41,treats,Headache
+ST41,treats,Vertigo
+ST41,treats,Dizziness
+ST41,treats,Abdominal Distension
+ST41,treats,Constipation
+ST42,treats,Upper Teeth Pain
+ST42,treats,Dorsum Of Foot Redness
+ST42,treats,Dorsum Of Foot Swelling
+ST42,treats,Face Paralysis
+ST42,treats,Foot Motor Impairment
+ST42,treats,Foot Muscular Atrophy
+ST43,treats,General Edema
+ST43,treats,Face Edema
+ST43,treats,Abdominal Pain
+ST43,treats,Borborygmus
+ST43,treats,Dorsum Of Foot Swelling
+ST43,treats,Dorsum Of Foot Pain
+ST44,treats,Toothache
+ST44,treats,Face Pain
+ST44,treats,Mouth Deviation
+ST44,treats,Sore Throat
+ST44,treats,Epistaxis
+ST44,treats,Gastric Pain
+ST44,treats,Acid Regurgitation
+ST44,treats,Abdominal Distension
+ST44,treats,Diarrhea
+ST44,treats,Dysentery
+ST44,treats,Constipation
+ST44,treats,Dorsum Of Foot Swelling
+ST44,treats,Dorsum Of Foot Pain
+ST44,treats,Febrile Disease
+ST45,treats,Face Swelling
+ST45,treats,Mouth Deviation
+ST45,treats,Epistaxis
+ST45,treats,Toothache
+ST45,treats,Hoarse Voice
+ST45,treats,Sore Throat
+ST45,treats,Abdominal Distension
+ST45,treats,Foot Coldness
+ST45,treats,Leg Coldness
+ST45,treats,Febrile Disease
+ST45,treats,Dream-Disturbed Sleep
+ST45,treats,Mania
+SP1,treats,Abdominal Distension
+SP1,treats,Bloody Stool
+SP1,treats,Menorrhagia
+SP1,treats,Uterine Bleeding
+SP1,treats,Mental Disorder
+SP1,treats,Dream-Disturbed Sleep
+SP1,treats,Convulsion
+SP2,treats,Abdominal Distension
+SP2,treats,Gastric Pain
+SP2,treats,Constipation
+SP2,treats,Febrile Diseases With Anhidrosis
+SP3,treats,Gastric Pain
+SP3,treats,Abdominal Distension
+SP3,treats,Constipation
+SP3,treats,Dysentery
+SP3,treats,Vomiting
+SP3,treats,Diarrhea
+SP3,treats,Borborygmus
+SP3,treats,Sluggishness
+SP3,treats,Beriberi
+SP4,treats,Gastric Pain
+SP4,treats,Vomiting
+SP4,treats,Abdominal Distension
+SP4,treats,Abdominal Pain
+SP4,treats,Diarrhea
+SP4,treats,Dysentery
+SP4,treats,Borborygmus
+SP5,treats,Abdominal Distension
+SP5,treats,Constipation
+SP5,treats,Diarrhea
+SP5,treats,Borborygmus
+SP5,treats,Tongue Stiffness
+SP5,treats,Tongue Pain
+SP5,treats,Ankle Pain
+SP5,treats,Foot Pain
+SP5,treats,Hemorrhoids
+SP6,treats,Premenstrual Syndrome
+SP6,treats,Abdominal Distension
+SP6,treats,Abdominal Pain
+SP6,treats,Impotence
+SP6,treats,Borborygmus
+SP6,treats,Diarrhea
+SP6,treats,Female Problem
+SP6,treats,Sterility
+SP6,treats,Delayed Labor
+SP6,treats,Nocturnal Emission
+SP6,treats,Enuresis
+SP6,treats,Dysuria
+SP6,treats,Edema
+SP6,treats,Hernia
+SP6,treats,Genital Pain
+SP6,treats,Dizziness
+SP6,treats,Vertigo
+SP6,treats,Insomnia
+SP6,treats,Muscular Atrophy
+SP7,treats,Abdominal Distension
+SP7,treats,Borborygmus
+SP7,treats,Knee Coldness
+SP7,treats,Leg Coldness
+SP7,treats,Leg Paralysis
+SP7,treats,Knee Paralysis
+SP7,treats,Leg Numbness
+SP7,treats,Knee Numbness
+SP8,treats,Abdominal Distension
+SP8,treats,Abdominal Pain
+SP8,treats,Diarrhea
+SP8,treats,Edema
+SP8,treats,Dysuria
+SP8,treats,Nocturnal Emission
+SP8,treats,Irregular Menstruation
+SP8,treats,Dysmenorrhea
+SP9,treats,Abdominal Distension
+SP9,treats,Abdominal Pain
+SP9,treats,Diarrhea
+SP9,treats,Dysentery
+SP9,treats,Edema
+SP9,treats,Jaundice
+SP9,treats,Dysuria
+SP9,treats,Enuresis
+SP9,treats,Urine Incontinence
+SP9,treats,Genital Pain
+SP9,treats,Dysmenorrhea
+SP9,treats,Knee Pain
+SP10,treats,Irregular Menstruation
+SP10,treats,Dysmenorrhea
+SP10,treats,Uterine Bleeding
+SP10,treats,Amenorrhea
+SP10,treats,Urticaria
+SP10,treats,Eczema
+SP10,treats,Erysipelas
+SP10,treats,Medial Aspect Of Thigh Pain
+SP11,treats,Dysuria
+SP11,treats,Enuresis
+SP11,treats,Inguinal Region Swelling
+SP11,treats,Inguinal Region Pain
+SP11,treats,Muscular Atrophy
+SP11,treats,Low Extremity Motor Impairment
+SP11,treats,Low Extremity Paralysis
+SP11,treats,Low Extremity Pain
+SP12,treats,Abdominal Pain
+SP12,treats,Hernia
+SP12,treats,Dysuria
+SP13,treats,Lower Abdominal Pain
+SP13,treats,Hernia
+SP14,treats,Umbilical Pain
+SP14,treats,Abdominal Distension
+SP14,treats,Hernia
+SP14,treats,Diarrhea
+SP14,treats,Constipation
+SP15,treats,Abdominal Distension
+SP15,treats,Abdominal Pain
+SP15,treats,Diarrhea
+SP15,treats,Dysentery
+SP15,treats,Constipation
+SP16,treats,Abdominal Pain
+SP16,treats,Indigestion
+SP16,treats,Constipation
+SP16,treats,Dysentery
+SP17,treats,Hypochondrium Pain
+SP17,treats,Chest Pain
+SP17,treats,Hypochondrium Fullness
+SP17,treats,Chest Fullness
+SP18,treats,Hypochondrium Pain
+SP18,treats,Chest Pain
+SP18,treats,Hypochondrium Fullness
+SP18,treats,Chest Fullness
+SP18,treats,Cough
+SP18,treats,Hiccup
+SP18,treats,Mastitis
+SP18,treats,Insufficient Lactation
+SP19,treats,Hypochondrium Pain
+SP19,treats,Chest Pain
+SP19,treats,Hypochondrium Fullness
+SP19,treats,Chest Fullness
+SP20,treats,Hypochondrium Fullness
+SP20,treats,Chest Fullness
+SP20,treats,Cough
+SP20,treats,Hiccup
+SP21,treats,Hypochondrium Pain
+SP21,treats,Chest Pain
+SP21,treats,Asthma
+SP21,treats,General Body Weakness
+SP21,treats,General Pain
+HT1,treats,Cardiac Pain
+HT1,treats,Costal Pain
+HT1,treats,Scrofula
+HT1,treats,Arm Cold Pain
+HT1,treats,Elbow Cold Pain
+HT1,treats,Throat Dryness
+HT2,treats,Hypochondrium Pain
+HT2,treats,Cardiac Pain
+HT2,treats,Arm Pain
+HT2,treats,Shoulder Pain
+HT3,treats,Cardiac Pain
+HT3,treats,Arm Numbness
+HT3,treats,Hand Numbness
+HT3,treats,Arm Spasmodic Pain
+HT3,treats,Hand Spasmodic Pain
+HT3,treats,Hand Tremor
+HT3,treats,Scrofula
+HT3,treats,Hypochondrium Pain
+HT3,treats,Axilla Pain
+HT4,treats,Cardiac Pain
+HT4,treats,Arm Spasmodic Pain
+HT4,treats,Elbow Spasmodic Pain
+HT4,treats,Voice Sudden Loss
+HT5,treats,Palpitation
+HT5,treats,Dizziness
+HT5,treats,Vision Blurring
+HT5,treats,Sore Throat
+HT5,treats,Voice Sudden Loss
+HT5,treats,Aphasia
+HT5,treats,Tongue Stiffness
+HT5,treats,Stuttering
+HT5,treats,Elbow Pain
+HT5,treats,Wrist Pain
+HT6,treats,Cardiac Pain
+HT6,treats,Hysteria
+HT6,treats,Night Sweat
+HT6,treats,Hemoptysis
+HT6,treats,Epistaxis
+HT6,treats,Voice Sudden Loss
+HT7,treats,Cardiac Pain
+HT7,treats,Irritability
+HT7,treats,Palpitation
+HT7,treats,Hysteria
+HT7,treats,Amnesia
+HT7,treats,Insomnia
+HT7,treats,Mania
+HT7,treats,Epilepsy
+HT7,treats,Dementia
+HT7,treats,Hypochondrium Pain
+HT7,treats,Palm Feverish Sensation
+HT7,treats,Yellowish Sclera
+HT8,treats,Palpitation
+HT8,treats,Chest Pain
+HT8,treats,Little Finger Spasmodic Pain
+HT8,treats,Palm Feverish Sensation
+HT8,treats,Enuresis
+HT8,treats,Dysuria
+HT8,treats,External Genitalia Pruritus
+HT9,treats,Palpitation
+HT9,treats,Cardiac Pain
+HT9,treats,Hypochondrium Pain
+HT9,treats,Chest Pain
+HT9,treats,Mania
+HT9,treats,Febrile Disease
+HT9,treats,Consciousness Loss
+SI1,treats,Headache
+SI1,treats,Febrile Disease
+SI1,treats,Consciousness Loss
+SI1,treats,Insufficient Lactation
+SI1,treats,Sore Throat
+SI1,treats,Eye Redness
+SI1,treats,Cornea Cloudiness
+SI2,treats,Finger Numbness
+SI2,treats,Febrile Disease
+SI2,treats,Tinnitus
+SI2,treats,Headache
+SI2,treats,Reddish Urine
+SI3,treats,Neck Pain
+SI3,treats,Neck Stiffness
+SI3,treats,Tinnitus
+SI3,treats,Deafness
+SI3,treats,Sore Throat
+SI3,treats,Mania
+SI3,treats,Malaria
+SI3,treats,Acute Lumbar Sprain
+SI3,treats,Night Sweat
+SI3,treats,Febrile Disease
+SI3,treats,Finger Numbness
+SI3,treats,Finger Contracture
+SI3,treats,Elbow Pain
+SI3,treats,Shoulder Pain
+SI4,treats,Febrile Diseases With Anhidrosis
+SI4,treats,Headache
+SI4,treats,Neck Stiffness
+SI4,treats,Finger Contracture
+SI4,treats,Wrist Pain
+SI4,treats,Jaundice
+SI5,treats,Submandibular Region Swelling
+SI5,treats,Neck Swelling
+SI5,treats,Wrist Pain
+SI5,treats,Hand Pain
+SI5,treats,Febrile Disease
+SI6,treats,Vision Blurring
+SI6,treats,Shoulder Pain
+SI6,treats,Arm Pain
+SI6,treats,Elbow Pain
+SI7,treats,Neck Stiffness
+SI7,treats,Headache
+SI7,treats,Dizziness
+SI7,treats,Finger Spasmodic Pain
+SI7,treats,Elbow Spasmodic Pain
+SI7,treats,Febrile Disease
+SI7,treats,Mania
+SI8,treats,Headache
+SI8,treats,Cheek Swelling
+SI8,treats,Nape Pain
+SI8,treats,Shoulder Pain
+SI8,treats,Elbow Pain
+SI8,treats,Arm Pain
+SI8,treats,Epilepsy
+SI9,treats,Scapular Region Pain
+SI9,treats,Arm Motor Impairment
+SI9,treats,Hand Motor Impairment
+SI10,treats,Shoulder Swelling
+SI10,treats,Arm Weakness
+SI10,treats,Shoulder Weakness
+SI10,treats,Arm Pain
+SI10,treats,Shoulder Pain
+SI11,treats,Scapular Region Pain
+SI11,treats,Lateroposterior Aspect Of Elbow Pain
+SI11,treats,Lateroposterior Aspect Of Arm Pain
+SI11,treats,Asthma
+SI12,treats,Scapular Region Pain
+SI12,treats,Upper Extremity Pain
+SI12,treats,Upper Extremity Numbness
+SI12,treats,Arm Motor Impairment
+SI12,treats,Shoulder Motor Impairment
+SI13,treats,Scapular Region Stiffness
+SI13,treats,Scapular Region Pain
+SI14,treats,Back Pain
+SI14,treats,Shoulder Pain
+SI14,treats,Neck Stiffness
+SI14,treats,Neck Pain
+SI15,treats,Cough
+SI15,treats,Asthma
+SI15,treats,Back Pain
+SI15,treats,Shoulder Pain
+SI15,treats,Hemoptysis
+SI16,treats,Sore Throat
+SI16,treats,Voice Sudden Loss
+SI16,treats,Deafness
+SI16,treats,Tinnitus
+SI16,treats,Neck Pain
+SI16,treats,Neck Stiffness
+SI17,treats,Deafness
+SI17,treats,Tinnitus
+SI17,treats,Sore Throat
+SI17,treats,Cheek Swelling
+SI17,treats,Foreigh Body Sensation In The Throat
+SI17,treats,Goiter
+SI18,treats,Face Paralysis
+SI18,treats,Eyelid Twitching
+SI18,treats,Face Pain
+SI18,treats,Toothache
+SI18,treats,Cheek Swelling
+SI18,treats,Yellowish Sclera
+SI19,treats,Deafness
+SI19,treats,Tinnitus
+SI19,treats,Otorrhea
+SI19,treats,Mandibular Joint Motor Impairment
+SI19,treats,Toothache
+BL1,treats,Eye Redness
+BL1,treats,Eye Pain
+BL1,treats,Eye Swelling
+BL1,treats,Canthus Itching
+BL1,treats,Lacrimation
+BL1,treats,Night Blindness
+BL1,treats,Color Blindess
+BL1,treats,Vision Blurring
+BL2,treats,Headache
+BL2,treats,Vision Failing
+BL2,treats,Vision Blurring
+BL2,treats,Supraorbital Region Pain
+BL2,treats,Lacrimation
+BL2,treats,Eye Redness
+BL2,treats,Eye Pain
+BL2,treats,Eye Swelling
+BL2,treats,Eyelid Twitching
+BL2,treats,Glaucoma
+BL3,treats,Headache
+BL3,treats,Giddiness
+BL3,treats,Epilepsy
+BL3,treats,Nasal Obstruction
+BL4,treats,Headache
+BL4,treats,Nasal Obstruction
+BL4,treats,Epistaxis
+BL4,treats,Vision Failing
+BL4,treats,Vision Blurring
+BL5,treats,Headache
+BL5,treats,Vision Blurring
+BL5,treats,Epilepsy
+BL5,treats,Convulsion
+BL6,treats,Headache
+BL6,treats,Vision Blurring
+BL6,treats,Nasal Obstruction
+BL7,treats,Headache
+BL7,treats,Giddiness
+BL7,treats,Nasal Obstruction
+BL7,treats,Epistaxis
+BL7,treats,Rhinorrhea
+BL8,treats,Dizziness
+BL8,treats,Vision Blurring
+BL8,treats,Tinnitus
+BL8,treats,Mania
+BL9,treats,Neck Pain
+BL9,treats,Headache
+BL9,treats,Dizziness
+BL9,treats,Ophthalmalgia
+BL9,treats,Nasal Obstruction
+BL10,treats,Headache
+BL10,treats,Nasal Obstruction
+BL10,treats,Sore Throat
+BL10,treats,Neck Stiffness
+BL10,treats,Back Pain
+BL10,treats,Shoulder Pain
+BL11,treats,Headache
+BL11,treats,Back Pain
+BL11,treats,Neck Pain
+BL11,treats,Scapular Region Soreness
+BL11,treats,Scapular Region Pain
+BL11,treats,Cough
+BL11,treats,Fever
+BL11,treats,Neck Stiffness
+BL12,treats,Common Cold
+BL12,treats,Cough
+BL12,treats,Headache
+BL12,treats,Fever
+BL12,treats,Neck Stiffness
+BL12,treats,Backache
+BL13,treats,Cough
+BL13,treats,Asthma
+BL13,treats,Chest Pain
+BL13,treats,Blood Spitting
+BL13,treats,Afternoon Fever
+BL13,treats,Night Sweat
+BL14,treats,Cough
+BL14,treats,Cardiac Pain
+BL14,treats,Palpitation
+BL14,treats,Stuffy Chest
+BL14,treats,Vomiting
+BL15,treats,Cardiac Pain
+BL15,treats,Panic
+BL15,treats,Memory Loss
+BL15,treats,Palpitation
+BL15,treats,Cough
+BL15,treats,Blood Spitting
+BL15,treats,Nocturnal Emission
+BL15,treats,Night Sweat
+BL15,treats,Mania
+BL15,treats,Epilepsy
+BL16,treats,Cardiac Pain
+BL16,treats,Abdominal Pain
+BL17,treats,Vomiting
+BL17,treats,Hiccup
+BL17,treats,Belching
+BL17,treats,Swallow Difficulty
+BL17,treats,Asthma
+BL17,treats,Cough
+BL17,treats,Blood Spitting
+BL17,treats,Afternoon Fever
+BL17,treats,Night Sweat
+BL17,treats,Measles
+BL18,treats,Jaundice
+BL18,treats,Hypochondrium Pain
+BL18,treats,Eye Redness
+BL18,treats,Vision Blurring
+BL18,treats,Night Blindness
+BL18,treats,Mental Disorder
+BL18,treats,Epilepsy
+BL18,treats,Backache
+BL18,treats,Blood Spitting
+BL18,treats,Epistaxis
+BL19,treats,Jaundice
+BL19,treats,Mouth Bitter Taste
+BL19,treats,Hypochondrium Pain
+BL19,treats,Chest Pain
+BL19,treats,Pulmonary Tuberculosis
+BL19,treats,Afternoon Fever
+BL20,treats,Epigastric Pain
+BL20,treats,Abdominal Distension
+BL20,treats,Jaundice
+BL20,treats,Vomiting
+BL20,treats,Diarrhea
+BL20,treats,Dysentery
+BL20,treats,Bloody Stool
+BL20,treats,Profuse Menstruation
+BL20,treats,Edema
+BL20,treats,Anorexia
+BL20,treats,Backache
+BL21,treats,Epigastric Pain
+BL21,treats,Hypochondrium Pain
+BL21,treats,Chest Pain
+BL21,treats,Anorexia
+BL21,treats,Abdominal Distension
+BL21,treats,Borborygmus
+BL21,treats,Diarrhea
+BL21,treats,Nausea
+BL21,treats,Vomiting
+BL22,treats,Borborygmus
+BL22,treats,Abdominal Distension
+BL22,treats,Indigestion
+BL22,treats,Vomiting
+BL22,treats,Diarrhea
+BL22,treats,Dysentery
+BL22,treats,Edema
+BL22,treats,Low Back Stiffness
+BL22,treats,Low Back Pain
+BL23,treats,Nocturnal Emission
+BL23,treats,Impotence
+BL23,treats,Enuresis
+BL23,treats,Irregular Menstruation
+BL23,treats,Leukorrhea
+BL23,treats,Low Back Pain
+BL23,treats,Knee Weakness
+BL23,treats,Vision Blurring
+BL23,treats,Dizziness
+BL23,treats,Tinnitus
+BL23,treats,Deafness
+BL23,treats,Edema
+BL23,treats,Asthma
+BL23,treats,Diarrhea
+BL24,treats,Low Back Pain
+BL24,treats,Irregular Menstruation
+BL24,treats,Dysmenorrhea
+BL24,treats,Asthma
+BL25,treats,Low Back Pain
+BL25,treats,Borborygmus
+BL25,treats,Abdominal Distension
+BL25,treats,Diarrhea
+BL25,treats,Constipation
+BL25,treats,Pain
+BL25,treats,Muscular Atrophy
+BL25,treats,Low Extremity Motor Impairment
+BL25,treats,Low Extremity Numbness
+BL25,treats,Sciatica
+BL26,treats,Low Back Pain
+BL26,treats,Abdominal Distension
+BL26,treats,Diarrhea
+BL26,treats,Enuresis
+BL26,treats,Sciatica
+BL26,treats,Frequent Urination
+BL27,treats,Distension
+BL27,treats,Lower Abdominal Pain
+BL27,treats,Dysentery
+BL27,treats,Nocturnal Emission
+BL27,treats,Hematuria
+BL27,treats,Enuresis
+BL27,treats,Morbid Leukorrhea
+BL27,treats,Lower Back Pain
+BL27,treats,Sciatica
+BL28,treats,Urine Retention
+BL28,treats,Enuresis
+BL28,treats,Frequent Urination
+BL28,treats,Diarrhea
+BL28,treats,Constipation
+BL28,treats,Low Back Pain
+BL28,treats,Low Back Stiffness
+BL29,treats,Dysentery
+BL29,treats,Hernia
+BL29,treats,Low Back Pain
+BL29,treats,Low Back Stiffness
+BL30,treats,Enuresis
+BL30,treats,Pain Due To Hernia
+BL30,treats,Morbid Leukorrhea
+BL30,treats,Irregular Menstruation
+BL30,treats,Dysuria
+BL30,treats,Cold Sensation
+BL30,treats,Low Back Pain
+BL30,treats,Constipation
+BL30,treats,Tenesmus
+BL30,treats,Rectum Prolapse
+BL31,treats,Low Back Pain
+BL31,treats,Dysuria
+BL31,treats,Constipation
+BL31,treats,Irregular Menstruation
+BL31,treats,Morbid Leukorrhea
+BL31,treats,Uterus Prolapse
+BL32,treats,Low Back Pain
+BL32,treats,Hernia
+BL32,treats,Irregular Menstruation
+BL32,treats,Leukorrhea
+BL32,treats,Dysmenorrhea
+BL32,treats,Nocturnal Emission
+BL32,treats,Impotence
+BL32,treats,Enuresis
+BL32,treats,Dysuria
+BL32,treats,Muscular Atrophy
+BL32,treats,Pain
+BL32,treats,Low Extremity Motor Impairment
+BL32,treats,Low Extremity Numbness
+BL33,treats,Low Back Pain
+BL33,treats,Constipation
+BL33,treats,Diarrhea
+BL33,treats,Dysuria
+BL33,treats,Irregular Menstruation
+BL33,treats,Morbid Leukorrhea
+BL34,treats,Low Back Pain
+BL34,treats,Lower Abdominal Pain
+BL34,treats,Dysuria
+BL34,treats,Constipation
+BL34,treats,Morbid Leukorrhea
+BL35,treats,Dysentery
+BL35,treats,Bloody Stool
+BL35,treats,Diarrhea
+BL35,treats,Hemorrhoids
+BL35,treats,Impotence
+BL35,treats,Morbid Leukorrhea
+BL36,treats,Gluteal Pain
+BL36,treats,Low Back Pain
+BL36,treats,Constipation
+BL36,treats,Muscular Atrophy
+BL36,treats,Pain
+BL36,treats,Low Extremity Motor Impairment
+BL36,treats,Low Extremity Numbness
+BL37,treats,Thigh Pain
+BL37,treats,Low Back Pain
+BL37,treats,Muscular Atrophy
+BL37,treats,Low Extremity Pain
+BL37,treats,Low Extremity Motor Impairment
+BL37,treats,Low Extremity Numbness
+BL37,treats,Hemiplegia
+BL38,treats,Femoral Region Numbness
+BL38,treats,Gluteal Numbness
+BL38,treats,Contracture Of Tendon In Popliteal Fossa
+BL39,treats,Low Back Pain
+BL39,treats,Low Back Stiffness
+BL39,treats,Low Abdomen Fullness
+BL39,treats,Low Abdomen Distension
+BL39,treats,Edema
+BL39,treats,Dysuria
+BL39,treats,Foot Cramp
+BL39,treats,Leg Cramp
+BL40,treats,Low Back Pain
+BL40,treats,Hip Joint Motor Impairment
+BL40,treats,Contracture Of Tendon In Popliteal Fossa
+BL40,treats,Muscular Atrophy
+BL40,treats,Low Extremity Pain
+BL40,treats,Low Extremity Motor Impairment
+BL40,treats,Low Extremity Numbness
+BL40,treats,Hemiplegia
+BL40,treats,Abdominal Pain
+BL40,treats,Vomiting
+BL40,treats,Diarrhea
+BL40,treats,Erysipelas
+BL41,treats,Shoulder Pain
+BL41,treats,Shoulder Stiffness
+BL41,treats,Neck Stiffness
+BL41,treats,Neck Pain
+BL41,treats,Back Stiffness
+BL41,treats,Back Pain
+BL41,treats,Arm Numbness
+BL41,treats,Elbow Numbness
+BL42,treats,Pulmonary Tuberculosis
+BL42,treats,Hemoptysis
+BL42,treats,Cough
+BL42,treats,Asthma
+BL42,treats,Neck Stiffness
+BL42,treats,Back Pain
+BL42,treats,Shoulder Pain
+BL43,treats,Pulmonary Tuberculosis
+BL43,treats,Cough
+BL43,treats,Asthma
+BL43,treats,Blood Spitting
+BL43,treats,Night Sweat
+BL43,treats,Poor Memory
+BL43,treats,Nocturnal Emission
+BL44,treats,Asthma
+BL44,treats,Cardiac Pain
+BL44,treats,Palpitation
+BL44,treats,Stuffy Chest
+BL44,treats,Cough
+BL44,treats,Back Pain
+BL44,treats,Back Stiffness
+BL45,treats,Cough
+BL45,treats,Asthma
+BL45,treats,Back Pain
+BL45,treats,Shoulder Pain
+BL46,treats,Dysphagia
+BL46,treats,Hiccup
+BL46,treats,Vomiting
+BL46,treats,Belching
+BL46,treats,Back Stiffness
+BL46,treats,Back Pain
+BL47,treats,Hypochondrium Pain
+BL47,treats,Chest Pain
+BL47,treats,Back Pain
+BL47,treats,Vomiting
+BL47,treats,Diarrhea
+BL48,treats,Borborygmus
+BL48,treats,Abdominal Pain
+BL48,treats,Diarrhea
+BL48,treats,Hypochondrium Pain
+BL48,treats,Jaundice
+BL49,treats,Abdominal Distension
+BL49,treats,Borborygmus
+BL49,treats,Vomiting
+BL49,treats,Diarrhea
+BL49,treats,Swallow Difficulty
+BL50,treats,Abdominal Distension
+BL50,treats,Back Pain
+BL50,treats,Epigastric Pain
+BL50,treats,Infantile Indigestion
+BL51,treats,Abdominal Pain
+BL51,treats,Constipation
+BL51,treats,Abdominal Mass
+BL52,treats,Nocturnal Emission
+BL52,treats,Impotence
+BL52,treats,Enuresis
+BL52,treats,Frequent Urination
+BL52,treats,Dysuria
+BL52,treats,Irregular Menstruation
+BL52,treats,Knee Pain
+BL52,treats,Back Pain
+BL52,treats,Edema
+BL53,treats,Borborygmus
+BL53,treats,Abdominal Distension
+BL53,treats,Low Back Pain
+BL53,treats,Anuria
+BL54,treats,Lumbosacral Region Pain
+BL54,treats,Muscular Atrophy
+BL54,treats,Low Extremity Motor Impairment
+BL54,treats,Dysuria
+BL54,treats,Swelling Around External Genitalia
+BL54,treats,Hemorrhoids
+BL54,treats,Constipation
+BL54,treats,Beriberi
+BL55,treats,Low Back Pain
+BL55,treats,Low Extremity Paralysis
+BL55,treats,Low Extremity Pain
+BL56,treats,Muscle Gastrocnemius Spasm
+BL56,treats,Hemorrhoids
+BL56,treats,Acute Low Back Pain
+BL57,treats,Low Back Pain
+BL57,treats,Gastrocnemius Spasm
+BL57,treats,Hemorrhoids
+BL57,treats,Constipation
+BL57,treats,Beriberi
+BL58,treats,Headache
+BL58,treats,Vision Blurring
+BL58,treats,Nasal Obstruction
+BL58,treats,Epistaxis
+BL58,treats,Back Pain
+BL58,treats,Hemorrhoids
+BL58,treats,Leg Weakness
+BL59,treats,Head Heavy Sensation
+BL59,treats,Headache
+BL59,treats,Low Back Pain
+BL59,treats,External Malleolus Swelling
+BL59,treats,External Malleolus Redness
+BL59,treats,Low Extremity Paralysis
+BL60,treats,Headache
+BL60,treats,Vision Blurring
+BL60,treats,Neck Stiffness
+BL60,treats,Epistaxis
+BL60,treats,Shoulder Pain
+BL60,treats,Arm Pain
+BL60,treats,Back Pain
+BL60,treats,Heel Pain
+BL60,treats,Heel Swelling
+BL60,treats,Difficult Labor
+BL60,treats,Epilepsy
+BL61,treats,Low Extremity Weakness
+BL61,treats,Low Extremity Muscular Atrophy
+BL61,treats,Heel Pain
+BL62,treats,Epilepsy
+BL62,treats,Mania
+BL62,treats,Headache
+BL62,treats,Dizziness
+BL62,treats,Insomnia
+BL62,treats,Backache
+BL62,treats,Leg Pain
+BL63,treats,Heat
+BL63,treats,Pain
+BL63,treats,Mania
+BL63,treats,Epilepsy
+BL63,treats,Infantile Convulsion
+BL63,treats,Backache
+BL63,treats,"External
+ Malleolus Pain"
+BL63,treats,Low Extremity Pain
+BL63,treats,Low Extremity Motor Impairment
+BL64,treats,Heat
+BL64,treats,Chill
+BL64,treats,Interior Wind
+BL64,treats,Mood Instability
+BL64,treats,Brain Uncomfortable Feeling
+BL64,treats,Back Weakness
+BL64,treats,Headache
+BL64,treats,Neck Stiffness
+BL64,treats,Thigh Pain
+BL64,treats,Low Back Pain
+BL64,treats,Epilepsy
+BL65,treats,Mania
+BL65,treats,Headache
+BL65,treats,Neck Stiffness
+BL65,treats,Vision Blurring
+BL65,treats,Backache
+BL65,treats,Low Extremity Pain
+BL66,treats,Headache
+BL66,treats,Neck Stiffness
+BL66,treats,Vision Blurring
+BL66,treats,Epistaxis
+BL66,treats,Mania
+BL67,treats,Headache
+BL67,treats,Nasal Obstruction
+BL67,treats,Epistaxis
+BL67,treats,Ophthalmalgia
+BL67,treats,Fetus Malposition
+BL67,treats,Difficult Labor
+BL67,treats,Afterbirth Retention
+BL67,treats,Burning Feet
+KI1,treats,Headache
+KI1,treats,Vision Blurring
+KI1,treats,Dizziness
+KI1,treats,Sore Throat
+KI1,treats,Tongue Dryness
+KI1,treats,Voice Loss
+KI1,treats,Dysuria
+KI1,treats,Infantile Convulsion
+KI1,treats,Sole Feverish Sensation
+KI1,treats,Consciousness Loss
+KI2,treats,Pruritus Vulva
+KI2,treats,Uterus Prolapse
+KI2,treats,Irregular Menstruation
+KI2,treats,Nocturnal Emission
+KI2,treats,Hemoptysis
+KI2,treats,Thirst
+KI2,treats,Diarrhea
+KI2,treats,Odrsum Of Foot Swelling
+KI2,treats,Odrsum Of Foot Pain
+KI2,treats,Acute Infantile Omphalitis
+KI3,treats,Sore Throat
+KI3,treats,Toothache
+KI3,treats,Deafness
+KI3,treats,Tinnitus
+KI3,treats,Dizziness
+KI3,treats,Blood Spitting
+KI3,treats,Asthma
+KI3,treats,Thirst
+KI3,treats,Irregular Menstruation
+KI3,treats,Insomnia
+KI3,treats,Nocturnal Emission
+KI3,treats,Impotence
+KI3,treats,Frequent Micturition
+KI3,treats,Low Back Pain
+KI4,treats,Blood Spitting
+KI4,treats,Asthma
+KI4,treats,Low Back Pain
+KI4,treats,Low Back Stiffness
+KI4,treats,Dysuria
+KI4,treats,Constipation
+KI4,treats,Heel Pain
+KI4,treats,Dementia
+KI5,treats,Amenorrhea
+KI5,treats,Irregular Menstruation
+KI5,treats,Dysmenorrhea
+KI5,treats,Uterus Prolapse
+KI5,treats,Dysuria
+KI5,treats,Vision Blurring
+KI6,treats,Irregular Menstruation
+KI6,treats,Morbid Leukorrhea
+KI6,treats,Uterus Prolapse
+KI6,treats,Pruritus Vulva
+KI6,treats,Asthma
+KI6,treats,Micturition Frequency
+KI6,treats,Urine Retention
+KI6,treats,Constipation
+KI6,treats,Epilepsy
+KI6,treats,Insomnia
+KI6,treats,Sore Throat
+KI7,treats,Edema
+KI7,treats,Abdominal Distension
+KI7,treats,Diarrhea
+KI7,treats,Borborygmus
+KI7,treats,Leg Muscular Atrophy
+KI7,treats,Night Sweat
+KI7,treats,Spontaneous Sweat
+KI7,treats,Febrile Diseases Without Sweat
+KI8,treats,Irregular Menstruation
+KI8,treats,Dysmenorrhea
+KI8,treats,Uterine Bleeding
+KI8,treats,Uterus Prolapse
+KI8,treats,Diarrhea
+KI8,treats,Constipation
+KI8,treats,Testis Swelling
+KI8,treats,Testis Pain
+KI9,treats,Mental Disorder
+KI9,treats,Low Leg Pain
+KI9,treats,Foot Pain
+KI9,treats,Hernia
+KI10,treats,Impotence
+KI10,treats,Hernia
+KI10,treats,Uterine Bleeding
+KI10,treats,Dysuria
+KI10,treats,Popliteal Fossa Pain
+KI10,treats,Knee Pain
+KI10,treats,Mental Disorder
+KI11,treats,Low Abdomen Pain
+KI11,treats,Low Abdomen Fullness
+KI11,treats,Dysuria
+KI11,treats,Enuresis
+KI11,treats,Nocturnal Emission
+KI11,treats,Impotence
+KI11,treats,Genital Pain
+KI12,treats,Nocturnal Emission
+KI12,treats,Impotence
+KI12,treats,Morbid Leukorrhea
+KI12,treats,External Genital Pain
+KI12,treats,Uterus Prolapse
+KI13,treats,Irregular Menstruation
+KI13,treats,Dysmenorrhea
+KI13,treats,Dysuria
+KI13,treats,Abdominal Pain
+KI13,treats,Diarrhea
+KI14,treats,Abdominal Distension
+KI14,treats,Abdominal Pain
+KI14,treats,Diarrhea
+KI14,treats,Nocturnal Emission
+KI14,treats,Irregular Menstruation
+KI14,treats,Dysmenorrhea
+KI14,treats,Postpartum Abdominal Pain
+KI15,treats,Irregular Menstruation
+KI15,treats,Abdominal Pain
+KI15,treats,Constipation
+KI16,treats,Abdominal Distension
+KI16,treats,Abdominal Pain
+KI16,treats,Vomiting
+KI16,treats,Constipation
+KI16,treats,Diarrhea
+KI17,treats,Abdominal Pain
+KI17,treats,Diarrhea
+KI17,treats,Constipation
+KI18,treats,Vomiting
+KI18,treats,Abdominal Pain
+KI18,treats,Constipation
+KI18,treats,Postpartum Abdominal Pain
+KI18,treats,Sterility
+KI19,treats,Borborygmus
+KI19,treats,Abdominal Pain
+KI19,treats,Epigastric Pain
+KI19,treats,Constipation
+KI19,treats,Vomiting
+KI20,treats,Abdominal Distension
+KI20,treats,Abdominal Pain
+KI20,treats,Vomiting
+KI20,treats,Indigestion
+KI21,treats,Abdominal Distension
+KI21,treats,Abdominal Pain
+KI21,treats,Indigestion
+KI21,treats,Vomiting
+KI21,treats,Diarrhea
+KI21,treats,Nausea
+KI21,treats,Morning Sickness
+KI22,treats,Cough
+KI22,treats,Asthma
+KI22,treats,Hypochondrium Fullness
+KI22,treats,Chest Fullness
+KI22,treats,Hypochondrium Distension
+KI22,treats,Chest Distension
+KI22,treats,Vomiting
+KI22,treats,Anorexia
+KI23,treats,Cough
+KI23,treats,Asthma
+KI23,treats,Hypochondrium Fullness
+KI23,treats,Chest Fullness
+KI23,treats,Mastitis
+KI24,treats,Cough
+KI24,treats,Asthma
+KI24,treats,Hypochondrium Fullness
+KI24,treats,Chest Fullness
+KI24,treats,Mastitis
+KI25,treats,Cough
+KI25,treats,Asthma
+KI25,treats,Chest Pain
+KI26,treats,Cough
+KI26,treats,Asthma
+KI26,treats,Phlegm Accumulation
+KI26,treats,Hypochondrium Fullness
+KI26,treats,Chest Fullness
+KI27,treats,Cough
+KI27,treats,Asthma
+KI27,treats,Chest Pain
+PC1,treats,Chest Suffocating Sensation
+PC1,treats,Hypochondrium Pain
+PC1,treats,Axillary Region Pain
+PC1,treats,Axillary Region Swelling
+PC2,treats,Cardiac Pain
+PC2,treats,Hypochondrium Distension
+PC2,treats,Cough
+PC2,treats,Chest Pain
+PC2,treats,Back Pain
+PC2,treats,Medical Aspect Of Arm Pain
+PC3,treats,Cardiac Pain
+PC3,treats,Palpitation
+PC3,treats,Febrile Disease
+PC3,treats,Irritability
+PC3,treats,Stomach Pain
+PC3,treats,Vomiting
+PC3,treats,Arm Pain
+PC3,treats,Elbow Pain
+PC3,treats,Arm Tremor
+PC3,treats,Hand Tremor
+PC4,treats,Cardiac Pain
+PC4,treats,Palpitation
+PC4,treats,Epistaxis
+PC4,treats,Hematemesis
+PC4,treats,Hemoptysis
+PC4,treats,Chest Pain
+PC4,treats,Furuncle
+PC4,treats,Epilepsy
+PC5,treats,Cardiac Pain
+PC5,treats,Palpitation
+PC5,treats,Stomach Pain
+PC5,treats,Vomiting
+PC5,treats,Febrile Disease
+PC5,treats,Irritability
+PC5,treats,Malaria
+PC5,treats,Mental Disorder
+PC5,treats,Epilepsy
+PC5,treats,Axilla Swelling
+PC5,treats,Arm Contracture
+PC5,treats,Elbow Contracture
+PC6,treats,Cardiac Pain
+PC6,treats,Palpitation
+PC6,treats,Stuffy Chest
+PC6,treats,Hypochondrium Pain
+PC6,treats,Stomach Pain
+PC6,treats,Nausea
+PC6,treats,Vomiting
+PC6,treats,Hiccup
+PC6,treats,Mental Disorder
+PC6,treats,Epilepsy
+PC6,treats,Insomnia
+PC6,treats,Febrile Disease
+PC6,treats,Irritability
+PC6,treats,Malaria
+PC6,treats,Elbow Contracture
+PC6,treats,Arm Contracture
+PC6,treats,Elbow Pain
+PC6,treats,Arm Pain
+PC7,treats,Cardiac Pain
+PC7,treats,Palpitation
+PC7,treats,Stomach Pain
+PC7,treats,Vomiting
+PC7,treats,Mental Disorder
+PC7,treats,Epilepsy
+PC7,treats,Stuffy Chest
+PC7,treats,Hypochondrium Pain
+PC7,treats,Convulsion
+PC7,treats,Insomnia
+PC7,treats,Irritability
+PC7,treats,Foul Breath
+PC8,treats,Cardiac Pain
+PC8,treats,Mental Disorder
+PC8,treats,Epilepsy
+PC8,treats,Gastritis
+PC8,treats,Foul Breath
+PC8,treats,Foot Fungus Infection
+PC8,treats,Hand Fungus Infection
+PC8,treats,Vomiting
+PC8,treats,Nausea
+PC9,treats,Cardiac Pain
+PC9,treats,Palpitation
+PC9,treats,Consciousness Loss
+PC9,treats,Aphasia
+PC9,treats,Tongue Swelling
+PC9,treats,Tongue Stiffness
+PC9,treats,Febrile Disease
+PC9,treats,Heat Stroke
+PC9,treats,Convulsion
+PC9,treats,Palm Feverish Sensation
+TE1,treats,Headache
+TE1,treats,Eye Redness
+TE1,treats,Sore Throat
+TE1,treats,Tongue Stiffness
+TE1,treats,Febrile Disease
+TE1,treats,Irritability
+TE2,treats,Headache
+TE2,treats,Eye Redness
+TE2,treats,Sudden Deafness
+TE2,treats,Sore Throat
+TE2,treats,Malaria
+TE2,treats,Arm Pain
+TE3,treats,Headache
+TE3,treats,Eye Redness
+TE3,treats,Deafness
+TE3,treats,Tinnitus
+TE3,treats,Sore Throat
+TE3,treats,Febrile Disease
+TE3,treats,Arm Pain
+TE3,treats,Elbow Pain
+TE3,treats,Finger Motor Impairment
+TE4,treats,Arm Pain
+TE4,treats,Wrist Pain
+TE4,treats,Shoulder Pain
+TE4,treats,Malaria
+TE4,treats,Deafness
+TE4,treats,Thirst
+TE5,treats,Febrile Disease
+TE5,treats,Headache
+TE5,treats,Cheek Pain
+TE5,treats,Strained Neck
+TE5,treats,Deafness
+TE5,treats,Tinnitus
+TE5,treats,Hypochondrium Pain
+TE5,treats,Arm Motor Impairment
+TE5,treats,Elbow Motor Impairment
+TE5,treats,Finger Pain
+TE5,treats,Hand Tremor
+TE6,treats,Tinnitus
+TE6,treats,Deafness
+TE6,treats,Hypochondrium Pain
+TE6,treats,Vomiting
+TE6,treats,Constipation
+TE6,treats,Febrile Disease
+TE6,treats,Back Heavy Sensation
+TE6,treats,Shoulder Heavy Sensation
+TE6,treats,Back Pain
+TE6,treats,Shoulder Pain
+TE6,treats,Voice Sudden Hoarseness
+TE7,treats,Deafness
+TE7,treats,Ear Pain
+TE7,treats,Epilepsy
+TE7,treats,Arm Pain
+TE8,treats,Deafness
+TE8,treats,Voice Sudden Hoarseness
+TE8,treats,Hypochondrium Pain
+TE8,treats,Chest Pain
+TE8,treats,Arm Pain
+TE8,treats,Hand Pain
+TE8,treats,Toothache
+TE9,treats,Deafness
+TE9,treats,Toothache
+TE9,treats,Migraine
+TE9,treats,Voice Sudden Hoarseness
+TE9,treats,Forearm Pain
+TE10,treats,Migraine
+TE10,treats,Neck Pain
+TE10,treats,Arm Pain
+TE10,treats,Shoulder Pain
+TE10,treats,Epilepsy
+TE10,treats,Scrofula
+TE10,treats,Goiter
+TE11,treats,Arm Pain
+TE11,treats,Shoulder Pain
+TE11,treats,Arm Motor Impairment
+TE11,treats,Shoulder Motor Impairment
+TE11,treats,Migraine
+TE12,treats,Headache
+TE12,treats,Neck Stiffness
+TE12,treats,Arm Pain
+TE12,treats,Arm Motor Impairment
+TE13,treats,Goiter
+TE13,treats,Arm Pain
+TE13,treats,Shoulder Pain
+TE14,treats,Upper Arm Motor Impairment
+TE14,treats,Shoulder Motor Impairment
+TE14,treats,Upper Arm Pain
+TE14,treats,Shoulder Pain
+TE15,treats,Elbow Pain
+TE15,treats,Shoulder Pain
+TE15,treats,Neck Stiffness
+TE16,treats,Headache
+TE16,treats,Neck Stiffness
+TE16,treats,Face Swelling
+TE16,treats,Vision Blurring
+TE16,treats,Sudden Deafness
+TE17,treats,Tinnitus
+TE17,treats,Deafness
+TE17,treats,Otorrhea
+TE17,treats,Face Paralysis
+TE17,treats,Toothache
+TE17,treats,Cheek Swelling
+TE17,treats,Scrofula
+TE17,treats,Trismus
+TE18,treats,Headache
+TE18,treats,Tinnitus
+TE18,treats,Deafness
+TE18,treats,Infantile Convulsion
+TE19,treats,Headache
+TE19,treats,Tinnitus
+TE19,treats,Deafness
+TE19,treats,Infantile Convulsion
+TE20,treats,Tinnitus
+TE20,treats,Eye Redness
+TE20,treats,Eye Swelling
+TE20,treats,Eye Pain
+TE20,treats,Gum Swelling
+TE20,treats,Toothache
+TE20,treats,Parotitis
+TE21,treats,Tinnitus
+TE21,treats,Deafness
+TE21,treats,Otorrhea
+TE21,treats,Toothache
+TE21,treats,Lip Stiffness
+TE22,treats,Migraine
+TE22,treats,Tinnitus
+TE22,treats,Lockjaw
+TE23,treats,Headache
+TE23,treats,Eye Pain
+TE23,treats,Eye Redness
+TE23,treats,Vision Blurring
+TE23,treats,Eyelind Twitch
+TE23,treats,Toothache
+TE23,treats,Face Paralysis
+GB1,treats,Headache
+GB1,treats,Eye Pain
+GB1,treats,Eye Redness
+GB1,treats,Vision Failing
+GB1,treats,Lacrimation
+GB1,treats,Mouth Deviation
+GB1,treats,Eye Deviation
+GB2,treats,Deafness
+GB2,treats,Tinnitus
+GB2,treats,Toothache
+GB2,treats,Temperomandibular Joint Motor Impairment
+GB2,treats,Mumps
+GB2,treats,Mouth Deviation
+GB2,treats,Eye Deviation
+GB3,treats,Headache
+GB3,treats,Deafness
+GB3,treats,Tinnitus
+GB3,treats,Diplacusis
+GB3,treats,Mouth Deviation
+GB3,treats,Eye Deviation
+GB3,treats,Toothache
+GB4,treats,Migraine
+GB4,treats,Vertigo
+GB4,treats,Tinnitus
+GB4,treats,Outer Canthus Pain
+GB4,treats,Toothache
+GB4,treats,Convulsion
+GB4,treats,Epilepsy
+GB5,treats,Migraine
+GB5,treats,Outer Canthus Pain
+GB5,treats,Face Swelling
+GB6,treats,Migraine
+GB6,treats,Outer Canthus Pain
+GB6,treats,Tinnitus
+GB6,treats,Frequent Sneezing
+GB7,treats,Headache
+GB7,treats,Cheek Swelling
+GB7,treats,Trismus
+GB7,treats,Temporal Region Pain
+GB7,treats,Infantile Convulsion
+GB8,treats,Migraine
+GB8,treats,Vertigo
+GB8,treats,Vomiting
+GB8,treats,Infantile Convulsion
+GB9,treats,Headache
+GB9,treats,Epilepsy
+GB9,treats,Gum Pain
+GB9,treats,Gum Swelling
+GB9,treats,Convulsion
+GB10,treats,Headache
+GB10,treats,Deafness
+GB10,treats,Tinnitus
+GB11,treats,Neck Pain
+GB11,treats,Headache
+GB11,treats,Tinnitus
+GB11,treats,Deafness
+GB11,treats,Ear Pain
+GB12,treats,Headache
+GB12,treats,Insomnia
+GB12,treats,Cheek Swelling
+GB12,treats,Retro-Auricular Pain
+GB12,treats,Mouth Deviation
+GB12,treats,Eye Deviation
+GB12,treats,Toothache
+GB13,treats,Headache
+GB13,treats,Insomnia
+GB13,treats,Vertigo
+GB13,treats,Epilepsy
+GB14,treats,Frontal Region Headache
+GB14,treats,Orbital Ridge Pain
+GB14,treats,Eye Pain
+GB14,treats,Vertigo
+GB14,treats,Eyelid Twitching
+GB14,treats,Eyelid Ptosis
+GB14,treats,Lacrimation
+GB15,treats,Headache
+GB15,treats,Vertigo
+GB15,treats,Lacrimation
+GB15,treats,Outer Canthus Pain
+GB15,treats,Rhinorrhea
+GB15,treats,Nasal Obstruction
+GB15,treats,Manic Depression
+GB16,treats,Headache
+GB16,treats,Vertigo
+GB16,treats,Eye Pain
+GB16,treats,Eye Redness
+GB16,treats,Nasal Obstruction
+GB17,treats,Migraine
+GB17,treats,Vertigo
+GB18,treats,Headache
+GB18,treats,Vertigo
+GB18,treats,Epistaxis
+GB18,treats,Rhinorrhea
+GB18,treats,Dementia
+GB18,treats,Obsessive Thought
+GB19,treats,Headache
+GB19,treats,Neck Stiffness
+GB19,treats,Vertigo
+GB19,treats,Eye Pain
+GB19,treats,Tinnitus
+GB19,treats,Epilepsy
+GB20,treats,Headache
+GB20,treats,Vertigo
+GB20,treats,Insomnia
+GB20,treats,Neck Stiffness
+GB20,treats,Neck Pain
+GB20,treats,Blurred Vision
+GB20,treats,Glaucoma
+GB20,treats,Eye Pain
+GB20,treats,Eye Redness
+GB20,treats,Tinnitus
+GB20,treats,Convulsion
+GB20,treats,Epilepsy
+GB20,treats,Infantile Convulsion
+GB20,treats,Febrile Disease
+GB20,treats,Common Cold
+GB20,treats,Nasal Obstruction
+GB20,treats,Rhinorrhea
+GB21,treats,Neck Stiffness
+GB21,treats,Neck Pain
+GB21,treats,Back Pain
+GB21,treats,Shoulder Pain
+GB21,treats,Arm Motor Impairment
+GB21,treats,Insufficient Lactation
+GB21,treats,Mastitis
+GB21,treats,Scrofula
+GB21,treats,Apoplexy
+GB21,treats,Difficult Labor
+GB22,treats,Chest Fullness
+GB22,treats,Axillary Region Swelling
+GB22,treats,Hypochondrium Pain
+GB22,treats,Arm Motor Impairment
+GB22,treats,Arm Pain
+GB23,treats,Chest Fullness
+GB23,treats,Hypochondrium Pain
+GB23,treats,Asthma
+GB24,treats,Hypochondrium Pain
+GB24,treats,Vomiting
+GB24,treats,Acid Regurgitation
+GB24,treats,Hiccup
+GB24,treats,Jaundice
+GB24,treats,Mastitis
+GB25,treats,Abdominal Distension
+GB25,treats,Borborygmus
+GB25,treats,Diarrhea
+GB25,treats,Hypochondrium Pain
+GB25,treats,Lumbar Pain
+GB26,treats,Irregular Menstruation
+GB26,treats,Amenorrhea
+GB26,treats,Leukorrhea
+GB26,treats,Abdominal Pain
+GB26,treats,Hernia
+GB26,treats,Hypochondrium Pain
+GB26,treats,Lumbar Pain
+GB27,treats,Leukorrhea
+GB27,treats,Low Abdomen Pain
+GB27,treats,Lumbar Pain
+GB27,treats,Hernia
+GB27,treats,Constipation
+GB28,treats,Leukorrhea
+GB28,treats,Low Abdomen Pain
+GB28,treats,Hernia
+GB28,treats,Uterus Prolapse
+GB29,treats,Lumbar Numbness
+GB29,treats,Thigh Numbness
+GB29,treats,Lumbar Pain
+GB29,treats,Thigh Pain
+GB29,treats,Paralysis
+GB29,treats,Low Limb Muscular Atrophy
+GB30,treats,Thigh Pain
+GB30,treats,Lumbar Pain
+GB30,treats,Low Limb Muscular Atrophy
+GB30,treats,Hemiplegia
+GB31,treats,Lumbar Sore
+GB31,treats,Thigh Soreness
+GB31,treats,Lumbar Pain
+GB31,treats,Thigh Pain
+GB31,treats,Low Limb Paralysis
+GB31,treats,Beriberi
+GB31,treats,General Pruritus
+GB32,treats,Knee Soreness
+GB32,treats,Thigh Soreness
+GB32,treats,Knee Pain
+GB32,treats,Thigh Pain
+GB32,treats,Low Limb Weakness
+GB32,treats,Low Limb Numbness
+GB32,treats,Hemiplegia
+GB33,treats,Knee Pain
+GB33,treats,Knee Swelling
+GB33,treats,Contracture Of Tendon In Popliteal Fossa
+GB33,treats,Leg Numbness
+GB34,treats,Hemiplegia
+GB34,treats,Low Extremity Weakness
+GB34,treats,Low Extremity Pain
+GB34,treats,Low Extremity Numbness
+GB34,treats,Knee Pain
+GB34,treats,Knee Swelling
+GB34,treats,Beriberi
+GB34,treats,Hypochondrium Pain
+GB34,treats,Mouth Bitter Taste
+GB34,treats,Vomiting
+GB34,treats,Jaundice
+GB34,treats,Infantile Convulsion
+GB35,treats,Hypochondrium Fullness
+GB35,treats,Chest Fullness
+GB35,treats,Muscular Atrophy
+GB35,treats,Leg Paralysis
+GB36,treats,Neck Pain
+GB36,treats,Chest Pain
+GB36,treats,Hypochondrium Pain
+GB36,treats,Thigh Pain
+GB36,treats,Fever
+GB36,treats,Chill
+GB36,treats,Rabies
+GB37,treats,Knee Pain
+GB37,treats,Muscular Atrophy
+GB37,treats,Low Extremity Pain
+GB37,treats,Low Extremity Motor Impairment
+GB37,treats,Vision Blurring
+GB37,treats,Ophthalmalgia
+GB37,treats,Night Blindness
+GB37,treats,Breast Distending Pain
+GB38,treats,Migraine
+GB38,treats,Outer Canthus Pain
+GB38,treats,Axillary Region Pain
+GB38,treats,Scrofula
+GB38,treats,Llumbar Pain
+GB38,treats,Chest Pain
+GB38,treats,Hypochondrium Pain
+GB38,treats,Lateral Aspect Of Low Extremity Pain
+GB38,treats,Malaria
+GB39,treats,Apoplexy
+GB39,treats,Hemiplegia
+GB39,treats,Neck Pain
+GB39,treats,Abdominal Distension
+GB39,treats,Hypochondrium Pain
+GB39,treats,Low Limb Muscular Atrophy
+GB39,treats,Leg Spastic Pain
+GB39,treats,Beriberi
+GB40,treats,Neck Pain
+GB40,treats,Axillary Region Swelling
+GB40,treats,Hypochondrium Pain
+GB40,treats,Vomiting
+GB40,treats,Acid Regurgitation
+GB40,treats,Low Limb Muscular Atrophy
+GB40,treats,Malaria
+GB40,treats,External Malleolus Swelling
+GB40,treats,External Malleolus Pain
+GB41,treats,Headache
+GB41,treats,Vertigo
+GB41,treats,Outer Canthus Pain
+GB41,treats,Scrofula
+GB41,treats,Hypochondrium Pain
+GB41,treats,Breast Distending Pain
+GB41,treats,Irregular Menstruation
+GB41,treats,Dorsum Of Foot Pain
+GB41,treats,Dorsum Of Foot Swelling
+GB41,treats,Toe Pain
+GB41,treats,Toe Swelling
+GB42,treats,Canthus Pain
+GB42,treats,Tinnitus
+GB42,treats,Breast Distending Pain
+GB42,treats,Dorsum Of Foot Swelling
+GB42,treats,Dorsum Of Foot Pain
+GB43,treats,Headache
+GB43,treats,Dizziness
+GB43,treats,Vertigo
+GB43,treats,Outer Canthus Pain
+GB43,treats,Tinnitus
+GB43,treats,Deafness
+GB43,treats,Cheek Swelling
+GB43,treats,Hypochondrium Pain
+GB43,treats,Breast Distending Pain
+GB43,treats,Febrile Disease
+GB44,treats,Migraine
+GB44,treats,Deafness
+GB44,treats,Tinnitus
+GB44,treats,Ophthalmalgia
+GB44,treats,Dream-Disturbed Sleep
+GB44,treats,Febrile Disease
+LR1,treats,Hernia
+LR1,treats,Enuresis
+LR1,treats,Uterine Bleeding
+LR1,treats,Uterus Prolapse
+LR1,treats,Epilepsy
+LR2,treats,Liver Fire
+LR2,treats,Liver Yang
+LR2,treats,Blood Heat
+LR2,treats,Interior Wind
+LR3,treats,Depression Distal To Junction Of The First And Second Metatarsal Bone
+LR4,treats,Hernia
+LR4,treats,External Genital Pain
+LR4,treats,Nocturnal Emission
+LR4,treats,Urine Retention
+LR4,treats,Hypochondrium Distend Pain
+LR5,treats,Urine Retention
+LR5,treats,Enuresis
+LR5,treats,Hernia
+LR5,treats,Irregular Menstruation
+LR5,treats,Leukorrhea
+LR5,treats,Pruritus Vulva
+LR5,treats,Leg Atrophy
+LR5,treats,Leg Weakness
+LR6,treats,Hypochondrium Pain
+LR6,treats,Abdominal Pain
+LR6,treats,Diarrhea
+LR6,treats,Hernia
+LR6,treats,Uterine Bleeding
+LR6,treats,Prolonged Lochia
+LR7,treats,Knee Pain
+LR7,treats,Inner Knee Pain
+LR8,treats,Uterus Prolapse
+LR8,treats,Low Abdomen Pain
+LR8,treats,Urine Retention
+LR8,treats,Nocturnal Emission
+LR8,treats,External Genital Pain
+LR8,treats,Pruritus Vulva
+LR8,treats,Medial Aspect Of Knee Pain
+LR8,treats,Medial Aspect Of Thigh Pain
+LR9,treats,Lumbosacral Region Pain
+LR9,treats,Low Abdomen Pain
+LR9,treats,Enuresis
+LR9,treats,Urine Retention
+LR9,treats,Irregular Menstruation
+LR10,treats,Low Abdomen Fullness
+LR10,treats,Lower Abdominal Distension
+LR10,treats,Urine Retention
+LR11,treats,Irregular Menstruation
+LR11,treats,Leukorrhea
+LR11,treats,Low Abdomen Pain
+LR11,treats,Leg Pain
+LR11,treats,Thigh Pain
+LR12,treats,Low Abdomen Pain
+LR12,treats,Hernia
+LR12,treats,External Genital Pain
+LR13,treats,Abdominal Distension
+LR13,treats,Borborygmus
+LR13,treats,Hypochondrium Pain
+LR13,treats,Vomiting
+LR13,treats,Diarrhea
+LR13,treats,Indigestion
+LR14,treats,Hypochondrium Pain
+LR14,treats,Abdominal Distension
+LR14,treats,Hiccup
+LR14,treats,Acid Regurgitation
+LR14,treats,Mastitis
+LR14,treats,Depression
+LR14,treats,Febrile Disease
+CV1,treats,Vaginitis
+CV1,treats,Urine Retention
+CV1,treats,Hemorrhoids
+CV1,treats,Nocturnal Emission
+CV1,treats,Enuresis
+CV1,treats,Irregular Menstruation
+CV1,treats,Mental Disorder
+CV2,treats,Urine Dribbling
+CV2,treats,Urine Retention
+CV2,treats,Enuresis
+CV2,treats,Nocturnal Emission
+CV2,treats,Impotence
+CV2,treats,Morbid Leukorrhea
+CV2,treats,Irregular Menstruation
+CV2,treats,Dysmenorrhea
+CV2,treats,Hernia
+CV3,treats,Enuresis
+CV3,treats,Nocturnal Emission
+CV3,treats,Impotence
+CV3,treats,Hernia
+CV3,treats,Uterine Bleeding
+CV3,treats,Irregular Menstruation
+CV3,treats,Dysmenorrhea
+CV3,treats,Morbid Leukorrhea
+CV3,treats,Frequent Urination
+CV3,treats,Urine Retention
+CV3,treats,Low Abdomen Pain
+CV3,treats,Uterus Prolapse
+CV3,treats,Vaginitis
+CV4,treats,Enuresis
+CV4,treats,Nocturnal Emission
+CV4,treats,Frequent Urination
+CV4,treats,Urine Retention
+CV4,treats,Hernia
+CV4,treats,Dysmenorrhea
+CV4,treats,Uterine Bleeding
+CV4,treats,Irregular Menstruation
+CV4,treats,Morbid Leukorrhea
+CV4,treats,Low Abdomen Pain
+CV4,treats,Rectum Prolapse
+CV4,treats,Postpartum Hemorrhage
+CV4,treats,Indigestion
+CV4,treats,Diarrhea
+CV4,treats,Flaccid Type Apoplexy
+CV5,treats,Abdominal Pain
+CV5,treats,Diarrhea
+CV5,treats,Edema
+CV5,treats,Hernia
+CV5,treats,Anuria
+CV5,treats,Enuresis
+CV5,treats,Uterine Bleeding
+CV5,treats,Amenorrhea
+CV5,treats,Morbid Leukorrhea
+CV5,treats,Postpartum Hemorrhage
+CV6,treats,Abdominal Pain
+CV6,treats,Enuresis
+CV6,treats,Nocturnal Emission
+CV6,treats,Impotence
+CV6,treats,Hernia
+CV6,treats,Edema
+CV6,treats,Asthma
+CV6,treats,Diarrhea
+CV6,treats,Dysentery
+CV6,treats,Uterine Bleeding
+CV6,treats,Irregular Menstruation
+CV6,treats,Dysmenorrhea
+CV6,treats,Morbid Leukorrhea
+CV6,treats,Amenorrhea
+CV6,treats,Postpartum Hemorrhage
+CV6,treats,Constipation
+CV6,treats,Flaccid Type Apoplexy
+CV7,treats,Abdominal Distension
+CV7,treats,Edema
+CV7,treats,Hernia
+CV7,treats,Irregular Menstruation
+CV7,treats,Uterine Bleeding
+CV7,treats,Morbid Leukorrhea
+CV7,treats,Pruritus Vulva
+CV7,treats,Postpartum Hemorrhage
+CV7,treats,Umbilical Pain
+CV8,treats,Abdominal Pain
+CV8,treats,Borborygmus
+CV8,treats,Flaccid Type Apoplexy
+CV8,treats,Rectal Prolapse
+CV8,treats,Unchecked Diarrhea
+CV9,treats,Fluid Transformation Inadequate
+CV10,treats,Epigastric Pain
+CV10,treats,Abdominal Pain
+CV10,treats,Borborygmus
+CV10,treats,Indigestion
+CV10,treats,Vomiting
+CV10,treats,Diarrhea
+CV11,treats,Stomach Pain
+CV11,treats,Vomiting
+CV11,treats,Edema
+CV11,treats,Abdominal Distension
+CV11,treats,Borborygmus
+CV11,treats,Anorexia
+CV12,treats,Stomach Pain
+CV12,treats,Abdominal Distension
+CV12,treats,Borborygmus
+CV12,treats,Nausea
+CV12,treats,Vomiting
+CV12,treats,Acid Regurgitation
+CV12,treats,Diarrhea
+CV12,treats,Dysentery
+CV12,treats,Jaundice
+CV12,treats,Indigestion
+CV12,treats,Insomnia
+CV13,treats,Stomach Pain
+CV13,treats,Abdominal Distension
+CV13,treats,Nausea
+CV13,treats,Vomiting
+CV13,treats,Epilepsy
+CV13,treats,Insomnia
+CV14,treats,Chest Pain
+CV14,treats,Cardiac Pain
+CV14,treats,Nausea
+CV14,treats,Acid Regurgitation
+CV14,treats,Swallow Difficulty
+CV14,treats,Vomiting
+CV14,treats,Mental Disorder
+CV14,treats,Epilepsy
+CV14,treats,Palpitation
+CV15,treats,Chest Pain
+CV15,treats,Cardiac Pain
+CV15,treats,Nausea
+CV15,treats,Mental Disorder
+CV15,treats,Epilepsy
+CV15,treats,Palpitation
+CV15,treats,Swallow Difficulty
+CV15,treats,Abdomen Skin Itching
+CV16,treats,Intercostal Region Fullness
+CV16,treats,Chest Fullness
+CV16,treats,Intercostal Region Distension
+CV16,treats,Chest Distension
+CV16,treats,Hiccup
+CV16,treats,Nausea
+CV16,treats,Anorexia
+CV17,treats,Asthma
+CV17,treats,Chest Pain
+CV17,treats,Chest Fullness
+CV17,treats,Palpitation
+CV17,treats,Insufficient Lactation
+CV17,treats,Hiccup
+CV17,treats,Swallow Difficulty
+CV18,treats,Chest Pain
+CV18,treats,Cough
+CV18,treats,Asthma
+CV18,treats,Vomiting
+CV19,treats,Chest Pain
+CV19,treats,Cough
+CV19,treats,Asthma
+CV20,treats,Intercostal Region Pain
+CV20,treats,Chest Pain
+CV20,treats,Intercostal Region Fullness
+CV20,treats,Chest Fullness
+CV20,treats,Cough
+CV20,treats,Asthma
+CV21,treats,Chest Pain
+CV21,treats,Cough
+CV21,treats,Asthma
+CV22,treats,Asthma
+CV22,treats,Cough
+CV22,treats,Sore Throat
+CV22,treats,Dry Throat
+CV22,treats,Hiccup
+CV22,treats,Voice Sudden Hoarseness
+CV22,treats,Swallow Difficulty
+CV22,treats,Goiter
+CV23,treats,Subglossal Region Pain
+CV23,treats,Subglossal Region Swelling
+CV23,treats,Salivation
+CV23,treats,Glossoplegia
+CV23,treats,Aphasia
+CV23,treats,Tongue Stiffness
+CV23,treats,Apoplexy
+CV23,treats,Voice Sudden Hoarseness
+CV23,treats,Swallow Difficulty
+CV24,treats,Face Puffiness
+CV24,treats,Gum Swelling
+CV24,treats,Toothache
+CV24,treats,Salivation
+CV24,treats,Mental Disorder
+CV24,treats,Mouth Deviation
+CV24,treats,Eye Deviation
+GV1,treats,Diarrhea
+GV1,treats,Bloody Stool
+GV1,treats,Hemorrhoids
+GV1,treats,Rectum Prolapse
+GV1,treats,Constipation
+GV1,treats,Low Back Pain
+GV1,treats,Epilepsy
+GV2,treats,Irregular Menstruation
+GV2,treats,Low Back Stiffness
+GV2,treats,Low Back Pain
+GV2,treats,Hemorrhoids
+GV2,treats,Low Extremity Muscular Atrophy
+GV2,treats,Epilepsy
+GV3,treats,Irregular Menstruation
+GV3,treats,Nocturnal Emission
+GV3,treats,Impotence
+GV3,treats,Lumbosacral Region Pain
+GV3,treats,Muscular Atrophy
+GV3,treats,Motor Impairment
+GV3,treats,Low Extremity Numbness
+GV3,treats,Low Extremity Pain
+GV3,treats,Epilepsy
+GV4,treats,Back Stiffness
+GV4,treats,Lumbar Pain
+GV4,treats,Impotence
+GV4,treats,Nocturnal Emission
+GV4,treats,Indigestion
+GV4,treats,Irregular Menstruation
+GV4,treats,Diarrhea
+GV4,treats,Leukorrhea
+GV5,treats,Low Back Stiffness
+GV5,treats,Low Back Pain
+GV5,treats,Diarrhea
+GV5,treats,Indigestion
+GV6,treats,Epigastric Pain
+GV6,treats,Diarrhea
+GV6,treats,Jaundice Epilepsy
+GV6,treats,Back Pain
+GV6,treats,Back Stiffness
+GV7,treats,Epigastric Pain
+GV7,treats,Low Back Pain
+GV7,treats,Back Stiffness
+GV8,treats,Epilepsy
+GV8,treats,Back Stiffness
+GV8,treats,Gastric Pain
+GV9,treats,Jaundice
+GV9,treats,Cough
+GV9,treats,Asthma
+GV9,treats,Back Stiffness
+GV9,treats,Back Pain
+GV9,treats,Chest Pain
+GV10,treats,Cough
+GV10,treats,Asthma
+GV10,treats,Furuncle
+GV10,treats,Back Pain
+GV10,treats,Neck Stiffness
+GV11,treats,Poor Memory
+GV11,treats,Anxiety
+GV11,treats,Palpitation
+GV11,treats,Back Stiffness
+GV11,treats,Back Pain
+GV11,treats,Cough
+GV11,treats,Cardiac Pain
+GV12,treats,Cough
+GV12,treats,Asthma
+GV12,treats,Epilepsy
+GV12,treats,Back Stiffness
+GV12,treats,Back Pain
+GV12,treats,Furuncle
+GV13,treats,Back Stiffness
+GV13,treats,Headache
+GV13,treats,Malaria
+GV13,treats,Febrile Disease
+GV14,treats,Neck Stiffness
+GV14,treats,Neck Pain
+GV14,treats,Malaria
+GV14,treats,Febrile Disease
+GV14,treats,Epilepsy
+GV14,treats,Afternoon Fever
+GV14,treats,Cough
+GV14,treats,Asthma
+GV14,treats,Common Cold
+GV14,treats,Back Stiffness
+GV15,treats,Mental Disorder
+GV15,treats,Epilepsy
+GV15,treats,Mute
+GV15,treats,Deafness
+GV15,treats,Voice Sudden Hoarseness
+GV15,treats,Apoplexy
+GV15,treats,Aphasia
+GV15,treats,Tongue Stiffness
+GV15,treats,Occipital Headache
+GV15,treats,Neck Stiffness
+GV16,treats,Headache
+GV16,treats,Neck Stiffness
+GV16,treats,Vision Blurring
+GV16,treats,Epistaxis
+GV16,treats,Sore Throat
+GV16,treats,Post-Apoplexy
+GV16,treats,Aphasia
+GV16,treats,Hemiplegia
+GV16,treats,Mental Disorder
+GV17,treats,Epilepsy
+GV17,treats,Dizziness
+GV17,treats,Neck Stiffness
+GV17,treats,Neck Pain
+GV18,treats,Headache
+GV18,treats,Neck Stiffness
+GV18,treats,Vision Blurring
+GV18,treats,Mania
+GV19,treats,Headache
+GV19,treats,Vertigo
+GV19,treats,Epilepsy
+GV19,treats,Mania
+GV20,treats,Headache
+GV20,treats,Vertigo
+GV20,treats,Tinnitus
+GV20,treats,Nasal Obstruction
+GV20,treats,Aphasia
+GV20,treats,Apoplexy
+GV20,treats,Coma
+GV20,treats,Mental Disorder
+GV20,treats,Uterus Prolapse
+GV20,treats,Rectum Prolapse
+GV21,treats,Epilepsy
+GV21,treats,Dizziness
+GV21,treats,Vision Blurring
+GV21,treats,Vertical Headache
+GV21,treats,Rhinorrhea
+GV22,treats,Headache
+GV22,treats,Vision Blurring
+GV22,treats,Rhinorrhea
+GV22,treats,Infantile Convulsion
+GV23,treats,Headache
+GV23,treats,Ophthalmalgia
+GV23,treats,Epistaxis
+GV23,treats,Rhinorrhea
+GV23,treats,Mental Disorder
+GV24,treats,Epilepsy
+GV24,treats,Anxiety
+GV24,treats,Vertigo
+GV24,treats,Palpitation
+GV24,treats,Insomnia
+GV24,treats,Headache
+GV24,treats,Rhinorrhea
+GV25,treats,Consciousness Loss
+GV25,treats,Nasal Obstruction
+GV25,treats,Epistaxis
+GV25,treats,Rhinorrhea
+GV25,treats,Rosacea
+GV26,treats,Mental Disorder
+GV26,treats,Epilepsy
+GV26,treats,Hysteria
+GV26,treats,Infantile Convulsion
+GV26,treats,Coma
+GV26,treats,Mouth Deviation
+GV26,treats,Apoplexy-Faint
+GV26,treats,Trismus
+GV26,treats,Face Puffinesss
+GV26,treats,Lower Back Pain
+GV26,treats,Low Back Stiffness
+GV27,treats,Mental Disorder
+GV27,treats,Lip Twitching
+GV27,treats,Lip Stiffness
+GV27,treats,Gum Pain
+GV27,treats,Gum Swelling
+GV28,treats,Mental Disorder
+GV28,treats,Gum Pain
+GV28,treats,Gum Swelling
+GV28,treats,Rhinorrhea
+LU1,treats,Excess Type Cough
+LU1,treats,Wheezing
+LU1,treats,Asthma
+LU1,treats,Chest Fullness
+LU1,treats,Chest Pain
+LU1,treats,Shoulder Pain
+LU1,treats,Back Pain
+LU1,treats,Phlegm
+LU1,treats,Heat Excess Arising From The Middle Warmer
+LU1,treats,Vomiting
+LU1,treats,Difficult Ingestion

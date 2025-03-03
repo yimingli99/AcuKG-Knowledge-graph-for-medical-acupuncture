@@ -1,0 +1,303 @@
+﻿Acupoint_Code,Relation,Anatomy,UBERON_code,SNOMED_CT_code
+BL1,0.1 B-cun,eye,UBERON_0000970,81745001
+BL3,0.5 B-cun,anterior hairline,,
+BL4,0.5 B-cun,anterior hairline,,
+BL4,1.5 B-cun,anterior median line,,
+BL5,1 B-cun,anterior hairline,,
+BL5,1.5 B-cun,anterior median line,,
+BL5,0.5 B-cun,BL4,,272881001
+BL6,2.5 B-cun,anterior hairline,,
+BL6,1.5 B-cun,anterior median line,,
+BL6,1.5 B-cun,BL5,,272882008
+BL6,2 B-cun,BL4,,272881001
+BL7,4 B-cun,anterior hairline,,
+BL7,1.5 B-cun,anterior median line,,
+BL8,1.5 B-cun,gV20,,273087007
+BL8,0.5 B-cun,gV20,,273087007
+BL8,1.5 B-cun,anterior median line,,
+BL8,5.5 B-cun,anterior hairline,,
+BL9,1.3 B-cun,posterior median line,,
+BL11,1.5 B-cun,posterior median line,,
+BL12,1.5 B-cun,posterior median line,,
+BL13,1.5 B-cun,posterior median line,,
+BL14,1.5 B-cun,posterior median line,,
+BL15,1.5 B-cun,posterior median line,,
+BL16,1.5 B-cun,posterior median line,,
+BL17,1.5 B-cun,posterior median line,,
+BL18,1.5 B-cun,posterior median line,,
+BL19,1.5 B-cun,posterior median line,,
+BL20,1.5 B-cun,posterior median line,,
+BL21,1.5 B-cun,posterior median line,,
+BL22,1.5 B-cun,posterior median line,,
+BL23,1.5 B-cun,posterior median line,,
+BL24,1.5 B-cun,posterior median line,,
+BL25,1.5 B-cun,posterior median line,,
+BL26,1.5 B-cun,posterior median line,,
+BL27,1.5 B-cun,median sacral crest,,
+BL28,1.5 B-cun,median sacral crest,,
+BL29,1.5 B-cun,median sacral crest,,
+BL30,1.5 B-cun,median sacral crest,,
+BL30,1.5 B-cun,sacral hiatus,,
+BL35,0.5 B-cun,coccyx,UBERON_0001350,64688005
+BL37,6 B-cun,gluteal fold,,89508007
+BL38,1 B-cun,popliteal crease,,
+BL38,1 B-cun,BL39,,
+BL41,3 B-cun,posterior median line,,
+BL42,3 B-cun,posterior median line,,
+BL43,3 B-cun,posterior median line,,
+BL44,3 B-cun,posterior median line,,
+BL45,3 B-cun,posterior median line,,
+BL46,3 B-cun,posterior median line,,
+BL47,3 B-cun,posterior median line,,
+BL48,3 B-cun,posterior median line,,
+BL49,3 B-cun,posterior median line,,
+BL50,3 B-cun,posterior median line,,
+BL51,3 B-cun,posterior median line,,
+BL52,3 B-cun,posterior median line,,
+BL53,3 B-cun,median sacral crest,,
+BL54,3 B-cun,sacral hiatus,,
+BL54,3 B-cun,median sacral crest,,
+BL55,2 B-cun,popliteal crease,,
+BL55,2 B-cun,BL40,,
+BL56,5 B-cun,popliteal crease,,
+BL58,1 B-cun,BL57,,272935002
+BL59,3 B-cun,BL60,,272939008
+BL67,0.1 f-cun,toenail,,76578001
+CV3,4 B-cun,umbilicus,UBERON_0007118,78220002
+CV4,3 B-cun,umbilicus,UBERON_0007118,78220002
+CV5,2 B-cun,umbilicus,UBERON_0007118,78220002
+CV6,1.5 B-cun,umbilicus,UBERON_0007118,78220002
+CV7,1 B-cun,umbilicus,UBERON_0007118,78220002
+CV9,1 B-cun,umbilicus,UBERON_0007118,78220002
+CV10,2 B-cun,umbilicus,UBERON_0007118,78220002
+CV11,3 B-cun,umbilicus,UBERON_0007118,78220002
+CV12,4 B-cun,umbilicus,UBERON_0007118,78220002
+CV13,5 B-cun,umbilicus,UBERON_0007118,78220002
+CV14,6 B-cun,umbilicus,UBERON_0007118,78220002
+CV15,1 B-cun,xiphisternal junction,,
+CV21,1 B-cun,suprasternal fossa,,
+CV21,1 B-cun,CV22,,273119003
+GB1,0.5 B-cun,eye,UBERON_0000970,81745001
+GB8,1.5 B-cun,temporal hairline,,
+GB8,1.5 B-cun,hairline,UBERON_0004104,
+GB9,0.5 B-cun,GB8,,273016008
+GB9,2 B-cun,hairline,UBERON_0004104,
+GB10,1 B-cun,hairline,UBERON_0004104,
+GB13,0.5 B-cun,anterior hairline,,
+GB13,3 B-cun,anterior median line,,
+GB14,1 B-cun,eyebrow,UBERON_0010163,84238004
+GB15,0.5 B-cun,anterior hairline,,
+GB16,1.5 B-cun,anterior hairline,,
+GB16,1 B-cun,GB15,,273022004
+GB17,2.5 B-cun,anterior hairline,,
+GB17,2 B-cun,GB15,,273022004
+GB18,4 B-cun,anterior hairline,,
+GB18,1.5 B-cun,gB17,,273024003
+GB23,1 B-cun,midaxillary line,,260515002
+GB24,4 B-cun,anterior median line,,
+GB24,one rib,Lr14,,
+GB27,3 B-cun,umbilicus,UBERON_0007118,78220002
+GB27,3 B-cun,GB26,,273033001
+GB28,0.5 B-cun,anterior superior iliac spine,UBERON_0013708,39583001
+GB28,0.5 B-cun,gB27,,273034007
+GB30,lateral one third,greater trochanter,UBERON_0002503,30547004
+GB30,medial two thirds,greater trochanter,UBERON_0002503,30547004
+GB32,7 B-cun,popliteal crease,,
+GB35,7 B-cun,lateral malleolus,,113225006
+GB36,7 B-cun,lateral malleolus,,113225006
+GB37,5 B-cun,lateral malleolus,,113225006
+GB38,4 B-cun,lateral malleolus,,113225006
+GB39,3 B-cun,lateral malleolus,,113225006
+GB44,0.1 f-cun,toenail,,76578001
+GV15,0.5 B-cun,GV16,,273083006
+GV16,between,trapezius muscles,,
+GV18,4 B-cun,posterior hairline,,
+GV18,1.5 B-cun,gV17,,273084000
+GV19,5.5 B-cun,posterior hairline,,
+GV19,1.5 B-cun,gV20,,273087007
+GV20,5 B-cun,anterior hairline,,
+GV21,3.5 B-cun,anterior hairline,,
+GV22,2 B-cun,anterior hairline,,
+GV23,1 B-cun,anterior hairline,,
+GV24,0.5 B-cun,anterior hairline,,
+GV26,upper one third,philtrum midline,,
+GV26,lower two thirds,philtrum midline,,
+HT2,3 B-cun,cubital crease,,
+HT4,1.5 B-cun,palmar wrist crease,,
+HT4,1.5 B-cun,HT7,,272854001
+HT4,1.5 B-cun,pisiform bone,,
+HT5,1 B-cun,palmar wrist crease,,
+HT5,1 B-cun,HT7,,272854001
+HT5,1 B-cun,pisiform bone,,
+HT6,0.5 B-cun,palmar wrist crease,,
+HT6,0.5 B-cun,HT7,,272854001
+HT6,0.5 B-cun,pisiform bone,,
+HT9,0.1 f-cun,little fingernail,,
+KI5,1 B-cun,KI3,,272948003
+KI6,1 B-cun,medial malleolus,,6417001
+KI7,2 B-cun,medial malleolus,,6417001
+KI8,2 B-cun,medial malleolus,,6417001
+KI8,0.5 B-cun,KI7,,272952003
+KI9,5 B-cun,medial malleolus,,6417001
+KI11,5 B-cun,umbilicus,UBERON_0007118,78220002
+KI11,0.5 B-cun,anterior median line,,
+KI12,4 B-cun,umbilicus,UBERON_0007118,78220002
+KI12,0.5 B-cun,anterior median line,,
+KI13,3 B-cun,umbilicus,UBERON_0007118,78220002
+KI13,0.5 B-cun,anterior median line,,
+KI14,2 B-cun,umbilicus,UBERON_0007118,78220002
+KI14,0.5 B-cun,anterior median line,,
+KI15,1 B-cun,umbilicus,UBERON_0007118,78220002
+KI15,0.5 B-cun,anterior median line,,
+KI16,0.5 B-cun,umbilicus,UBERON_0007118,78220002
+KI17,2 B-cun,umbilicus,UBERON_0007118,78220002
+KI17,0.5 B-cun,anterior median line,,
+KI18,3 B-cun,umbilicus,UBERON_0007118,78220002
+KI18,0.5 B-cun,anterior median line,,
+KI19,4 B-cun,umbilicus,UBERON_0007118,78220002
+KI19,0.5 B-cun,anterior median line,,
+KI20,5 B-cun,umbilicus,UBERON_0007118,78220002
+KI20,0.5 B-cun,anterior median line,,
+KI21,6 B-cun,umbilicus,UBERON_0007118,78220002
+KI21,0.5 B-cun,anterior median line,,
+KI22,2 B-cun,anterior median line,,
+KI23,2 B-cun,anterior median line,,
+KI24,2 B-cun,anterior median line,,
+KI25,2 B-cun,anterior median line,,
+KI26,2 B-cun,anterior median line,,
+KI27,2 B-cun,anterior median line,,
+LI1,0.1 f-cun,index fingernail,,
+LI6,3 B-cun,dorsal wrist crease,,
+LI7,5 B-cun,dorsal wrist crease,,
+LI8,4 B-cun,cubital crease,,
+LI8,1 B-cun,LI9,,272766004
+LI9,3 B-cun,cubital crease,,
+LI10,2 B-cun,cubital crease,,
+LI13,3 B-cun,cubital crease,,
+LI14,7 B-cun,LI11,,272768003
+LI19,0.5 B-cun,GV 26,,
+LI19,upper one third,philtrum,UBERON_0005402,32087006
+LI19,lower two thirds,philtrum,UBERON_0005402,32087006
+LR1,0.1 f-cun,toenail,,76578001
+LR5,5 B-cun,medial malleolus,,6417001
+LR6,7 B-cun,medial malleolus,,6417001
+LR7,1 B-cun,SP9,,272834002
+LR9,4 B-cun,patella,UBERON_0002446,64234005
+LR10,3 B-cun,St30,,
+LR11,2 B-cun,St30,,
+LR12,2.5 B-cun,anterior median line,,
+LR14,4 B-cun,anterior median line,,
+LR14,2 B-cun,St19,,
+LU1,6 B-cun,anterior median line,,
+LU1,1 B-cun,LU2,,272747004
+LU2,6 B-cun,anterior median line,,
+LU3,3 B-cun,anterior axillary fold,,52239003
+LU4,4 B-cun,anterior axillary fold,,52239003
+LU6,7 B-cun,palmar wrist crease,,
+LU6,5 B-cun,LU5,,272750001
+LU7,1.5 B-cun,palmar wrist crease,,
+LU8,1 B-cun,LU9,,272754005
+LU8,1 B-cun,palmar wrist crease,,
+LU11,0.1 f-cun,thumb nail,,
+PC1,5 B-cun,anterior median line,,
+PC2,2 B-cun,anterior axillary fold,,52239003
+PC4,5 B-cun,palmar wrist crease,,
+PC5,3 B-cun,palmar wrist crease,,
+PC5,3 B-cun,PC7,,272980001
+PC6,2 B-cun,palmar wrist crease,,
+PC6,2 B-cun,PC7,,272980001
+PC9,0.1 F-cun,middle fingernail,,
+SI1,0.1 f-cun,little fingernail,,
+SI6,1 B-cun,dorsal wrist crease,,
+SI7,5 B-cun,dorsal wrist crease,,
+SI9,1 B-cun,posterior axillary fold,,55665000
+SI14,3 B-cun,posterior median line,,
+SI15,2 B-cun,posterior median line,,
+SP1,0.1 f-cun,toenail,,76578001
+SP6,3 B-cun,medial malleolus,,6417001
+SP6,1 B-cun,KI8,,272953008
+SP7,3 B-cun,SP6,,272831005
+SP8,3 B-cun,SP9,,272834002
+SP10,2 B-cun,patella,UBERON_0002446,64234005
+SP13,4.3 B-cun,umbilicus,UBERON_0007118,78220002
+SP13,4 B-cun,anterior median line,,
+SP14,1.3 B-cun,umbilicus,UBERON_0007118,78220002
+SP14,4 B-cun,anterior median line,,
+SP15,4 B-cun,umbilicus,UBERON_0007118,78220002
+SP16,3 B-cun,umbilicus,UBERON_0007118,78220002
+SP16,4 B-cun,anterior median line,,
+SP16,3 B-cun,SP15,,272840009
+SP17,6 B-cun,anterior median line,,
+SP18,6 B-cun,anterior median line,,
+SP19,6 B-cun,anterior median line,,
+SP20,6 B-cun,anterior median line,,
+ST4,0.4 f-cun,mouth,UBERON_0000165,21082005
+ST6,one fingerbreadth,mandible,UBERON_0001684,91609006
+ST8,0.5 B-cun,anterior hairline,,
+ST8,4.5 B-cun,anterior median line,,
+ST12,4 B-cun,anterior median line,,
+ST13,4 B-cun,anterior median line,,
+ST14,4 B-cun,anterior median line,,
+ST15,4 B-cun,anterior median line,,
+ST16,4 B-cun,anterior median line,,
+ST18,4 B-cun,anterior median line,,
+ST19,6 B-cun,umbilicus,UBERON_0007118,78220002
+ST19,2 B-cun,anterior median line,,
+ST19,2 B-cun,CV14,,273111000
+ST20,5 B-cun,umbilicus,UBERON_0007118,78220002
+ST20,2 B-cun,anterior median line,,
+ST20,5 B-cun,ST25,,272804007
+ST20,1 B-cun,St19,,
+ST20,2 B-cun,CV13,,273110004
+ST21,4 B-cun,umbilicus,UBERON_0007118,78220002
+ST21,2 B-cun,anterior median line,,
+ST21,4 B-cun,ST25,,272804007
+ST21,1 B-cun,St20,,
+ST21,2 B-cun,CV12,,273109009
+ST22,3 B-cun,umbilicus,UBERON_0007118,78220002
+ST22,2 B-cun,anterior median line,,
+ST23,2 B-cun,umbilicus,UBERON_0007118,78220002
+ST23,2 B-cun,anterior median line,,
+ST24,1 B-cun,umbilicus,UBERON_0007118,78220002
+ST24,2 B-cun,anterior median line,,
+ST25,2 B-cun,umbilicus,UBERON_0007118,78220002
+ST26,1 B-cun,umbilicus,UBERON_0007118,78220002
+ST26,2 B-cun,anterior median line,,
+ST27,2 B-cun,umbilicus,UBERON_0007118,78220002
+ST27,2 B-cun,anterior median line,,
+ST28,3 B-cun,umbilicus,UBERON_0007118,78220002
+ST28,2 B-cun,anterior median line,,
+ST28,3 B-cun,ST25,,272804007
+ST28,1 B-cun,St27,,
+ST28,2 B-cun,CV4,,273101007
+ST29,4 B-cun,umbilicus,UBERON_0007118,78220002
+ST29,2 B-cun,anterior median line,,
+ST29,4 B-cun,ST25,,272804007
+ST29,1 B-cun,St28,,
+ST29,2 B-cun,CV3,,273100008
+ST30,2 B-cun,anterior median line,,
+ST30,B-cun,ST25,,272804007
+ST30,2 B-cun,CV2,,273098008
+ST32,6 B-cun,patella,UBERON_0002446,64234005
+ST33,3 B-cun,patella,UBERON_0002446,64234005
+ST34,2 B-cun,patella,UBERON_0002446,64234005
+ST34,1 B-cun,St33,,
+ST36,3 B-cun,ST35,,272814003
+ST37,6 B-cun,ST35,,272814003
+ST38,8 B-cun,ST35,,272814003
+ST39,9 B-cun,ST35,,272814003
+ST40,8 B-cun,lateral malleolus,,113225006
+ST40,one fingerbreadth,ST38,,272817005
+ST45,0.1 f-cun,second toenail,,
+TE1,0.1 f-cun,fingernail,,91456000
+TE5,2 B-cun,dorsal wrist crease,,
+TE5,2 B-cun,TE4,,272987003
+TE6,3 B-cun,dorsal wrist crease,,
+TE6,1 B-cun,TE5,,272988008
+TE7,3 B-cun,dorsal wrist crease,,
+TE8,4 B-cun,dorsal wrist crease,,
+TE9,5 B-cun,olecranon,UBERON_0006810,37888007
+TE10,1 B-cun,olecranon,UBERON_0006810,37888007
+TE11,2 B-cun,olecranon,UBERON_0006810,37888007
+TE12,5 B-cun,olecranon,UBERON_0006810,37888007
+TE13,3 B-cun,acromial angle,,

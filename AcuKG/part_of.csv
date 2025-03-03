@@ -1,0 +1,527 @@
+﻿Acupoint_Code,Relation,Anatomy,UBERON_code,SNOMED_CT_code
+BL1,inner canthus of,eye,UBERON_0000970,81745001
+BL1,superomedial parts of the inner canthus of,eye,UBERON_0000970,81745001
+BL1,medial wall of,orbit,UBERON_0004867,87716009
+BL2,medial end of,eyebrow,UBERON_0010163,84238004
+BL9,superior border of,external occipital protuberance,UBERON_0013469,61918000
+BL9,vertical line of the lateral border of,trapezius muscle,UBERON_0002380,31764008
+BL9,horizontal line of the superior border of,external occipital protuberance,UBERON_0013469,61918000
+BL10,posterior region of,neck,UBERON_0000974,45048000
+BL10,superior border of the spinous process of,second cervical vertebra (C2),,
+BL11,inferior border of the spinous process of,first thoracic vertebra (T1),,
+BL12,inferior border of the spinous process of,second thoracic vertebra (T2),,
+BL13,inferior border of the spinous process of,third thoracic vertebra (T3),,
+BL14,inferior border of the spinous process of,fourth thoracic vertebra (T4),,
+BL15,inferior border of the spinous process of,fifth thoracic vertebra (T5),,
+BL16,inferior border of the spinous process of,sixth thoracic vertebra (T6),,
+BL17,inferior angle of,scapula,UBERON_0006849,79601000
+BL17,spinous process of,seventh thoracic vertebra,,62487009
+BL17,inferior border of the spinous process of,seventh thoracic vertebra (T7),,
+BL18,inferior border of the spinous process of,ninth thoracic vertebra (T9),,
+BL19,inferior border of the spinous process of,tenth thoracic vertebra (T10),,
+BL20,inferior border of the spinous process of,11th thoracic vertebra (T11),,
+BL21,inferior border of the spinous process of,12th thoracic vertebra (T12),,
+BL22,inferior border of the spinous process of,first lumbar vertebra (L1),,
+BL23,inferior border of the spinous process of,second lumbar vertebra (L2),,
+BL24,inferior border of the spinous process of,third lumbar vertebra (L3),,
+BL25,inferior border of the spinous process of,fourth lumbar vertebra (L4),,
+BL26,inferior border of the spinous process of,fifth lumbar vertebra (L5),,
+BL32,the spinous process of,second sacral vertebra,,11808007
+BL35,extremity of,coccyx,UBERON_0001350,64688005
+BL36,midpoint of,gluteal fold,,89508007
+BL37,posterior aspect of,thigh,,68367000
+BL38,posterior aspect of,knee,UBERON_0001465,72696002
+BL39,posterolateral aspect of,knee,UBERON_0001465,72696002
+BL40,posterior aspect of,knee,UBERON_0001465,72696002
+BL40,midpoint of,popliteal crease,,
+BL41,inferior border of the spinous process of,second thoracic vertebra (T2),,
+BL42,inferior border of the spinous process of,third thoracic vertebra (T3),,
+BL43,inferior border of the spinous process of,fourth thoracic vertebra (T4),,
+BL44,inferior border of the spinous process of,fifth thoracic vertebra (T5),,
+BL45,inferior border of the spinous process of,sixth thoracic vertebra (T6),,
+BL46,inferior border of the spinous process of,seventh thoracic vertebra (T7),,
+BL47,inferior border of the spinous process of,ninth thoracic vertebra (T9),,
+BL48,inferior border of the spinous process of,tenth thoracic vertebra (T10),,
+BL49,inferior border of the spinous process of,11th thoracic vertebra (T11),,
+BL50,inferior border of the spinous process of,12th thoracic vertebra (T12),,
+BL51,inferior border of the spinous process of,first lumbar vertebra (L1),,
+BL52,inferior border of the spinous process of,second lumbar vertebra (L2),,
+BL55,posterior aspect of,leg,UBERON_0000978,30021000
+BL55,lateral head and medial head of,gastrocnemius muscle,,35616000
+BL56,posterior aspect of,leg,UBERON_0000978,30021000
+BL56,two muscle bellies of,gastrocnemius muscle,,35616000
+BL57,posterior aspect of,leg,UBERON_0000978,30021000
+BL57,connecting point of,calcaneal tendon,UBERON_0003701,
+BL57,two muscle bellies of,gastrocnemius muscle,,35616000
+BL57,two heads of,gastrocnemius muscle,,35616000
+BL57,muscle belly of,gastrocnemius muscle,,35616000
+BL58,posterolateral aspect of,leg,UBERON_0000978,30021000
+BL58,inferior border of the lateral head of,gastrocnemius muscle,,35616000
+BL59,posterolateral aspect of,leg,UBERON_0000978,30021000
+BL60,posterolateral aspect of,ankle,,344001
+BL60,prominence of,lateral malleolus,,113225006
+BL61,lateral aspect of,foot,,56459004
+BL62,inferior border of,lateral malleolus,,113225006
+BL62,lateral aspect of,foot,,56459004
+BL62,prominence of,lateral malleolus,,113225006
+BL63,dorsum of,foot,,56459004
+BL63,anterior border of,lateral malleolus,,113225006
+BL63,tuberosity of,fifth metatarsal bone,,301000
+BL64,lateral aspect of,foot,,56459004
+BL64,tuberosity of,fifth metatarsal bone,,301000
+BL65,lateral aspect of,foot,,56459004
+BL67,lateral corner of,toenail,,76578001
+BL67,horizontal line of the base of,toenail,,76578001
+BL67,intersection of the vertical line of the lateral side of,nail,UBERON_0001705,72651009
+CV1,posterior border of,scrotum,UBERON_0001300,20233005
+CV1,posterior commissure of,labium majoris,,
+CV3,centre of,umbilicus,UBERON_0007118,78220002
+CV4,centre of,umbilicus,UBERON_0007118,78220002
+CV5,centre of,umbilicus,UBERON_0007118,78220002
+CV6,centre of,umbilicus,UBERON_0007118,78220002
+CV7,centre of,umbilicus,UBERON_0007118,78220002
+CV8,centre of,umbilicus,UBERON_0007118,78220002
+CV9,centre of,umbilicus,UBERON_0007118,78220002
+CV10,centre of,umbilicus,UBERON_0007118,78220002
+CV11,centre of,umbilicus,UBERON_0007118,78220002
+CV12,centre of,umbilicus,UBERON_0007118,78220002
+CV13,centre of,umbilicus,UBERON_0007118,78220002
+CV14,centre of,umbilicus,UBERON_0007118,78220002
+CV16,midpoint of,xiphisternal junction,,
+CV22,anterior region of,neck,UBERON_0000974,45048000
+CV22,centre of,suprasternal fossa,,
+CV22,medial ends of,each clavicle,,
+CV23,anterior region of,neck,UBERON_0000974,45048000
+CV24,centre of,mentolabial sulcus,,45114004
+GB1,outer canthus of,eye,UBERON_0000970,81745001
+GB2,condylar process of,mandible,UBERON_0001684,91609006
+GB3,midpoint of,zygomatic arch,UBERON_0002500,51204001
+GB7,vertical line of the posterior border of,temple hairline,,
+GB7,junction of,temple hairline,,
+GB7,horizontal line of the apex of,auricle,,113327001
+GB7,junction of,auricle,,113327001
+GB9,posterior border of,auricular root,,
+GB12,anterior region of,neck,UBERON_0000974,45048000
+GB14,centre of,pupil,UBERON_0001771,35146001
+GB15,centre of,pupil,UBERON_0001771,35146001
+GB16,centre of,pupil,UBERON_0001771,35146001
+GB17,centre of,pupil,UBERON_0001771,35146001
+GB18,centre of,pupil,UBERON_0001771,35146001
+GB19,superior border of,external occipital protuberance,UBERON_0013469,61918000
+GB20,anterior region of,neck,UBERON_0000974,45048000
+GB20,origins of,sternocleidomastoid,UBERON_0001128,181741009
+GB21,posterior region of,neck,UBERON_0000974,45048000
+GB21,spinous process of,seventh cervical vertebra (C7),,
+GB21,lateral end of,acromion,UBERON_0002497,31934006
+GB24,centre of,nipple,UBERON_0002030,265780004
+GB24,intersection of,midclavicular line,,279013009
+GB25,free extremity of,12th rib,,
+GB25,inferior border of,costal arch,UBERON_0002225,24256007
+GB26,free extremity of,11th rib,,
+GB26,centre of,umbilicus,UBERON_0007118,78220002
+GB26,inferior border of,costal arch,UBERON_0002225,24256007
+GB27,centre of,umbilicus,UBERON_0007118,78220002
+GB29,prominence of,greater trochanter,UBERON_0002503,30547004
+GB30,prominence of,greater trochanter,UBERON_0002503,30547004
+GB31,lateral aspect of,thigh,,68367000
+GB31,tip of,middle finger,,65531009
+GB32,lateral aspect of,thigh,,68367000
+GB33,lateral aspect of,knee,UBERON_0001465,72696002
+GB34,fibular aspect of,leg,UBERON_0000978,30021000
+GB34,head of,fibula,UBERON_0001446,87342007
+GB35,fibular aspect of,leg,UBERON_0000978,30021000
+GB35,prominence of,lateral malleolus,,113225006
+GB35,lateral end of,popliteal crease,,
+GB36,fibular aspect of,leg,UBERON_0000978,30021000
+GB36,prominence of,lateral malleolus,,113225006
+GB36,lateral end of,popliteal crease,,
+GB37,fibular aspect of,leg,UBERON_0000978,30021000
+GB37,prominence of,lateral malleolus,,113225006
+GB38,prominence of,lateral malleolus,,113225006
+GB38,fibular aspect of,leg,UBERON_0000978,30021000
+GB39,prominence of,lateral malleolus,,113225006
+GB39,fibular aspect of,leg,UBERON_0000978,30021000
+GB40,anterolateral aspect of,ankle,,344001
+GB41,dorsum of,foot,,56459004
+GB41,junction of the bases of,fourth and fifth metatarsal bones,,
+GB42,dorsum of,foot,,56459004
+GB43,dorsum of,foot,,56459004
+GB44,lateral corner of,toenail,,76578001
+GB44,intersection of,nail,UBERON_0001705,72651009
+GB44,vertical line of the lateral side of,nail,UBERON_0001705,72651009
+GB44,horizontal line of the base of,fourth toenail,,
+GV1,tip of,coccyx,UBERON_0001350,64688005
+GV1,tip of,anus,UBERON_0001245,53505006
+GV3,spinous process of,fourth lumbar vertebra (L4),,
+GV3,highest points of,iliac crests,,
+GV3,midpoint of the highest points of,both iliac crests,,
+GV4,spinous process of,second lumbar vertebra (L2),,
+GV5,spinous process of,first lumbar vertebra (L1),,
+GV6,spinous process of,11th thoracic vertebra (T11),,
+GV7,spinous process of,tenth thoracic vertebra (T10),,
+GV8,spinous process of,ninth thoracic vertebra (T9),,
+GV9,spinous process of,seventh thoracic vertebra (T7),,
+GV9,horizontal line of the inferior border of the inferior angle of,scapula,UBERON_0006849,79601000
+GV10,spinous process of,sixth thoracic vertebra (T6),,
+GV11,spinous process of,fifth thoracic vertebra (T5),,
+GV12,spinous process of,third thoracic vertebra (T3),,
+GV12,horizontal line of the medial end of the spine of,scapula,UBERON_0006849,79601000
+GV13,spinous process of,first thoracic vertebra (T1),,
+GV14,posterior region of,neck,UBERON_0000974,45048000
+GV14,spinous process of,seventh cervical vertebra (C7),,
+GV14,posterior aspect of,neck,UBERON_0000974,45048000
+GV15,spinous process of,second cervical vertebra (C2),,
+GV16,posterior region of,neck,UBERON_0000974,45048000
+GV16,midpoint of,posterior hairline,,
+GV16,midpoint of,occipital bone,UBERON_0001676,31640002
+GV17,vertical line of,posterior median line,,
+GV17,horizontal line of the superior border of,external occipital protuberance,UBERON_0013469,61918000
+GV24,medial ends of,eyebrows,,
+GV25,tip of,nose,UBERON_0000004,45206002
+GV26,midpoint of,philtrum midline,,
+GV26,junction of,philtrum midline,,
+GV27,midpoint of the tubercle of,upper lip,UBERON_0001834,11681001
+GV28,junction of the frenulum of,upper lip,UBERON_0001834,11681001
+GV28,junction of the frenulum of,upper gum,,23114008
+HT1,centre of,axillary fossa,,34797008
+HT2,medial aspect of,arm,UBERON_0001460,40983000
+HT3,medial epicondyle of,humerus,UBERON_0004250,85050009
+HT3,anteromedial aspect of,elbow,UBERON_0001461,76248009
+HT3,medial end of,cubital crease,,
+HT4,anteromedial aspect of,forearm,,14975008
+HT4,superior border of the head of,ulna,UBERON_0001424,23416004
+HT4,radial side of the superior border of,pisiform bone,,
+HT5,anteromedial aspect of,forearm,,14975008
+HT5,root of the head of,ulna,UBERON_0001424,23416004
+HT5,body of the head of,ulna,UBERON_0001424,23416004
+HT5,base of the head of,ulna,UBERON_0001424,23416004
+HT5,radial side of the proximal border of,pisiform bone,,
+HT6,anteromedial aspect of,forearm,,14975008
+HT6,distal border of the head of,ulna,UBERON_0001424,23416004
+HT6,radial side of the proximal border of,pisiform bone,,
+HT7,anteromedial aspect of,wrist,,8205005
+HT7,proximal border of,pisiform bone,,
+HT8,palm of,hand,,85562004
+HT8,tip of,little finger,,12406000
+HT9,radial corner of,little fingernail,,
+HT9,vertical line of the radial border of,nail,UBERON_0001705,72651009
+HT9,intersection of,nail,UBERON_0001705,72651009
+HT9,horizontal line of,little fingernail,,
+KI1,sole of,foot,,56459004
+KI1,deepest depression of,toes,,
+KI1,bases of,second and third toes,,
+KI2,medial aspect of,foot,,56459004
+KI2,tuberosity of,navicular bone,,
+KI3,posteromedial aspect of,ankle,,344001
+KI3,prominence of,medial malleolus,,6417001
+KI4,medial aspect of,foot,,56459004
+KI4,medial attachment of,calcaneal tendon,UBERON_0003701,
+KI5,medial aspect of,foot,,56459004
+KI6,medial aspect of,foot,,56459004
+KI6,prominence of,medial malleolus,,6417001
+KI7,posteromedial aspect of,leg,UBERON_0000978,30021000
+KI7,prominence of,medial malleolus,,6417001
+KI8,medial aspect of,leg,UBERON_0000978,30021000
+KI8,medial border of,tibial bone,,
+KI8,prominence of,medial malleolus,,6417001
+KI9,posteromedial aspect of,leg,UBERON_0000978,30021000
+KI9,prominence of,medial malleolus,,6417001
+KI9,medial border of,tibia bone,,
+KI10,posteromedial aspect of,knee,UBERON_0001465,72696002
+KI11,centre of,umbilicus,UBERON_0007118,78220002
+KI12,centre of,umbilicus,UBERON_0007118,78220002
+KI13,centre of,umbilicus,UBERON_0007118,78220002
+KI14,centre of,umbilicus,UBERON_0007118,78220002
+KI16,centre of,umbilicus,UBERON_0007118,78220002
+KI17,centre of,umbilicus,UBERON_0007118,78220002
+KI18,centre of,umbilicus,UBERON_0007118,78220002
+KI19,centre of,umbilicus,UBERON_0007118,78220002
+KI20,centre of,umbilicus,UBERON_0007118,78220002
+KI21,centre of,umbilicus,UBERON_0007118,78220002
+LI1,radial corner of,index fingernail,,
+LI1,intersection of,fingernail,,91456000
+LI1,vertical line of the radial border of,fingernail,,91456000
+LI1,horizontal line of the base of,index fingernail,,
+LI2,radial side of,second metacarpophalangeal,,
+LI3,dorsum of,hand,,85562004
+LI4,midpoint of,second metacarpal bone,,81921009
+LI4,dorsum of,hand,,85562004
+LI5,posterolateral aspect of,wrist,,8205005
+LI5,radial side of,dorsal wrist crease,,
+LI5,depression of,anatomical snuffbox,,278825003
+LI5,tendons of,extensor pollicis longus,,81440007
+LI5,tendons of,extensor pollicis brevis,,244995005
+LI6,posterolateral aspect of,forearm,,14975008
+LI7,posterolateral aspect of,forearm,,14975008
+LI8,posterolateral aspect of,forearm,,14975008
+LI9,posterolateral aspect of,forearm,,14975008
+LI10,posterolateral aspect of,forearm,,14975008
+LI11,lateral aspect of,elbow,UBERON_0001461,76248009
+LI11,lateral epicondyle of,humerus,UBERON_0004250,85050009
+LI11,lateral end of,cubital crease,,
+LI12,lateral epicondyle of,humerus,UBERON_0004250,85050009
+LI12,posterolateral aspect of,elbow,UBERON_0001461,76248009
+LI13,lateral aspect of,arm,UBERON_0001460,40983000
+LI14,border of,deltoid muscle,,35259002
+LI15,anterior end of lateral border of,acromion,UBERON_0002497,31934006
+LI15,greater tubercle of,humerus,UBERON_0004250,85050009
+LI16,acromial end of,clavicle,UBERON_0011658,51299004
+LI16,spine of,scapula,UBERON_0006849,79601000
+LI17,anterior aspect of,neck,UBERON_0000974,45048000
+LI17,border of,sternocleidomastoid muscle,,22823000
+LI18,anterior aspect of,neck,UBERON_0000974,45048000
+LI18,superior border of,thyroid cartilage,UBERON_0001738,52940008
+LI18,anterior and posterior borders of,sternocleidomastoid muscle,,22823000
+LI19,lateral margin of,nostril,,1797002
+LI19,midpoint of,philtrum,UBERON_0005402,32087006
+LI19,junction of,philtrum,UBERON_0005402,32087006
+LI20,midpoint of lateral border of the ala of,nose,UBERON_0000004,45206002
+LI20,level of the inferior border of the ala of,nose,UBERON_0000004,45206002
+LR1,lateral corner of,toenail,,76578001
+LR1,intersection of,nail,UBERON_0001705,72651009
+LR1,vertical line of the lateral side of,nail,UBERON_0001705,72651009
+LR1,horizontal line of the base of,toenail,,76578001
+LR2,dorsum of,foot,,56459004
+LR3,dorsum of,foot,,56459004
+LR3,junction of the bases of,two bones,,
+LR3,base of,two metatarsal bones,,
+LR4,anteromedial aspect of,ankle,,344001
+LR5,anteromedial aspect of,leg,UBERON_0000978,30021000
+LR5,centre of the medial border (surface) of,tibia,UBERON_0000979,12611008
+LR5,prominence of,medial malleolus,,6417001
+LR5,apex of,patella,UBERON_0002446,64234005
+LR6,anteromedial aspect of,leg,UBERON_0000978,30021000
+LR6,centre of the medial border (surface) of,tibia,UBERON_0000979,12611008
+LR6,prominence of,medial malleolus,,6417001
+LR6,apex of,patella,UBERON_0002446,64234005
+LR7,tibial aspect of,leg,UBERON_0000978,30021000
+LR7,medial condyle of,tibia,UBERON_0000979,12611008
+LR8,medial aspect of,knee,UBERON_0001465,72696002
+LR8,tendons of,semitendinosus and the semimembranosus muscles,,
+LR8,medial end of,popliteal crease,,
+LR9,medial aspect of,thigh,,68367000
+LR9,base of,patella,UBERON_0002446,64234005
+LR11,medial aspect of,thigh,,68367000
+LR12,superior border of,pubic symphysis,UBERON_0003699,182200001
+LR13,free extremity of,11th rib,,
+LR13,inferior border of,costal arch,UBERON_0002225,24256007
+LR14,centre of,nipple,UBERON_0002030,265780004
+LR14,intersection of,midclavicular line,,279013009
+LR14,intersection of,sixth intercostal space,,117138009
+LU2,depression of,infraclavicular fossa,,
+LU2,coracoid process of the,scapula,UBERON_0006849,79601000
+LU2,centre of,deltopectoral triangle,,
+LU2,inferior border of,clavicle,UBERON_0011658,51299004
+LU3,anterolateral aspect of,arm,UBERON_0001460,40983000
+LU3,border of,biceps brachii muscle,,16225001
+LU4,anterolateral aspect of,arm,UBERON_0001460,40983000
+LU4,border of,biceps brachii muscle,,16225001
+LU5,anterior aspect of,elbow,UBERON_0001461,76248009
+LU6,anterolateral aspect of,forearm,,14975008
+LU7,radial aspect of,forearm,,14975008
+LU7,tendons of,abductor pollicis longus,UBERON_0001527,256671001
+LU8,anterolateral aspect of,forearm,,14975008
+LU9,anterolateral aspect of,wrist,,8205005
+LU9,radial side of,palmar wrist crease,,
+LU10,midpoint of,first metacarpal bone,,4247003
+LU11,radial corner of,thumb nail,,
+LU11,intersection of,radial border,,
+LU11,vertical line of,radial border,,
+LU11,horizontal line of the base of,thumb nail,,
+PC2,anterior aspect of,arm,UBERON_0001460,40983000
+PC2,long head and short head of,biceps brachii muscle,,16225001
+PC3,anterior aspect of,elbow,UBERON_0001461,76248009
+PC4,anterior aspect of,forearm,,14975008
+PC4,tendons of,palmaris longus,,181636009
+PC5,anterior aspect of,forearm,,14975008
+PC5,tendons of,palmaris longus,,181636009
+PC6,anterior aspect of,forearm,,14975008
+PC6,tendons of,palmaris longus,,181636009
+PC7,anterior aspect of,wrist,,8205005
+PC7,tendons of,palmaris longus,,181636009
+PC7,midpoint of,palmar wrist crease,,
+PC7,proximal extremity of,pisiform bone,,
+PC8,palm of,hand,,85562004
+PC9,centre of the tip of,middle finger,,65531009
+PC9,radial corner of,middle fingernail,,
+PC9,horizontal line of the base of,fingernail,,91456000
+PC9,intersection of the vertical line of the radial side of,nail,UBERON_0001705,72651009
+SI1,ulnar corner of,little fingernail,,
+SI1,intersection of the vertical line of ulnar border of,nail,UBERON_0001705,72651009
+SI1,horizontal line of the base of,little fingernail,,
+SI2,ulnar side of,fifth metacarpophalangeal joint,,
+SI2,ulnar end of the palmar metacarpophalangeal crease of,little finger,,12406000
+SI3,dorsum of,hand,,85562004
+SI3,ulnar side of,fifth metacarpophalangeal joint,,
+SI3,ulnar end of the distal transverse skin crease of,palm,,21547004
+SI4,posteromedial aspect of,wrist,,8205005
+SI4,base of,fifth metacarpal bone,,50939004
+SI5,posteromedial aspect of,wrist,,8205005
+SI6,posteromedial aspect of,forearm,,14975008
+SI6,head of,ulnar bone,,
+SI7,posteromedial aspect of,forearm,,14975008
+SI7,medial border of,ulnar bone,,
+SI8,posteromedial aspect of,elbow,UBERON_0001461,76248009
+SI8,medial epicondyle of,humerus bone,,
+SI10,spine of,scapula,UBERON_0006849,79601000
+SI11,midpoint of the spine of,scapula,UBERON_0006849,79601000
+SI11,inferior angle of,scapula,UBERON_0006849,79601000
+SI12,midpoint of the spine of,scapula,UBERON_0006849,79601000
+SI13,medial end of the spine of,scapula,UBERON_0006849,79601000
+SI13,spinous process of,second thoracic vertebra (T2),,
+SI14,inferior border of the spinous process of,first thoracic vertebra (T1),,
+SI14,vertical line of the medial extremity of the spine of,scapula,UBERON_0006849,79601000
+SI14,spinous process of,first thoracic vertebra (T1),,
+SI15,inferior border of the spinous process of,seventh cervical vertebra (C7),,
+SI15,medial border of,scapula,UBERON_0006849,79601000
+SI15,spinous process of,seventh cervical vertebra (C7),,
+SI16,anterior region of,neck,UBERON_0000974,45048000
+SI16,superior border of,thyroid cartilage,UBERON_0001738,52940008
+SI16,anterior and posterior borders of,sternocleidomastoid muscle,,22823000
+SI17,anterior region of,neck,UBERON_0000974,45048000
+SI17,angle of,mandible,UBERON_0001684,91609006
+SI18,outer canthus of,eye,UBERON_0000970,81745001
+SI19,anterior border of the centre of,tragus,UBERON_0010887,59581006
+SI19,posterior border of the condylar process of,mandible,UBERON_0001684,91609006
+SI19,centre of,tragus,UBERON_0010887,59581006
+SP1,medial corner of,toenail,,76578001
+SP1,horizontal line of the base of,toenail,,76578001
+SP3,medial aspect of,foot,,56459004
+SP4,base of,first metatarsal bone,,20151003
+SP4,medial aspect of,foot,,56459004
+SP5,medial aspect of,foot,,56459004
+SP5,tuberosity of,navicular bone,,
+SP5,prominence of,medial malleolus,,6417001
+SP5,anterior border of,medial malleolus,,6417001
+SP5,vertical line of,medial malleolus,,6417001
+SP5,horizontal line of the inferior border of,medial malleolus,,6417001
+SP6,tibial aspect of,leg,UBERON_0000978,30021000
+SP6,medial border of,tibia,UBERON_0000979,12611008
+SP6,prominence of,medial malleolus,,6417001
+SP7,tibial aspect of,leg,UBERON_0000978,30021000
+SP7,medial border of,tibia,UBERON_0000979,12611008
+SP7,prominence of,medial malleolus,,6417001
+SP8,tibial aspect of,leg,UBERON_0000978,30021000
+SP8,medial border of,tibia,UBERON_0000979,12611008
+SP8,apex of,patella,UBERON_0002446,64234005
+SP8,prominence of,medial malleolus,,6417001
+SP9,tibial aspect of,leg,UBERON_0000978,30021000
+SP9,inferior border of the medial condyle of,tibia,UBERON_0000979,12611008
+SP9,medial border of,tibia,UBERON_0000979,12611008
+SP9,posterior border of,tibia,UBERON_0000979,12611008
+SP10,anteromedial aspect of,thigh,,68367000
+SP10,bulge of,vastus medialis muscle,,3478008
+SP10,medial end of the base of,patella,UBERON_0002446,64234005
+SP11,medial aspect of,thigh,,68367000
+SP11,medial end of the base of,patella,UBERON_0002446,64234005
+SP13,centre of,umbilicus,UBERON_0007118,78220002
+SP14,centre of,umbilicus,UBERON_0007118,78220002
+SP15,centre of,umbilicus,UBERON_0007118,78220002
+SP16,centre of,umbilicus,UBERON_0007118,78220002
+SP17,curve of,fifth intercostal space,,117137004
+SP18,curve of,fourth intercostal space,,117136008
+SP19,curve of,third intercostal space,,117135007
+SP20,curve of,second intercostal space,,117134006
+SP21,intersection of,midaxillary line,,260515002
+SP21,intersection of,sixth intercostal space,,117138009
+ST3,inferior border of the ala of,nose,UBERON_0000004,45206002
+ST3,intersection of the vertical line of,pupil,UBERON_0001771,35146001
+ST3,horizontal line of the inferior border of the ala of,nose,UBERON_0000004,45206002
+ST4,angle of,mouth,UBERON_0000165,21082005
+ST4,continuation of,nasolabial sulcus,,55785008
+ST5,angle of,mandible,UBERON_0001684,91609006
+ST6,angle of,mandible,UBERON_0001684,91609006
+ST6,bisector of the angle of,mandible,UBERON_0001684,91609006
+ST7,midpoint of the inferior border of,zygomatic arch,UBERON_0002500,51204001
+ST7,midpoint of the inferior border of,mandibular notch,,410000007
+ST8,corner of,forehead,UBERON_0008200,52795006
+ST9,anterior region of,neck,UBERON_0000974,45048000
+ST9,superior border of,thyroid cartilage,UBERON_0001738,52940008
+ST9,anterior and posterior borders of,sternocleidomastoid muscle,,22823000
+ST10,anterior region of,neck,UBERON_0000974,45048000
+ST10,border of,sternocleidomastoid muscle,,22823000
+ST11,anterior region of,neck,UBERON_0000974,45048000
+ST11,sternal end of,clavicle,UBERON_0011658,51299004
+ST11,sternal and clavicular heads of,sternocleidomastoid muscle,,22823000
+ST17,centre of,nipple,UBERON_0002030,265780004
+ST18,intersection of,nipple line,,
+ST18,intersection of,fifth intercostal space,,117137004
+ST18,midpoint of the inferior crease of,breast,UBERON_0000310,181131000
+ST19,centre of,umbilicus,UBERON_0007118,78220002
+ST20,centre of,umbilicus,UBERON_0007118,78220002
+ST21,centre of,umbilicus,UBERON_0007118,78220002
+ST22,centre of,umbilicus,UBERON_0007118,78220002
+ST23,centre of,umbilicus,UBERON_0007118,78220002
+ST24,centre of,umbilicus,UBERON_0007118,78220002
+ST25,centre of,umbilicus,UBERON_0007118,78220002
+ST26,centre of,umbilicus,UBERON_0007118,78220002
+ST27,centre of,umbilicus,UBERON_0007118,78220002
+ST28,centre of,umbilicus,UBERON_0007118,78220002
+ST29,centre of,umbilicus,UBERON_0007118,78220002
+ST30,superior border of,pubic symphysis,UBERON_0003699,182200001
+ST31,anterior aspect of,thigh,,68367000
+ST31,proximal portion of,rectus femoris muscle,,72226001
+ST31,proximal portion of,sartorius muscle,UBERON_0001373,12595009
+ST31,proximal portion of,tensor fasciae latae muscle,UBERON_0001376,28190000
+ST31,lateral end of the base of,patella,UBERON_0002446,64234005
+ST31,lateral end of the base of,anterior superior iliac spine,UBERON_0013708,39583001
+ST31,horizontal line of the inferior border of,pubic symphysis,UBERON_0003699,182200001
+ST32,anterolateral aspect of,thigh,,68367000
+ST32,lateral end of the base of,patella,UBERON_0002446,64234005
+ST32,base of,patella,UBERON_0002446,64234005
+ST33,anterolateral aspect of,thigh,,68367000
+ST33,base of,patella,UBERON_0002446,64234005
+ST33,lateral end of the base of,patella,UBERON_0002446,64234005
+ST34,anterolateral aspect of,thigh,,68367000
+ST34,lateral border of,rectus femoris tendon,,
+ST34,base of,patella,UBERON_0002446,64234005
+ST35,anterior aspect of,knee,UBERON_0001465,72696002
+ST37,anterior aspect of,leg,UBERON_0000978,30021000
+ST38,anterior aspect of,leg,UBERON_0000978,30021000
+ST39,anterior aspect of,leg,UBERON_0000978,30021000
+ST40,anterolateral aspect of,leg,UBERON_0000978,30021000
+ST40,lateral border of,tibialis anterior muscle,,73508007
+ST40,prominence of,lateral malleolus,,113225006
+ST41,anterior aspect of,ankle,,344001
+ST41,centre of the front surface of,ankle joint,UBERON_0001488,70258002
+ST41,tendons of,extensor hallucis longus,,181697003
+ST41,tendons of,extensor digitorum longus,UBERON_0001386,181698008
+ST41,prominences of,lateral malleolus,,113225006
+ST41,prominences of,medial malleolus,,6417001
+ST41,two tendons,dorsum of the foot,,
+ST42,dorsum of,foot,,56459004
+ST42,joint of the base of,second metatarsal bone,,23468006
+ST43,dorsum of,foot,,56459004
+ST44,dorsum of,foot,,56459004
+ST45,lateral corner of,second toenail,,
+ST45,horizontal line of the base of,second toenail,,
+TE1,ulnar corner of,fingernail,,91456000
+TE1,intersection of the vertical line of the ulnar side of,nail,UBERON_0001705,72651009
+TE1,horizontal line of the base of,fingernail,,91456000
+TE2,dorsum of,hand,,85562004
+TE3,dorsum of,hand,,85562004
+TE4,posterior aspect of,wrist,,8205005
+TE5,posterior aspect of,forearm,,14975008
+TE6,posterior aspect of,forearm,,14975008
+TE7,posterior aspect of,forearm,,14975008
+TE8,posterior aspect of,forearm,,14975008
+TE8,tip of,elbow,UBERON_0001461,76248009
+TE9,posterior aspect of,forearm,,14975008
+TE9,prominence of,olecranon,UBERON_0006810,37888007
+TE10,posterior aspect of,elbow,UBERON_0001461,76248009
+TE10,prominence of,olecranon,UBERON_0006810,37888007
+TE11,posterior aspect of,arm,UBERON_0001460,40983000
+TE11,prominence of,olecranon,UBERON_0006810,37888007
+TE11,superior to the prominence of,olecranon,UBERON_0006810,37888007
+TE12,posterior aspect of,arm,UBERON_0001460,40983000
+TE12,prominence of,olecranon,UBERON_0006810,37888007
+TE13,posterior aspect of,arm,UBERON_0001460,40983000
+TE14,greater tubercle of,humerus,UBERON_0004250,85050009
+TE15,superior angle of,scapula,UBERON_0006849,79601000
+TE16,anterior region of,neck,UBERON_0000974,45048000
+TE16,angle of,mandible,UBERON_0001684,91609006
+TE17,anterior region of,neck,UBERON_0000974,45048000
+TE17,inferior end of,mastoid process,,
+TE18,centre of,mastoid process,,
+TE21,condylar process of,mandible,UBERON_0001684,91609006
+TE23,lateral end of,eyebrow,UBERON_0010163,84238004

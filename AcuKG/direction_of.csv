@@ -1,0 +1,813 @@
+﻿Acupoint_Code,Relation,Anatomy,UBERON_code,SNOMED_CT_code
+BL1,superior and medial to,eye,UBERON_0000970,81745001
+BL1,between,eye,UBERON_0000970,81745001
+BL1,between,orbit,UBERON_0004867,87716009
+BL2,superior to,BL1,,272878006
+BL3,superior to,frontal notch,,
+BL3,superior to,anterior hairline,,
+BL3,between,GV24,,273091002
+BL3,between,BL4,,272881001
+BL4,superior to,anterior hairline,,
+BL4,lateral to,anterior median line,,
+BL4,connecting,gV24,,273091002
+BL4,connecting,St8,,
+BL5,superior to,anterior hairline,,
+BL5,lateral to,anterior median line,,
+BL5,superior to,BL4,,272881001
+BL5,same level as,gV23,,273090001
+BL6,superior to,anterior hairline,,
+BL6,lateral to,anterior median line,,
+BL6,superior to,BL5,,272882008
+BL6,superior to,BL4,,272881001
+BL7,superior to,anterior hairline,,
+BL7,lateral to,anterior median line,,
+BL7,between,BL6,,272883003
+BL7,between,BL8,,272885005
+BL8,superior to,anterior hairline,,
+BL8,lateral to,anterior median line,,
+BL8,posterior,gV20,,273087007
+BL8,lateral to,gV20,,273087007
+BL9,same level as,external occipital protuberance,UBERON_0013469,61918000
+BL9,lateral to,posterior median line,,
+BL9,same level as,gV17,,273084000
+BL10,lateral to,trapezius muscle,UBERON_0002380,31764008
+BL10,same level as,second cervical vertebra (C2),,
+BL11,lateral to,posterior median line,,
+BL11,same level as,first thoracic vertebra (T1),,
+BL12,lateral to,posterior median line,,
+BL12,same level as,second thoracic vertebra (T2),,
+BL13,lateral to,posterior median line,,
+BL13,same level as,third thoracic vertebra (T3),,
+BL14,lateral to,posterior median line,,
+BL14,same level as,fourth thoracic vertebra (T4),,
+BL15,lateral to,posterior median line,,
+BL15,same level as,fifth thoracic vertebra (T5),,
+BL16,lateral to,posterior median line,,
+BL16,level with,sixth thoracic vertebra (T6),,
+BL17,lateral to,posterior median line,,
+BL17,same level as,seventh thoracic vertebra,,62487009
+BL17,same level as,seventh thoracic vertebra (T7),,
+BL18,lateral to,posterior median line,,
+BL18,same level as,ninth thoracic vertebra (T9),,
+BL19,lateral to,posterior median line,,
+BL19,same level as,tenth thoracic vertebra (T10),,
+BL20,lateral to,posterior median line,,
+BL20,same level as,11th thoracic vertebra (T11),,
+BL21,lateral to,posterior median line,,
+BL21,same level as,12th thoracic vertebra (T12),,
+BL22,lateral to,posterior median line,,
+BL22,same level as,first lumbar vertebra (L1),,
+BL23,lateral to,posterior median line,,
+BL23,same level as,second lumbar vertebra (L2),,
+BL24,lateral to,posterior median line,,
+BL24,same level as,third lumbar vertebra (L3),,
+BL25,lateral to,posterior median line,,
+BL25,same level as,fourth lumbar vertebra (L4),,
+BL26,lateral to,posterior median line,,
+BL26,same level as,fifth lumbar vertebra (L5),,
+BL27,same level as,first posterior sacral foramen,,
+BL27,lateral to,median sacral crest,,
+BL27,same level as,BL31,,272909003
+BL28,same level as,second posterior sacral foramen,,
+BL28,lateral to,median sacral crest,,
+BL28,same level as,BL32,,272910008
+BL29,same level as,third posterior sacral foramen,,
+BL29,lateral to,median sacral crest,,
+BL29,same level as,BL33,,272911007
+BL30,same level as,fourth posterior sacral foramen,,
+BL30,lateral to,median sacral crest,,
+BL30,lateral to,sacral hiatus,,
+BL30,same level as,BL34,,272912000
+BL31,moving superiorly from,BL32,,272910008
+BL32,between,posterior superior iliac spine,UBERON_0013710,13871007
+BL32,between,second sacral vertebra,,11808007
+BL33,moving downward from,BL32,,272910008
+BL34,same level as,sacral hiatus,,
+BL34,moving downward from,BL32,,272910008
+BL35,lateral to,coccyx,UBERON_0001350,64688005
+BL37,between,biceps femoris,UBERON_0001374,181672002
+BL37,between,semitendinosus muscles,,
+BL37,inferior to,gluteal fold,,89508007
+BL37,connecting,BL36,,
+BL37,connecting,BL40,,
+BL38,medial to,biceps femoris tendon,,
+BL38,proximal to,popliteal crease,,
+BL38,proximal to,BL39,,
+BL39,medial to,biceps femoris tendon,,
+BL41,lateral to,posterior median line,,
+BL41,same level as,second thoracic vertebra (T2),,
+BL42,lateral to,posterior median line,,
+BL42,same level as,third thoracic vertebra (T3),,
+BL43,lateral to,posterior median line,,
+BL43,same level as,fourth thoracic vertebra (T4),,
+BL44,lateral to,posterior median line,,
+BL44,same level as,fifth thoracic vertebra (T5),,
+BL45,lateral to,posterior median line,,
+BL45,same level as,sixth thoracic vertebra (T6),,
+BL46,lateral to,posterior median line,,
+BL46,same level as,seventh thoracic vertebra (T7),,
+BL47,lateral to,posterior median line,,
+BL47,same level as,ninth thoracic vertebra (T9),,
+BL48,lateral to,posterior median line,,
+BL48,same level as,tenth thoracic vertebra (T10),,
+BL49,lateral to,posterior median line,,
+BL49,same level as,11th thoracic vertebra (T11),,
+BL50,lateral to,posterior median line,,
+BL50,same level as,12th thoracic vertebra (T12),,
+BL51,same level as,first lumbar vertebra (L1),,
+BL51,lateral to,posterior median line,,
+BL52,same level as,second lumbar vertebra (L2),,
+BL52,lateral to,posterior median line,,
+BL53,same level as,second posterior sacral foramen,,
+BL53,lateral to,median sacral crest,,
+BL54,same level as,BL 30,,
+BL54,lateral to,sacral hiatus,,
+BL54,lateral to,median sacral crest,,
+BL54,same level as,fourth posterior sacral foramen,,
+BL55,between,gastrocnemius muscle,,35616000
+BL55,distal to,popliteal crease,,
+BL55,distal to,BL40,,
+BL55,connecting,BL57,,272935002
+BL56,distal to,popliteal crease,,
+BL56,between,BL55,,272933009
+BL56,between,BL57,,272935002
+BL57,inferior to,gastrocnemius muscle,,35616000
+BL58,between,gastrocnemius muscle,,35616000
+BL58,between,calcaneal tendon,UBERON_0003701,
+BL58,lateral and distal to,BL57,,272935002
+BL58,proximal to,BL60,,272939008
+BL59,between,fibula,UBERON_0001446,87342007
+BL59,between,calcaneal tendon,UBERON_0003701,
+BL59,same level as,BL60,,272939008
+BL59,proximal to,BL60,,272939008
+BL60,between,lateral malleolus,,113225006
+BL60,between,calcaneal tendon,UBERON_0003701,
+BL61,between,red and white flesh,,
+BL61,distal to,BL60,,272939008
+BL61,lateral to,calcaneus,UBERON_0001450,80144004
+BL62,distal to,lateral malleolus,,113225006
+BL62,inferior to,lateral malleolus,,113225006
+BL62,between,lateral malleolus,,113225006
+BL62,between,calcaneus,UBERON_0001450,80144004
+BL63,distal to,lateral malleolus,,113225006
+BL63,posterior to,fifth metatarsal bone,,301000
+BL63,inferior to,cuboid bone,UBERON_0001455,
+BL64,distal to,fifth metatarsal bone,,301000
+BL64,between,red and white flesh,,
+BL64,between,heel,UBERON_0015875,76853006
+BL64,between,fifth metatarsophalangeal joint,,50133002
+BL65,proximal to,fifth metatarsophalangeal joint,,50133002
+BL65,between,red and white flesh,,
+BL66,distal and lateral to,fifth metatarsophalangeal joint,,50133002
+BL66,between,red and white flesh,,
+BL67,lateral to,distal phalanx,UBERON_0004300,299711006
+BL67,proximal to,toenail,,76578001
+CV1,connecting,anus,UBERON_0001245,53505006
+CV1,between,anus,UBERON_0001245,53505006
+CV1,between,genital organ,,128181006
+CV1,connecting,scrotum,UBERON_0001300,20233005
+CV2,superior to,pubic symphysis,UBERON_0003699,182200001
+CV3,inferior to,umbilicus,UBERON_0007118,78220002
+CV4,inferior to,umbilicus,UBERON_0007118,78220002
+CV5,inferior to,umbilicus,UBERON_0007118,78220002
+CV6,inferior to,umbilicus,UBERON_0007118,78220002
+CV7,inferior to,umbilicus,UBERON_0007118,78220002
+CV9,superior to,umbilicus,UBERON_0007118,78220002
+CV10,superior to,umbilicus,UBERON_0007118,78220002
+CV11,superior to,umbilicus,UBERON_0007118,78220002
+CV12,superior to,umbilicus,UBERON_0007118,78220002
+CV12,connecting,xiphisternal junction,,
+CV12,connecting,umbilicus,UBERON_0007118,78220002
+CV13,superior to,umbilicus,UBERON_0007118,78220002
+CV14,superior to,umbilicus,UBERON_0007118,78220002
+CV15,inferior to,xiphisternal junction,,
+CV17,same level as,fourth intercostal space,,117136008
+CV18,same level as,third intercostal space,,117135007
+CV19,same level as,second intercostal space,,117134006
+CV20,same level as,first intercostal space,,117133000
+CV21,inferior to,suprasternal fossa,,
+CV21,inferior to,CV22,,273119003
+CV22,between,each clavicle,,
+CV23,superior to superior border to,thyroid cartilage,UBERON_0001738,52940008
+CV23,superior to,hyoid bone,UBERON_0001685,21387005
+GB1,lateral to,eye,UBERON_0000970,81745001
+GB2,between,intertragic notch,,
+GB2,anterior to,intertragic notch,,
+GB3,superior to,zygomatic arch,UBERON_0002500,51204001
+GB3,superior to,St7,,
+GB8,superior to,auricular apex,,
+GB8,superior to,temporal hairline,,
+GB9,posterior to,GB8,,273016008
+GB9,superior to,auricular root,,
+GB9,superior to,hairline,UBERON_0004104,
+GB10,posterosuperior to,mastoid process,,
+GB10,Posterior to,hairline,UBERON_0004104,
+GB10,superior to,hairline,UBERON_0004104,
+GB11,posterior and superior to,mastoid process,,
+GB12,posteroinferior to,mastoid process,,
+GB13,superior to,anterior hairline,,
+GB13,lateral to,anterior median line,,
+GB14,superior to,eyebrow,UBERON_0010163,84238004
+GB14,superior to,pupil,UBERON_0001771,35146001
+GB15,superior to,pupil,UBERON_0001771,35146001
+GB16,superior to,pupil,UBERON_0001771,35146001
+GB16,superior to,GB15,,273022004
+GB17,superior to,pupil,UBERON_0001771,35146001
+GB17,superior to,GB15,,273022004
+GB18,superior to,pupil,UBERON_0001771,35146001
+GB18,posterior to,gB17,,273024003
+GB18,same level as,BL7,,272884009
+GB19,same level as,external occipital protuberance,UBERON_0013469,61918000
+GB19,superior to,gB20,,273027005
+GB19,same level as,GV17,,273084000
+GB20,inferior to,occipital bone,UBERON_0001676,31640002
+GB20,between,sternocleidomastoid,UBERON_0001128,181741009
+GB20,between,trapezius muscles,,
+GB20,same level as,GV16,,273083006
+GB21,connecting,seventh cervical vertebra (C7),,
+GB21,connecting,acromion,UBERON_0002497,31934006
+GB23,anterior to,midaxillary line,,260515002
+GB24,lateral to,anterior median line,,
+GB24,inferior to,nipple,UBERON_0002030,265780004
+GB24,inferior to,Lr14,,
+GB25,inferior to,12th rib,,
+GB25,posterior to,posterior axillary line,,45903001
+GB26,inferior to,11th rib,,
+GB26,same level as,umbilicus,UBERON_0007118,78220002
+GB26,inferior to,LR13,,273065003
+GB26,same level as,CV8,,273105003
+GB27,inferior to,umbilicus,UBERON_0007118,78220002
+GB27,medial to,anterior superior iliac spine,UBERON_0013708,39583001
+GB27,inferior to,GB26,,273033001
+GB28,medioinferior to,anterior superior iliac spine,UBERON_0013708,39583001
+GB29,connecting,anterior superior iliac spine,UBERON_0013708,39583001
+GB30,connecting,greater trochanter,UBERON_0002503,30547004
+GB31,posterior to,iliotibial band,,
+GB32,superior to,popliteal crease,,
+GB32,posterior to,iliotibial band,,
+GB33,between,biceps femoris tendon,,
+GB33,between,iliotibial band,,
+GB33,posterior and proximal to,femur,UBERON_0000981,71341001
+GB34,anterior and distal to,fibula,UBERON_0001446,87342007
+GB35,posterior to,fibula,UBERON_0001446,87342007
+GB35,proximal to,lateral malleolus,,113225006
+GB35,connecting,lateral malleolus,,113225006
+GB35,posterior to,gB36,,273043003
+GB35,connecting,popliteal crease,,
+GB36,anterior to,fibula,UBERON_0001446,87342007
+GB36,proximal to,lateral malleolus,,113225006
+GB36,connecting,lateral malleolus,,113225006
+GB36,anterior to,GB35,,273042008
+GB36,connecting,popliteal crease,,
+GB37,anterior to,fibula,UBERON_0001446,87342007
+GB37,proximal to,lateral malleolus,,113225006
+GB38,proximal to,lateral malleolus,,113225006
+GB38,anterior to,fibula,UBERON_0001446,87342007
+GB39,proximal to,lateral malleolus,,113225006
+GB39,anterior to,fibula,UBERON_0001446,87342007
+GB40,lateral to,extensor digitorum longus tendon,,
+GB40,anterior and distal to,lateral malleolus,,113225006
+GB41,lateral to,fifth extensor digitorum longus tendon,,
+GB42,between,fourth and fifth metatarsal bones,,
+GB42,proximal to,fourth metatarsophalangeal joint,,45230000
+GB43,between,fourth and fifth toes,,
+GB43,between,red and white flesh,,
+GB44,lateral to,distal phalanx,UBERON_0004300,299711006
+GB44,proximal to,toenail,,76578001
+GV1,inferior to,coccyx,UBERON_0001350,64688005
+GV1,between,coccyx,UBERON_0001350,64688005
+GV1,between,anus,UBERON_0001245,53505006
+GV3,inferior to,fourth lumbar vertebra (L4),,
+GV4,inferior to,second lumbar vertebra (L2),,
+GV5,inferior to,first lumbar vertebra (L1),,
+GV6,inferior to,11th thoracic vertebra (T11),,
+GV7,inferior to,tenth thoracic vertebra (T10),,
+GV8,inferior to,ninth thoracic vertebra (T9),,
+GV9,inferior to,seventh thoracic vertebra (T7),,
+GV10,inferior to,sixth thoracic vertebra (T6),,
+GV11,inferior to,fifth thoracic vertebra (T5),,
+GV12,inferior to,third thoracic vertebra (T3),,
+GV13,inferior to,first thoracic vertebra (T1),,
+GV14,inferior to,seventh cervical vertebra (C7),,
+GV15,superior to,second cervical vertebra (C2),,
+GV15,inferior to,GV16,,273083006
+GV16,inferior to,external occipital protuberance,UBERON_0013469,61918000
+GV17,superior to,external occipital protuberance,UBERON_0013469,61918000
+GV17,same level as,BL9,,272886006
+GV18,superior to,posterior hairline,,
+GV18,superior to,gV17,,273084000
+GV19,superior to,posterior hairline,,
+GV19,posterior to,gV20,,273087007
+GV20,superior to,anterior hairline,,
+GV20,between,auricular apices,,
+GV21,superior to,anterior hairline,,
+GV21,connecting,gV20,,273087007
+GV21,connecting,gV22,,273089005
+GV22,superior to,anterior hairline,,
+GV23,superior to,anterior hairline,,
+GV24,superior to,anterior hairline,,
+GV24,between,eyebrows,,
+HT2,medial to,biceps brachii muscle,,16225001
+HT2,superior to,cubital crease,,
+HT2,connecting,Ht1,,
+HT2,connecting,Ht3,,
+HT3,same level as,cubital crease,,
+HT3,anterior to,humerus,UBERON_0004250,85050009
+HT3,connecting,cubital crease,,
+HT4,radial to,flexor carpi ulnaris tendon,,
+HT4,proximal to,palmar wrist crease,,
+HT4,proximal to,HT7,,272854001
+HT4,same level as,ulna,UBERON_0001424,23416004
+HT4,proximal to,pisiform bone,,
+HT5,radial to,flexor carpi ulnaris tendon,,
+HT5,proximal to,palmar wrist crease,,
+HT5,proximal to,HT7,,272854001
+HT5,proximal to,pisiform bone,,
+HT6,proximal to,palmar wrist crease,,
+HT6,radial to,flexor carpi ulnaris tendon,,
+HT6,proximal to,HT7,,272854001
+HT6,same level as,ulna,UBERON_0001424,23416004
+HT6,proximal to,pisiform bone,,
+HT7,radial to,flexor carpi ulnaris tendon,,
+HT7,radial to,pisiform bone,,
+HT8,between,fourth and fifth metacarpal bones,,
+HT8,proximal to,fifth metacarpophalangeal joint,,
+HT8,same level as,PC8,,272981002
+HT8,Between,fourth and fifth metacarpal bones,,
+HT9,radial to,distal phalanx,UBERON_0004300,299711006
+HT9,proximallateral to,little fingernail,,
+KI1,connecting,heel,UBERON_0015875,76853006
+KI1,between,second and third toes,,
+KI2,inferior to,navicular bone,,
+KI2,between,red and white flesh,,
+KI3,between,medial malleolus,,6417001
+KI4,posteroinferior to,medial malleolus,,6417001
+KI4,superior to,calcaneus,UBERON_0001450,80144004
+KI4,anterior to,calcaneal tendon,UBERON_0003701,
+KI5,anterior to,calcaneal tuberosity,,
+KI5,inferior to,KI3,,272948003
+KI6,inferior to,medial malleolus,,6417001
+KI7,anterior to,calcaneal tendon,UBERON_0003701,
+KI7,superior to,medial malleolus,,6417001
+KI7,same level,KI8,,272953008
+KI7,posterior to,KI8,,272953008
+KI8,posterior to,tibial bone,,
+KI8,superior to,medial malleolus,,6417001
+KI8,anterior to,KI7,,272952003
+KI9,between,soleus muscle,UBERON_0001389,78376008
+KI9,between,calcaneal tendon,UBERON_0003701,
+KI9,superior to,medial malleolus,,6417001
+KI9,same level as,LR5,,273057001
+KI9,connecting,KI3,,272948003
+KI9,connecting,KI10,,272955001
+KI10,lateral to,semitendinosus tendon,UBERON_8480009,128510008
+KI11,inferior to,umbilicus,UBERON_0007118,78220002
+KI11,lateral to,anterior median line,,
+KI12,inferior to,umbilicus,UBERON_0007118,78220002
+KI12,lateral to,anterior median line,,
+KI13,inferior to,umbilicus,UBERON_0007118,78220002
+KI13,lateral to,anterior median line,,
+KI14,inferior to,umbilicus,UBERON_0007118,78220002
+KI14,lateral to,anterior median line,,
+KI15,inferior to,umbilicus,UBERON_0007118,78220002
+KI15,lateral to,anterior median line,,
+KI16,lateral to,umbilicus,UBERON_0007118,78220002
+KI17,superior to,umbilicus,UBERON_0007118,78220002
+KI17,lateral to,anterior median line,,
+KI18,superior to,umbilicus,UBERON_0007118,78220002
+KI18,lateral to,anterior median line,,
+KI19,superior to,umbilicus,UBERON_0007118,78220002
+KI19,lateral to,anterior median line,,
+KI20,superior to,umbilicus,UBERON_0007118,78220002
+KI20,lateral to,anterior median line,,
+KI21,superior to,umbilicus,UBERON_0007118,78220002
+KI21,lateral to,anterior median line,,
+KI22,lateral to,anterior median line,,
+KI23,lateral to,anterior median line,,
+KI24,lateral to,anterior median line,,
+KI25,lateral to,anterior median line,,
+KI26,lateral to,anterior median line,,
+KI27,lateral to,anterior median line,,
+KI27,inferior to,clavicle,UBERON_0011658,51299004
+LI1,radial to,distal phalanx,UBERON_0004300,299711006
+LI1,proximallateral to,index fingernail,,
+LI2,distal to,second metacarpophalangeal,,
+LI2,between,red and white flesh,,
+LI3,radial and proximal to,second metacarpophalangeal joint,,
+LI4,radial to,second metacarpal bone,,81921009
+LI5,distal to,radial styloid process,,
+LI5,between,extensor pollicis longus,,81440007
+LI5,between,extensor pollicis brevis,,244995005
+LI6,superior to,dorsal wrist crease,,
+LI6,connecting,LI5,,272762002
+LI6,connecting,LI11,,272768003
+LI7,superior to,dorsal wrist crease,,
+LI7,connecting,LI5,,272762002
+LI7,connecting,LI11,,272768003
+LI8,connecting,LI5,,272762002
+LI8,connecting,LI11,,272768003
+LI8,inferior to,cubital crease,,
+LI8,inferior to,LI9,,272766004
+LI9,inferior to,cubital crease,,
+LI9,connecting,LI5,,272762002
+LI9,connecting,LI11,,272768003
+LI10,connecting,LI5,,272762002
+LI10,connecting,LI11,,272768003
+LI10,inferior to,cubital crease,,
+LI11,connecting,LU5,,272750001
+LI12,superior to,humerus,UBERON_0004250,85050009
+LI12,anterior to,lateral supraepicondylar ridge,,
+LI13,connecting,LI11,,272768003
+LI13,superior to,cubital crease,,
+LI14,lateral aspect of,arm,UBERON_0001460,40983000
+LI14,anterior to,deltoid muscle,,35259002
+LI14,superior to,LI11,,272768003
+LI15,anterior and posterior to,acromion,UBERON_0002497,31934006
+LI15,anterior to,acromion,UBERON_0002497,31934006
+LI16,between,clavicle,UBERON_0011658,51299004
+LI16,between,two bones,,
+LI16,lateral to,suprascapular fossa,UBERON_4200020,
+LI17,same level as,cricoid cartilage,UBERON_0002375,8600008
+LI17,posterior to,sternocleidomastoid muscle,,22823000
+LI17,inferior to,LI18,,272775002
+LI17,same level as,St10,,
+LI18,same level as,thyroid cartilage,UBERON_0001738,52940008
+LI18,between,sternocleidomastoid muscle,,22823000
+LI19,inferior to,nostril,,1797002
+LI19,same level as,philtrum,UBERON_0005402,32087006
+LI19,laterals to,GV 26,,
+LI20,same level as,nose,UBERON_0000004,45206002
+LR1,lateral to,distal phalanx,UBERON_0004300,299711006
+LR1,proximal to,toenail,,76578001
+LR2,between,first and second toes,,
+LR2,between,red and white flesh,,
+LR3,between,first and second metatarsal bones,,
+LR3,distal to,two bones,,
+LR4,anterior to,medial malleolus,,6417001
+LR4,medial to,tibialis anterior tendon,,
+LR4,between,SP5,,272830006
+LR4,between,St41,,
+LR5,proximal to,medial malleolus,,6417001
+LR5,connecting,patella,UBERON_0002446,64234005
+LR5,connecting,medial malleolus,,6417001
+LR5,same level as,KI9,,272954002
+LR6,proximal to,medial malleolus,,6417001
+LR6,connecting,patella,UBERON_0002446,64234005
+LR7,inferior to,tibia,UBERON_0000979,12611008
+LR7,posterior to,SP9,,272834002
+LR8,medial to,semitendinosus and the semimembranosus muscles,,
+LR8,medial to,most prominent tendon,,
+LR9,between,gracilis,UBERON_0000950,181689005
+LR9,between,sartorius muscles,,
+LR9,proximal to,patella,UBERON_0002446,64234005
+LR9,posterior to,muscle,UBERON_0001630,71616004
+LR10,distal to,St30,,
+LR11,distal to,St30,,
+LR11,lateral to,adductor longus muscle,,85629004
+LR12,same level as,pubic symphysis,UBERON_0003699,182200001
+LR12,lateral to,anterior median line,,
+LR13,inferior to,11th rib,,
+LR14,lateral to,anterior median line,,
+LR14,inferior to,nipple,UBERON_0002030,265780004
+LR14,lateral to,St19,,
+LU1,same level as,first intercostal space,,117133000
+LU1,lateral to,infraclavicular fossa,,
+LU1,lateral to,anterior median line,,
+LU1,inferior to,LU2,,272747004
+LU2,medial to,scapula,UBERON_0006849,79601000
+LU2,lateral to,anterior median line,,
+LU3,lateral to,biceps brachii muscle,,16225001
+LU3,inferior to,anterior axillary fold,,52239003
+LU3,connecting,anterior axillary fold,,52239003
+LU3,connecting,LU5,,272750001
+LU4,lateral to,biceps brachii muscle,,16225001
+LU4,inferior to,anterior axillary fold,,52239003
+LU5,lateral to,biceps brachii tendon,,
+LU5,between,LI11,,272768003
+LU5,between,PC3,,272976006
+LU6,superior to,palmar wrist crease,,
+LU6,connecting,LU5,,272750001
+LU6,connecting,LU9,,272754005
+LU6,inferior to,LU5,,272750001
+LU7,superior to,palmar wrist crease,,
+LU8,superior to,LU9,,272754005
+LU8,superior to,palmar wrist crease,,
+LU9,between,radial styloid process,,
+LU9,between,scaphoid bone,,30518006
+LU9,ulnar to,abductor pollicis longus tendon,,
+LU10,radial to,first metacarpal bone,,4247003
+LU10,between,red and white flesh,,
+LU11,radial to,distal phalanx,UBERON_0004300,299711006
+LU11,proximallateral to,thumb nail,,
+PC1,lateral to,anterior median line,,
+PC2,between,biceps brachii muscle,,16225001
+PC2,distal to,anterior axillary fold,,52239003
+PC3,medial to,biceps brachii tendon,,
+PC4,between,palmaris longus,,181636009
+PC4,proximal to,palmar wrist crease,,
+PC4,connecting,PC3,,272976006
+PC4,connecting,PC7,,272980001
+PC4,medial to,flexor carpi radialis tendon,,
+PC5,between,palmaris longus,,181636009
+PC5,between,flexor carpi radialis,UBERON_0001521,30339000
+PC5,proximal to,palmar wrist crease,,
+PC5,proximal to,PC7,,272980001
+PC5,medial to,flexor carpi radialis tendon,,
+PC6,between,palmaris longus,,181636009
+PC6,between,flexor carpi radialis,UBERON_0001521,30339000
+PC6,proximal to,palmar wrist crease,,
+PC6,proximal to,PC7,,272980001
+PC6,medial to,flexor carpi radialis tendon,,
+PC7,between,palmaris longus,,181636009
+PC7,between,flexor carpi radialis,UBERON_0001521,30339000
+PC7,same level as,Ht7,,
+PC8,between,second and third metacarpal bones,,
+PC8,proximal to,metacarpophalangeal joints,,
+PC8,between,third and fourth metacarpal bones,,
+PC9,proximal to,middle fingernail,,
+SI1,ulnar to,distal phalanx,UBERON_0004300,299711006
+SI1,proximalmedial to,little fingernail,,
+SI2,distal to,fifth metacarpophalangeal joint,,
+SI2,between,red and white flesh,,
+SI3,proximal to,fifth metacarpophalangeal joint,,
+SI3,between,red and white flesh,,
+SI4,between,fifth metacarpal bone,,50939004
+SI4,between,triquetrum bone,,
+SI4,between,red and white flesh,,
+SI6,radial to,ulnar bone,,
+SI6,proximal to,dorsal wrist crease,,
+SI7,between,ulnar bone,,
+SI7,between,flexor carpi ulnaris muscle,UBERON_0001522,14437004
+SI7,proximal to,dorsal wrist crease,,
+SI7,connecting,SI5,,272862009
+SI7,connecting,SI8,,272865006
+SI8,between,olecranon,UBERON_0006810,37888007
+SI8,between,humerus bone,,
+SI9,posteroinferior to,shoulder joint,UBERON_0016884,31398001
+SI9,superior to,posterior axillary fold,,55665000
+SI9,posterior to,deltoid muscle,,35259002
+SI10,superior to,posterior axillary fold,,55665000
+SI10,inferior to,scapula,UBERON_0006849,79601000
+SI11,connecting,scapula,UBERON_0006849,79601000
+SI12,superior to,scapula,UBERON_0006849,79601000
+SI13,superior to,scapula,UBERON_0006849,79601000
+SI13,connecting,SI10,,272867003
+SI13,connecting,second thoracic vertebra (T2),,
+SI14,same level as,first thoracic vertebra (T1),,
+SI14,lateral to,posterior median line,,
+SI14,inferior to,first thoracic vertebra (T1),,
+SI14,same level as,BL11,,272888007
+SI14,same level as,gV13,,273080009
+SI15,same level as,seventh cervical vertebra (C7),,
+SI15,lateral to,posterior median line,,
+SI15,connecting,posterior median line,,
+SI15,connecting,scapula,UBERON_0006849,79601000
+SI15,inferior to,seventh cervical vertebra (C7),,
+SI16,posterior to,sternocleidomastoid muscle,,22823000
+SI16,same level as,thyroid cartilage,UBERON_0001738,52940008
+SI16,same level as,St9,,
+SI16,anterior to,sternocleidomastoid muscle,,22823000
+SI16,between,sternocleidomastoid muscle,,22823000
+SI17,posterior to,mandible,UBERON_0001684,91609006
+SI17,anterior to,sternocleidomastoid muscle,,22823000
+SI18,inferior to,zygomatic bone,,13881006
+SI18,inferior to,eye,UBERON_0000970,81745001
+SI19,between,tragus,UBERON_0010887,59581006
+SI19,between,tE21,,273005001
+SI19,between,gB2,,273010002
+SI19,anterior to,tragus,UBERON_0010887,59581006
+SP1,medial to,distal phalanx,UBERON_0004300,299711006
+SP1,proximalmedial to,toenail,,76578001
+SP2,distal to,first metatarsophalangeal joint,,182223003
+SP2,between,red and white flesh,,
+SP3,proximal to,first metatarsophalangeal joint,,182223003
+SP3,between,red and white flesh,,
+SP4,anteroinferior to,first metatarsal bone,,20151003
+SP4,between,red and white flesh,,
+SP4,distal to,first metatarsal bone,,20151003
+SP5,anteroinferior to,medial malleolus,,6417001
+SP5,between,navicular bone,,
+SP5,anterior to,KI6,,272951005
+SP5,posterior to,LR4,,273056005
+SP6,posterior to,tibia,UBERON_0000979,12611008
+SP6,superior to,medial malleolus,,6417001
+SP6,superior to,KI8,,272953008
+SP7,posterior to,tibia,UBERON_0000979,12611008
+SP7,superior to,medial malleolus,,6417001
+SP7,superior to,SP6,,272831005
+SP8,posterior to,tibia,UBERON_0000979,12611008
+SP8,inferior to,SP9,,272834002
+SP8,connecting,patella,UBERON_0002446,64234005
+SP9,between,tibia,UBERON_0000979,12611008
+SP9,inferior to,knee joint,UBERON_0001485,49076000
+SP10,superior to,patella,UBERON_0002446,64234005
+SP11,connecting,patella,UBERON_0002446,64234005
+SP11,connecting,SP12,,272837009
+SP11,between,sartorius muscle,UBERON_0001373,12595009
+SP11,between,adductor longus muscle,,85629004
+SP11,over,femoral artery,UBERON_0002060,7657000
+SP12,lateral to,femoral artery,UBERON_0002060,7657000
+SP12,same level as,CV2,,273098008
+SP12,medial and inferior to,SP13,,272838004
+SP13,inferior to,umbilicus,UBERON_0007118,78220002
+SP13,lateral to,anterior median line,,
+SP14,inferior to,umbilicus,UBERON_0007118,78220002
+SP14,lateral to,anterior median line,,
+SP15,lateral to,umbilicus,UBERON_0007118,78220002
+SP15,lateral to,ST25,,272804007
+SP15,lateral to,KI16,,272961003
+SP15,lateral to,CV8,,273105003
+SP15,same level,ST25,,272804007
+SP15,same level,KI16,,272961003
+SP15,same level,CV8,,273105003
+SP16,superior to,umbilicus,UBERON_0007118,78220002
+SP16,lateral to,anterior median line,,
+SP16,superior to,SP15,,272840009
+SP16,same level as,CV11,,273108001
+SP17,lateral to,anterior median line,,
+SP18,lateral to,anterior median line,,
+SP19,lateral to,anterior median line,,
+SP20,lateral to,anterior median line,,
+ST1,inferior to,pupil,UBERON_0001771,35146001
+ST3,inferior to,pupil,UBERON_0001771,35146001
+ST3,same level as,nose,UBERON_0000004,45206002
+ST4,lateral to,mouth,UBERON_0000165,21082005
+ST5,anterior to,mandible,UBERON_0001684,91609006
+ST5,anterior to,masseter attachment,,
+ST6,anterosuperior to,mandible,UBERON_0001684,91609006
+ST7,inferior to,zygomatic arch,UBERON_0002500,51204001
+ST7,inferior to,gB3,,273011003
+ST8,superior to,anterior hairline,,
+ST8,lateral to,anterior median line,,
+ST9,same level as,thyroid cartilage,UBERON_0001738,52940008
+ST9,anterior to,sternocleidomastoid muscle,,22823000
+ST9,same level as,LI18,,272775002
+ST9,posterior to,sternocleidomastoid muscle,,22823000
+ST9,between,sternocleidomastoid muscle,,22823000
+ST10,same level as,cricoid cartilage,UBERON_0002375,8600008
+ST10,anterior to,sternocleidomastoid muscle,,22823000
+ST11,superior to,clavicle,UBERON_0011658,51299004
+ST11,between,sternocleidomastoid muscle,,22823000
+ST11,inferior to,St9,,
+ST12,lateral to,anterior median line,,
+ST12,superior to,clavicle,UBERON_0011658,51299004
+ST13,inferior to,clavicle,UBERON_0011658,51299004
+ST13,lateral to,anterior median line,,
+ST14,lateral to,anterior median line,,
+ST15,lateral to,anterior median line,,
+ST15,inferior to,second rib,,78247007
+ST15,same level as,sternal angle,,44612009
+ST16,lateral to,anterior median line,,
+ST18,lateral to,anterior median line,,
+ST19,superior to,umbilicus,UBERON_0007118,78220002
+ST19,lateral to,anterior median line,,
+ST19,lateral to,CV14,,273111000
+ST20,superior to,umbilicus,UBERON_0007118,78220002
+ST20,lateral to,anterior median line,,
+ST20,superior to,ST25,,272804007
+ST20,inferior to,St19,,
+ST20,lateral to,CV13,,273110004
+ST21,superior to,umbilicus,UBERON_0007118,78220002
+ST21,lateral to,anterior median line,,
+ST21,superior to,ST25,,272804007
+ST21,inferior to,St20,,
+ST21,lateral to,CV12,,273109009
+ST22,superior to,umbilicus,UBERON_0007118,78220002
+ST22,lateral to,anterior median line,,
+ST22,same level,KI18,,272963000
+ST22,same level,CV11,,273108001
+ST22,lateral to,KI18,,272963000
+ST22,lateral to,CV11,,273108001
+ST23,superior to,umbilicus,UBERON_0007118,78220002
+ST23,lateral to,anterior median line,,
+ST23,same level,KI17,,272962005
+ST23,same level,CV10,,273107006
+ST23,lateral to,KI17,,272962005
+ST23,lateral to,CV10,,273107006
+ST24,superior to,umbilicus,UBERON_0007118,78220002
+ST24,lateral to,anterior median line,,
+ST24,same level,CV9,,273106002
+ST24,lateral to,CV9,,273106002
+ST25,lateral to,umbilicus,UBERON_0007118,78220002
+ST26,inferior to,umbilicus,UBERON_0007118,78220002
+ST26,lateral to,anterior median line,,
+ST26,same level,KI15,,272960002
+ST26,same level,CV7,,273104004
+ST26,lateral to,KI15,,272960002
+ST26,lateral to,CV7,,273104004
+ST27,inferior to,umbilicus,UBERON_0007118,78220002
+ST27,lateral to,anterior median line,,
+ST27,same level,KI14,,272959007
+ST27,same level,CV5,,273102000
+ST27,lateral to,KI14,,272959007
+ST27,lateral to,CV5,,273102000
+ST28,inferior to,umbilicus,UBERON_0007118,78220002
+ST28,lateral to,anterior median line,,
+ST28,inferior to,ST25,,272804007
+ST28,inferior to,St27,,
+ST28,lateral to,CV4,,273101007
+ST29,inferior to,umbilicus,UBERON_0007118,78220002
+ST29,lateral to,anterior median line,,
+ST29,inferior to,ST25,,272804007
+ST29,inferior to,St28,,
+ST29,lateral to,CV3,,273100008
+ST30,same level as,pubic symphysis,UBERON_0003699,182200001
+ST30,lateral to,anterior median line,,
+ST30,inferior to,ST25,,272804007
+ST30,lateral to,CV2,,273098008
+ST31,connecting,patella,UBERON_0002446,64234005
+ST31,connecting,anterior superior iliac spine,UBERON_0013708,39583001
+ST32,connecting,patella,UBERON_0002446,64234005
+ST32,superior to,patella,UBERON_0002446,64234005
+ST33,lateral to,rectus femoris tendon,,
+ST33,superior to,patella,UBERON_0002446,64234005
+ST33,connecting,St32,,
+ST33,connecting,patella,UBERON_0002446,64234005
+ST34,superior to,patella,UBERON_0002446,64234005
+ST34,inferior to,St33,,
+ST35,lateral to,patellar ligament,UBERON_0003676,18033002
+ST35,lateral and inferior to,patella,UBERON_0002446,64234005
+ST36,inferior to,ST35,,272814003
+ST36,connecting,ST35,,272814003
+ST36,connecting,ST41,,272820002
+ST37,connecting,ST35,,272814003
+ST37,connecting,ST41,,272820002
+ST37,inferior to,ST35,,272814003
+ST38,connecting,ST35,,272814003
+ST38,connecting,ST41,,272820002
+ST38,inferior to,ST35,,272814003
+ST38,same level as,St40,,
+ST39,connecting,ST35,,272814003
+ST39,connecting,ST41,,272820002
+ST39,inferior to,ST35,,272814003
+ST39,same level as,GB35,,273042008
+ST39,same level as,gB36,,273043003
+ST40,superior to,lateral malleolus,,113225006
+ST40,lateral to,ST38,,272817005
+ST41,between,extensor hallucis longus,,181697003
+ST41,between,extensor digitorum longus,UBERON_0001386,181698008
+ST41,connecting,lateral malleolus,,113225006
+ST41,connecting,medial malleolus,,6417001
+ST41,between,dorsum of the foot,,
+ST43,between,second and third metatarsal bones,,
+ST43,proximal to,second metatarsophalangeal joint,,71721008
+ST44,between,second and third toes,,
+ST44,posterior to,web margin,,
+ST44,between,red and white flesh,,
+ST45,lateral to,distal phalanx,UBERON_0004300,299711006
+ST45,proximallateral to,second toenail,,
+TE1,ulnar to,distal phalanx,UBERON_0004300,299711006
+TE1,proximal to,fingernail,,91456000
+TE2,between,ring and little fingers,,
+TE2,between,red and white flesh,,
+TE3,between,fourth and fifth metacarpal bones,,
+TE3,proximal to,fourth metacarpophalangeal joint,,
+TE4,ulnar to,extensor digitorum tendon,,
+TE4,between,fifth and fourth metacarpal bones,,
+TE4,same level as,LI5,,272762002
+TE4,same level as,SI5,,272862009
+TE5,between,radius,UBERON_0001423,62413002
+TE5,proximal to,dorsal wrist crease,,
+TE5,proximal to,TE4,,272987003
+TE5,between,ulna,UBERON_0001424,23416004
+TE6,between,radius,UBERON_0001423,62413002
+TE6,between,ulna,UBERON_0001424,23416004
+TE6,proximal to,dorsal wrist crease,,
+TE6,proximal to,TE5,,272988008
+TE7,radial to,ulna,UBERON_0001424,23416004
+TE7,proximal to,dorsal wrist crease,,
+TE7,ulnar to,TE6,,272989000
+TE8,between,radius,UBERON_0001423,62413002
+TE8,between,ulna,UBERON_0001424,23416004
+TE8,proximal to,dorsal wrist crease,,
+TE8,connecting,tE4,,272987003
+TE8,connecting,elbow,UBERON_0001461,76248009
+TE9,between,radius,UBERON_0001423,62413002
+TE9,between,ulna,UBERON_0001424,23416004
+TE9,distal to,olecranon,UBERON_0006810,37888007
+TE10,proximal to,olecranon,UBERON_0006810,37888007
+TE11,connecting,olecranon,UBERON_0006810,37888007
+TE11,connecting,acromial angle,,
+TE11,proximal to,olecranon,UBERON_0006810,37888007
+TE12,connecting,olecranon,UBERON_0006810,37888007
+TE12,connecting,acromial angle,,
+TE12,proximal to,olecranon,UBERON_0006810,37888007
+TE13,posteroinferior to,deltoid muscle,,35259002
+TE13,inferior to,acromial angle,,
+TE14,between,acromial angle,,
+TE14,anterior and posterior to,acromion,UBERON_0002497,31934006
+TE15,superior to,scapula,UBERON_0006849,79601000
+TE15,between,gB21,,273028000
+TE15,between,SI13,,272870004
+TE16,same level as,mandible,UBERON_0001684,91609006
+TE16,posterior to,sternocleidomastoid muscle,,22823000
+TE17,posterior to,ear lobe,,48800003
+TE17,anterior to,mastoid process,,
+TE20,superior to,auricular apex,,
+TE21,between,supratragic notch,,
+TE21,anterior to,supratragic notch,,
+TE21,superior to,SI19,,272876005
+TE22,posterior to,temple hairline,,
+TE22,anterior to,auricular root,,
+TE22,posterior to,superficial temporal artery,UBERON_0001614,15672000
+TE23,superior to,GB1,,273009007
