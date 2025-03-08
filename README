@@ -26,6 +26,33 @@ AcuKG is built from multiple data sources, structured into CSV files:
 | `pinyinname.csv`     | Pinyin transliterations of acupuncture point names. |
 | `PubMed.csv`         | Conditions of acupoints to PubMed articles. |
 
+## **Data Statistics**
+## Entity Statistics
+
+| Entity              | Number of Entities |
+|---------------------|-------------------|
+| Acupoint           | 361/1839 (%)       |
+| Action Target      | 230/1839 (%)       |
+| Indication        | 447/1839 (%)       |
+| Anatomical Location | 404/1839 (%)      |
+| Condition          | 397/1839 (%)       |
+
+## Relation Type Statistics
+
+| Relation Type                     | Number of Relations  |
+|------------------------------------|----------------------|
+| direction_of (subtype = 181)      | 812/11527 (%)       |
+| part_of (subtype = 143)           | 526/11527 (%)       |
+| distance_of (subtype = 28)        | 302/11527 (%)       |
+| near_acupoint                     | 191/11527 (%)       |
+| located_near                      | 1127/11527 (%)      |
+| has_clinicaltrials                | 4305/11527 (%)      |
+| has_pubmed                        | 469/11527 (%)       |
+| treats                            | 2362/11527 (%)      |
+| has_target (subtype = 80)         | 1433/11527 (%)      |
+
+
+
 ## **Applications**
 - **Clinical Decision Support**: AcuKG helps practitioners identify effective acupoints for specific conditions based on evidence-based insights.
 - **Medical Knowledge Integration**: Provides interoperability with standardized medical ontologies for broader healthcare applications.
