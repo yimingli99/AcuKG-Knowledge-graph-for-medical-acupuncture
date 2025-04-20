@@ -1,0 +1,1406 @@
+@prefix acu: <http://example.org/acupuncture/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/acupuncture/distance_of/record1> acu:Acupoint_Code "BL1" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "0.1 B-cun" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/distance_of/record10> acu:Acupoint_Code "BL6" ;
+    acu:Anatomy "BL5" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.72882e+08 .
+
+<http://example.org/acupuncture/distance_of/record100> acu:Acupoint_Code "GB28" ;
+    acu:Anatomy "anterior superior iliac spine" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 3.9583e+07 ;
+    acu:UBERON_code "UBERON_0013708" .
+
+<http://example.org/acupuncture/distance_of/record101> acu:Acupoint_Code "GB28" ;
+    acu:Anatomy "gB27" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73034e+08 .
+
+<http://example.org/acupuncture/distance_of/record102> acu:Acupoint_Code "GB30" ;
+    acu:Anatomy "greater trochanter" ;
+    acu:Relation "lateral one third" ;
+    acu:SNOMED_CT_code 3.0547e+07 ;
+    acu:UBERON_code "UBERON_0002503" .
+
+<http://example.org/acupuncture/distance_of/record103> acu:Acupoint_Code "GB30" ;
+    acu:Anatomy "greater trochanter" ;
+    acu:Relation "medial two thirds" ;
+    acu:SNOMED_CT_code 3.0547e+07 ;
+    acu:UBERON_code "UBERON_0002503" .
+
+<http://example.org/acupuncture/distance_of/record104> acu:Acupoint_Code "GB32" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "7 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record105> acu:Acupoint_Code "GB35" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "7 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record106> acu:Acupoint_Code "GB36" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "7 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record107> acu:Acupoint_Code "GB37" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record108> acu:Acupoint_Code "GB38" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record109> acu:Acupoint_Code "GB39" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record11> acu:Acupoint_Code "BL6" ;
+    acu:Anatomy "BL4" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.72881e+08 .
+
+<http://example.org/acupuncture/distance_of/record110> acu:Acupoint_Code "GB44" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "0.1 f-cun" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/distance_of/record111> acu:Acupoint_Code "GV15" ;
+    acu:Anatomy "GV16" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73083e+08 .
+
+<http://example.org/acupuncture/distance_of/record112> acu:Acupoint_Code "GV16" ;
+    acu:Anatomy "trapezius muscles" ;
+    acu:Relation "between" .
+
+<http://example.org/acupuncture/distance_of/record113> acu:Acupoint_Code "GV18" ;
+    acu:Anatomy "posterior hairline" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record114> acu:Acupoint_Code "GV18" ;
+    acu:Anatomy "gV17" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73084e+08 .
+
+<http://example.org/acupuncture/distance_of/record115> acu:Acupoint_Code "GV19" ;
+    acu:Anatomy "posterior hairline" ;
+    acu:Relation "5.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record116> acu:Acupoint_Code "GV19" ;
+    acu:Anatomy "gV20" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73087e+08 .
+
+<http://example.org/acupuncture/distance_of/record117> acu:Acupoint_Code "GV20" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record118> acu:Acupoint_Code "GV21" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "3.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record119> acu:Acupoint_Code "GV22" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record12> acu:Acupoint_Code "BL7" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record120> acu:Acupoint_Code "GV23" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record121> acu:Acupoint_Code "GV24" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record122> acu:Acupoint_Code "GV26" ;
+    acu:Anatomy "philtrum midline" ;
+    acu:Relation "upper one third" .
+
+<http://example.org/acupuncture/distance_of/record123> acu:Acupoint_Code "GV26" ;
+    acu:Anatomy "philtrum midline" ;
+    acu:Relation "lower two thirds" .
+
+<http://example.org/acupuncture/distance_of/record124> acu:Acupoint_Code "HT2" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record125> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record126> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "HT7" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.72854e+08 .
+
+<http://example.org/acupuncture/distance_of/record127> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record128> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record129> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "HT7" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72854e+08 .
+
+<http://example.org/acupuncture/distance_of/record13> acu:Acupoint_Code "BL7" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record130> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record131> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record132> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "HT7" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.72854e+08 .
+
+<http://example.org/acupuncture/distance_of/record133> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record134> acu:Acupoint_Code "HT9" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "0.1 f-cun" .
+
+<http://example.org/acupuncture/distance_of/record135> acu:Acupoint_Code "KI5" ;
+    acu:Anatomy "KI3" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72948e+08 .
+
+<http://example.org/acupuncture/distance_of/record136> acu:Acupoint_Code "KI6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record137> acu:Acupoint_Code "KI7" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record138> acu:Acupoint_Code "KI8" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record139> acu:Acupoint_Code "KI8" ;
+    acu:Anatomy "KI7" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.72952e+08 .
+
+<http://example.org/acupuncture/distance_of/record14> acu:Acupoint_Code "BL8" ;
+    acu:Anatomy "gV20" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73087e+08 .
+
+<http://example.org/acupuncture/distance_of/record140> acu:Acupoint_Code "KI9" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record141> acu:Acupoint_Code "KI11" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record142> acu:Acupoint_Code "KI11" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record143> acu:Acupoint_Code "KI12" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record144> acu:Acupoint_Code "KI12" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record145> acu:Acupoint_Code "KI13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record146> acu:Acupoint_Code "KI13" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record147> acu:Acupoint_Code "KI14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record148> acu:Acupoint_Code "KI14" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record149> acu:Acupoint_Code "KI15" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record15> acu:Acupoint_Code "BL8" ;
+    acu:Anatomy "gV20" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73087e+08 .
+
+<http://example.org/acupuncture/distance_of/record150> acu:Acupoint_Code "KI15" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record151> acu:Acupoint_Code "KI16" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record152> acu:Acupoint_Code "KI17" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record153> acu:Acupoint_Code "KI17" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record154> acu:Acupoint_Code "KI18" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record155> acu:Acupoint_Code "KI18" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record156> acu:Acupoint_Code "KI19" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record157> acu:Acupoint_Code "KI19" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record158> acu:Acupoint_Code "KI20" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record159> acu:Acupoint_Code "KI20" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record16> acu:Acupoint_Code "BL8" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record160> acu:Acupoint_Code "KI21" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record161> acu:Acupoint_Code "KI21" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record162> acu:Acupoint_Code "KI22" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record163> acu:Acupoint_Code "KI23" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record164> acu:Acupoint_Code "KI24" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record165> acu:Acupoint_Code "KI25" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record166> acu:Acupoint_Code "KI26" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record167> acu:Acupoint_Code "KI27" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record168> acu:Acupoint_Code "LI1" ;
+    acu:Anatomy "index fingernail" ;
+    acu:Relation "0.1 f-cun" .
+
+<http://example.org/acupuncture/distance_of/record169> acu:Acupoint_Code "LI6" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record17> acu:Acupoint_Code "BL8" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "5.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record170> acu:Acupoint_Code "LI7" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record171> acu:Acupoint_Code "LI8" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record172> acu:Acupoint_Code "LI8" ;
+    acu:Anatomy "LI9" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72766e+08 .
+
+<http://example.org/acupuncture/distance_of/record173> acu:Acupoint_Code "LI9" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record174> acu:Acupoint_Code "LI10" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record175> acu:Acupoint_Code "LI13" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record176> acu:Acupoint_Code "LI14" ;
+    acu:Anatomy "LI11" ;
+    acu:Relation "7 B-cun" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/distance_of/record177> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "GV 26" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record178> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "philtrum" ;
+    acu:Relation "upper one third" ;
+    acu:SNOMED_CT_code 3.208701e+07 ;
+    acu:UBERON_code "UBERON_0005402" .
+
+<http://example.org/acupuncture/distance_of/record179> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "philtrum" ;
+    acu:Relation "lower two thirds" ;
+    acu:SNOMED_CT_code 3.208701e+07 ;
+    acu:UBERON_code "UBERON_0005402" .
+
+<http://example.org/acupuncture/distance_of/record18> acu:Acupoint_Code "BL9" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record180> acu:Acupoint_Code "LR1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "0.1 f-cun" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/distance_of/record181> acu:Acupoint_Code "LR5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record182> acu:Acupoint_Code "LR6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "7 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record183> acu:Acupoint_Code "LR7" ;
+    acu:Anatomy "SP9" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72834e+08 .
+
+<http://example.org/acupuncture/distance_of/record184> acu:Acupoint_Code "LR9" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/distance_of/record185> acu:Acupoint_Code "LR10" ;
+    acu:Anatomy "St30" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record186> acu:Acupoint_Code "LR11" ;
+    acu:Anatomy "St30" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record187> acu:Acupoint_Code "LR12" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record188> acu:Acupoint_Code "LR14" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record189> acu:Acupoint_Code "LR14" ;
+    acu:Anatomy "St19" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record19> acu:Acupoint_Code "BL11" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record190> acu:Acupoint_Code "LU1" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record191> acu:Acupoint_Code "LU1" ;
+    acu:Anatomy "LU2" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72747e+08 .
+
+<http://example.org/acupuncture/distance_of/record192> acu:Acupoint_Code "LU2" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record193> acu:Acupoint_Code "LU3" ;
+    acu:Anatomy "anterior axillary fold" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 5.2239e+07 .
+
+<http://example.org/acupuncture/distance_of/record194> acu:Acupoint_Code "LU4" ;
+    acu:Anatomy "anterior axillary fold" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 5.2239e+07 .
+
+<http://example.org/acupuncture/distance_of/record195> acu:Acupoint_Code "LU6" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "7 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record196> acu:Acupoint_Code "LU6" ;
+    acu:Anatomy "LU5" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 2.7275e+08 .
+
+<http://example.org/acupuncture/distance_of/record197> acu:Acupoint_Code "LU7" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record198> acu:Acupoint_Code "LU8" ;
+    acu:Anatomy "LU9" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72754e+08 .
+
+<http://example.org/acupuncture/distance_of/record199> acu:Acupoint_Code "LU8" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record2> acu:Acupoint_Code "BL3" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record20> acu:Acupoint_Code "BL12" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record200> acu:Acupoint_Code "LU11" ;
+    acu:Anatomy "thumb nail" ;
+    acu:Relation "0.1 f-cun" .
+
+<http://example.org/acupuncture/distance_of/record201> acu:Acupoint_Code "PC1" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record202> acu:Acupoint_Code "PC2" ;
+    acu:Anatomy "anterior axillary fold" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 5.2239e+07 .
+
+<http://example.org/acupuncture/distance_of/record203> acu:Acupoint_Code "PC4" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record204> acu:Acupoint_Code "PC5" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record205> acu:Acupoint_Code "PC5" ;
+    acu:Anatomy "PC7" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.7298e+08 .
+
+<http://example.org/acupuncture/distance_of/record206> acu:Acupoint_Code "PC6" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record207> acu:Acupoint_Code "PC6" ;
+    acu:Anatomy "PC7" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.7298e+08 .
+
+<http://example.org/acupuncture/distance_of/record208> acu:Acupoint_Code "PC9" ;
+    acu:Anatomy "middle fingernail" ;
+    acu:Relation "0.1 F-cun" .
+
+<http://example.org/acupuncture/distance_of/record209> acu:Acupoint_Code "SI1" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "0.1 f-cun" .
+
+<http://example.org/acupuncture/distance_of/record21> acu:Acupoint_Code "BL13" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record210> acu:Acupoint_Code "SI6" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record211> acu:Acupoint_Code "SI7" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record212> acu:Acupoint_Code "SI9" ;
+    acu:Anatomy "posterior axillary fold" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 5.5665e+07 .
+
+<http://example.org/acupuncture/distance_of/record213> acu:Acupoint_Code "SI14" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record214> acu:Acupoint_Code "SI15" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record215> acu:Acupoint_Code "SP1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "0.1 f-cun" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/distance_of/record216> acu:Acupoint_Code "SP6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/distance_of/record217> acu:Acupoint_Code "SP6" ;
+    acu:Anatomy "KI8" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72953e+08 .
+
+<http://example.org/acupuncture/distance_of/record218> acu:Acupoint_Code "SP7" ;
+    acu:Anatomy "SP6" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.72831e+08 .
+
+<http://example.org/acupuncture/distance_of/record219> acu:Acupoint_Code "SP8" ;
+    acu:Anatomy "SP9" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.72834e+08 .
+
+<http://example.org/acupuncture/distance_of/record22> acu:Acupoint_Code "BL14" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record220> acu:Acupoint_Code "SP10" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/distance_of/record221> acu:Acupoint_Code "SP13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4.3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record222> acu:Acupoint_Code "SP13" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record223> acu:Acupoint_Code "SP14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1.3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record224> acu:Acupoint_Code "SP14" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record225> acu:Acupoint_Code "SP15" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record226> acu:Acupoint_Code "SP16" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record227> acu:Acupoint_Code "SP16" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record228> acu:Acupoint_Code "SP16" ;
+    acu:Anatomy "SP15" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.7284e+08 .
+
+<http://example.org/acupuncture/distance_of/record229> acu:Acupoint_Code "SP17" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record23> acu:Acupoint_Code "BL15" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record230> acu:Acupoint_Code "SP18" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record231> acu:Acupoint_Code "SP19" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record232> acu:Acupoint_Code "SP20" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "6 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record233> acu:Acupoint_Code "ST4" ;
+    acu:Anatomy "mouth" ;
+    acu:Relation "0.4 f-cun" ;
+    acu:SNOMED_CT_code 2.1082e+07 ;
+    acu:UBERON_code "UBERON_0000165" .
+
+<http://example.org/acupuncture/distance_of/record234> acu:Acupoint_Code "ST6" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "one fingerbreadth" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/distance_of/record235> acu:Acupoint_Code "ST8" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record236> acu:Acupoint_Code "ST8" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record237> acu:Acupoint_Code "ST12" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record238> acu:Acupoint_Code "ST13" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record239> acu:Acupoint_Code "ST14" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record24> acu:Acupoint_Code "BL16" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record240> acu:Acupoint_Code "ST15" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record241> acu:Acupoint_Code "ST16" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record242> acu:Acupoint_Code "ST18" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record243> acu:Acupoint_Code "ST19" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record244> acu:Acupoint_Code "ST19" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record245> acu:Acupoint_Code "ST19" ;
+    acu:Anatomy "CV14" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.73111e+08 .
+
+<http://example.org/acupuncture/distance_of/record246> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record247> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record248> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "ST25" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/distance_of/record249> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "St19" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record25> acu:Acupoint_Code "BL17" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record250> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "CV13" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.7311e+08 .
+
+<http://example.org/acupuncture/distance_of/record251> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record252> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record253> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "ST25" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/distance_of/record254> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "St20" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record255> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "CV12" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.73109e+08 .
+
+<http://example.org/acupuncture/distance_of/record256> acu:Acupoint_Code "ST22" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record257> acu:Acupoint_Code "ST22" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record258> acu:Acupoint_Code "ST23" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record259> acu:Acupoint_Code "ST23" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record26> acu:Acupoint_Code "BL18" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record260> acu:Acupoint_Code "ST24" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record261> acu:Acupoint_Code "ST24" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record262> acu:Acupoint_Code "ST25" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record263> acu:Acupoint_Code "ST26" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record264> acu:Acupoint_Code "ST26" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record265> acu:Acupoint_Code "ST27" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record266> acu:Acupoint_Code "ST27" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record267> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record268> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record269> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "ST25" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/distance_of/record27> acu:Acupoint_Code "BL19" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record270> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "St27" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record271> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "CV4" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.73101e+08 .
+
+<http://example.org/acupuncture/distance_of/record272> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record273> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record274> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "ST25" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/distance_of/record275> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "St28" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record276> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "CV3" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.731e+08 .
+
+<http://example.org/acupuncture/distance_of/record277> acu:Acupoint_Code "ST30" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record278> acu:Acupoint_Code "ST30" ;
+    acu:Anatomy "ST25" ;
+    acu:Relation "B-cun" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/distance_of/record279> acu:Acupoint_Code "ST30" ;
+    acu:Anatomy "CV2" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.73098e+08 .
+
+<http://example.org/acupuncture/distance_of/record28> acu:Acupoint_Code "BL20" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record280> acu:Acupoint_Code "ST32" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/distance_of/record281> acu:Acupoint_Code "ST33" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/distance_of/record282> acu:Acupoint_Code "ST34" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/distance_of/record283> acu:Acupoint_Code "ST34" ;
+    acu:Anatomy "St33" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record284> acu:Acupoint_Code "ST36" ;
+    acu:Anatomy "ST35" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/distance_of/record285> acu:Acupoint_Code "ST37" ;
+    acu:Anatomy "ST35" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/distance_of/record286> acu:Acupoint_Code "ST38" ;
+    acu:Anatomy "ST35" ;
+    acu:Relation "8 B-cun" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/distance_of/record287> acu:Acupoint_Code "ST39" ;
+    acu:Anatomy "ST35" ;
+    acu:Relation "9 B-cun" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/distance_of/record288> acu:Acupoint_Code "ST40" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "8 B-cun" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/distance_of/record289> acu:Acupoint_Code "ST40" ;
+    acu:Anatomy "ST38" ;
+    acu:Relation "one fingerbreadth" ;
+    acu:SNOMED_CT_code 2.72817e+08 .
+
+<http://example.org/acupuncture/distance_of/record29> acu:Acupoint_Code "BL21" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record290> acu:Acupoint_Code "ST45" ;
+    acu:Anatomy "second toenail" ;
+    acu:Relation "0.1 f-cun" .
+
+<http://example.org/acupuncture/distance_of/record291> acu:Acupoint_Code "TE1" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "0.1 f-cun" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/distance_of/record292> acu:Acupoint_Code "TE5" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record293> acu:Acupoint_Code "TE5" ;
+    acu:Anatomy "TE4" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.72987e+08 .
+
+<http://example.org/acupuncture/distance_of/record294> acu:Acupoint_Code "TE6" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record295> acu:Acupoint_Code "TE6" ;
+    acu:Anatomy "TE5" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72988e+08 .
+
+<http://example.org/acupuncture/distance_of/record296> acu:Acupoint_Code "TE7" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record297> acu:Acupoint_Code "TE8" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record298> acu:Acupoint_Code "TE9" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/distance_of/record299> acu:Acupoint_Code "TE10" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/distance_of/record3> acu:Acupoint_Code "BL4" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record30> acu:Acupoint_Code "BL22" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record300> acu:Acupoint_Code "TE11" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/distance_of/record301> acu:Acupoint_Code "TE12" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/distance_of/record302> acu:Acupoint_Code "TE13" ;
+    acu:Anatomy "acromial angle" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record31> acu:Acupoint_Code "BL23" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record32> acu:Acupoint_Code "BL24" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record33> acu:Acupoint_Code "BL25" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record34> acu:Acupoint_Code "BL26" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record35> acu:Acupoint_Code "BL27" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record36> acu:Acupoint_Code "BL28" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record37> acu:Acupoint_Code "BL29" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record38> acu:Acupoint_Code "BL30" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record39> acu:Acupoint_Code "BL30" ;
+    acu:Anatomy "sacral hiatus" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record4> acu:Acupoint_Code "BL4" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record40> acu:Acupoint_Code "BL35" ;
+    acu:Anatomy "coccyx" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 6.4688e+07 ;
+    acu:UBERON_code "UBERON_0001350" .
+
+<http://example.org/acupuncture/distance_of/record41> acu:Acupoint_Code "BL37" ;
+    acu:Anatomy "gluteal fold" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 8.950801e+07 .
+
+<http://example.org/acupuncture/distance_of/record42> acu:Acupoint_Code "BL38" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record43> acu:Acupoint_Code "BL38" ;
+    acu:Anatomy "BL39" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record44> acu:Acupoint_Code "BL41" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record45> acu:Acupoint_Code "BL42" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record46> acu:Acupoint_Code "BL43" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record47> acu:Acupoint_Code "BL44" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record48> acu:Acupoint_Code "BL45" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record49> acu:Acupoint_Code "BL46" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record5> acu:Acupoint_Code "BL5" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record50> acu:Acupoint_Code "BL47" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record51> acu:Acupoint_Code "BL48" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record52> acu:Acupoint_Code "BL49" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record53> acu:Acupoint_Code "BL50" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record54> acu:Acupoint_Code "BL51" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record55> acu:Acupoint_Code "BL52" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record56> acu:Acupoint_Code "BL53" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record57> acu:Acupoint_Code "BL54" ;
+    acu:Anatomy "sacral hiatus" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record58> acu:Acupoint_Code "BL54" ;
+    acu:Anatomy "median sacral crest" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record59> acu:Acupoint_Code "BL55" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record6> acu:Acupoint_Code "BL5" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record60> acu:Acupoint_Code "BL55" ;
+    acu:Anatomy "BL40" ;
+    acu:Relation "2 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record61> acu:Acupoint_Code "BL56" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record62> acu:Acupoint_Code "BL58" ;
+    acu:Anatomy "BL57" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.72935e+08 .
+
+<http://example.org/acupuncture/distance_of/record63> acu:Acupoint_Code "BL59" ;
+    acu:Anatomy "BL60" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.72939e+08 .
+
+<http://example.org/acupuncture/distance_of/record64> acu:Acupoint_Code "BL67" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "0.1 f-cun" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/distance_of/record65> acu:Acupoint_Code "CV3" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record66> acu:Acupoint_Code "CV4" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record67> acu:Acupoint_Code "CV5" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record68> acu:Acupoint_Code "CV6" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record69> acu:Acupoint_Code "CV7" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record7> acu:Acupoint_Code "BL5" ;
+    acu:Anatomy "BL4" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.72881e+08 .
+
+<http://example.org/acupuncture/distance_of/record70> acu:Acupoint_Code "CV9" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record71> acu:Acupoint_Code "CV10" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record72> acu:Acupoint_Code "CV11" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record73> acu:Acupoint_Code "CV12" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "4 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record74> acu:Acupoint_Code "CV13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "5 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record75> acu:Acupoint_Code "CV14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "6 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record76> acu:Acupoint_Code "CV15" ;
+    acu:Anatomy "xiphisternal junction" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record77> acu:Acupoint_Code "CV21" ;
+    acu:Anatomy "suprasternal fossa" ;
+    acu:Relation "1 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record78> acu:Acupoint_Code "CV21" ;
+    acu:Anatomy "CV22" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.73119e+08 .
+
+<http://example.org/acupuncture/distance_of/record79> acu:Acupoint_Code "GB1" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/distance_of/record8> acu:Acupoint_Code "BL6" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "2.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record80> acu:Acupoint_Code "GB8" ;
+    acu:Anatomy "temporal hairline" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record81> acu:Acupoint_Code "GB8" ;
+    acu:Anatomy "hairline" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:UBERON_code "UBERON_0004104" .
+
+<http://example.org/acupuncture/distance_of/record82> acu:Acupoint_Code "GB9" ;
+    acu:Anatomy "GB8" ;
+    acu:Relation "0.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73016e+08 .
+
+<http://example.org/acupuncture/distance_of/record83> acu:Acupoint_Code "GB9" ;
+    acu:Anatomy "hairline" ;
+    acu:Relation "2 B-cun" ;
+    acu:UBERON_code "UBERON_0004104" .
+
+<http://example.org/acupuncture/distance_of/record84> acu:Acupoint_Code "GB10" ;
+    acu:Anatomy "hairline" ;
+    acu:Relation "1 B-cun" ;
+    acu:UBERON_code "UBERON_0004104" .
+
+<http://example.org/acupuncture/distance_of/record85> acu:Acupoint_Code "GB13" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record86> acu:Acupoint_Code "GB13" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "3 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record87> acu:Acupoint_Code "GB14" ;
+    acu:Anatomy "eyebrow" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 8.4238e+07 ;
+    acu:UBERON_code "UBERON_0010163" .
+
+<http://example.org/acupuncture/distance_of/record88> acu:Acupoint_Code "GB15" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "0.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record89> acu:Acupoint_Code "GB16" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record9> acu:Acupoint_Code "BL6" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "1.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record90> acu:Acupoint_Code "GB16" ;
+    acu:Anatomy "GB15" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.73022e+08 .
+
+<http://example.org/acupuncture/distance_of/record91> acu:Acupoint_Code "GB17" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "2.5 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record92> acu:Acupoint_Code "GB17" ;
+    acu:Anatomy "GB15" ;
+    acu:Relation "2 B-cun" ;
+    acu:SNOMED_CT_code 2.73022e+08 .
+
+<http://example.org/acupuncture/distance_of/record93> acu:Acupoint_Code "GB18" ;
+    acu:Anatomy "anterior hairline" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record94> acu:Acupoint_Code "GB18" ;
+    acu:Anatomy "gB17" ;
+    acu:Relation "1.5 B-cun" ;
+    acu:SNOMED_CT_code 2.73024e+08 .
+
+<http://example.org/acupuncture/distance_of/record95> acu:Acupoint_Code "GB23" ;
+    acu:Anatomy "midaxillary line" ;
+    acu:Relation "1 B-cun" ;
+    acu:SNOMED_CT_code 2.60515e+08 .
+
+<http://example.org/acupuncture/distance_of/record96> acu:Acupoint_Code "GB24" ;
+    acu:Anatomy "anterior median line" ;
+    acu:Relation "4 B-cun" .
+
+<http://example.org/acupuncture/distance_of/record97> acu:Acupoint_Code "GB24" ;
+    acu:Anatomy "Lr14" ;
+    acu:Relation "one rib" .
+
+<http://example.org/acupuncture/distance_of/record98> acu:Acupoint_Code "GB27" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/distance_of/record99> acu:Acupoint_Code "GB27" ;
+    acu:Anatomy "GB26" ;
+    acu:Relation "3 B-cun" ;
+    acu:SNOMED_CT_code 2.73033e+08 .
+

@@ -1,0 +1,1446 @@
+@prefix acu: <http://example.org/acupuncture/> .
+
+<http://example.org/acupuncture/pinyinname/record1> acu:Acupoint_Code "LU1" ;
+    acu:Pinyin_Name "Zhongfu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record10> acu:Acupoint_Code "LU10" ;
+    acu:Pinyin_Name "Yuji" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record100> acu:Acupoint_Code "HT3" ;
+    acu:Pinyin_Name "Shaohai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record101> acu:Acupoint_Code "HT4" ;
+    acu:Pinyin_Name "Lingdao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record102> acu:Acupoint_Code "HT5" ;
+    acu:Pinyin_Name "Tongli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record103> acu:Acupoint_Code "HT6" ;
+    acu:Pinyin_Name "Yinxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record104> acu:Acupoint_Code "HT7" ;
+    acu:Pinyin_Name "Shenmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record105> acu:Acupoint_Code "HT8" ;
+    acu:Pinyin_Name "Shaofu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record106> acu:Acupoint_Code "HT9" ;
+    acu:Pinyin_Name "Shaochong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record107> acu:Acupoint_Code "SI1" ;
+    acu:Pinyin_Name "Shaoze" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record108> acu:Acupoint_Code "SI2" ;
+    acu:Pinyin_Name "Qiangu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record109> acu:Acupoint_Code "SI3" ;
+    acu:Pinyin_Name "Houxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record11> acu:Acupoint_Code "LU11" ;
+    acu:Pinyin_Name "Shaoshang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record110> acu:Acupoint_Code "SI4" ;
+    acu:Pinyin_Name "Wangu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record111> acu:Acupoint_Code "SI5" ;
+    acu:Pinyin_Name "Yanggu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record112> acu:Acupoint_Code "SI6" ;
+    acu:Pinyin_Name "Yanglao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record113> acu:Acupoint_Code "SI7" ;
+    acu:Pinyin_Name "Zhizheng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record114> acu:Acupoint_Code "SI8" ;
+    acu:Pinyin_Name "Xiaohai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record115> acu:Acupoint_Code "SI9" ;
+    acu:Pinyin_Name "Jianzhen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record116> acu:Acupoint_Code "SI10" ;
+    acu:Pinyin_Name "Naoshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record117> acu:Acupoint_Code "SI11" ;
+    acu:Pinyin_Name "Tianzong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record118> acu:Acupoint_Code "SI12" ;
+    acu:Pinyin_Name "Bingfeng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record119> acu:Acupoint_Code "SI13" ;
+    acu:Pinyin_Name "Quyuan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record12> acu:Acupoint_Code "LI1" ;
+    acu:Pinyin_Name "Shangyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record120> acu:Acupoint_Code "SI14" ;
+    acu:Pinyin_Name "Jianwaishu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record121> acu:Acupoint_Code "SI15" ;
+    acu:Pinyin_Name "Jianzhongshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record122> acu:Acupoint_Code "SI16" ;
+    acu:Pinyin_Name "Tianchuang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record123> acu:Acupoint_Code "SI17" ;
+    acu:Pinyin_Name "Tianrong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record124> acu:Acupoint_Code "SI18" ;
+    acu:Pinyin_Name "Quanliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record125> acu:Acupoint_Code "SI19" ;
+    acu:Pinyin_Name "Tinggong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record126> acu:Acupoint_Code "BL1" ;
+    acu:Pinyin_Name "Jingming" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record127> acu:Acupoint_Code "BL2" ;
+    acu:Pinyin_Name "Cuanzhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record128> acu:Acupoint_Code "BL3" ;
+    acu:Pinyin_Name "Meichong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record129> acu:Acupoint_Code "BL4" ;
+    acu:Pinyin_Name "Qucha" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record13> acu:Acupoint_Code "LI2" ;
+    acu:Pinyin_Name "Erjian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record130> acu:Acupoint_Code "BL5" ;
+    acu:Pinyin_Name "Wuchu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record131> acu:Acupoint_Code "BL6" ;
+    acu:Pinyin_Name "Chengguang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record132> acu:Acupoint_Code "BL7" ;
+    acu:Pinyin_Name "Tongtian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record133> acu:Acupoint_Code "BL8" ;
+    acu:Pinyin_Name "Luoque" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record134> acu:Acupoint_Code "BL9" ;
+    acu:Pinyin_Name "Yuzhen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record135> acu:Acupoint_Code "BL10" ;
+    acu:Pinyin_Name "Tianzhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record136> acu:Acupoint_Code "BL11" ;
+    acu:Pinyin_Name "Dazhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record137> acu:Acupoint_Code "BL12" ;
+    acu:Pinyin_Name "Fengmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record138> acu:Acupoint_Code "BL13" ;
+    acu:Pinyin_Name "Feishu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record139> acu:Acupoint_Code "BL14" ;
+    acu:Pinyin_Name "Jueyinshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record14> acu:Acupoint_Code "LI3" ;
+    acu:Pinyin_Name "Sanjian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record140> acu:Acupoint_Code "BL15" ;
+    acu:Pinyin_Name "Xinshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record141> acu:Acupoint_Code "BL16" ;
+    acu:Pinyin_Name "Dushu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record142> acu:Acupoint_Code "BL17" ;
+    acu:Pinyin_Name "Geshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record143> acu:Acupoint_Code "BL18" ;
+    acu:Pinyin_Name "Ganshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record144> acu:Acupoint_Code "BL19" ;
+    acu:Pinyin_Name "Danshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record145> acu:Acupoint_Code "BL20" ;
+    acu:Pinyin_Name "Pishu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record146> acu:Acupoint_Code "BL21" ;
+    acu:Pinyin_Name "Weishu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record147> acu:Acupoint_Code "BL22" ;
+    acu:Pinyin_Name "Sanjiaoshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record148> acu:Acupoint_Code "BL23" ;
+    acu:Pinyin_Name "Shenshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record149> acu:Acupoint_Code "BL24" ;
+    acu:Pinyin_Name "Qihaishu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record15> acu:Acupoint_Code "LI4" ;
+    acu:Pinyin_Name "Hegu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record150> acu:Acupoint_Code "BL25" ;
+    acu:Pinyin_Name "Dachangshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record151> acu:Acupoint_Code "BL26" ;
+    acu:Pinyin_Name "Guanyuanshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record152> acu:Acupoint_Code "BL27" ;
+    acu:Pinyin_Name "Xiaochangshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record153> acu:Acupoint_Code "BL28" ;
+    acu:Pinyin_Name "Pangguangshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record154> acu:Acupoint_Code "BL29" ;
+    acu:Pinyin_Name "Zhonglushu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record155> acu:Acupoint_Code "BL30" ;
+    acu:Pinyin_Name "Baihuanshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record156> acu:Acupoint_Code "BL31" ;
+    acu:Pinyin_Name "Shangliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record157> acu:Acupoint_Code "BL32" ;
+    acu:Pinyin_Name "Ciliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record158> acu:Acupoint_Code "BL33" ;
+    acu:Pinyin_Name "Zhongliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record159> acu:Acupoint_Code "BL34" ;
+    acu:Pinyin_Name "Xialiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record16> acu:Acupoint_Code "LI5" ;
+    acu:Pinyin_Name "Yangxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record160> acu:Acupoint_Code "BL35" ;
+    acu:Pinyin_Name "Huiyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record161> acu:Acupoint_Code "BL36" ;
+    acu:Pinyin_Name "Chengfu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record162> acu:Acupoint_Code "BL37" ;
+    acu:Pinyin_Name "Yinmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record163> acu:Acupoint_Code "BL38" ;
+    acu:Pinyin_Name "Fuxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record164> acu:Acupoint_Code "BL39" ;
+    acu:Pinyin_Name "Weiyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record165> acu:Acupoint_Code "BL40" ;
+    acu:Pinyin_Name "Weizhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record166> acu:Acupoint_Code "BL41" ;
+    acu:Pinyin_Name "Fufen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record167> acu:Acupoint_Code "BL42" ;
+    acu:Pinyin_Name "Pohu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record168> acu:Acupoint_Code "BL43" ;
+    acu:Pinyin_Name "Gaohuang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record169> acu:Acupoint_Code "BL44" ;
+    acu:Pinyin_Name "Shentang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record17> acu:Acupoint_Code "LI6" ;
+    acu:Pinyin_Name "Pianli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record170> acu:Acupoint_Code "BL45" ;
+    acu:Pinyin_Name "Yixi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record171> acu:Acupoint_Code "BL46" ;
+    acu:Pinyin_Name "Geguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record172> acu:Acupoint_Code "BL47" ;
+    acu:Pinyin_Name "Hunmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record173> acu:Acupoint_Code "BL48" ;
+    acu:Pinyin_Name "Yanggang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record174> acu:Acupoint_Code "BL49" ;
+    acu:Pinyin_Name "Yishe" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record175> acu:Acupoint_Code "BL50" ;
+    acu:Pinyin_Name "Weicang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record176> acu:Acupoint_Code "BL51" ;
+    acu:Pinyin_Name "Huangmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record177> acu:Acupoint_Code "BL52" ;
+    acu:Pinyin_Name "Zhishi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record178> acu:Acupoint_Code "BL53" ;
+    acu:Pinyin_Name "Baohuang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record179> acu:Acupoint_Code "BL54" ;
+    acu:Pinyin_Name "Zhibian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record18> acu:Acupoint_Code "LI7" ;
+    acu:Pinyin_Name "Wenliu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record180> acu:Acupoint_Code "BL55" ;
+    acu:Pinyin_Name "Heyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record181> acu:Acupoint_Code "BL56" ;
+    acu:Pinyin_Name "Chengjin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record182> acu:Acupoint_Code "BL57" ;
+    acu:Pinyin_Name "Chengshan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record183> acu:Acupoint_Code "BL58" ;
+    acu:Pinyin_Name "Feiyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record184> acu:Acupoint_Code "BL59" ;
+    acu:Pinyin_Name "Fuyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record185> acu:Acupoint_Code "BL60" ;
+    acu:Pinyin_Name "Kunlun" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record186> acu:Acupoint_Code "BL61" ;
+    acu:Pinyin_Name "Pucan (Pushen)" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record187> acu:Acupoint_Code "BL62" ;
+    acu:Pinyin_Name "Shenmai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record188> acu:Acupoint_Code "BL63" ;
+    acu:Pinyin_Name "Jinmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record189> acu:Acupoint_Code "BL64" ;
+    acu:Pinyin_Name "Jinggu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record19> acu:Acupoint_Code "LI8" ;
+    acu:Pinyin_Name "Xialian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record190> acu:Acupoint_Code "BL65" ;
+    acu:Pinyin_Name "Shugu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record191> acu:Acupoint_Code "BL66" ;
+    acu:Pinyin_Name "Zutonggu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record192> acu:Acupoint_Code "BL67" ;
+    acu:Pinyin_Name "Zhiyin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record193> acu:Acupoint_Code "KI1" ;
+    acu:Pinyin_Name "Yongquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record194> acu:Acupoint_Code "KI2" ;
+    acu:Pinyin_Name "Rangu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record195> acu:Acupoint_Code "KI3" ;
+    acu:Pinyin_Name "Taixi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record196> acu:Acupoint_Code "KI4" ;
+    acu:Pinyin_Name "Dazhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record197> acu:Acupoint_Code "KI5" ;
+    acu:Pinyin_Name "Shuiquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record198> acu:Acupoint_Code "KI6" ;
+    acu:Pinyin_Name "Zhaohai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record199> acu:Acupoint_Code "KI7" ;
+    acu:Pinyin_Name "Fuliu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record2> acu:Acupoint_Code "LU2" ;
+    acu:Pinyin_Name "Yunmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record20> acu:Acupoint_Code "LI9" ;
+    acu:Pinyin_Name "Shanglian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record200> acu:Acupoint_Code "KI8" ;
+    acu:Pinyin_Name "Jiaoxin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record201> acu:Acupoint_Code "KI9" ;
+    acu:Pinyin_Name "Zhubin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record202> acu:Acupoint_Code "KI10" ;
+    acu:Pinyin_Name "Yingu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record203> acu:Acupoint_Code "KI11" ;
+    acu:Pinyin_Name "Henggu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record204> acu:Acupoint_Code "KI12" ;
+    acu:Pinyin_Name "Dahe" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record205> acu:Acupoint_Code "KI13" ;
+    acu:Pinyin_Name "Qixue" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record206> acu:Acupoint_Code "KI14" ;
+    acu:Pinyin_Name "Siman" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record207> acu:Acupoint_Code "KI15" ;
+    acu:Pinyin_Name "Zhongzhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record208> acu:Acupoint_Code "KI16" ;
+    acu:Pinyin_Name "Huangshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record209> acu:Acupoint_Code "KI17" ;
+    acu:Pinyin_Name "Shangqu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record21> acu:Acupoint_Code "LI10" ;
+    acu:Pinyin_Name "Shousanli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record210> acu:Acupoint_Code "KI18" ;
+    acu:Pinyin_Name "Shiguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record211> acu:Acupoint_Code "KI19" ;
+    acu:Pinyin_Name "Yindu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record212> acu:Acupoint_Code "KI20" ;
+    acu:Pinyin_Name "Futonggu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record213> acu:Acupoint_Code "KI21" ;
+    acu:Pinyin_Name "Youmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record214> acu:Acupoint_Code "KI22" ;
+    acu:Pinyin_Name "Bulang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record215> acu:Acupoint_Code "KI23" ;
+    acu:Pinyin_Name "Shenfeng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record216> acu:Acupoint_Code "KI24" ;
+    acu:Pinyin_Name "Lingxu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record217> acu:Acupoint_Code "KI25" ;
+    acu:Pinyin_Name "Shencang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record218> acu:Acupoint_Code "KI26" ;
+    acu:Pinyin_Name "Yuzhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record219> acu:Acupoint_Code "KI27" ;
+    acu:Pinyin_Name "Shufu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record22> acu:Acupoint_Code "LI11" ;
+    acu:Pinyin_Name "Quchi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record220> acu:Acupoint_Code "PC1" ;
+    acu:Pinyin_Name "Tianchi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record221> acu:Acupoint_Code "PC2" ;
+    acu:Pinyin_Name "Tianquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record222> acu:Acupoint_Code "PC3" ;
+    acu:Pinyin_Name "Quze" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record223> acu:Acupoint_Code "PC4" ;
+    acu:Pinyin_Name "Ximen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record224> acu:Acupoint_Code "PC5" ;
+    acu:Pinyin_Name "Jianshi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record225> acu:Acupoint_Code "PC6" ;
+    acu:Pinyin_Name "Neiguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record226> acu:Acupoint_Code "PC7" ;
+    acu:Pinyin_Name "Daling" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record227> acu:Acupoint_Code "PC8" ;
+    acu:Pinyin_Name "Laogong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record228> acu:Acupoint_Code "PC9" ;
+    acu:Pinyin_Name "Zhongchong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record229> acu:Acupoint_Code "TE1" ;
+    acu:Pinyin_Name "Guanchong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record23> acu:Acupoint_Code "LI12" ;
+    acu:Pinyin_Name "Zhouliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record230> acu:Acupoint_Code "TE2" ;
+    acu:Pinyin_Name "Yemen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record231> acu:Acupoint_Code "TE3" ;
+    acu:Pinyin_Name "Zhongzhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record232> acu:Acupoint_Code "TE4" ;
+    acu:Pinyin_Name "Yangchi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record233> acu:Acupoint_Code "TE5" ;
+    acu:Pinyin_Name "Waiguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record234> acu:Acupoint_Code "TE6" ;
+    acu:Pinyin_Name "Zhigou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record235> acu:Acupoint_Code "TE7" ;
+    acu:Pinyin_Name "Huizong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record236> acu:Acupoint_Code "TE8" ;
+    acu:Pinyin_Name "Sanyangluo" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record237> acu:Acupoint_Code "TE9" ;
+    acu:Pinyin_Name "Sidu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record238> acu:Acupoint_Code "TE10" ;
+    acu:Pinyin_Name "Tianjing" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record239> acu:Acupoint_Code "TE11" ;
+    acu:Pinyin_Name "Qinglengyuan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record24> acu:Acupoint_Code "LI13" ;
+    acu:Pinyin_Name "Shouwuli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record240> acu:Acupoint_Code "TE12" ;
+    acu:Pinyin_Name "Xiaoluo" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record241> acu:Acupoint_Code "TE13" ;
+    acu:Pinyin_Name "Naohui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record242> acu:Acupoint_Code "TE14" ;
+    acu:Pinyin_Name "Jianliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record243> acu:Acupoint_Code "TE15" ;
+    acu:Pinyin_Name "Tianliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record244> acu:Acupoint_Code "TE16" ;
+    acu:Pinyin_Name "Tianyou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record245> acu:Acupoint_Code "TE17" ;
+    acu:Pinyin_Name "Yifeng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record246> acu:Acupoint_Code "TE18" ;
+    acu:Pinyin_Name "Chimai (Qimai)" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record247> acu:Acupoint_Code "TE19" ;
+    acu:Pinyin_Name "Luxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record248> acu:Acupoint_Code "TE20" ;
+    acu:Pinyin_Name "Jiaosun" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record249> acu:Acupoint_Code "TE21" ;
+    acu:Pinyin_Name "Ermen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record25> acu:Acupoint_Code "LI14" ;
+    acu:Pinyin_Name "Binao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record250> acu:Acupoint_Code "TE22" ;
+    acu:Pinyin_Name "Erheliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record251> acu:Acupoint_Code "TE23" ;
+    acu:Pinyin_Name "Sizhukong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record252> acu:Acupoint_Code "GB1" ;
+    acu:Pinyin_Name "Tongziliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record253> acu:Acupoint_Code "GB2" ;
+    acu:Pinyin_Name "Tinghui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record254> acu:Acupoint_Code "GB3" ;
+    acu:Pinyin_Name "Shangguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record255> acu:Acupoint_Code "GB4" ;
+    acu:Pinyin_Name "Hanyan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record256> acu:Acupoint_Code "GB5" ;
+    acu:Pinyin_Name "Xuanlu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record257> acu:Acupoint_Code "GB6" ;
+    acu:Pinyin_Name "Xuanli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record258> acu:Acupoint_Code "GB7" ;
+    acu:Pinyin_Name "Qubin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record259> acu:Acupoint_Code "GB8" ;
+    acu:Pinyin_Name "Shuaigu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record26> acu:Acupoint_Code "LI15" ;
+    acu:Pinyin_Name "Jianyu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record260> acu:Acupoint_Code "GB9" ;
+    acu:Pinyin_Name "Tianchong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record261> acu:Acupoint_Code "GB10" ;
+    acu:Pinyin_Name "Fubai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record262> acu:Acupoint_Code "GB11" ;
+    acu:Pinyin_Name "Touqiaoyin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record263> acu:Acupoint_Code "GB12" ;
+    acu:Pinyin_Name "Wangu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record264> acu:Acupoint_Code "GB13" ;
+    acu:Pinyin_Name "Benshen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record265> acu:Acupoint_Code "GB14" ;
+    acu:Pinyin_Name "Yangbai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record266> acu:Acupoint_Code "GB15" ;
+    acu:Pinyin_Name "Toulinqi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record267> acu:Acupoint_Code "GB16" ;
+    acu:Pinyin_Name "Muchuang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record268> acu:Acupoint_Code "GB17" ;
+    acu:Pinyin_Name "Zhengying" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record269> acu:Acupoint_Code "GB18" ;
+    acu:Pinyin_Name "Chengling" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record27> acu:Acupoint_Code "LI16" ;
+    acu:Pinyin_Name "Jugu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record270> acu:Acupoint_Code "GB19" ;
+    acu:Pinyin_Name "Naokong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record271> acu:Acupoint_Code "GB20" ;
+    acu:Pinyin_Name "Fengchi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record272> acu:Acupoint_Code "GB21" ;
+    acu:Pinyin_Name "Jianjing" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record273> acu:Acupoint_Code "GB22" ;
+    acu:Pinyin_Name "Yuanye" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record274> acu:Acupoint_Code "GB23" ;
+    acu:Pinyin_Name "Zhejin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record275> acu:Acupoint_Code "GB24" ;
+    acu:Pinyin_Name "Riyue" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record276> acu:Acupoint_Code "GB25" ;
+    acu:Pinyin_Name "Jingmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record277> acu:Acupoint_Code "GB26" ;
+    acu:Pinyin_Name "Daimai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record278> acu:Acupoint_Code "GB27" ;
+    acu:Pinyin_Name "Wushu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record279> acu:Acupoint_Code "GB28" ;
+    acu:Pinyin_Name "Weidao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record28> acu:Acupoint_Code "LI17" ;
+    acu:Pinyin_Name "Tianding" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record280> acu:Acupoint_Code "GB29" ;
+    acu:Pinyin_Name "Juliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record281> acu:Acupoint_Code "GB30" ;
+    acu:Pinyin_Name "Huantiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record282> acu:Acupoint_Code "GB31" ;
+    acu:Pinyin_Name "Fengshi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record283> acu:Acupoint_Code "GB32" ;
+    acu:Pinyin_Name "Zhongdu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record284> acu:Acupoint_Code "GB33" ;
+    acu:Pinyin_Name "Xiyangguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record285> acu:Acupoint_Code "GB34" ;
+    acu:Pinyin_Name "Yanglingquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record286> acu:Acupoint_Code "GB35" ;
+    acu:Pinyin_Name "Yangjiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record287> acu:Acupoint_Code "GB36" ;
+    acu:Pinyin_Name "Waiqiu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record288> acu:Acupoint_Code "GB37" ;
+    acu:Pinyin_Name "Guangming" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record289> acu:Acupoint_Code "GB38" ;
+    acu:Pinyin_Name "Yangfu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record29> acu:Acupoint_Code "LI18" ;
+    acu:Pinyin_Name "Futu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record290> acu:Acupoint_Code "GB39" ;
+    acu:Pinyin_Name "Xuanzhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record291> acu:Acupoint_Code "GB40" ;
+    acu:Pinyin_Name "Qiuxu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record292> acu:Acupoint_Code "GB41" ;
+    acu:Pinyin_Name "Zulinqi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record293> acu:Acupoint_Code "GB42" ;
+    acu:Pinyin_Name "Diwuhui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record294> acu:Acupoint_Code "GB43" ;
+    acu:Pinyin_Name "Xiaxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record295> acu:Acupoint_Code "GB44" ;
+    acu:Pinyin_Name "Zuqiaoyin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record296> acu:Acupoint_Code "LR1" ;
+    acu:Pinyin_Name "Dadun" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record297> acu:Acupoint_Code "LR2" ;
+    acu:Pinyin_Name "Xingjian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record298> acu:Acupoint_Code "LR3" ;
+    acu:Pinyin_Name "Taichong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record299> acu:Acupoint_Code "LR4" ;
+    acu:Pinyin_Name "Zhongfeng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record3> acu:Acupoint_Code "LU3" ;
+    acu:Pinyin_Name "Tianfu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record30> acu:Acupoint_Code "LI19" ;
+    acu:Pinyin_Name "Kouheliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record300> acu:Acupoint_Code "LR5" ;
+    acu:Pinyin_Name "Ligou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record301> acu:Acupoint_Code "LR6" ;
+    acu:Pinyin_Name "Zhongdu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record302> acu:Acupoint_Code "LR7" ;
+    acu:Pinyin_Name "Xiguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record303> acu:Acupoint_Code "LR8" ;
+    acu:Pinyin_Name "Ququan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record304> acu:Acupoint_Code "LR9" ;
+    acu:Pinyin_Name "Yinbao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record305> acu:Acupoint_Code "LR10" ;
+    acu:Pinyin_Name "Zuwuli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record306> acu:Acupoint_Code "LR11" ;
+    acu:Pinyin_Name "Yinlian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record307> acu:Acupoint_Code "LR12" ;
+    acu:Pinyin_Name "Jimai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record308> acu:Acupoint_Code "LR13" ;
+    acu:Pinyin_Name "Zhangmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record309> acu:Acupoint_Code "LR14" ;
+    acu:Pinyin_Name "Qimen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record31> acu:Acupoint_Code "LI20" ;
+    acu:Pinyin_Name "Yingxiang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record310> acu:Acupoint_Code "GV1" ;
+    acu:Pinyin_Name "Changqiang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record311> acu:Acupoint_Code "GV2" ;
+    acu:Pinyin_Name "Yaoshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record312> acu:Acupoint_Code "GV3" ;
+    acu:Pinyin_Name "Yaoyangguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record313> acu:Acupoint_Code "GV4" ;
+    acu:Pinyin_Name "Mingmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record314> acu:Acupoint_Code "GV5" ;
+    acu:Pinyin_Name "Xuanshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record315> acu:Acupoint_Code "GV6" ;
+    acu:Pinyin_Name "Jizhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record316> acu:Acupoint_Code "GV7" ;
+    acu:Pinyin_Name "Zhongshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record317> acu:Acupoint_Code "GV8" ;
+    acu:Pinyin_Name "Jinsuo" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record318> acu:Acupoint_Code "GV9" ;
+    acu:Pinyin_Name "Zhiyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record319> acu:Acupoint_Code "GV10" ;
+    acu:Pinyin_Name "Lingtai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record32> acu:Acupoint_Code "ST1" ;
+    acu:Pinyin_Name "Chengqi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record320> acu:Acupoint_Code "GV11" ;
+    acu:Pinyin_Name "Shendao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record321> acu:Acupoint_Code "GV12" ;
+    acu:Pinyin_Name "Shenzhu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record322> acu:Acupoint_Code "GV13" ;
+    acu:Pinyin_Name "Taodao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record323> acu:Acupoint_Code "GV14" ;
+    acu:Pinyin_Name "Dazhui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record324> acu:Acupoint_Code "GV15" ;
+    acu:Pinyin_Name "Yamen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record325> acu:Acupoint_Code "GV16" ;
+    acu:Pinyin_Name "Fengfu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record326> acu:Acupoint_Code "GV17" ;
+    acu:Pinyin_Name "Naohu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record327> acu:Acupoint_Code "GV18" ;
+    acu:Pinyin_Name "Qiangjian" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record328> acu:Acupoint_Code "GV19" ;
+    acu:Pinyin_Name "Houding" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record329> acu:Acupoint_Code "GV20" ;
+    acu:Pinyin_Name "Baihui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record33> acu:Acupoint_Code "ST2" ;
+    acu:Pinyin_Name "Sibai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record330> acu:Acupoint_Code "GV21" ;
+    acu:Pinyin_Name "Qianding" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record331> acu:Acupoint_Code "GV22" ;
+    acu:Pinyin_Name "Xinhui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record332> acu:Acupoint_Code "GV23" ;
+    acu:Pinyin_Name "Shangxing" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record333> acu:Acupoint_Code "GV24" ;
+    acu:Pinyin_Name "Shenting" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record334> acu:Acupoint_Code "GV25" ;
+    acu:Pinyin_Name "Suliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record335> acu:Acupoint_Code "GV26" ;
+    acu:Pinyin_Name "Shuigou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record336> acu:Acupoint_Code "GV27" ;
+    acu:Pinyin_Name "Duiduan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record337> acu:Acupoint_Code "GV28" ;
+    acu:Pinyin_Name "Yinjiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record338> acu:Acupoint_Code "CV1" ;
+    acu:Pinyin_Name "Huiyin" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record339> acu:Acupoint_Code "CV2" ;
+    acu:Pinyin_Name "Qugu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record34> acu:Acupoint_Code "ST3" ;
+    acu:Pinyin_Name "Juliao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record340> acu:Acupoint_Code "CV3" ;
+    acu:Pinyin_Name "Zhongji" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record341> acu:Acupoint_Code "CV4" ;
+    acu:Pinyin_Name "Guanyuan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record342> acu:Acupoint_Code "CV5" ;
+    acu:Pinyin_Name "Shimen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record343> acu:Acupoint_Code "CV6" ;
+    acu:Pinyin_Name "Qihai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record344> acu:Acupoint_Code "CV7" ;
+    acu:Pinyin_Name "Yinjiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record345> acu:Acupoint_Code "CV8" ;
+    acu:Pinyin_Name "Shenque" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record346> acu:Acupoint_Code "CV9" ;
+    acu:Pinyin_Name "Shuifen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record347> acu:Acupoint_Code "CV10" ;
+    acu:Pinyin_Name "Xiawan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record348> acu:Acupoint_Code "CV11" ;
+    acu:Pinyin_Name "Jianli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record349> acu:Acupoint_Code "CV12" ;
+    acu:Pinyin_Name "Zhongwan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record35> acu:Acupoint_Code "ST4" ;
+    acu:Pinyin_Name "Dicang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record350> acu:Acupoint_Code "CV13" ;
+    acu:Pinyin_Name "Shangwan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record351> acu:Acupoint_Code "CV14" ;
+    acu:Pinyin_Name "Juque" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record352> acu:Acupoint_Code "CV15" ;
+    acu:Pinyin_Name "Jiuwei" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record353> acu:Acupoint_Code "CV16" ;
+    acu:Pinyin_Name "Zhongting" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record354> acu:Acupoint_Code "CV17" ;
+    acu:Pinyin_Name "Danzhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record355> acu:Acupoint_Code "CV18" ;
+    acu:Pinyin_Name "Yutang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record356> acu:Acupoint_Code "CV19" ;
+    acu:Pinyin_Name "Zigong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record357> acu:Acupoint_Code "CV20" ;
+    acu:Pinyin_Name "Huagai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record358> acu:Acupoint_Code "CV21" ;
+    acu:Pinyin_Name "Xuanji" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record359> acu:Acupoint_Code "CV22" ;
+    acu:Pinyin_Name "Tiantu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record36> acu:Acupoint_Code "ST5" ;
+    acu:Pinyin_Name "Daying" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record360> acu:Acupoint_Code "CV23" ;
+    acu:Pinyin_Name "Lianquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record361> acu:Acupoint_Code "CV24" ;
+    acu:Pinyin_Name "Chengjiang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record37> acu:Acupoint_Code "ST6" ;
+    acu:Pinyin_Name "Jiache" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record38> acu:Acupoint_Code "ST7" ;
+    acu:Pinyin_Name "Xiaguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record39> acu:Acupoint_Code "ST8" ;
+    acu:Pinyin_Name "Touwei" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record4> acu:Acupoint_Code "LU4" ;
+    acu:Pinyin_Name "Xiabai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record40> acu:Acupoint_Code "ST9" ;
+    acu:Pinyin_Name "Renying" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record41> acu:Acupoint_Code "ST10" ;
+    acu:Pinyin_Name "Shuitu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record42> acu:Acupoint_Code "ST11" ;
+    acu:Pinyin_Name "Qishe" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record43> acu:Acupoint_Code "ST12" ;
+    acu:Pinyin_Name "Quepen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record44> acu:Acupoint_Code "ST13" ;
+    acu:Pinyin_Name "Qihu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record45> acu:Acupoint_Code "ST14" ;
+    acu:Pinyin_Name "Kufang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record46> acu:Acupoint_Code "ST15" ;
+    acu:Pinyin_Name "Wuyi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record47> acu:Acupoint_Code "ST16" ;
+    acu:Pinyin_Name "Yingchuang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record48> acu:Acupoint_Code "ST17" ;
+    acu:Pinyin_Name "Ruzhong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record49> acu:Acupoint_Code "ST18" ;
+    acu:Pinyin_Name "Rugen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record5> acu:Acupoint_Code "LU5" ;
+    acu:Pinyin_Name "Chize" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record50> acu:Acupoint_Code "ST19" ;
+    acu:Pinyin_Name "Burong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record51> acu:Acupoint_Code "ST20" ;
+    acu:Pinyin_Name "Chengman" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record52> acu:Acupoint_Code "ST21" ;
+    acu:Pinyin_Name "Liangmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record53> acu:Acupoint_Code "ST22" ;
+    acu:Pinyin_Name "Guanmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record54> acu:Acupoint_Code "ST23" ;
+    acu:Pinyin_Name "Taiyi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record55> acu:Acupoint_Code "ST24" ;
+    acu:Pinyin_Name "Huaroumen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record56> acu:Acupoint_Code "ST25" ;
+    acu:Pinyin_Name "Tianshu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record57> acu:Acupoint_Code "ST26" ;
+    acu:Pinyin_Name "Wailing" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record58> acu:Acupoint_Code "ST27" ;
+    acu:Pinyin_Name "Daju" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record59> acu:Acupoint_Code "ST28" ;
+    acu:Pinyin_Name "Shuidao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record6> acu:Acupoint_Code "LU6" ;
+    acu:Pinyin_Name "Kongzui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record60> acu:Acupoint_Code "ST29" ;
+    acu:Pinyin_Name "Guilai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record61> acu:Acupoint_Code "ST30" ;
+    acu:Pinyin_Name "Qichong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record62> acu:Acupoint_Code "ST31" ;
+    acu:Pinyin_Name "Biguan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record63> acu:Acupoint_Code "ST32" ;
+    acu:Pinyin_Name "Futu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record64> acu:Acupoint_Code "ST33" ;
+    acu:Pinyin_Name "Yinshi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record65> acu:Acupoint_Code "ST34" ;
+    acu:Pinyin_Name "Liangqiu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record66> acu:Acupoint_Code "ST35" ;
+    acu:Pinyin_Name "Dubi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record67> acu:Acupoint_Code "ST36" ;
+    acu:Pinyin_Name "Zusanli" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record68> acu:Acupoint_Code "ST37" ;
+    acu:Pinyin_Name "Shangjuxu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record69> acu:Acupoint_Code "ST38" ;
+    acu:Pinyin_Name "Tiaokou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record7> acu:Acupoint_Code "LU7" ;
+    acu:Pinyin_Name "Lieque" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record70> acu:Acupoint_Code "ST39" ;
+    acu:Pinyin_Name "Xiajuxu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record71> acu:Acupoint_Code "ST40" ;
+    acu:Pinyin_Name "Fenglong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record72> acu:Acupoint_Code "ST41" ;
+    acu:Pinyin_Name "Jiexi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record73> acu:Acupoint_Code "ST42" ;
+    acu:Pinyin_Name "Chongyang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record74> acu:Acupoint_Code "ST43" ;
+    acu:Pinyin_Name "Xiangu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record75> acu:Acupoint_Code "ST44" ;
+    acu:Pinyin_Name "Neiting" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record76> acu:Acupoint_Code "ST45" ;
+    acu:Pinyin_Name "Lidui" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record77> acu:Acupoint_Code "SP1" ;
+    acu:Pinyin_Name "Yinbai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record78> acu:Acupoint_Code "SP2" ;
+    acu:Pinyin_Name "Dadu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record79> acu:Acupoint_Code "SP3" ;
+    acu:Pinyin_Name "Taibai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record8> acu:Acupoint_Code "LU8" ;
+    acu:Pinyin_Name "Jingqu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record80> acu:Acupoint_Code "SP4" ;
+    acu:Pinyin_Name "Gongsun" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record81> acu:Acupoint_Code "SP5" ;
+    acu:Pinyin_Name "Shangqiu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record82> acu:Acupoint_Code "SP6" ;
+    acu:Pinyin_Name "Sanyinjiao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record83> acu:Acupoint_Code "SP7" ;
+    acu:Pinyin_Name "Lougu" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record84> acu:Acupoint_Code "SP8" ;
+    acu:Pinyin_Name "Diji" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record85> acu:Acupoint_Code "SP9" ;
+    acu:Pinyin_Name "Yinlingquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record86> acu:Acupoint_Code "SP10" ;
+    acu:Pinyin_Name "Xuehai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record87> acu:Acupoint_Code "SP11" ;
+    acu:Pinyin_Name "Jimen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record88> acu:Acupoint_Code "SP12" ;
+    acu:Pinyin_Name "Chongmen" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record89> acu:Acupoint_Code "SP13" ;
+    acu:Pinyin_Name "Fushe" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record9> acu:Acupoint_Code "LU9" ;
+    acu:Pinyin_Name "Taiyuan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record90> acu:Acupoint_Code "SP14" ;
+    acu:Pinyin_Name "Fujie" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record91> acu:Acupoint_Code "SP15" ;
+    acu:Pinyin_Name "Daheng" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record92> acu:Acupoint_Code "SP16" ;
+    acu:Pinyin_Name "Fuai" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record93> acu:Acupoint_Code "SP17" ;
+    acu:Pinyin_Name "Shidou" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record94> acu:Acupoint_Code "SP18" ;
+    acu:Pinyin_Name "Tianxi" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record95> acu:Acupoint_Code "SP19" ;
+    acu:Pinyin_Name "Xiongxiang" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record96> acu:Acupoint_Code "SP20" ;
+    acu:Pinyin_Name "Zhourong" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record97> acu:Acupoint_Code "SP21" ;
+    acu:Pinyin_Name "Dabao" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record98> acu:Acupoint_Code "HT1" ;
+    acu:Pinyin_Name "Jiquan" ;
+    acu:Relation "haspinyinname" .
+
+<http://example.org/acupuncture/pinyinname/record99> acu:Acupoint_Code "HT2" ;
+    acu:Pinyin_Name "Qingling" ;
+    acu:Relation "haspinyinname" .
+

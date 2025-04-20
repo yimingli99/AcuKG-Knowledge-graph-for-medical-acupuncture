@@ -1,0 +1,934 @@
+@prefix acu: <http://example.org/acupuncture/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/acupuncture/near_acupoint/record1> acu:Acupoint "BL8" ;
+    acu:Acupoint_Code "BL6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72885e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record10> acu:Acupoint "BL15" ;
+    acu:Acupoint_Code "BL44" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72892e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record100> acu:Acupoint "ST14" ;
+    acu:Acupoint_Code "LU1" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72792e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record101> acu:Acupoint "KI26" ;
+    acu:Acupoint_Code "LU1" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72971e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record102> acu:Acupoint "CV20" ;
+    acu:Acupoint_Code "LU1" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73117e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record103> acu:Acupoint "CV21" ;
+    acu:Acupoint_Code "LU2" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73118e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record104> acu:Acupoint "KI27" ;
+    acu:Acupoint_Code "LU2" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72972e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record105> acu:Acupoint "ST13" ;
+    acu:Acupoint_Code "LU2" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72791e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record106> acu:Acupoint "LU5" ;
+    acu:Acupoint_Code "LU3" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7275e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record107> acu:Acupoint "PC3" ;
+    acu:Acupoint_Code "LU5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72976e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record108> acu:Acupoint "LU5" ;
+    acu:Acupoint_Code "LU6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7275e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record109> acu:Acupoint "LU9" ;
+    acu:Acupoint_Code "LU6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72754e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record11> acu:Acupoint "GV11" ;
+    acu:Acupoint_Code "BL44" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73078e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record110> acu:Acupoint "PC3" ;
+    acu:Acupoint_Code "PC4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72976e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record111> acu:Acupoint "PC7" ;
+    acu:Acupoint_Code "PC4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7298e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record112> acu:Acupoint "PC7" ;
+    acu:Acupoint_Code "PC5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7298e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record113> acu:Acupoint "PC7" ;
+    acu:Acupoint_Code "PC6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7298e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record114> acu:Acupoint "TE5" ;
+    acu:Acupoint_Code "PC6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72988e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record115> acu:Acupoint "Ht7" ;
+    acu:Acupoint_Code "PC7" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record116> acu:Acupoint "SI3" ;
+    acu:Acupoint_Code "SI4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7286e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record117> acu:Acupoint "BL11" ;
+    acu:Acupoint_Code "SI14" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72888e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record118> acu:Acupoint "gV13" ;
+    acu:Acupoint_Code "SI14" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7308e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record119> acu:Acupoint "St9" ;
+    acu:Acupoint_Code "SI16" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record12> acu:Acupoint "BL16" ;
+    acu:Acupoint_Code "BL45" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72893e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record120> acu:Acupoint "LI18" ;
+    acu:Acupoint_Code "SI16" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72775e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record121> acu:Acupoint "tE21" ;
+    acu:Acupoint_Code "SI19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73005e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record122> acu:Acupoint "gB2" ;
+    acu:Acupoint_Code "SI19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7301e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record123> acu:Acupoint "LR4" ;
+    acu:Acupoint_Code "SP5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73056e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record124> acu:Acupoint "KI6" ;
+    acu:Acupoint_Code "SP5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72951e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record125> acu:Acupoint "SP9" ;
+    acu:Acupoint_Code "SP8" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72834e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record126> acu:Acupoint "SP12" ;
+    acu:Acupoint_Code "SP11" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72837e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record127> acu:Acupoint "ST18" ;
+    acu:Acupoint_Code "SP17" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72797e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record128> acu:Acupoint "KI22" ;
+    acu:Acupoint_Code "SP17" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72967e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record129> acu:Acupoint "ST17" ;
+    acu:Acupoint_Code "SP18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72796e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record13> acu:Acupoint "GV10" ;
+    acu:Acupoint_Code "BL45" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73077e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record130> acu:Acupoint "KI23" ;
+    acu:Acupoint_Code "SP18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72968e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record131> acu:Acupoint "ST6" ;
+    acu:Acupoint_Code "SP19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72784e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record132> acu:Acupoint "KI24" ;
+    acu:Acupoint_Code "SP19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72969e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record133> acu:Acupoint "ST15" ;
+    acu:Acupoint_Code "SP20" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72793e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record134> acu:Acupoint "KI25" ;
+    acu:Acupoint_Code "SP20" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7297e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record135> acu:Acupoint "gB3" ;
+    acu:Acupoint_Code "ST7" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73011e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record136> acu:Acupoint "LI18" ;
+    acu:Acupoint_Code "ST9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72775e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record137> acu:Acupoint "SI16" ;
+    acu:Acupoint_Code "ST9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72873e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record138> acu:Acupoint "SI16" ;
+    acu:Acupoint_Code "St9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72873e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record139> acu:Acupoint "LI18" ;
+    acu:Acupoint_Code "St9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72775e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record14> acu:Acupoint "BL17" ;
+    acu:Acupoint_Code "BL 46" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72894e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record140> acu:Acupoint "St9" ;
+    acu:Acupoint_Code "ST11" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record141> acu:Acupoint "CV14" ;
+    acu:Acupoint_Code "ST 19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73111e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record142> acu:Acupoint "ST25" ;
+    acu:Acupoint_Code "ST20" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record143> acu:Acupoint "St19" ;
+    acu:Acupoint_Code "ST20" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record144> acu:Acupoint "CV13" ;
+    acu:Acupoint_Code "ST20" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7311e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record145> acu:Acupoint "ST25" ;
+    acu:Acupoint_Code "ST21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record146> acu:Acupoint "St20" ;
+    acu:Acupoint_Code "ST21" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record147> acu:Acupoint "CV12" ;
+    acu:Acupoint_Code "ST21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73109e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record148> acu:Acupoint "KI18" ;
+    acu:Acupoint_Code "ST22" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72963e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record149> acu:Acupoint "CV11" ;
+    acu:Acupoint_Code "ST22" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73108e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record15> acu:Acupoint "GV9" ;
+    acu:Acupoint_Code "BL 46" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73076e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record150> acu:Acupoint "KI17" ;
+    acu:Acupoint_Code "ST23" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72962e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record151> acu:Acupoint "CV10" ;
+    acu:Acupoint_Code "ST23" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73107e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record152> acu:Acupoint "CV9" ;
+    acu:Acupoint_Code "ST24" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73106e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record153> acu:Acupoint "KI15" ;
+    acu:Acupoint_Code "ST26" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7296e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record154> acu:Acupoint "CV7" ;
+    acu:Acupoint_Code "ST26" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73104e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record155> acu:Acupoint "KI14" ;
+    acu:Acupoint_Code "ST27" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72959e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record156> acu:Acupoint "CV5" ;
+    acu:Acupoint_Code "ST27" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73102e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record157> acu:Acupoint "ST25" ;
+    acu:Acupoint_Code "ST28" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record158> acu:Acupoint "St27" ;
+    acu:Acupoint_Code "ST28" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record159> acu:Acupoint "CV4" ;
+    acu:Acupoint_Code "ST28" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73101e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record16> acu:Acupoint "BL18" ;
+    acu:Acupoint_Code "BL47" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72895e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record160> acu:Acupoint "ST25" ;
+    acu:Acupoint_Code "ST29" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record161> acu:Acupoint "St28" ;
+    acu:Acupoint_Code "ST29" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record162> acu:Acupoint "CV3" ;
+    acu:Acupoint_Code "ST29" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.731e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record163> acu:Acupoint "ST25" ;
+    acu:Acupoint_Code "ST30" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72804e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record164> acu:Acupoint "CV2" ;
+    acu:Acupoint_Code "ST30" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73098e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record165> acu:Acupoint "St32" ;
+    acu:Acupoint_Code "ST33" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record166> acu:Acupoint "St33" ;
+    acu:Acupoint_Code "St34" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record167> acu:Acupoint "ST35" ;
+    acu:Acupoint_Code "ST36" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record168> acu:Acupoint "ST41" ;
+    acu:Acupoint_Code "ST36" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7282e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record169> acu:Acupoint "ST35" ;
+    acu:Acupoint_Code "ST37" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record17> acu:Acupoint "GV8" ;
+    acu:Acupoint_Code "BL47" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73075e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record170> acu:Acupoint "ST41" ;
+    acu:Acupoint_Code "ST37" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7282e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record171> acu:Acupoint "ST35" ;
+    acu:Acupoint_Code "ST38" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record172> acu:Acupoint "ST41" ;
+    acu:Acupoint_Code "ST38" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7282e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record173> acu:Acupoint "St40" ;
+    acu:Acupoint_Code "ST38" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record174> acu:Acupoint "ST35" ;
+    acu:Acupoint_Code "ST39" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72814e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record175> acu:Acupoint "ST41" ;
+    acu:Acupoint_Code "ST39" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7282e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record176> acu:Acupoint "GB35" ;
+    acu:Acupoint_Code "ST39" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73042e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record177> acu:Acupoint "gB36" ;
+    acu:Acupoint_Code "ST39" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73043e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record178> acu:Acupoint "ST38" ;
+    acu:Acupoint_Code "ST40" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72817e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record179> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "TE4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record18> acu:Acupoint "BL19" ;
+    acu:Acupoint_Code "BL48" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72897e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record180> acu:Acupoint "SI5" ;
+    acu:Acupoint_Code "TE4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72862e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record181> acu:Acupoint "PC6" ;
+    acu:Acupoint_Code "TE5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72979e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record182> acu:Acupoint "TE6" ;
+    acu:Acupoint_Code "TE7" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72989e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record183> acu:Acupoint "tE14" ;
+    acu:Acupoint_Code "LI15" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72997e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record184> acu:Acupoint "gB21" ;
+    acu:Acupoint_Code "TE15" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73028e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record185> acu:Acupoint "SI13" ;
+    acu:Acupoint_Code "TE15" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7287e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record186> acu:Acupoint "tE17" ;
+    acu:Acupoint_Code "TE18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73001e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record187> acu:Acupoint "tE20" ;
+    acu:Acupoint_Code "TE18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73004e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record188> acu:Acupoint "tE17" ;
+    acu:Acupoint_Code "TE19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73001e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record189> acu:Acupoint "tE20" ;
+    acu:Acupoint_Code "TE19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73004e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record19> acu:Acupoint "GV7" ;
+    acu:Acupoint_Code "BL48" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73074e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record190> acu:Acupoint "SI19" ;
+    acu:Acupoint_Code "tE21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72876e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record191> acu:Acupoint "GB1" ;
+    acu:Acupoint_Code "TE23" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73009e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record2> acu:Acupoint "gV17" ;
+    acu:Acupoint_Code "BL9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73084e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record20> acu:Acupoint "BL20" ;
+    acu:Acupoint_Code "BL49" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72898e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record21> acu:Acupoint "GV6" ;
+    acu:Acupoint_Code "BL49" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73073e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record22> acu:Acupoint "BL21" ;
+    acu:Acupoint_Code "BL50" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72899e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record23> acu:Acupoint "BL22" ;
+    acu:Acupoint_Code "BL51" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.729e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record24> acu:Acupoint "GV5" ;
+    acu:Acupoint_Code "BL51" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73072e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record25> acu:Acupoint "BL23" ;
+    acu:Acupoint_Code "BL52" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72901e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record26> acu:Acupoint "GV4" ;
+    acu:Acupoint_Code "BL52" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73071e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record27> acu:Acupoint "BL28" ;
+    acu:Acupoint_Code "BL53" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72906e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record28> acu:Acupoint "BL32" ;
+    acu:Acupoint_Code "BL53" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7291e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record29> acu:Acupoint "BL60" ;
+    acu:Acupoint_Code "BL58" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72939e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record3> acu:Acupoint "BL32" ;
+    acu:Acupoint_Code "BL31" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7291e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record30> acu:Acupoint "BL57" ;
+    acu:Acupoint_Code "BL58" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72935e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record31> acu:Acupoint "BL60" ;
+    acu:Acupoint_Code "BL59" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72939e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record32> acu:Acupoint "BL60" ;
+    acu:Acupoint_Code "BL61" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72939e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record33> acu:Acupoint "KI6" ;
+    acu:Acupoint_Code "BL 62" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72951e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record34> acu:Acupoint "CV22" ;
+    acu:Acupoint_Code "CV21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73119e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record35> acu:Acupoint "St8" ;
+    acu:Acupoint_Code "GB4" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record36> acu:Acupoint "gB7" ;
+    acu:Acupoint_Code "GB4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73015e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record37> acu:Acupoint "St8" ;
+    acu:Acupoint_Code "GB5" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record38> acu:Acupoint "gB7" ;
+    acu:Acupoint_Code "GB5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73015e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record39> acu:Acupoint "St8" ;
+    acu:Acupoint_Code "GB6" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record4> acu:Acupoint "BL32" ;
+    acu:Acupoint_Code "BL33" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7291e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record40> acu:Acupoint "gB7" ;
+    acu:Acupoint_Code "GB6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73015e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record41> acu:Acupoint "GB8" ;
+    acu:Acupoint_Code "GB9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73016e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record42> acu:Acupoint "gB9" ;
+    acu:Acupoint_Code "GB10" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73017e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record43> acu:Acupoint "gB12" ;
+    acu:Acupoint_Code "GB10" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73019e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record44> acu:Acupoint "gB9" ;
+    acu:Acupoint_Code "GB11" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73017e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record45> acu:Acupoint "gB12" ;
+    acu:Acupoint_Code "GB11" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73019e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record46> acu:Acupoint "gV24" ;
+    acu:Acupoint_Code "GB13" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73091e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record47> acu:Acupoint "St8" ;
+    acu:Acupoint_Code "GB13" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record48> acu:Acupoint "gV24" ;
+    acu:Acupoint_Code "GB15" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73091e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record49> acu:Acupoint "St8" ;
+    acu:Acupoint_Code "GB15" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record5> acu:Acupoint "BL39" ;
+    acu:Acupoint_Code "BL38" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record50> acu:Acupoint "GB15" ;
+    acu:Acupoint_Code "GB16" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73022e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record51> acu:Acupoint "GB15" ;
+    acu:Acupoint_Code "GB17" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73022e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record52> acu:Acupoint "gB17" ;
+    acu:Acupoint_Code "GB18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73024e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record53> acu:Acupoint "BL7" ;
+    acu:Acupoint_Code "GB18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72884e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record54> acu:Acupoint "gB20" ;
+    acu:Acupoint_Code "GB19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73027e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record55> acu:Acupoint "GV17" ;
+    acu:Acupoint_Code "GB19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73084e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record56> acu:Acupoint "BL9" ;
+    acu:Acupoint_Code "GB19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72886e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record57> acu:Acupoint "GV16" ;
+    acu:Acupoint_Code "GB20" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73083e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record58> acu:Acupoint "Lr14" ;
+    acu:Acupoint_Code "GB24" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record59> acu:Acupoint "LR13" ;
+    acu:Acupoint_Code "GB26" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73065e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record6> acu:Acupoint "BL12" ;
+    acu:Acupoint_Code "BL41" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72889e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record60> acu:Acupoint "CV8" ;
+    acu:Acupoint_Code "GB26" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73105e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record61> acu:Acupoint "GB26" ;
+    acu:Acupoint_Code "GB27" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73033e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record62> acu:Acupoint "CV4" ;
+    acu:Acupoint_Code "GB27" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73101e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record63> acu:Acupoint "gB27" ;
+    acu:Acupoint_Code "GB28" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73034e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record64> acu:Acupoint "gB36" ;
+    acu:Acupoint_Code "GB35" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73043e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record65> acu:Acupoint "GB35" ;
+    acu:Acupoint_Code "GB36" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73042e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record66> acu:Acupoint "GV16" ;
+    acu:Acupoint_Code "GV15" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73083e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record67> acu:Acupoint "BL9" ;
+    acu:Acupoint_Code "GV17" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72886e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record68> acu:Acupoint "gV17" ;
+    acu:Acupoint_Code "GV18" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73084e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record69> acu:Acupoint "gV20" ;
+    acu:Acupoint_Code "GV19" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73087e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record7> acu:Acupoint "BL13" ;
+    acu:Acupoint_Code "BL42" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7289e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record70> acu:Acupoint "gV20" ;
+    acu:Acupoint_Code "GV21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73087e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record71> acu:Acupoint "gV22" ;
+    acu:Acupoint_Code "GV21" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73089e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record72> acu:Acupoint "Ht1" ;
+    acu:Acupoint_Code "Ht2" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record73> acu:Acupoint "Ht3" ;
+    acu:Acupoint_Code "Ht2" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record74> acu:Acupoint "KI3" ;
+    acu:Acupoint_Code "KI5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72948e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record75> acu:Acupoint "BL62" ;
+    acu:Acupoint_Code "KI6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72941e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record76> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "LI6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record77> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI6" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record78> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "LI7" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record79> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI7" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record8> acu:Acupoint "GV12" ;
+    acu:Acupoint_Code "BL42" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.73079e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record80> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "LI8" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record81> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI8" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record82> acu:Acupoint "LI9" ;
+    acu:Acupoint_Code "LI8" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72766e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record83> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "LI9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record84> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI9" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record85> acu:Acupoint "LI5" ;
+    acu:Acupoint_Code "LI10" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72762e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record86> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI10" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record87> acu:Acupoint "LU5" ;
+    acu:Acupoint_Code "LI11" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7275e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record88> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI13" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record89> acu:Acupoint "LI15" ;
+    acu:Acupoint_Code "LI13" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72772e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record9> acu:Acupoint "BL14" ;
+    acu:Acupoint_Code "BL43" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72891e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record90> acu:Acupoint "LI11" ;
+    acu:Acupoint_Code "LI14" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72768e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record91> acu:Acupoint "Lr2" ;
+    acu:Acupoint_Code "LR3" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record92> acu:Acupoint "SP5" ;
+    acu:Acupoint_Code "LR4" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.7283e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record93> acu:Acupoint "St41" ;
+    acu:Acupoint_Code "LR4" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record94> acu:Acupoint "KI9" ;
+    acu:Acupoint_Code "LR5" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72954e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record95> acu:Acupoint "SP9" ;
+    acu:Acupoint_Code "LR7" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72834e+08 .
+
+<http://example.org/acupuncture/near_acupoint/record96> acu:Acupoint "St30" ;
+    acu:Acupoint_Code "LR10" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record97> acu:Acupoint "St30" ;
+    acu:Acupoint_Code "LR11" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record98> acu:Acupoint "St19" ;
+    acu:Acupoint_Code "LR14" ;
+    acu:Relation "near_acupoint" .
+
+<http://example.org/acupuncture/near_acupoint/record99> acu:Acupoint "LU2" ;
+    acu:Acupoint_Code "LU1" ;
+    acu:Relation "near_acupoint" ;
+    acu:SNOMED_CT_code 2.72747e+08 .
+

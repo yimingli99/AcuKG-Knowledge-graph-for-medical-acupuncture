@@ -1,0 +1,2755 @@
+@prefix acu: <http://example.org/acupuncture/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/acupuncture/part_of/record1> acu:Acupoint_Code "BL1" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "inner canthus of" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/part_of/record10> acu:Acupoint_Code "BL11" ;
+    acu:Anatomy "first thoracic vertebra (T1)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record100> acu:Acupoint_Code "GB7" ;
+    acu:Anatomy "auricle" ;
+    acu:Relation "horizontal line of the apex of" ;
+    acu:SNOMED_CT_code 1.13327e+08 .
+
+<http://example.org/acupuncture/part_of/record101> acu:Acupoint_Code "GB7" ;
+    acu:Anatomy "auricle" ;
+    acu:Relation "junction of" ;
+    acu:SNOMED_CT_code 1.13327e+08 .
+
+<http://example.org/acupuncture/part_of/record102> acu:Acupoint_Code "GB9" ;
+    acu:Anatomy "auricular root" ;
+    acu:Relation "posterior border of" .
+
+<http://example.org/acupuncture/part_of/record103> acu:Acupoint_Code "GB12" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record104> acu:Acupoint_Code "GB14" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record105> acu:Acupoint_Code "GB15" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record106> acu:Acupoint_Code "GB16" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record107> acu:Acupoint_Code "GB17" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record108> acu:Acupoint_Code "GB18" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record109> acu:Acupoint_Code "GB19" ;
+    acu:Anatomy "external occipital protuberance" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 6.1918e+07 ;
+    acu:UBERON_code "UBERON_0013469" .
+
+<http://example.org/acupuncture/part_of/record11> acu:Acupoint_Code "BL12" ;
+    acu:Anatomy "second thoracic vertebra (T2)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record110> acu:Acupoint_Code "GB20" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record111> acu:Acupoint_Code "GB20" ;
+    acu:Anatomy "sternocleidomastoid" ;
+    acu:Relation "origins of" ;
+    acu:SNOMED_CT_code 1.81741e+08 ;
+    acu:UBERON_code "UBERON_0001128" .
+
+<http://example.org/acupuncture/part_of/record112> acu:Acupoint_Code "GB21" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "posterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record113> acu:Acupoint_Code "GB21" ;
+    acu:Anatomy "seventh cervical vertebra (C7)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record114> acu:Acupoint_Code "GB21" ;
+    acu:Anatomy "acromion" ;
+    acu:Relation "lateral end of" ;
+    acu:SNOMED_CT_code 3.193401e+07 ;
+    acu:UBERON_code "UBERON_0002497" .
+
+<http://example.org/acupuncture/part_of/record115> acu:Acupoint_Code "GB24" ;
+    acu:Anatomy "nipple" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 2.6578e+08 ;
+    acu:UBERON_code "UBERON_0002030" .
+
+<http://example.org/acupuncture/part_of/record116> acu:Acupoint_Code "GB24" ;
+    acu:Anatomy "midclavicular line" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 2.79013e+08 .
+
+<http://example.org/acupuncture/part_of/record117> acu:Acupoint_Code "GB25" ;
+    acu:Anatomy "12th rib" ;
+    acu:Relation "free extremity of" .
+
+<http://example.org/acupuncture/part_of/record118> acu:Acupoint_Code "GB25" ;
+    acu:Anatomy "costal arch" ;
+    acu:Relation "inferior border of" ;
+    acu:SNOMED_CT_code 2.425601e+07 ;
+    acu:UBERON_code "UBERON_0002225" .
+
+<http://example.org/acupuncture/part_of/record119> acu:Acupoint_Code "GB26" ;
+    acu:Anatomy "11th rib" ;
+    acu:Relation "free extremity of" .
+
+<http://example.org/acupuncture/part_of/record12> acu:Acupoint_Code "BL13" ;
+    acu:Anatomy "third thoracic vertebra (T3)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record120> acu:Acupoint_Code "GB26" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record121> acu:Acupoint_Code "GB26" ;
+    acu:Anatomy "costal arch" ;
+    acu:Relation "inferior border of" ;
+    acu:SNOMED_CT_code 2.425601e+07 ;
+    acu:UBERON_code "UBERON_0002225" .
+
+<http://example.org/acupuncture/part_of/record122> acu:Acupoint_Code "GB27" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record123> acu:Acupoint_Code "GB29" ;
+    acu:Anatomy "greater trochanter" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.0547e+07 ;
+    acu:UBERON_code "UBERON_0002503" .
+
+<http://example.org/acupuncture/part_of/record124> acu:Acupoint_Code "GB30" ;
+    acu:Anatomy "greater trochanter" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.0547e+07 ;
+    acu:UBERON_code "UBERON_0002503" .
+
+<http://example.org/acupuncture/part_of/record125> acu:Acupoint_Code "GB31" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record126> acu:Acupoint_Code "GB31" ;
+    acu:Anatomy "middle finger" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 6.553101e+07 .
+
+<http://example.org/acupuncture/part_of/record127> acu:Acupoint_Code "GB32" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record128> acu:Acupoint_Code "GB33" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record129> acu:Acupoint_Code "GB34" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record13> acu:Acupoint_Code "BL14" ;
+    acu:Anatomy "fourth thoracic vertebra (T4)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record130> acu:Acupoint_Code "GB34" ;
+    acu:Anatomy "fibula" ;
+    acu:Relation "head of" ;
+    acu:SNOMED_CT_code 8.734201e+07 ;
+    acu:UBERON_code "UBERON_0001446" .
+
+<http://example.org/acupuncture/part_of/record131> acu:Acupoint_Code "GB35" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record132> acu:Acupoint_Code "GB35" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record133> acu:Acupoint_Code "GB35" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "lateral end of" .
+
+<http://example.org/acupuncture/part_of/record134> acu:Acupoint_Code "GB36" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record135> acu:Acupoint_Code "GB36" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record136> acu:Acupoint_Code "GB36" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "lateral end of" .
+
+<http://example.org/acupuncture/part_of/record137> acu:Acupoint_Code "GB37" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record138> acu:Acupoint_Code "GB37" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record139> acu:Acupoint_Code "GB38" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record14> acu:Acupoint_Code "BL15" ;
+    acu:Anatomy "fifth thoracic vertebra (T5)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record140> acu:Acupoint_Code "GB38" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record141> acu:Acupoint_Code "GB39" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record142> acu:Acupoint_Code "GB39" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "fibular aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record143> acu:Acupoint_Code "GB40" ;
+    acu:Anatomy "ankle" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 3.44001e+05 .
+
+<http://example.org/acupuncture/part_of/record144> acu:Acupoint_Code "GB41" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record145> acu:Acupoint_Code "GB41" ;
+    acu:Anatomy "fourth and fifth metatarsal bones" ;
+    acu:Relation "junction of the bases of" .
+
+<http://example.org/acupuncture/part_of/record146> acu:Acupoint_Code "GB42" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record147> acu:Acupoint_Code "GB43" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record148> acu:Acupoint_Code "GB44" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "lateral corner of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record149> acu:Acupoint_Code "GB44" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record15> acu:Acupoint_Code "BL16" ;
+    acu:Anatomy "sixth thoracic vertebra (T6)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record150> acu:Acupoint_Code "GB44" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "vertical line of the lateral side of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record151> acu:Acupoint_Code "GB44" ;
+    acu:Anatomy "fourth toenail" ;
+    acu:Relation "horizontal line of the base of" .
+
+<http://example.org/acupuncture/part_of/record152> acu:Acupoint_Code "GV1" ;
+    acu:Anatomy "coccyx" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 6.4688e+07 ;
+    acu:UBERON_code "UBERON_0001350" .
+
+<http://example.org/acupuncture/part_of/record153> acu:Acupoint_Code "GV1" ;
+    acu:Anatomy "anus" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 5.350501e+07 ;
+    acu:UBERON_code "UBERON_0001245" .
+
+<http://example.org/acupuncture/part_of/record154> acu:Acupoint_Code "GV3" ;
+    acu:Anatomy "fourth lumbar vertebra (L4)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record155> acu:Acupoint_Code "GV3" ;
+    acu:Anatomy "iliac crests" ;
+    acu:Relation "highest points of" .
+
+<http://example.org/acupuncture/part_of/record156> acu:Acupoint_Code "GV3" ;
+    acu:Anatomy "both iliac crests" ;
+    acu:Relation "midpoint of the highest points of" .
+
+<http://example.org/acupuncture/part_of/record157> acu:Acupoint_Code "GV4" ;
+    acu:Anatomy "second lumbar vertebra (L2)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record158> acu:Acupoint_Code "GV5" ;
+    acu:Anatomy "first lumbar vertebra (L1)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record159> acu:Acupoint_Code "GV6" ;
+    acu:Anatomy "11th thoracic vertebra (T11)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record16> acu:Acupoint_Code "BL17" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "inferior angle of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record160> acu:Acupoint_Code "GV7" ;
+    acu:Anatomy "tenth thoracic vertebra (T10)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record161> acu:Acupoint_Code "GV8" ;
+    acu:Anatomy "ninth thoracic vertebra (T9)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record162> acu:Acupoint_Code "GV9" ;
+    acu:Anatomy "seventh thoracic vertebra (T7)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record163> acu:Acupoint_Code "GV9" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "horizontal line of the inferior border of the inferior angle of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record164> acu:Acupoint_Code "GV10" ;
+    acu:Anatomy "sixth thoracic vertebra (T6)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record165> acu:Acupoint_Code "GV11" ;
+    acu:Anatomy "fifth thoracic vertebra (T5)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record166> acu:Acupoint_Code "GV12" ;
+    acu:Anatomy "third thoracic vertebra (T3)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record167> acu:Acupoint_Code "GV12" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "horizontal line of the medial end of the spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record168> acu:Acupoint_Code "GV13" ;
+    acu:Anatomy "first thoracic vertebra (T1)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record169> acu:Acupoint_Code "GV14" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "posterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record17> acu:Acupoint_Code "BL17" ;
+    acu:Anatomy "seventh thoracic vertebra" ;
+    acu:Relation "spinous process of" ;
+    acu:SNOMED_CT_code 6.248701e+07 .
+
+<http://example.org/acupuncture/part_of/record170> acu:Acupoint_Code "GV14" ;
+    acu:Anatomy "seventh cervical vertebra (C7)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record171> acu:Acupoint_Code "GV14" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record172> acu:Acupoint_Code "GV15" ;
+    acu:Anatomy "second cervical vertebra (C2)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record173> acu:Acupoint_Code "GV16" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "posterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record174> acu:Acupoint_Code "GV16" ;
+    acu:Anatomy "posterior hairline" ;
+    acu:Relation "midpoint of" .
+
+<http://example.org/acupuncture/part_of/record175> acu:Acupoint_Code "GV16" ;
+    acu:Anatomy "occipital bone" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 3.164e+07 ;
+    acu:UBERON_code "UBERON_0001676" .
+
+<http://example.org/acupuncture/part_of/record176> acu:Acupoint_Code "GV17" ;
+    acu:Anatomy "posterior median line" ;
+    acu:Relation "vertical line of" .
+
+<http://example.org/acupuncture/part_of/record177> acu:Acupoint_Code "GV17" ;
+    acu:Anatomy "external occipital protuberance" ;
+    acu:Relation "horizontal line of the superior border of" ;
+    acu:SNOMED_CT_code 6.1918e+07 ;
+    acu:UBERON_code "UBERON_0013469" .
+
+<http://example.org/acupuncture/part_of/record178> acu:Acupoint_Code "GV24" ;
+    acu:Anatomy "eyebrows" ;
+    acu:Relation "medial ends of" .
+
+<http://example.org/acupuncture/part_of/record179> acu:Acupoint_Code "GV25" ;
+    acu:Anatomy "nose" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 4.5206e+07 ;
+    acu:UBERON_code "UBERON_0000004" .
+
+<http://example.org/acupuncture/part_of/record18> acu:Acupoint_Code "BL17" ;
+    acu:Anatomy "seventh thoracic vertebra (T7)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record180> acu:Acupoint_Code "GV26" ;
+    acu:Anatomy "philtrum midline" ;
+    acu:Relation "midpoint of" .
+
+<http://example.org/acupuncture/part_of/record181> acu:Acupoint_Code "GV26" ;
+    acu:Anatomy "philtrum midline" ;
+    acu:Relation "junction of" .
+
+<http://example.org/acupuncture/part_of/record182> acu:Acupoint_Code "GV27" ;
+    acu:Anatomy "upper lip" ;
+    acu:Relation "midpoint of the tubercle of" ;
+    acu:SNOMED_CT_code 1.1681e+07 ;
+    acu:UBERON_code "UBERON_0001834" .
+
+<http://example.org/acupuncture/part_of/record183> acu:Acupoint_Code "GV28" ;
+    acu:Anatomy "upper lip" ;
+    acu:Relation "junction of the frenulum of" ;
+    acu:SNOMED_CT_code 1.1681e+07 ;
+    acu:UBERON_code "UBERON_0001834" .
+
+<http://example.org/acupuncture/part_of/record184> acu:Acupoint_Code "GV28" ;
+    acu:Anatomy "upper gum" ;
+    acu:Relation "junction of the frenulum of" ;
+    acu:SNOMED_CT_code 2.311401e+07 .
+
+<http://example.org/acupuncture/part_of/record185> acu:Acupoint_Code "HT1" ;
+    acu:Anatomy "axillary fossa" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 3.479701e+07 .
+
+<http://example.org/acupuncture/part_of/record186> acu:Acupoint_Code "HT2" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record187> acu:Acupoint_Code "HT3" ;
+    acu:Anatomy "humerus" ;
+    acu:Relation "medial epicondyle of" ;
+    acu:SNOMED_CT_code 8.505001e+07 ;
+    acu:UBERON_code "UBERON_0004250" .
+
+<http://example.org/acupuncture/part_of/record188> acu:Acupoint_Code "HT3" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record189> acu:Acupoint_Code "HT3" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "medial end of" .
+
+<http://example.org/acupuncture/part_of/record19> acu:Acupoint_Code "BL18" ;
+    acu:Anatomy "ninth thoracic vertebra (T9)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record190> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record191> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "ulna" ;
+    acu:Relation "superior border of the head of" ;
+    acu:SNOMED_CT_code 2.3416e+07 ;
+    acu:UBERON_code "UBERON_0001424" .
+
+<http://example.org/acupuncture/part_of/record192> acu:Acupoint_Code "HT4" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "radial side of the superior border of" .
+
+<http://example.org/acupuncture/part_of/record193> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record194> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "ulna" ;
+    acu:Relation "root of the head of" ;
+    acu:SNOMED_CT_code 2.3416e+07 ;
+    acu:UBERON_code "UBERON_0001424" .
+
+<http://example.org/acupuncture/part_of/record195> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "ulna" ;
+    acu:Relation "body of the head of" ;
+    acu:SNOMED_CT_code 2.3416e+07 ;
+    acu:UBERON_code "UBERON_0001424" .
+
+<http://example.org/acupuncture/part_of/record196> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "ulna" ;
+    acu:Relation "base of the head of" ;
+    acu:SNOMED_CT_code 2.3416e+07 ;
+    acu:UBERON_code "UBERON_0001424" .
+
+<http://example.org/acupuncture/part_of/record197> acu:Acupoint_Code "HT5" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "radial side of the proximal border of" .
+
+<http://example.org/acupuncture/part_of/record198> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record199> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "ulna" ;
+    acu:Relation "distal border of the head of" ;
+    acu:SNOMED_CT_code 2.3416e+07 ;
+    acu:UBERON_code "UBERON_0001424" .
+
+<http://example.org/acupuncture/part_of/record2> acu:Acupoint_Code "BL1" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "superomedial parts of the inner canthus of" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/part_of/record20> acu:Acupoint_Code "BL19" ;
+    acu:Anatomy "tenth thoracic vertebra (T10)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record200> acu:Acupoint_Code "HT6" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "radial side of the proximal border of" .
+
+<http://example.org/acupuncture/part_of/record201> acu:Acupoint_Code "HT7" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record202> acu:Acupoint_Code "HT7" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "proximal border of" .
+
+<http://example.org/acupuncture/part_of/record203> acu:Acupoint_Code "HT8" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "palm of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record204> acu:Acupoint_Code "HT8" ;
+    acu:Anatomy "little finger" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 1.2406e+07 .
+
+<http://example.org/acupuncture/part_of/record205> acu:Acupoint_Code "HT9" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "radial corner of" .
+
+<http://example.org/acupuncture/part_of/record206> acu:Acupoint_Code "HT9" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "vertical line of the radial border of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record207> acu:Acupoint_Code "HT9" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record208> acu:Acupoint_Code "HT9" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "horizontal line of" .
+
+<http://example.org/acupuncture/part_of/record209> acu:Acupoint_Code "KI1" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "sole of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record21> acu:Acupoint_Code "BL20" ;
+    acu:Anatomy "11th thoracic vertebra (T11)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record210> acu:Acupoint_Code "KI1" ;
+    acu:Anatomy "toes" ;
+    acu:Relation "deepest depression of" .
+
+<http://example.org/acupuncture/part_of/record211> acu:Acupoint_Code "KI1" ;
+    acu:Anatomy "second and third toes" ;
+    acu:Relation "bases of" .
+
+<http://example.org/acupuncture/part_of/record212> acu:Acupoint_Code "KI2" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record213> acu:Acupoint_Code "KI2" ;
+    acu:Anatomy "navicular bone" ;
+    acu:Relation "tuberosity of" .
+
+<http://example.org/acupuncture/part_of/record214> acu:Acupoint_Code "KI3" ;
+    acu:Anatomy "ankle" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.44001e+05 .
+
+<http://example.org/acupuncture/part_of/record215> acu:Acupoint_Code "KI3" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record216> acu:Acupoint_Code "KI4" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record217> acu:Acupoint_Code "KI4" ;
+    acu:Anatomy "calcaneal tendon" ;
+    acu:Relation "medial attachment of" ;
+    acu:UBERON_code "UBERON_0003701" .
+
+<http://example.org/acupuncture/part_of/record218> acu:Acupoint_Code "KI5" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record219> acu:Acupoint_Code "KI6" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record22> acu:Acupoint_Code "BL21" ;
+    acu:Anatomy "12th thoracic vertebra (T12)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record220> acu:Acupoint_Code "KI6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record221> acu:Acupoint_Code "KI7" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record222> acu:Acupoint_Code "KI7" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record223> acu:Acupoint_Code "KI8" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record224> acu:Acupoint_Code "KI8" ;
+    acu:Anatomy "tibial bone" ;
+    acu:Relation "medial border of" .
+
+<http://example.org/acupuncture/part_of/record225> acu:Acupoint_Code "KI8" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record226> acu:Acupoint_Code "KI9" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record227> acu:Acupoint_Code "KI9" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record228> acu:Acupoint_Code "KI9" ;
+    acu:Anatomy "tibia bone" ;
+    acu:Relation "medial border of" .
+
+<http://example.org/acupuncture/part_of/record229> acu:Acupoint_Code "KI10" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record23> acu:Acupoint_Code "BL22" ;
+    acu:Anatomy "first lumbar vertebra (L1)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record230> acu:Acupoint_Code "KI11" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record231> acu:Acupoint_Code "KI12" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record232> acu:Acupoint_Code "KI13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record233> acu:Acupoint_Code "KI14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record234> acu:Acupoint_Code "KI16" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record235> acu:Acupoint_Code "KI17" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record236> acu:Acupoint_Code "KI18" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record237> acu:Acupoint_Code "KI19" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record238> acu:Acupoint_Code "KI20" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record239> acu:Acupoint_Code "KI21" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record24> acu:Acupoint_Code "BL23" ;
+    acu:Anatomy "second lumbar vertebra (L2)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record240> acu:Acupoint_Code "LI1" ;
+    acu:Anatomy "index fingernail" ;
+    acu:Relation "radial corner of" .
+
+<http://example.org/acupuncture/part_of/record241> acu:Acupoint_Code "LI1" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/part_of/record242> acu:Acupoint_Code "LI1" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "vertical line of the radial border of" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/part_of/record243> acu:Acupoint_Code "LI1" ;
+    acu:Anatomy "index fingernail" ;
+    acu:Relation "horizontal line of the base of" .
+
+<http://example.org/acupuncture/part_of/record244> acu:Acupoint_Code "LI2" ;
+    acu:Anatomy "second metacarpophalangeal" ;
+    acu:Relation "radial side of" .
+
+<http://example.org/acupuncture/part_of/record245> acu:Acupoint_Code "LI3" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record246> acu:Acupoint_Code "LI4" ;
+    acu:Anatomy "second metacarpal bone" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 8.192101e+07 .
+
+<http://example.org/acupuncture/part_of/record247> acu:Acupoint_Code "LI4" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record248> acu:Acupoint_Code "LI5" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record249> acu:Acupoint_Code "LI5" ;
+    acu:Anatomy "dorsal wrist crease" ;
+    acu:Relation "radial side of" .
+
+<http://example.org/acupuncture/part_of/record25> acu:Acupoint_Code "BL24" ;
+    acu:Anatomy "third lumbar vertebra (L3)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record250> acu:Acupoint_Code "LI5" ;
+    acu:Anatomy "anatomical snuffbox" ;
+    acu:Relation "depression of" ;
+    acu:SNOMED_CT_code 2.78825e+08 .
+
+<http://example.org/acupuncture/part_of/record251> acu:Acupoint_Code "LI5" ;
+    acu:Anatomy "extensor pollicis longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 8.144001e+07 .
+
+<http://example.org/acupuncture/part_of/record252> acu:Acupoint_Code "LI5" ;
+    acu:Anatomy "extensor pollicis brevis" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 2.44995e+08 .
+
+<http://example.org/acupuncture/part_of/record253> acu:Acupoint_Code "LI6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record254> acu:Acupoint_Code "LI7" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record255> acu:Acupoint_Code "LI8" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record256> acu:Acupoint_Code "LI9" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record257> acu:Acupoint_Code "LI10" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record258> acu:Acupoint_Code "LI11" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record259> acu:Acupoint_Code "LI11" ;
+    acu:Anatomy "humerus" ;
+    acu:Relation "lateral epicondyle of" ;
+    acu:SNOMED_CT_code 8.505001e+07 ;
+    acu:UBERON_code "UBERON_0004250" .
+
+<http://example.org/acupuncture/part_of/record26> acu:Acupoint_Code "BL25" ;
+    acu:Anatomy "fourth lumbar vertebra (L4)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record260> acu:Acupoint_Code "LI11" ;
+    acu:Anatomy "cubital crease" ;
+    acu:Relation "lateral end of" .
+
+<http://example.org/acupuncture/part_of/record261> acu:Acupoint_Code "LI12" ;
+    acu:Anatomy "humerus" ;
+    acu:Relation "lateral epicondyle of" ;
+    acu:SNOMED_CT_code 8.505001e+07 ;
+    acu:UBERON_code "UBERON_0004250" .
+
+<http://example.org/acupuncture/part_of/record262> acu:Acupoint_Code "LI12" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record263> acu:Acupoint_Code "LI13" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record264> acu:Acupoint_Code "LI14" ;
+    acu:Anatomy "deltoid muscle" ;
+    acu:Relation "border of" ;
+    acu:SNOMED_CT_code 3.5259e+07 .
+
+<http://example.org/acupuncture/part_of/record265> acu:Acupoint_Code "LI15" ;
+    acu:Anatomy "acromion" ;
+    acu:Relation "anterior end of lateral border of" ;
+    acu:SNOMED_CT_code 3.193401e+07 ;
+    acu:UBERON_code "UBERON_0002497" .
+
+<http://example.org/acupuncture/part_of/record266> acu:Acupoint_Code "LI15" ;
+    acu:Anatomy "humerus" ;
+    acu:Relation "greater tubercle of" ;
+    acu:SNOMED_CT_code 8.505001e+07 ;
+    acu:UBERON_code "UBERON_0004250" .
+
+<http://example.org/acupuncture/part_of/record267> acu:Acupoint_Code "LI16" ;
+    acu:Anatomy "clavicle" ;
+    acu:Relation "acromial end of" ;
+    acu:SNOMED_CT_code 5.1299e+07 ;
+    acu:UBERON_code "UBERON_0011658" .
+
+<http://example.org/acupuncture/part_of/record268> acu:Acupoint_Code "LI16" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record269> acu:Acupoint_Code "LI17" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record27> acu:Acupoint_Code "BL26" ;
+    acu:Anatomy "fifth lumbar vertebra (L5)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record270> acu:Acupoint_Code "LI17" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "border of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record271> acu:Acupoint_Code "LI18" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record272> acu:Acupoint_Code "LI18" ;
+    acu:Anatomy "thyroid cartilage" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 5.294001e+07 ;
+    acu:UBERON_code "UBERON_0001738" .
+
+<http://example.org/acupuncture/part_of/record273> acu:Acupoint_Code "LI18" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "anterior and posterior borders of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record274> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "nostril" ;
+    acu:Relation "lateral margin of" ;
+    acu:SNOMED_CT_code 1.797002e+06 .
+
+<http://example.org/acupuncture/part_of/record275> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "philtrum" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 3.208701e+07 ;
+    acu:UBERON_code "UBERON_0005402" .
+
+<http://example.org/acupuncture/part_of/record276> acu:Acupoint_Code "LI19" ;
+    acu:Anatomy "philtrum" ;
+    acu:Relation "junction of" ;
+    acu:SNOMED_CT_code 3.208701e+07 ;
+    acu:UBERON_code "UBERON_0005402" .
+
+<http://example.org/acupuncture/part_of/record277> acu:Acupoint_Code "LI20" ;
+    acu:Anatomy "nose" ;
+    acu:Relation "midpoint of lateral border of the ala of" ;
+    acu:SNOMED_CT_code 4.5206e+07 ;
+    acu:UBERON_code "UBERON_0000004" .
+
+<http://example.org/acupuncture/part_of/record278> acu:Acupoint_Code "LI20" ;
+    acu:Anatomy "nose" ;
+    acu:Relation "level of the inferior border of the ala of" ;
+    acu:SNOMED_CT_code 4.5206e+07 ;
+    acu:UBERON_code "UBERON_0000004" .
+
+<http://example.org/acupuncture/part_of/record279> acu:Acupoint_Code "LR1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "lateral corner of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record28> acu:Acupoint_Code "BL32" ;
+    acu:Anatomy "second sacral vertebra" ;
+    acu:Relation "the spinous process of" ;
+    acu:SNOMED_CT_code 1.180801e+07 .
+
+<http://example.org/acupuncture/part_of/record280> acu:Acupoint_Code "LR1" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record281> acu:Acupoint_Code "LR1" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "vertical line of the lateral side of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record282> acu:Acupoint_Code "LR1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "horizontal line of the base of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record283> acu:Acupoint_Code "LR2" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record284> acu:Acupoint_Code "LR3" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record285> acu:Acupoint_Code "LR3" ;
+    acu:Anatomy "two bones" ;
+    acu:Relation "junction of the bases of" .
+
+<http://example.org/acupuncture/part_of/record286> acu:Acupoint_Code "LR3" ;
+    acu:Anatomy "two metatarsal bones" ;
+    acu:Relation "base of" .
+
+<http://example.org/acupuncture/part_of/record287> acu:Acupoint_Code "LR4" ;
+    acu:Anatomy "ankle" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.44001e+05 .
+
+<http://example.org/acupuncture/part_of/record288> acu:Acupoint_Code "LR5" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record289> acu:Acupoint_Code "LR5" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "centre of the medial border (surface) of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record29> acu:Acupoint_Code "BL35" ;
+    acu:Anatomy "coccyx" ;
+    acu:Relation "extremity of" ;
+    acu:SNOMED_CT_code 6.4688e+07 ;
+    acu:UBERON_code "UBERON_0001350" .
+
+<http://example.org/acupuncture/part_of/record290> acu:Acupoint_Code "LR5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record291> acu:Acupoint_Code "LR5" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "apex of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record292> acu:Acupoint_Code "LR6" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record293> acu:Acupoint_Code "LR6" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "centre of the medial border (surface) of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record294> acu:Acupoint_Code "LR6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record295> acu:Acupoint_Code "LR6" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "apex of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record296> acu:Acupoint_Code "LR7" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "tibial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record297> acu:Acupoint_Code "LR7" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "medial condyle of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record298> acu:Acupoint_Code "LR8" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record299> acu:Acupoint_Code "LR8" ;
+    acu:Anatomy "semitendinosus and the semimembranosus muscles" ;
+    acu:Relation "tendons of" .
+
+<http://example.org/acupuncture/part_of/record3> acu:Acupoint_Code "BL1" ;
+    acu:Anatomy "orbit" ;
+    acu:Relation "medial wall of" ;
+    acu:SNOMED_CT_code 8.771601e+07 ;
+    acu:UBERON_code "UBERON_0004867" .
+
+<http://example.org/acupuncture/part_of/record30> acu:Acupoint_Code "BL36" ;
+    acu:Anatomy "gluteal fold" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 8.950801e+07 .
+
+<http://example.org/acupuncture/part_of/record300> acu:Acupoint_Code "LR8" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "medial end of" .
+
+<http://example.org/acupuncture/part_of/record301> acu:Acupoint_Code "LR9" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record302> acu:Acupoint_Code "LR9" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record303> acu:Acupoint_Code "LR11" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record304> acu:Acupoint_Code "LR12" ;
+    acu:Anatomy "pubic symphysis" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 1.822e+08 ;
+    acu:UBERON_code "UBERON_0003699" .
+
+<http://example.org/acupuncture/part_of/record305> acu:Acupoint_Code "LR13" ;
+    acu:Anatomy "11th rib" ;
+    acu:Relation "free extremity of" .
+
+<http://example.org/acupuncture/part_of/record306> acu:Acupoint_Code "LR13" ;
+    acu:Anatomy "costal arch" ;
+    acu:Relation "inferior border of" ;
+    acu:SNOMED_CT_code 2.425601e+07 ;
+    acu:UBERON_code "UBERON_0002225" .
+
+<http://example.org/acupuncture/part_of/record307> acu:Acupoint_Code "LR14" ;
+    acu:Anatomy "nipple" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 2.6578e+08 ;
+    acu:UBERON_code "UBERON_0002030" .
+
+<http://example.org/acupuncture/part_of/record308> acu:Acupoint_Code "LR14" ;
+    acu:Anatomy "midclavicular line" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 2.79013e+08 .
+
+<http://example.org/acupuncture/part_of/record309> acu:Acupoint_Code "LR14" ;
+    acu:Anatomy "sixth intercostal space" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 1.17138e+08 .
+
+<http://example.org/acupuncture/part_of/record31> acu:Acupoint_Code "BL37" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record310> acu:Acupoint_Code "LU2" ;
+    acu:Anatomy "infraclavicular fossa" ;
+    acu:Relation "depression of" .
+
+<http://example.org/acupuncture/part_of/record311> acu:Acupoint_Code "LU2" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "coracoid process of the" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record312> acu:Acupoint_Code "LU2" ;
+    acu:Anatomy "deltopectoral triangle" ;
+    acu:Relation "centre of" .
+
+<http://example.org/acupuncture/part_of/record313> acu:Acupoint_Code "LU2" ;
+    acu:Anatomy "clavicle" ;
+    acu:Relation "inferior border of" ;
+    acu:SNOMED_CT_code 5.1299e+07 ;
+    acu:UBERON_code "UBERON_0011658" .
+
+<http://example.org/acupuncture/part_of/record314> acu:Acupoint_Code "LU3" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record315> acu:Acupoint_Code "LU3" ;
+    acu:Anatomy "biceps brachii muscle" ;
+    acu:Relation "border of" ;
+    acu:SNOMED_CT_code 1.6225e+07 .
+
+<http://example.org/acupuncture/part_of/record316> acu:Acupoint_Code "LU4" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record317> acu:Acupoint_Code "LU4" ;
+    acu:Anatomy "biceps brachii muscle" ;
+    acu:Relation "border of" ;
+    acu:SNOMED_CT_code 1.6225e+07 .
+
+<http://example.org/acupuncture/part_of/record318> acu:Acupoint_Code "LU5" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record319> acu:Acupoint_Code "LU6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record32> acu:Acupoint_Code "BL38" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record320> acu:Acupoint_Code "LU7" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "radial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record321> acu:Acupoint_Code "LU7" ;
+    acu:Anatomy "abductor pollicis longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 2.56671e+08 ;
+    acu:UBERON_code "UBERON_0001527" .
+
+<http://example.org/acupuncture/part_of/record322> acu:Acupoint_Code "LU8" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record323> acu:Acupoint_Code "LU9" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record324> acu:Acupoint_Code "LU9" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "radial side of" .
+
+<http://example.org/acupuncture/part_of/record325> acu:Acupoint_Code "LU10" ;
+    acu:Anatomy "first metacarpal bone" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 4.247003e+06 .
+
+<http://example.org/acupuncture/part_of/record326> acu:Acupoint_Code "LU11" ;
+    acu:Anatomy "thumb nail" ;
+    acu:Relation "radial corner of" .
+
+<http://example.org/acupuncture/part_of/record327> acu:Acupoint_Code "LU11" ;
+    acu:Anatomy "radial border" ;
+    acu:Relation "intersection of" .
+
+<http://example.org/acupuncture/part_of/record328> acu:Acupoint_Code "LU11" ;
+    acu:Anatomy "radial border" ;
+    acu:Relation "vertical line of" .
+
+<http://example.org/acupuncture/part_of/record329> acu:Acupoint_Code "LU11" ;
+    acu:Anatomy "thumb nail" ;
+    acu:Relation "horizontal line of the base of" .
+
+<http://example.org/acupuncture/part_of/record33> acu:Acupoint_Code "BL39" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record330> acu:Acupoint_Code "PC2" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record331> acu:Acupoint_Code "PC2" ;
+    acu:Anatomy "biceps brachii muscle" ;
+    acu:Relation "long head and short head of" ;
+    acu:SNOMED_CT_code 1.6225e+07 .
+
+<http://example.org/acupuncture/part_of/record332> acu:Acupoint_Code "PC3" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record333> acu:Acupoint_Code "PC4" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record334> acu:Acupoint_Code "PC4" ;
+    acu:Anatomy "palmaris longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81636e+08 .
+
+<http://example.org/acupuncture/part_of/record335> acu:Acupoint_Code "PC5" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record336> acu:Acupoint_Code "PC5" ;
+    acu:Anatomy "palmaris longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81636e+08 .
+
+<http://example.org/acupuncture/part_of/record337> acu:Acupoint_Code "PC6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record338> acu:Acupoint_Code "PC6" ;
+    acu:Anatomy "palmaris longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81636e+08 .
+
+<http://example.org/acupuncture/part_of/record339> acu:Acupoint_Code "PC7" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record34> acu:Acupoint_Code "BL40" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record340> acu:Acupoint_Code "PC7" ;
+    acu:Anatomy "palmaris longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81636e+08 .
+
+<http://example.org/acupuncture/part_of/record341> acu:Acupoint_Code "PC7" ;
+    acu:Anatomy "palmar wrist crease" ;
+    acu:Relation "midpoint of" .
+
+<http://example.org/acupuncture/part_of/record342> acu:Acupoint_Code "PC7" ;
+    acu:Anatomy "pisiform bone" ;
+    acu:Relation "proximal extremity of" .
+
+<http://example.org/acupuncture/part_of/record343> acu:Acupoint_Code "PC8" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "palm of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record344> acu:Acupoint_Code "PC9" ;
+    acu:Anatomy "middle finger" ;
+    acu:Relation "centre of the tip of" ;
+    acu:SNOMED_CT_code 6.553101e+07 .
+
+<http://example.org/acupuncture/part_of/record345> acu:Acupoint_Code "PC9" ;
+    acu:Anatomy "middle fingernail" ;
+    acu:Relation "radial corner of" .
+
+<http://example.org/acupuncture/part_of/record346> acu:Acupoint_Code "PC9" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "horizontal line of the base of" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/part_of/record347> acu:Acupoint_Code "PC9" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of the vertical line of the radial side of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record348> acu:Acupoint_Code "SI1" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "ulnar corner of" .
+
+<http://example.org/acupuncture/part_of/record349> acu:Acupoint_Code "SI1" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of the vertical line of ulnar border of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record35> acu:Acupoint_Code "BL40" ;
+    acu:Anatomy "popliteal crease" ;
+    acu:Relation "midpoint of" .
+
+<http://example.org/acupuncture/part_of/record350> acu:Acupoint_Code "SI1" ;
+    acu:Anatomy "little fingernail" ;
+    acu:Relation "horizontal line of the base of" .
+
+<http://example.org/acupuncture/part_of/record351> acu:Acupoint_Code "SI2" ;
+    acu:Anatomy "fifth metacarpophalangeal joint" ;
+    acu:Relation "ulnar side of" .
+
+<http://example.org/acupuncture/part_of/record352> acu:Acupoint_Code "SI2" ;
+    acu:Anatomy "little finger" ;
+    acu:Relation "ulnar end of the palmar metacarpophalangeal crease of" ;
+    acu:SNOMED_CT_code 1.2406e+07 .
+
+<http://example.org/acupuncture/part_of/record353> acu:Acupoint_Code "SI3" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record354> acu:Acupoint_Code "SI3" ;
+    acu:Anatomy "fifth metacarpophalangeal joint" ;
+    acu:Relation "ulnar side of" .
+
+<http://example.org/acupuncture/part_of/record355> acu:Acupoint_Code "SI3" ;
+    acu:Anatomy "palm" ;
+    acu:Relation "ulnar end of the distal transverse skin crease of" ;
+    acu:SNOMED_CT_code 2.1547e+07 .
+
+<http://example.org/acupuncture/part_of/record356> acu:Acupoint_Code "SI4" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record357> acu:Acupoint_Code "SI4" ;
+    acu:Anatomy "fifth metacarpal bone" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 5.0939e+07 .
+
+<http://example.org/acupuncture/part_of/record358> acu:Acupoint_Code "SI5" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record359> acu:Acupoint_Code "SI6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record36> acu:Acupoint_Code "BL41" ;
+    acu:Anatomy "second thoracic vertebra (T2)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record360> acu:Acupoint_Code "SI6" ;
+    acu:Anatomy "ulnar bone" ;
+    acu:Relation "head of" .
+
+<http://example.org/acupuncture/part_of/record361> acu:Acupoint_Code "SI7" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record362> acu:Acupoint_Code "SI7" ;
+    acu:Anatomy "ulnar bone" ;
+    acu:Relation "medial border of" .
+
+<http://example.org/acupuncture/part_of/record363> acu:Acupoint_Code "SI8" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "posteromedial aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record364> acu:Acupoint_Code "SI8" ;
+    acu:Anatomy "humerus bone" ;
+    acu:Relation "medial epicondyle of" .
+
+<http://example.org/acupuncture/part_of/record365> acu:Acupoint_Code "SI10" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record366> acu:Acupoint_Code "SI11" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "midpoint of the spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record367> acu:Acupoint_Code "SI11" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "inferior angle of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record368> acu:Acupoint_Code "SI12" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "midpoint of the spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record369> acu:Acupoint_Code "SI13" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "medial end of the spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record37> acu:Acupoint_Code "BL42" ;
+    acu:Anatomy "third thoracic vertebra (T3)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record370> acu:Acupoint_Code "SI13" ;
+    acu:Anatomy "second thoracic vertebra (T2)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record371> acu:Acupoint_Code "SI14" ;
+    acu:Anatomy "first thoracic vertebra (T1)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record372> acu:Acupoint_Code "SI14" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "vertical line of the medial extremity of the spine of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record373> acu:Acupoint_Code "SI14" ;
+    acu:Anatomy "first thoracic vertebra (T1)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record374> acu:Acupoint_Code "SI15" ;
+    acu:Anatomy "seventh cervical vertebra (C7)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record375> acu:Acupoint_Code "SI15" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "medial border of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record376> acu:Acupoint_Code "SI15" ;
+    acu:Anatomy "seventh cervical vertebra (C7)" ;
+    acu:Relation "spinous process of" .
+
+<http://example.org/acupuncture/part_of/record377> acu:Acupoint_Code "SI16" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record378> acu:Acupoint_Code "SI16" ;
+    acu:Anatomy "thyroid cartilage" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 5.294001e+07 ;
+    acu:UBERON_code "UBERON_0001738" .
+
+<http://example.org/acupuncture/part_of/record379> acu:Acupoint_Code "SI16" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "anterior and posterior borders of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record38> acu:Acupoint_Code "BL43" ;
+    acu:Anatomy "fourth thoracic vertebra (T4)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record380> acu:Acupoint_Code "SI17" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record381> acu:Acupoint_Code "SI17" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "angle of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record382> acu:Acupoint_Code "SI18" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "outer canthus of" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/part_of/record383> acu:Acupoint_Code "SI19" ;
+    acu:Anatomy "tragus" ;
+    acu:Relation "anterior border of the centre of" ;
+    acu:SNOMED_CT_code 5.958101e+07 ;
+    acu:UBERON_code "UBERON_0010887" .
+
+<http://example.org/acupuncture/part_of/record384> acu:Acupoint_Code "SI19" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "posterior border of the condylar process of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record385> acu:Acupoint_Code "SI19" ;
+    acu:Anatomy "tragus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 5.958101e+07 ;
+    acu:UBERON_code "UBERON_0010887" .
+
+<http://example.org/acupuncture/part_of/record386> acu:Acupoint_Code "SP1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "medial corner of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record387> acu:Acupoint_Code "SP1" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "horizontal line of the base of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record388> acu:Acupoint_Code "SP3" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record389> acu:Acupoint_Code "SP4" ;
+    acu:Anatomy "first metatarsal bone" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 2.0151e+07 .
+
+<http://example.org/acupuncture/part_of/record39> acu:Acupoint_Code "BL44" ;
+    acu:Anatomy "fifth thoracic vertebra (T5)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record390> acu:Acupoint_Code "SP4" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record391> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record392> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "navicular bone" ;
+    acu:Relation "tuberosity of" .
+
+<http://example.org/acupuncture/part_of/record393> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record394> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "anterior border of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record395> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "vertical line of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record396> acu:Acupoint_Code "SP5" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "horizontal line of the inferior border of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record397> acu:Acupoint_Code "SP6" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "tibial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record398> acu:Acupoint_Code "SP6" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "medial border of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record399> acu:Acupoint_Code "SP6" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record4> acu:Acupoint_Code "BL2" ;
+    acu:Anatomy "eyebrow" ;
+    acu:Relation "medial end of" ;
+    acu:SNOMED_CT_code 8.4238e+07 ;
+    acu:UBERON_code "UBERON_0010163" .
+
+<http://example.org/acupuncture/part_of/record40> acu:Acupoint_Code "BL45" ;
+    acu:Anatomy "sixth thoracic vertebra (T6)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record400> acu:Acupoint_Code "SP7" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "tibial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record401> acu:Acupoint_Code "SP7" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "medial border of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record402> acu:Acupoint_Code "SP7" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record403> acu:Acupoint_Code "SP8" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "tibial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record404> acu:Acupoint_Code "SP8" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "medial border of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record405> acu:Acupoint_Code "SP8" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "apex of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record406> acu:Acupoint_Code "SP8" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record407> acu:Acupoint_Code "SP9" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "tibial aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record408> acu:Acupoint_Code "SP9" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "inferior border of the medial condyle of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record409> acu:Acupoint_Code "SP9" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "medial border of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record41> acu:Acupoint_Code "BL46" ;
+    acu:Anatomy "seventh thoracic vertebra (T7)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record410> acu:Acupoint_Code "SP9" ;
+    acu:Anatomy "tibia" ;
+    acu:Relation "posterior border of" ;
+    acu:SNOMED_CT_code 1.261101e+07 ;
+    acu:UBERON_code "UBERON_0000979" .
+
+<http://example.org/acupuncture/part_of/record411> acu:Acupoint_Code "SP10" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "anteromedial aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record412> acu:Acupoint_Code "SP10" ;
+    acu:Anatomy "vastus medialis muscle" ;
+    acu:Relation "bulge of" ;
+    acu:SNOMED_CT_code 3.478008e+06 .
+
+<http://example.org/acupuncture/part_of/record413> acu:Acupoint_Code "SP10" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "medial end of the base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record414> acu:Acupoint_Code "SP11" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "medial aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record415> acu:Acupoint_Code "SP11" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "medial end of the base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record416> acu:Acupoint_Code "SP13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record417> acu:Acupoint_Code "SP14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record418> acu:Acupoint_Code "SP15" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record419> acu:Acupoint_Code "SP16" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record42> acu:Acupoint_Code "BL47" ;
+    acu:Anatomy "ninth thoracic vertebra (T9)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record420> acu:Acupoint_Code "SP17" ;
+    acu:Anatomy "fifth intercostal space" ;
+    acu:Relation "curve of" ;
+    acu:SNOMED_CT_code 1.17137e+08 .
+
+<http://example.org/acupuncture/part_of/record421> acu:Acupoint_Code "SP18" ;
+    acu:Anatomy "fourth intercostal space" ;
+    acu:Relation "curve of" ;
+    acu:SNOMED_CT_code 1.17136e+08 .
+
+<http://example.org/acupuncture/part_of/record422> acu:Acupoint_Code "SP19" ;
+    acu:Anatomy "third intercostal space" ;
+    acu:Relation "curve of" ;
+    acu:SNOMED_CT_code 1.17135e+08 .
+
+<http://example.org/acupuncture/part_of/record423> acu:Acupoint_Code "SP20" ;
+    acu:Anatomy "second intercostal space" ;
+    acu:Relation "curve of" ;
+    acu:SNOMED_CT_code 1.17134e+08 .
+
+<http://example.org/acupuncture/part_of/record424> acu:Acupoint_Code "SP21" ;
+    acu:Anatomy "midaxillary line" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 2.60515e+08 .
+
+<http://example.org/acupuncture/part_of/record425> acu:Acupoint_Code "SP21" ;
+    acu:Anatomy "sixth intercostal space" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 1.17138e+08 .
+
+<http://example.org/acupuncture/part_of/record426> acu:Acupoint_Code "ST3" ;
+    acu:Anatomy "nose" ;
+    acu:Relation "inferior border of the ala of" ;
+    acu:SNOMED_CT_code 4.5206e+07 ;
+    acu:UBERON_code "UBERON_0000004" .
+
+<http://example.org/acupuncture/part_of/record427> acu:Acupoint_Code "ST3" ;
+    acu:Anatomy "pupil" ;
+    acu:Relation "intersection of the vertical line of" ;
+    acu:SNOMED_CT_code 3.5146e+07 ;
+    acu:UBERON_code "UBERON_0001771" .
+
+<http://example.org/acupuncture/part_of/record428> acu:Acupoint_Code "ST3" ;
+    acu:Anatomy "nose" ;
+    acu:Relation "horizontal line of the inferior border of the ala of" ;
+    acu:SNOMED_CT_code 4.5206e+07 ;
+    acu:UBERON_code "UBERON_0000004" .
+
+<http://example.org/acupuncture/part_of/record429> acu:Acupoint_Code "ST4" ;
+    acu:Anatomy "mouth" ;
+    acu:Relation "angle of" ;
+    acu:SNOMED_CT_code 2.1082e+07 ;
+    acu:UBERON_code "UBERON_0000165" .
+
+<http://example.org/acupuncture/part_of/record43> acu:Acupoint_Code "BL48" ;
+    acu:Anatomy "tenth thoracic vertebra (T10)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record430> acu:Acupoint_Code "ST4" ;
+    acu:Anatomy "nasolabial sulcus" ;
+    acu:Relation "continuation of" ;
+    acu:SNOMED_CT_code 5.578501e+07 .
+
+<http://example.org/acupuncture/part_of/record431> acu:Acupoint_Code "ST5" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "angle of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record432> acu:Acupoint_Code "ST6" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "angle of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record433> acu:Acupoint_Code "ST6" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "bisector of the angle of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record434> acu:Acupoint_Code "ST7" ;
+    acu:Anatomy "zygomatic arch" ;
+    acu:Relation "midpoint of the inferior border of" ;
+    acu:SNOMED_CT_code 5.1204e+07 ;
+    acu:UBERON_code "UBERON_0002500" .
+
+<http://example.org/acupuncture/part_of/record435> acu:Acupoint_Code "ST7" ;
+    acu:Anatomy "mandibular notch" ;
+    acu:Relation "midpoint of the inferior border of" ;
+    acu:SNOMED_CT_code 4.1e+08 .
+
+<http://example.org/acupuncture/part_of/record436> acu:Acupoint_Code "ST8" ;
+    acu:Anatomy "forehead" ;
+    acu:Relation "corner of" ;
+    acu:SNOMED_CT_code 5.279501e+07 ;
+    acu:UBERON_code "UBERON_0008200" .
+
+<http://example.org/acupuncture/part_of/record437> acu:Acupoint_Code "ST9" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record438> acu:Acupoint_Code "ST9" ;
+    acu:Anatomy "thyroid cartilage" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 5.294001e+07 ;
+    acu:UBERON_code "UBERON_0001738" .
+
+<http://example.org/acupuncture/part_of/record439> acu:Acupoint_Code "ST9" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "anterior and posterior borders of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record44> acu:Acupoint_Code "BL49" ;
+    acu:Anatomy "11th thoracic vertebra (T11)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record440> acu:Acupoint_Code "ST10" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record441> acu:Acupoint_Code "ST10" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "border of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record442> acu:Acupoint_Code "ST11" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record443> acu:Acupoint_Code "ST11" ;
+    acu:Anatomy "clavicle" ;
+    acu:Relation "sternal end of" ;
+    acu:SNOMED_CT_code 5.1299e+07 ;
+    acu:UBERON_code "UBERON_0011658" .
+
+<http://example.org/acupuncture/part_of/record444> acu:Acupoint_Code "ST11" ;
+    acu:Anatomy "sternocleidomastoid muscle" ;
+    acu:Relation "sternal and clavicular heads of" ;
+    acu:SNOMED_CT_code 2.2823e+07 .
+
+<http://example.org/acupuncture/part_of/record445> acu:Acupoint_Code "ST17" ;
+    acu:Anatomy "nipple" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 2.6578e+08 ;
+    acu:UBERON_code "UBERON_0002030" .
+
+<http://example.org/acupuncture/part_of/record446> acu:Acupoint_Code "ST18" ;
+    acu:Anatomy "nipple line" ;
+    acu:Relation "intersection of" .
+
+<http://example.org/acupuncture/part_of/record447> acu:Acupoint_Code "ST18" ;
+    acu:Anatomy "fifth intercostal space" ;
+    acu:Relation "intersection of" ;
+    acu:SNOMED_CT_code 1.17137e+08 .
+
+<http://example.org/acupuncture/part_of/record448> acu:Acupoint_Code "ST18" ;
+    acu:Anatomy "breast" ;
+    acu:Relation "midpoint of the inferior crease of" ;
+    acu:SNOMED_CT_code 1.81131e+08 ;
+    acu:UBERON_code "UBERON_0000310" .
+
+<http://example.org/acupuncture/part_of/record449> acu:Acupoint_Code "ST19" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record45> acu:Acupoint_Code "BL50" ;
+    acu:Anatomy "12th thoracic vertebra (T12)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record450> acu:Acupoint_Code "ST20" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record451> acu:Acupoint_Code "ST21" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record452> acu:Acupoint_Code "ST22" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record453> acu:Acupoint_Code "ST23" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record454> acu:Acupoint_Code "ST24" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record455> acu:Acupoint_Code "ST25" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record456> acu:Acupoint_Code "ST26" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record457> acu:Acupoint_Code "ST27" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record458> acu:Acupoint_Code "ST28" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record459> acu:Acupoint_Code "ST29" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record46> acu:Acupoint_Code "BL51" ;
+    acu:Anatomy "first lumbar vertebra (L1)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record460> acu:Acupoint_Code "ST30" ;
+    acu:Anatomy "pubic symphysis" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 1.822e+08 ;
+    acu:UBERON_code "UBERON_0003699" .
+
+<http://example.org/acupuncture/part_of/record461> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record462> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "rectus femoris muscle" ;
+    acu:Relation "proximal portion of" ;
+    acu:SNOMED_CT_code 7.2226e+07 .
+
+<http://example.org/acupuncture/part_of/record463> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "sartorius muscle" ;
+    acu:Relation "proximal portion of" ;
+    acu:SNOMED_CT_code 1.259501e+07 ;
+    acu:UBERON_code "UBERON_0001373" .
+
+<http://example.org/acupuncture/part_of/record464> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "tensor fasciae latae muscle" ;
+    acu:Relation "proximal portion of" ;
+    acu:SNOMED_CT_code 2.819e+07 ;
+    acu:UBERON_code "UBERON_0001376" .
+
+<http://example.org/acupuncture/part_of/record465> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "lateral end of the base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record466> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "anterior superior iliac spine" ;
+    acu:Relation "lateral end of the base of" ;
+    acu:SNOMED_CT_code 3.9583e+07 ;
+    acu:UBERON_code "UBERON_0013708" .
+
+<http://example.org/acupuncture/part_of/record467> acu:Acupoint_Code "ST31" ;
+    acu:Anatomy "pubic symphysis" ;
+    acu:Relation "horizontal line of the inferior border of" ;
+    acu:SNOMED_CT_code 1.822e+08 ;
+    acu:UBERON_code "UBERON_0003699" .
+
+<http://example.org/acupuncture/part_of/record468> acu:Acupoint_Code "ST32" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record469> acu:Acupoint_Code "ST32" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "lateral end of the base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record47> acu:Acupoint_Code "BL52" ;
+    acu:Anatomy "second lumbar vertebra (L2)" ;
+    acu:Relation "inferior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record470> acu:Acupoint_Code "ST32" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record471> acu:Acupoint_Code "ST33" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record472> acu:Acupoint_Code "ST33" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record473> acu:Acupoint_Code "ST33" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "lateral end of the base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record474> acu:Acupoint_Code "ST34" ;
+    acu:Anatomy "thigh" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 6.8367e+07 .
+
+<http://example.org/acupuncture/part_of/record475> acu:Acupoint_Code "ST34" ;
+    acu:Anatomy "rectus femoris tendon" ;
+    acu:Relation "lateral border of" .
+
+<http://example.org/acupuncture/part_of/record476> acu:Acupoint_Code "ST34" ;
+    acu:Anatomy "patella" ;
+    acu:Relation "base of" ;
+    acu:SNOMED_CT_code 6.4234e+07 ;
+    acu:UBERON_code "UBERON_0002446" .
+
+<http://example.org/acupuncture/part_of/record477> acu:Acupoint_Code "ST35" ;
+    acu:Anatomy "knee" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 7.2696e+07 ;
+    acu:UBERON_code "UBERON_0001465" .
+
+<http://example.org/acupuncture/part_of/record478> acu:Acupoint_Code "ST37" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record479> acu:Acupoint_Code "ST38" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record48> acu:Acupoint_Code "BL55" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record480> acu:Acupoint_Code "ST39" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record481> acu:Acupoint_Code "ST40" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "anterolateral aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record482> acu:Acupoint_Code "ST40" ;
+    acu:Anatomy "tibialis anterior muscle" ;
+    acu:Relation "lateral border of" ;
+    acu:SNOMED_CT_code 7.350801e+07 .
+
+<http://example.org/acupuncture/part_of/record483> acu:Acupoint_Code "ST40" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record484> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "ankle" ;
+    acu:Relation "anterior aspect of" ;
+    acu:SNOMED_CT_code 3.44001e+05 .
+
+<http://example.org/acupuncture/part_of/record485> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "ankle joint" ;
+    acu:Relation "centre of the front surface of" ;
+    acu:SNOMED_CT_code 7.0258e+07 ;
+    acu:UBERON_code "UBERON_0001488" .
+
+<http://example.org/acupuncture/part_of/record486> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "extensor hallucis longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81697e+08 .
+
+<http://example.org/acupuncture/part_of/record487> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "extensor digitorum longus" ;
+    acu:Relation "tendons of" ;
+    acu:SNOMED_CT_code 1.81698e+08 ;
+    acu:UBERON_code "UBERON_0001386" .
+
+<http://example.org/acupuncture/part_of/record488> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominences of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record489> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "medial malleolus" ;
+    acu:Relation "prominences of" ;
+    acu:SNOMED_CT_code 6.417001e+06 .
+
+<http://example.org/acupuncture/part_of/record49> acu:Acupoint_Code "BL55" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "lateral head and medial head of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record490> acu:Acupoint_Code "ST41" ;
+    acu:Anatomy "dorsum of the foot" ;
+    acu:Relation "two tendons" .
+
+<http://example.org/acupuncture/part_of/record491> acu:Acupoint_Code "ST42" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record492> acu:Acupoint_Code "ST42" ;
+    acu:Anatomy "second metatarsal bone" ;
+    acu:Relation "joint of the base of" ;
+    acu:SNOMED_CT_code 2.346801e+07 .
+
+<http://example.org/acupuncture/part_of/record493> acu:Acupoint_Code "ST43" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record494> acu:Acupoint_Code "ST44" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record495> acu:Acupoint_Code "ST45" ;
+    acu:Anatomy "second toenail" ;
+    acu:Relation "lateral corner of" .
+
+<http://example.org/acupuncture/part_of/record496> acu:Acupoint_Code "ST45" ;
+    acu:Anatomy "second toenail" ;
+    acu:Relation "horizontal line of the base of" .
+
+<http://example.org/acupuncture/part_of/record497> acu:Acupoint_Code "TE1" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "ulnar corner of" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/part_of/record498> acu:Acupoint_Code "TE1" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of the vertical line of the ulnar side of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record499> acu:Acupoint_Code "TE1" ;
+    acu:Anatomy "fingernail" ;
+    acu:Relation "horizontal line of the base of" ;
+    acu:SNOMED_CT_code 9.1456e+07 .
+
+<http://example.org/acupuncture/part_of/record5> acu:Acupoint_Code "BL9" ;
+    acu:Anatomy "external occipital protuberance" ;
+    acu:Relation "superior border of" ;
+    acu:SNOMED_CT_code 6.1918e+07 ;
+    acu:UBERON_code "UBERON_0013469" .
+
+<http://example.org/acupuncture/part_of/record50> acu:Acupoint_Code "BL56" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record500> acu:Acupoint_Code "TE2" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record501> acu:Acupoint_Code "TE3" ;
+    acu:Anatomy "hand" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 8.5562e+07 .
+
+<http://example.org/acupuncture/part_of/record502> acu:Acupoint_Code "TE4" ;
+    acu:Anatomy "wrist" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 8.205005e+06 .
+
+<http://example.org/acupuncture/part_of/record503> acu:Acupoint_Code "TE5" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record504> acu:Acupoint_Code "TE6" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record505> acu:Acupoint_Code "TE7" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record506> acu:Acupoint_Code "TE8" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record507> acu:Acupoint_Code "TE8" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "tip of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record508> acu:Acupoint_Code "TE9" ;
+    acu:Anatomy "forearm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 1.497501e+07 .
+
+<http://example.org/acupuncture/part_of/record509> acu:Acupoint_Code "TE9" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/part_of/record51> acu:Acupoint_Code "BL56" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "two muscle bellies of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record510> acu:Acupoint_Code "TE10" ;
+    acu:Anatomy "elbow" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 7.624801e+07 ;
+    acu:UBERON_code "UBERON_0001461" .
+
+<http://example.org/acupuncture/part_of/record511> acu:Acupoint_Code "TE10" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/part_of/record512> acu:Acupoint_Code "TE11" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record513> acu:Acupoint_Code "TE11" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/part_of/record514> acu:Acupoint_Code "TE11" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "superior to the prominence of" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/part_of/record515> acu:Acupoint_Code "TE12" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record516> acu:Acupoint_Code "TE12" ;
+    acu:Anatomy "olecranon" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 3.788801e+07 ;
+    acu:UBERON_code "UBERON_0006810" .
+
+<http://example.org/acupuncture/part_of/record517> acu:Acupoint_Code "TE13" ;
+    acu:Anatomy "arm" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 4.0983e+07 ;
+    acu:UBERON_code "UBERON_0001460" .
+
+<http://example.org/acupuncture/part_of/record518> acu:Acupoint_Code "TE14" ;
+    acu:Anatomy "humerus" ;
+    acu:Relation "greater tubercle of" ;
+    acu:SNOMED_CT_code 8.505001e+07 ;
+    acu:UBERON_code "UBERON_0004250" .
+
+<http://example.org/acupuncture/part_of/record519> acu:Acupoint_Code "TE15" ;
+    acu:Anatomy "scapula" ;
+    acu:Relation "superior angle of" ;
+    acu:SNOMED_CT_code 7.9601e+07 ;
+    acu:UBERON_code "UBERON_0006849" .
+
+<http://example.org/acupuncture/part_of/record52> acu:Acupoint_Code "BL57" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posterior aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record520> acu:Acupoint_Code "TE16" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record521> acu:Acupoint_Code "TE16" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "angle of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record522> acu:Acupoint_Code "TE17" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record523> acu:Acupoint_Code "TE17" ;
+    acu:Anatomy "mastoid process" ;
+    acu:Relation "inferior end of" .
+
+<http://example.org/acupuncture/part_of/record524> acu:Acupoint_Code "TE18" ;
+    acu:Anatomy "mastoid process" ;
+    acu:Relation "centre of" .
+
+<http://example.org/acupuncture/part_of/record525> acu:Acupoint_Code "TE21" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "condylar process of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record526> acu:Acupoint_Code "TE23" ;
+    acu:Anatomy "eyebrow" ;
+    acu:Relation "lateral end of" ;
+    acu:SNOMED_CT_code 8.4238e+07 ;
+    acu:UBERON_code "UBERON_0010163" .
+
+<http://example.org/acupuncture/part_of/record53> acu:Acupoint_Code "BL57" ;
+    acu:Anatomy "calcaneal tendon" ;
+    acu:Relation "connecting point of" ;
+    acu:UBERON_code "UBERON_0003701" .
+
+<http://example.org/acupuncture/part_of/record54> acu:Acupoint_Code "BL57" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "two muscle bellies of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record55> acu:Acupoint_Code "BL57" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "two heads of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record56> acu:Acupoint_Code "BL57" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "muscle belly of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record57> acu:Acupoint_Code "BL58" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record58> acu:Acupoint_Code "BL58" ;
+    acu:Anatomy "gastrocnemius muscle" ;
+    acu:Relation "inferior border of the lateral head of" ;
+    acu:SNOMED_CT_code 3.5616e+07 .
+
+<http://example.org/acupuncture/part_of/record59> acu:Acupoint_Code "BL59" ;
+    acu:Anatomy "leg" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 3.0021e+07 ;
+    acu:UBERON_code "UBERON_0000978" .
+
+<http://example.org/acupuncture/part_of/record6> acu:Acupoint_Code "BL9" ;
+    acu:Anatomy "trapezius muscle" ;
+    acu:Relation "vertical line of the lateral border of" ;
+    acu:SNOMED_CT_code 3.176401e+07 ;
+    acu:UBERON_code "UBERON_0002380" .
+
+<http://example.org/acupuncture/part_of/record60> acu:Acupoint_Code "BL60" ;
+    acu:Anatomy "ankle" ;
+    acu:Relation "posterolateral aspect of" ;
+    acu:SNOMED_CT_code 3.44001e+05 .
+
+<http://example.org/acupuncture/part_of/record61> acu:Acupoint_Code "BL60" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record62> acu:Acupoint_Code "BL61" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record63> acu:Acupoint_Code "BL62" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "inferior border of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record64> acu:Acupoint_Code "BL62" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record65> acu:Acupoint_Code "BL62" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "prominence of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record66> acu:Acupoint_Code "BL63" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "dorsum of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record67> acu:Acupoint_Code "BL63" ;
+    acu:Anatomy "lateral malleolus" ;
+    acu:Relation "anterior border of" ;
+    acu:SNOMED_CT_code 1.13225e+08 .
+
+<http://example.org/acupuncture/part_of/record68> acu:Acupoint_Code "BL63" ;
+    acu:Anatomy "fifth metatarsal bone" ;
+    acu:Relation "tuberosity of" ;
+    acu:SNOMED_CT_code 3.01e+05 .
+
+<http://example.org/acupuncture/part_of/record69> acu:Acupoint_Code "BL64" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record7> acu:Acupoint_Code "BL9" ;
+    acu:Anatomy "external occipital protuberance" ;
+    acu:Relation "horizontal line of the superior border of" ;
+    acu:SNOMED_CT_code 6.1918e+07 ;
+    acu:UBERON_code "UBERON_0013469" .
+
+<http://example.org/acupuncture/part_of/record70> acu:Acupoint_Code "BL64" ;
+    acu:Anatomy "fifth metatarsal bone" ;
+    acu:Relation "tuberosity of" ;
+    acu:SNOMED_CT_code 3.01e+05 .
+
+<http://example.org/acupuncture/part_of/record71> acu:Acupoint_Code "BL65" ;
+    acu:Anatomy "foot" ;
+    acu:Relation "lateral aspect of" ;
+    acu:SNOMED_CT_code 5.6459e+07 .
+
+<http://example.org/acupuncture/part_of/record72> acu:Acupoint_Code "BL67" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "lateral corner of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record73> acu:Acupoint_Code "BL67" ;
+    acu:Anatomy "toenail" ;
+    acu:Relation "horizontal line of the base of" ;
+    acu:SNOMED_CT_code 7.6578e+07 .
+
+<http://example.org/acupuncture/part_of/record74> acu:Acupoint_Code "BL67" ;
+    acu:Anatomy "nail" ;
+    acu:Relation "intersection of the vertical line of the lateral side of" ;
+    acu:SNOMED_CT_code 7.265101e+07 ;
+    acu:UBERON_code "UBERON_0001705" .
+
+<http://example.org/acupuncture/part_of/record75> acu:Acupoint_Code "CV1" ;
+    acu:Anatomy "scrotum" ;
+    acu:Relation "posterior border of" ;
+    acu:SNOMED_CT_code 2.0233e+07 ;
+    acu:UBERON_code "UBERON_0001300" .
+
+<http://example.org/acupuncture/part_of/record76> acu:Acupoint_Code "CV1" ;
+    acu:Anatomy "labium majoris" ;
+    acu:Relation "posterior commissure of" .
+
+<http://example.org/acupuncture/part_of/record77> acu:Acupoint_Code "CV3" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record78> acu:Acupoint_Code "CV4" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record79> acu:Acupoint_Code "CV5" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record8> acu:Acupoint_Code "BL10" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "posterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record80> acu:Acupoint_Code "CV6" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record81> acu:Acupoint_Code "CV7" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record82> acu:Acupoint_Code "CV8" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record83> acu:Acupoint_Code "CV9" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record84> acu:Acupoint_Code "CV10" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record85> acu:Acupoint_Code "CV11" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record86> acu:Acupoint_Code "CV12" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record87> acu:Acupoint_Code "CV13" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record88> acu:Acupoint_Code "CV14" ;
+    acu:Anatomy "umbilicus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 7.822e+07 ;
+    acu:UBERON_code "UBERON_0007118" .
+
+<http://example.org/acupuncture/part_of/record89> acu:Acupoint_Code "CV16" ;
+    acu:Anatomy "xiphisternal junction" ;
+    acu:Relation "midpoint of" .
+
+<http://example.org/acupuncture/part_of/record9> acu:Acupoint_Code "BL10" ;
+    acu:Anatomy "second cervical vertebra (C2)" ;
+    acu:Relation "superior border of the spinous process of" .
+
+<http://example.org/acupuncture/part_of/record90> acu:Acupoint_Code "CV22" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record91> acu:Acupoint_Code "CV22" ;
+    acu:Anatomy "suprasternal fossa" ;
+    acu:Relation "centre of" .
+
+<http://example.org/acupuncture/part_of/record92> acu:Acupoint_Code "CV22" ;
+    acu:Anatomy "each clavicle" ;
+    acu:Relation "medial ends of" .
+
+<http://example.org/acupuncture/part_of/record93> acu:Acupoint_Code "CV23" ;
+    acu:Anatomy "neck" ;
+    acu:Relation "anterior region of" ;
+    acu:SNOMED_CT_code 4.5048e+07 ;
+    acu:UBERON_code "UBERON_0000974" .
+
+<http://example.org/acupuncture/part_of/record94> acu:Acupoint_Code "CV24" ;
+    acu:Anatomy "mentolabial sulcus" ;
+    acu:Relation "centre of" ;
+    acu:SNOMED_CT_code 4.5114e+07 .
+
+<http://example.org/acupuncture/part_of/record95> acu:Acupoint_Code "GB1" ;
+    acu:Anatomy "eye" ;
+    acu:Relation "outer canthus of" ;
+    acu:SNOMED_CT_code 8.1745e+07 ;
+    acu:UBERON_code "UBERON_0000970" .
+
+<http://example.org/acupuncture/part_of/record96> acu:Acupoint_Code "GB2" ;
+    acu:Anatomy "mandible" ;
+    acu:Relation "condylar process of" ;
+    acu:SNOMED_CT_code 9.160901e+07 ;
+    acu:UBERON_code "UBERON_0001684" .
+
+<http://example.org/acupuncture/part_of/record97> acu:Acupoint_Code "GB3" ;
+    acu:Anatomy "zygomatic arch" ;
+    acu:Relation "midpoint of" ;
+    acu:SNOMED_CT_code 5.1204e+07 ;
+    acu:UBERON_code "UBERON_0002500" .
+
+<http://example.org/acupuncture/part_of/record98> acu:Acupoint_Code "GB7" ;
+    acu:Anatomy "temple hairline" ;
+    acu:Relation "vertical line of the posterior border of" .
+
+<http://example.org/acupuncture/part_of/record99> acu:Acupoint_Code "GB7" ;
+    acu:Anatomy "temple hairline" ;
+    acu:Relation "junction of" .
+

@@ -1,0 +1,469 @@
+{"Acupoint_Code":"BL1","Relation":"pubmed","Mesh_Term":"Dry Eye Syndromes","Mesh_Id":"D015352","PMID_freq":2,"PMIDs":"29851826, 35897025"}
+{"Acupoint_Code":"BL1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"32029008, 32925788, 32727619, 35897025"}
+{"Acupoint_Code":"BL11","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"32029008, 32925788, 32576237, 35002538"}
+{"Acupoint_Code":"BL11","Relation":"pubmed","Mesh_Term":"Radiculopathy","Mesh_Id":"D011843","PMID_freq":2,"PMIDs":"32029008, 35002538"}
+{"Acupoint_Code":"BL13","Relation":"pubmed","Mesh_Term":"Asthma","Mesh_Id":"D001249","PMID_freq":2,"PMIDs":"32509851, 32727619"}
+{"Acupoint_Code":"BL18","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"32925788, 31774002"}
+{"Acupoint_Code":"BL2","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"23693129, 30832713"}
+{"Acupoint_Code":"BL2","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":3,"PMIDs":"26069973, 20540806, 21663617"}
+{"Acupoint_Code":"BL2","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"31775839, 33235115"}
+{"Acupoint_Code":"BL2","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"32925788, 32727619"}
+{"Acupoint_Code":"BL2","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"31775839, 35966092"}
+{"Acupoint_Code":"BL20","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"33235115, 31775839"}
+{"Acupoint_Code":"BL20","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"35966092, 31775839"}
+{"Acupoint_Code":"BL23","Relation":"pubmed","Mesh_Term":"Asthma","Mesh_Id":"D001249","PMID_freq":2,"PMIDs":"32509851, 32727619"}
+{"Acupoint_Code":"BL23","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"23693129, 30832713"}
+{"Acupoint_Code":"BL23","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":3,"PMIDs":"26069973, 20540806, 21663617"}
+{"Acupoint_Code":"BL23","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"31774002, 32925788, 32727619"}
+{"Acupoint_Code":"BL24","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":3,"PMIDs":"20540806, 26069973, 21663617"}
+{"Acupoint_Code":"BL25","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":3,"PMIDs":"20540806, 26069973, 21663617"}
+{"Acupoint_Code":"CV1","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":2,"PMIDs":"28679410, 31706345"}
+{"Acupoint_Code":"CV1","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":3,"PMIDs":"27821107, 29029639, 25963295"}
+{"Acupoint_Code":"CV1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"32576237, 31706345, 29029639, 25963295"}
+{"Acupoint_Code":"CV1","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":3,"PMIDs":"27821107, 29029639, 25963295"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 28679410"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":3,"PMIDs":"29029639, 27821107, 25963295"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":3,"PMIDs":"27457720, 31775839, 33235115"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"29029639, 31706345, 25963295, 31937335"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":3,"PMIDs":"29029639, 27821107, 25963295"}
+{"Acupoint_Code":"CV12","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":3,"PMIDs":"27457720, 31775839, 35966092"}
+{"Acupoint_Code":"CV19","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":2,"PMIDs":"33592837, 29970155"}
+{"Acupoint_Code":"CV4","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":3,"PMIDs":"32195949, 29970155, 33592837"}
+{"Acupoint_Code":"CV4","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 27495269"}
+{"Acupoint_Code":"CV4","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":5,"PMIDs":"24886348, 32195949, 31706345, 27495269, 31774002"}
+{"Acupoint_Code":"CV6","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":2,"PMIDs":"29970155, 33592837"}
+{"Acupoint_Code":"CV6","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 27495269"}
+{"Acupoint_Code":"CV6","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"CV6","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"31706345, 27495269, 31774002"}
+{"Acupoint_Code":"CV6","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"31774002, 31780587"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 34106628"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"1826453, 34106628"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"24886348, 32195949, 31706345, 31774002"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32164719, 32807158, 31146772"}
+{"Acupoint_Code":"CV7","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"35773693, 32957353"}
+{"Acupoint_Code":"CV8","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":2,"PMIDs":"33592837, 29970155"}
+{"Acupoint_Code":"GB1","Relation":"pubmed","Mesh_Term":"Myopia","Mesh_Id":"D009216","PMID_freq":2,"PMIDs":"33120756, 25476698"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"28445309, 30522504"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"33907133, 24216113, 30546033"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"24915066, 22894176"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":2,"PMIDs":"25027157, 30522504"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"24886348, 35750456, 32029008"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"30249298, 25027157"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 28202067"}
+{"Acupoint_Code":"GB2","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":3,"PMIDs":"28143471, 23176350, 25872506"}
+{"Acupoint_Code":"GB20","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"33907133, 24216113, 30546033"}
+{"Acupoint_Code":"GB20","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"24915066, 22894176"}
+{"Acupoint_Code":"GB20","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"GB20","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"24886348, 35750456, 32029008"}
+{"Acupoint_Code":"GB20","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"30397007, 28202067, 32957353"}
+{"Acupoint_Code":"GB21","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"28445309, 30522504"}
+{"Acupoint_Code":"GB21","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":2,"PMIDs":"25027157, 30522504"}
+{"Acupoint_Code":"GB21","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"25027157, 30249298"}
+{"Acupoint_Code":"GB26","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"GB26","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"29769133, 28202067"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Acute Pain","Mesh_Id":"D059787","PMID_freq":2,"PMIDs":"35144662, 31142359"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":3,"PMIDs":"24742182, 28445309, 33657762"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":3,"PMIDs":"24915066, 25496446, 22894176"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":4,"PMIDs":"35945733, 20576162, 23782709, 25910930"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"25175308, 24555788"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":3,"PMIDs":"32381110, 31142359, 25910930"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"24886348, 35750456, 32925788"}
+{"Acupoint_Code":"GB3","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 28202067"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Acute Pain","Mesh_Id":"D059787","PMID_freq":2,"PMIDs":"35144662, 31142359"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":3,"PMIDs":"24742182, 28445309, 33657762"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"24915066, 22894176"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":3,"PMIDs":"20576162, 23782709, 25910930"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":3,"PMIDs":"32381110, 31142359, 25910930"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"24886348, 35750456"}
+{"Acupoint_Code":"GB34","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"28202067, 32957353"}
+{"Acupoint_Code":"GB39","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"25175308, 24555788"}
+{"Acupoint_Code":"GB39","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"24886348, 32925788"}
+{"Acupoint_Code":"GB39","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 32957353"}
+{"Acupoint_Code":"GB4","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"28052910, 35750456"}
+{"Acupoint_Code":"GB4","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"23176350, 25872506"}
+{"Acupoint_Code":"GB41","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"28052910, 35750456"}
+{"Acupoint_Code":"GB8","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"GB8","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"35368921, 28143471"}
+{"Acupoint_Code":"GV14","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"32029008, 32576237, 35002538"}
+{"Acupoint_Code":"GV14","Relation":"pubmed","Mesh_Term":"Radiculopathy","Mesh_Id":"D011843","PMID_freq":2,"PMIDs":"32029008, 35002538"}
+{"Acupoint_Code":"GV2","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"23693129, 30832713"}
+{"Acupoint_Code":"GV2","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"35303841, 31146772"}
+{"Acupoint_Code":"GV20","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 34106628"}
+{"Acupoint_Code":"GV20","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"23693129, 30832713"}
+{"Acupoint_Code":"GV20","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"24886348, 31706345"}
+{"Acupoint_Code":"GV20","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32807158, 35303841, 31146772"}
+{"Acupoint_Code":"GV20","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"35368921, 23176350"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"31774002, 31780587"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 34106628"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"1826453, 34106628"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"24886348, 32195949, 31706345, 31774002"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32164719, 32807158, 31146772"}
+{"Acupoint_Code":"GV28","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"35773693, 32957353"}
+{"Acupoint_Code":"HT3","Relation":"pubmed","Mesh_Term":"Liver Neoplasms","Mesh_Id":"D008113","PMID_freq":2,"PMIDs":"28069044, 25204437"}
+{"Acupoint_Code":"HT3","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":5,"PMIDs":"25963295, 28069044, 27821107, 25204437, 29029639"}
+{"Acupoint_Code":"HT3","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"25963295, 29029639"}
+{"Acupoint_Code":"HT3","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":5,"PMIDs":"25963295, 28069044, 27821107, 25204437, 29029639"}
+{"Acupoint_Code":"HT5","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"24499445, 33158451"}
+{"Acupoint_Code":"HT7","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 33663090, 34106628"}
+{"Acupoint_Code":"HT7","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"24886348, 28052910, 30075491, 25027493"}
+{"Acupoint_Code":"HT7","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":6,"PMIDs":"32164719, 35508300, 32791711, 32807158, 35303841, 31146772"}
+{"Acupoint_Code":"HT7","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":3,"PMIDs":"35368921, 23176350, 25872506"}
+{"Acupoint_Code":"KI1","Relation":"pubmed","Mesh_Term":"Pruritus","Mesh_Id":"D011537","PMID_freq":2,"PMIDs":"34032717, 30075491"}
+{"Acupoint_Code":"KI1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"34032717, 30075491"}
+{"Acupoint_Code":"KI1","Relation":"pubmed","Mesh_Term":"Renal Insufficiency, Chronic","Mesh_Id":"D051436","PMID_freq":2,"PMIDs":"34032717, 30075491"}
+{"Acupoint_Code":"KI12","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"KI12","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"KI15","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"35750456, 35002538"}
+{"Acupoint_Code":"KI15","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"23176350, 25872506"}
+{"Acupoint_Code":"KI3","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"33907133, 24216113, 30546033"}
+{"Acupoint_Code":"KI3","Relation":"pubmed","Mesh_Term":"Infertility, Female","Mesh_Id":"D007247","PMID_freq":2,"PMIDs":"30142768, 24886647"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":4,"PMIDs":"23317340, 24742182, 28445309, 30522504"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":6,"PMIDs":"35902195, 35789530, 33588904, 24216113, 32571411, 34363051"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"30249298, 25047046"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":6,"PMIDs":"35789530, 33588904, 28052910, 32571411, 32576237, 27829410"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"24742182, 30249298"}
+{"Acupoint_Code":"LI1","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 28202067"}
+{"Acupoint_Code":"LI10","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 32957353"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"23317340, 28445309"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":6,"PMIDs":"35902195, 35789530, 33588904, 24216113, 32571411, 34363051"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":6,"PMIDs":"35789530, 33588904, 28052910, 32571411, 32576237, 27829410"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"LI11","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"30397007, 28202067, 32957353"}
+{"Acupoint_Code":"LI15","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"24742182, 30249298"}
+{"Acupoint_Code":"LI15","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 28202067"}
+{"Acupoint_Code":"LI16","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"30425466, 33976542"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"28646892, 29769133"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Acute Pain","Mesh_Id":"D059787","PMID_freq":2,"PMIDs":"35144662, 25537784"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Gastroparesis","Mesh_Id":"D018589","PMID_freq":2,"PMIDs":"32399130, 35241130"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"33588904, 24216113, 32571411"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":3,"PMIDs":"30522504, 25537784, 24168460"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"32819923, 32381110"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 33482878"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Prostatic Hyperplasia","Mesh_Id":"D011470","PMID_freq":2,"PMIDs":"34941196, 26656981"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Pulmonary Disease, Chronic Obstructive","Mesh_Id":"D029424","PMID_freq":2,"PMIDs":"32791715, 32150085"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":7,"PMIDs":"32195949, 35750456, 33588904, 28052910, 32571411, 30075491, 35241130"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32164719, 29514705, 32791711"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"35773693, 32957353, 31924256"}
+{"Acupoint_Code":"LI18","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":2,"PMIDs":"31574863, 22373002"}
+{"Acupoint_Code":"LI2","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"LI2","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Perennial","Mesh_Id":"D012221","PMID_freq":2,"PMIDs":"31992367, 23302264"}
+{"Acupoint_Code":"LI20","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"LI20","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Perennial","Mesh_Id":"D012221","PMID_freq":2,"PMIDs":"31992367, 23302264"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"29769133, 28202067"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Colic","Mesh_Id":"D003085","PMID_freq":3,"PMIDs":"20959312, 28093383, 32375501"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":2,"PMIDs":"31706345, 28679410"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":5,"PMIDs":"35902195, 35789530, 33588904, 32571411, 34363051"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Lung Neoplasms","Mesh_Id":"D008175","PMID_freq":2,"PMIDs":"31706345, 32062864"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":2,"PMIDs":"28069044, 32062864"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"19574017, 23935833"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":5,"PMIDs":"32819923, 25047046, 31358034, 23707680, 32062864"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"30425466, 33976542"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":8,"PMIDs":"24886348, 35789530, 31706345, 33588904, 28052910, 32571411, 32576237, 27829410"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"30397007, 28202067, 32957353"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":2,"PMIDs":"19574017, 32340502"}
+{"Acupoint_Code":"LI4","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":2,"PMIDs":"28069044, 32062864"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":2,"PMIDs":"33663090, 31706345"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":8,"PMIDs":"35902195, 33907133, 35789530, 33588904, 24216113, 30546033, 32571411, 34363051"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Infertility, Female","Mesh_Id":"D007247","PMID_freq":2,"PMIDs":"30142768, 24886647"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":6,"PMIDs":"24886348, 35789530, 31706345, 33588904, 28052910, 32571411"}
+{"Acupoint_Code":"LR3","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 32957353"}
+{"Acupoint_Code":"LU5","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"33588904, 32571411"}
+{"Acupoint_Code":"LU5","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"33588904, 32571411"}
+{"Acupoint_Code":"LU5","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"35773693, 28202067"}
+{"Acupoint_Code":"LU6","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"24499445, 33158451"}
+{"Acupoint_Code":"LU9","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"24499445, 33158451"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"25925670, 24499445"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Cancer Pain","Mesh_Id":"D000072716","PMID_freq":2,"PMIDs":"28651642, 30635007"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Cognition Disorders","Mesh_Id":"D003072","PMID_freq":2,"PMIDs":"23587135, 33976542"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 28851420, 34106628"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Gastroparesis","Mesh_Id":"D018589","PMID_freq":2,"PMIDs":"32399130, 35241130"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"24216113, 30546033"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":4,"PMIDs":"25963295, 28069044, 27821107, 32062864"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"19574017, 23894632"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":5,"PMIDs":"32819923, 25047046, 31358034, 32062864, 31915045"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":3,"PMIDs":"34106628, 30425466, 33976542"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":4,"PMIDs":"25394818, 28052910, 33482878, 31915045"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":9,"PMIDs":"25963295, 35395946, 30635007, 34666815, 28851420, 28052910, 29179761, 35241130, 31937335"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"35773693, 24453485, 32957353"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":3,"PMIDs":"19574017, 32340502, 30142795"}
+{"Acupoint_Code":"PC6","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":4,"PMIDs":"25963295, 28069044, 27821107, 32062864"}
+{"Acupoint_Code":"SI1","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"24742182, 30522504"}
+{"Acupoint_Code":"SI1","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":2,"PMIDs":"25027157, 30522504"}
+{"Acupoint_Code":"SI1","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":3,"PMIDs":"24742182, 25027157, 30249298"}
+{"Acupoint_Code":"SI14","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":2,"PMIDs":"25027157, 30522504"}
+{"Acupoint_Code":"SI19","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"35368921, 28143471"}
+{"Acupoint_Code":"SP1","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"30546033, 24216113"}
+{"Acupoint_Code":"SP1","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":4,"PMIDs":"35945733, 23497032, 20576162, 33906695"}
+{"Acupoint_Code":"SP10","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"30546033, 24216113"}
+{"Acupoint_Code":"SP10","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":4,"PMIDs":"35945733, 23497032, 20576162, 33906695"}
+{"Acupoint_Code":"SP15","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"SP15","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"SP4","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"28052910, 31937335"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"29769133, 28202067"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Cancer Pain","Mesh_Id":"D000072716","PMID_freq":2,"PMIDs":"28651642, 30635007"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"28445309, 33657762"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"31774002, 31780587"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":4,"PMIDs":"32195949, 26733563, 24555788, 24929459"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 34106628"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Infertility, Female","Mesh_Id":"D007247","PMID_freq":2,"PMIDs":"30142768, 24886647"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"26733563, 24555788"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"1826453, 34106628"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":9,"PMIDs":"24886348, 32195949, 30635007, 31706345, 24950841, 28052910, 29179761, 31774002, 32925788"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32164719, 32807158, 31146772"}
+{"Acupoint_Code":"SP6","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"35773693, 28202067, 32957353"}
+{"Acupoint_Code":"SP9","Relation":"pubmed","Mesh_Term":"Acute Pain","Mesh_Id":"D059787","PMID_freq":2,"PMIDs":"31142359, 35144662"}
+{"Acupoint_Code":"SP9","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"30546033, 33907133, 24216113"}
+{"Acupoint_Code":"SP9","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":3,"PMIDs":"23497032, 20576162, 23782709"}
+{"Acupoint_Code":"SP9","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"31142359, 32381110"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Asthma","Mesh_Id":"D001249","PMID_freq":2,"PMIDs":"27930519, 32727619"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":2,"PMIDs":"19433697, 27930519"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Cognition Disorders","Mesh_Id":"D003072","PMID_freq":2,"PMIDs":"26467429, 23587135"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"25526462, 22759406"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":3,"PMIDs":"35902195, 34363051, 30020330"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":4,"PMIDs":"26069973, 19433697, 28049527, 21663617"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Muscle Spasticity","Mesh_Id":"D009128","PMID_freq":2,"PMIDs":"31291976, 25643051"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"26621821, 22417316"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"35604687, 23894632"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"32381110, 25047046"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":8,"PMIDs":"24886348, 34666815, 24950841, 32029008, 29325594, 32727619, 22417316, 31937335"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":4,"PMIDs":"32791711, 32807158, 35303841, 22417316"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"35773693, 31291976, 32957353"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":2,"PMIDs":"31574863, 32340502"}
+{"Acupoint_Code":"ST1","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"35966092, 22417316"}
+{"Acupoint_Code":"ST10","Relation":"pubmed","Mesh_Term":"Cognition Disorders","Mesh_Id":"D003072","PMID_freq":2,"PMIDs":"23587135, 26467429"}
+{"Acupoint_Code":"ST10","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"31291976, 35773693"}
+{"Acupoint_Code":"ST12","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"ST12","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":2,"PMIDs":"26069973, 21663617"}
+{"Acupoint_Code":"ST12","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"22417316, 26621821"}
+{"Acupoint_Code":"ST12","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"24886348, 22417316, 24950841, 31937335"}
+{"Acupoint_Code":"ST12","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"35303841, 22417316"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":3,"PMIDs":"24499445, 25925670, 33158451"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Arthralgia","Mesh_Id":"D018771","PMID_freq":2,"PMIDs":"24962039, 23768129"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Brain Ischemia","Mesh_Id":"D002545","PMID_freq":2,"PMIDs":"31291976, 28633675"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":2,"PMIDs":"24499445, 19433697"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":3,"PMIDs":"23317340, 31366643, 30522504"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":4,"PMIDs":"29903020, 31780587, 25526462, 22759406"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":2,"PMIDs":"33592837, 24929459"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"35616251, 31706345, 27495269"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"23693129, 30832713"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":4,"PMIDs":"32571411, 34363051, 33907133, 33588904"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"34666815, 30326940"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":4,"PMIDs":"23317340, 19433697, 25027493, 28049527"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"24915066, 22697367"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Muscle Spasticity","Mesh_Id":"D009128","PMID_freq":2,"PMIDs":"31291976, 24453485"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Myopia","Mesh_Id":"D009216","PMID_freq":2,"PMIDs":"25476698, 33120756"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":3,"PMIDs":"29029639, 25204437, 25963295"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":2,"PMIDs":"31366643, 30522504"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"33235115, 31775839"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":2,"PMIDs":"23497032, 24962039"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":3,"PMIDs":"23497032, 19574017, 23935833"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":4,"PMIDs":"31915045, 30304047, 32381110, 30249298"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 31915045"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":19,"PMIDs":"29029639, 28052910, 32571411, 22697367, 31366643, 24886348, 34666815, 32029008, 25963295, 31937335, 31706345, 29325594, 32576237, 28633675, 25027493, 24950841, 33588904, 30326940, 27495269"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"29325594, 23302264"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"35303841, 31146772"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":5,"PMIDs":"31291976, 28633675, 30397007, 31924256, 24453485"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":3,"PMIDs":"29029639, 25204437, 25963295"}
+{"Acupoint_Code":"ST2","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"31775839, 35966092"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"33158451, 24499445"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":2,"PMIDs":"24499445, 19433697"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"23317340, 30522504"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":2,"PMIDs":"23317340, 19433697"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"30304047, 32381110"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":5,"PMIDs":"24886348, 25963295, 29325594, 32576237, 28633675"}
+{"Acupoint_Code":"ST20","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"28633675, 24453485"}
+{"Acupoint_Code":"ST24","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":2,"PMIDs":"31706345, 27495269"}
+{"Acupoint_Code":"ST24","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 31915045"}
+{"Acupoint_Code":"ST24","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"24886348, 28052910, 31706345, 27495269"}
+{"Acupoint_Code":"ST25","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":5,"PMIDs":"31780587, 29903020, 25526462, 22759406, 31774002"}
+{"Acupoint_Code":"ST25","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"30326940, 34666815"}
+{"Acupoint_Code":"ST25","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":3,"PMIDs":"33235115, 27457720, 31775839"}
+{"Acupoint_Code":"ST25","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":5,"PMIDs":"30326940, 34666815, 24950841, 31937335, 31774002"}
+{"Acupoint_Code":"ST25","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":3,"PMIDs":"35966092, 27457720, 31775839"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Abdominal Pain","Mesh_Id":"D015746","PMID_freq":2,"PMIDs":"29769133, 30326940"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"28202067, 29769133"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Angina, Stable","Mesh_Id":"D060050","PMID_freq":2,"PMIDs":"25925670, 33158451"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Cancer Pain","Mesh_Id":"D000072716","PMID_freq":2,"PMIDs":"30635007, 28651642"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":3,"PMIDs":"19433697, 27930519, 20540806"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":5,"PMIDs":"31366643, 28445309, 24280948, 24742182, 28404609"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Colic","Mesh_Id":"D003085","PMID_freq":4,"PMIDs":"20959312, 28093383, 35027415, 32375501"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"31780587, 22759406"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Depression","Mesh_Id":"D003863","PMID_freq":3,"PMIDs":"29029639, 22417316, 30142795"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Dysmenorrhea","Mesh_Id":"D004412","PMID_freq":3,"PMIDs":"32195949, 29970155, 33592837"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"31706345, 28679410, 27495269"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"30832713, 27886247"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Gastroparesis","Mesh_Id":"D018589","PMID_freq":2,"PMIDs":"35241130, 32399130"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":7,"PMIDs":"35789530, 32571411, 34363051, 24216113, 35902195, 33907133, 33588904"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Infertility, Female","Mesh_Id":"D007247","PMID_freq":2,"PMIDs":"30142768, 24886647"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"34666815, 30326940"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":5,"PMIDs":"19433697, 24280948, 26069973, 20540806, 21663617"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":4,"PMIDs":"24915066, 22697367, 25496446, 22894176"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Muscle Spasticity","Mesh_Id":"D009128","PMID_freq":2,"PMIDs":"31291976, 25643051"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":3,"PMIDs":"29029639, 28069044, 27821107"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":4,"PMIDs":"27457720, 33235115, 22417316, 31775839"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":10,"PMIDs":"31702640, 23497032, 23782709, 25910930, 24962039, 20576162, 28438185, 28404609, 35945733, 33906695"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":6,"PMIDs":"23497032, 25175308, 30558062, 35604687, 23935833, 23894632"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":5,"PMIDs":"25910930, 31915045, 32381110, 25047046, 31358034"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Parkinson Disease","Mesh_Id":"D010300","PMID_freq":2,"PMIDs":"3746336, 31780587"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":3,"PMIDs":"1826453, 6704356, 33976542"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 31915045"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":23,"PMIDs":"32195949, 29029639, 35789530, 28052910, 32571411, 22697367, 31366643, 22417316, 24886348, 34666815, 31937335, 35750456, 30635007, 31706345, 29179761, 32576237, 35241130, 27829410, 24950841, 33588904, 30326940, 27495269, 32925788"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Perennial","Mesh_Id":"D012221","PMID_freq":2,"PMIDs":"31992367, 23302264"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Seasonal","Mesh_Id":"D006255","PMID_freq":2,"PMIDs":"24708643, 23302264"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":4,"PMIDs":"22417316, 32164719, 32807158, 35303841"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Stress, Psychological","Mesh_Id":"D013315","PMID_freq":2,"PMIDs":"22417316, 22373002"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":4,"PMIDs":"28202067, 31291976, 22738270, 30397007"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":2,"PMIDs":"30142795, 22373002"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":3,"PMIDs":"28143471, 23176350, 25872506"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":3,"PMIDs":"29029639, 28069044, 27821107"}
+{"Acupoint_Code":"ST3","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":3,"PMIDs":"27457720, 22417316, 31775839"}
+{"Acupoint_Code":"ST30","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"35789530, 33588904"}
+{"Acupoint_Code":"ST30","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"33235115, 22417316"}
+{"Acupoint_Code":"ST30","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":7,"PMIDs":"24886348, 35789530, 31706345, 33588904, 30326940, 22417316, 32576237"}
+{"Acupoint_Code":"ST30","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"32164719, 22417316"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"28646892, 29769133"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Acute Pain","Mesh_Id":"D059787","PMID_freq":2,"PMIDs":"35144662, 25537784"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Gastroparesis","Mesh_Id":"D018589","PMID_freq":2,"PMIDs":"32399130, 35241130"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"33588904, 32571411"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Neck Pain","Mesh_Id":"D019547","PMID_freq":3,"PMIDs":"30522504, 25537784, 24168460"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"32819923, 32381110"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 33482878"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Prostatic Hyperplasia","Mesh_Id":"D011470","PMID_freq":2,"PMIDs":"34941196, 26656981"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Pulmonary Disease, Chronic Obstructive","Mesh_Id":"D029424","PMID_freq":2,"PMIDs":"32791715, 32150085"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":7,"PMIDs":"32195949, 35750456, 33588904, 28052910, 32571411, 30075491, 35241130"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":3,"PMIDs":"32164719, 29514705, 32791711"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"35773693, 32957353, 31924256"}
+{"Acupoint_Code":"ST32","Relation":"pubmed","Mesh_Term":"Substance Withdrawal Syndrome","Mesh_Id":"D013375","PMID_freq":2,"PMIDs":"31574863, 22373002"}
+{"Acupoint_Code":"ST34","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":4,"PMIDs":"35945733, 23497032, 20576162, 33906695"}
+{"Acupoint_Code":"ST34","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"23497032, 30558062"}
+{"Acupoint_Code":"ST34","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 28202067"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"33588904, 32571411"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":2,"PMIDs":"29029639, 27821107"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":6,"PMIDs":"24962039, 33906695, 23497032, 23782709, 28438185, 28404609"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"6704356, 33976542"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":5,"PMIDs":"29029639, 34666815, 33588904, 32571411, 27829410"}
+{"Acupoint_Code":"ST35","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":2,"PMIDs":"29029639, 27821107"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Abdominal Pain","Mesh_Id":"D015746","PMID_freq":2,"PMIDs":"29769133, 30326940"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"28202067, 29769133"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Cancer Pain","Mesh_Id":"D000072716","PMID_freq":2,"PMIDs":"30635007, 28651642"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"28445309, 28404609"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Cognition Disorders","Mesh_Id":"D003072","PMID_freq":2,"PMIDs":"33976542, 23587135"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Colic","Mesh_Id":"D003085","PMID_freq":3,"PMIDs":"28093383, 35027415, 32375501"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Depression","Mesh_Id":"D003863","PMID_freq":2,"PMIDs":"29029639, 30142795"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":5,"PMIDs":"35616251, 31706345, 28679410, 34106628, 27495269"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Fatigue Syndrome, Chronic","Mesh_Id":"D015673","PMID_freq":2,"PMIDs":"30832713, 27886247"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Gastroparesis","Mesh_Id":"D018589","PMID_freq":2,"PMIDs":"35241130, 32399130"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":7,"PMIDs":"35789530, 32571411, 34363051, 24216113, 35902195, 33907133, 33588904"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Infertility, Female","Mesh_Id":"D007247","PMID_freq":2,"PMIDs":"30142768, 24886647"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"34666815, 30326940"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"25496446, 22894176"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":3,"PMIDs":"29029639, 28069044, 27821107"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":3,"PMIDs":"27457720, 33235115, 31775839"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":7,"PMIDs":"31702640, 23497032, 23782709, 25910930, 28438185, 28404609, 35945733"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"23497032, 25175308"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":6,"PMIDs":"25910930, 32819923, 31915045, 32381110, 25047046, 31358034"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":3,"PMIDs":"1826453, 33976542, 34106628"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Postoperative Nausea and Vomiting","Mesh_Id":"D020250","PMID_freq":2,"PMIDs":"28052910, 31915045"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":17,"PMIDs":"29029639, 35789530, 28052910, 32571411, 24886348, 34666815, 31937335, 30635007, 31706345, 31774002, 32576237, 35241130, 27829410, 33588904, 30326940, 27495269, 32925788"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Perennial","Mesh_Id":"D012221","PMID_freq":2,"PMIDs":"31992367, 23302264"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Seasonal","Mesh_Id":"D006255","PMID_freq":2,"PMIDs":"24708643, 23302264"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"28202067, 32957353"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":3,"PMIDs":"29029639, 28069044, 27821107"}
+{"Acupoint_Code":"ST36","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"ST37","Relation":"pubmed","Mesh_Term":"Abdominal Pain","Mesh_Id":"D015746","PMID_freq":2,"PMIDs":"30326940, 29769133"}
+{"Acupoint_Code":"ST37","Relation":"pubmed","Mesh_Term":"Constipation","Mesh_Id":"D003248","PMID_freq":2,"PMIDs":"31780587, 31774002"}
+{"Acupoint_Code":"ST37","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"30326940, 34666815"}
+{"Acupoint_Code":"ST37","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":4,"PMIDs":"28052910, 30326940, 34666815, 31774002"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Arthralgia","Mesh_Id":"D018771","PMID_freq":2,"PMIDs":"24962039, 23768129"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":3,"PMIDs":"20540806, 20075014, 19958132"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"28445309, 30522504"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Depression","Mesh_Id":"D003863","PMID_freq":2,"PMIDs":"29029639, 22417316"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":2,"PMIDs":"33663090, 28679410"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Hot Flashes","Mesh_Id":"D019584","PMID_freq":2,"PMIDs":"24886348, 24950841"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"33907133, 32571411"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Low Back Pain","Mesh_Id":"D017116","PMID_freq":2,"PMIDs":"20540806, 20075014"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":3,"PMIDs":"24915066, 22697367, 25496446"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":2,"PMIDs":"29029639, 27821107"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":3,"PMIDs":"31775839, 33235115, 22417316"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":3,"PMIDs":"24962039, 23497032, 28438185"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"19574017, 23497032"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"31358034, 23707680"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Pulmonary Disease, Chronic Obstructive","Mesh_Id":"D029424","PMID_freq":2,"PMIDs":"32150085, 31829276"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":13,"PMIDs":"24886348, 29029639, 35897025, 35750456, 24950841, 28052910, 29179761, 32571411, 22697367, 22417316, 32576237, 19958132, 31937335"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"35303841, 22417316"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Stress, Psychological","Mesh_Id":"D013315","PMID_freq":2,"PMIDs":"22417316, 19958132"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"30397007, 31291976, 28202067"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":2,"PMIDs":"29029639, 27821107"}
+{"Acupoint_Code":"ST4","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":3,"PMIDs":"31775839, 35966092, 22417316"}
+{"Acupoint_Code":"ST40","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":3,"PMIDs":"33235115, 27457720, 31775839"}
+{"Acupoint_Code":"ST40","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":3,"PMIDs":"35966092, 27457720, 31775839"}
+{"Acupoint_Code":"ST41","Relation":"pubmed","Mesh_Term":"Nausea","Mesh_Id":"D009325","PMID_freq":2,"PMIDs":"27821107, 29029639"}
+{"Acupoint_Code":"ST41","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"32571411, 29029639"}
+{"Acupoint_Code":"ST41","Relation":"pubmed","Mesh_Term":"Vomiting","Mesh_Id":"D014839","PMID_freq":2,"PMIDs":"27821107, 29029639"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Acute Disease","Mesh_Id":"D000208","PMID_freq":2,"PMIDs":"28646892, 28202067"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Arthralgia","Mesh_Id":"D018771","PMID_freq":2,"PMIDs":"24962039, 24210070"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Chronic Disease","Mesh_Id":"D002908","PMID_freq":2,"PMIDs":"24499445, 19958132"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"31366643, 28404609"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Colic","Mesh_Id":"D003085","PMID_freq":2,"PMIDs":"28093383, 32375501"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":6,"PMIDs":"35902195, 33588904, 24216113, 30546033, 32571411, 34363051"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Obesity","Mesh_Id":"D009765","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":3,"PMIDs":"24962039, 28438185, 28404609"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Pulmonary Disease, Chronic Obstructive","Mesh_Id":"D029424","PMID_freq":2,"PMIDs":"32150085, 31829276"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":9,"PMIDs":"35395946, 35897025, 35750456, 33588904, 29179761, 32571411, 31366643, 19958132, 31937335"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"31291976, 28202067, 31924256"}
+{"Acupoint_Code":"ST5","Relation":"pubmed","Mesh_Term":"Weight Loss","Mesh_Id":"D015431","PMID_freq":2,"PMIDs":"27457720, 31775839"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Fatigue","Mesh_Id":"D005221","PMID_freq":3,"PMIDs":"31706345, 28851420, 27495269"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"35789530, 33588904"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Irritable Bowel Syndrome","Mesh_Id":"D043183","PMID_freq":2,"PMIDs":"34666815, 30326940"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Pain","Mesh_Id":"D010146","PMID_freq":2,"PMIDs":"26733563, 23497032"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"32819923, 23707680"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Postoperative Complications","Mesh_Id":"D011183","PMID_freq":2,"PMIDs":"6704356, 30425466"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":9,"PMIDs":"35002538, 35789530, 31706345, 34666815, 33588904, 28851420, 30326940, 27495269, 25963295"}
+{"Acupoint_Code":"ST6","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":3,"PMIDs":"30397007, 28202067, 24453485"}
+{"Acupoint_Code":"ST7","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"31366643, 22417316"}
+{"Acupoint_Code":"ST7","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"35303841, 22417316"}
+{"Acupoint_Code":"ST8","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"34666815, 27829410"}
+{"Acupoint_Code":"ST8","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic","Mesh_Id":"D065631","PMID_freq":2,"PMIDs":"23302264, 27829410"}
+{"Acupoint_Code":"ST8","Relation":"pubmed","Mesh_Term":"Rhinitis, Allergic, Seasonal","Mesh_Id":"D006255","PMID_freq":2,"PMIDs":"24708643, 23302264"}
+{"Acupoint_Code":"ST9","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"24216113, 30546033"}
+{"Acupoint_Code":"TE1","Relation":"pubmed","Mesh_Term":"Chronic Pain","Mesh_Id":"D059350","PMID_freq":2,"PMIDs":"24742182, 30522504"}
+{"Acupoint_Code":"TE1","Relation":"pubmed","Mesh_Term":"Pain, Postoperative","Mesh_Id":"D010149","PMID_freq":2,"PMIDs":"30249298, 23707680"}
+{"Acupoint_Code":"TE1","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"24886348, 28052910"}
+{"Acupoint_Code":"TE1","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"24742182, 30249298"}
+{"Acupoint_Code":"TE1","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":3,"PMIDs":"28143471, 23176350, 25872506"}
+{"Acupoint_Code":"TE14","Relation":"pubmed","Mesh_Term":"Shoulder Pain","Mesh_Id":"D020069","PMID_freq":2,"PMIDs":"24742182, 30249298"}
+{"Acupoint_Code":"TE17","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":4,"PMIDs":"35368921, 28143471, 23176350, 25872506"}
+{"Acupoint_Code":"TE2","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"24886348, 31706345"}
+{"Acupoint_Code":"TE2","Relation":"pubmed","Mesh_Term":"Sleep Initiation and Maintenance Disorders","Mesh_Id":"D007319","PMID_freq":2,"PMIDs":"32807158, 31146772"}
+{"Acupoint_Code":"TE2","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"28143471, 23176350"}
+{"Acupoint_Code":"TE21","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":2,"PMIDs":"28143471, 23176350"}
+{"Acupoint_Code":"TE3","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"35750456, 35002538"}
+{"Acupoint_Code":"TE3","Relation":"pubmed","Mesh_Term":"Tinnitus","Mesh_Id":"D014012","PMID_freq":3,"PMIDs":"28143471, 23176350, 25872506"}
+{"Acupoint_Code":"TE5","Relation":"pubmed","Mesh_Term":"Hypertension","Mesh_Id":"D006973","PMID_freq":2,"PMIDs":"24216113, 30546033"}
+{"Acupoint_Code":"TE5","Relation":"pubmed","Mesh_Term":"Migraine Disorders","Mesh_Id":"D008881","PMID_freq":2,"PMIDs":"24915066, 22894176"}
+{"Acupoint_Code":"TE5","Relation":"pubmed","Mesh_Term":"Migraine without Aura","Mesh_Id":"D020326","PMID_freq":2,"PMIDs":"35750456, 35854329"}
+{"Acupoint_Code":"TE5","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":2,"PMIDs":"35002538, 35750456"}
+{"Acupoint_Code":"TE5","Relation":"pubmed","Mesh_Term":"Stroke","Mesh_Id":"D020521","PMID_freq":2,"PMIDs":"30397007, 22738270"}
+{"Acupoint_Code":"TE9","Relation":"pubmed","Mesh_Term":"Osteoarthritis, Knee","Mesh_Id":"D020370","PMID_freq":3,"PMIDs":"35945733, 24962039, 28404609"}
+{"Acupoint_Code":"TE9","Relation":"pubmed","Mesh_Term":"Prostatic Hyperplasia","Mesh_Id":"D011470","PMID_freq":3,"PMIDs":"21943105, 34941196, 26656981"}
+{"Acupoint_Code":"TE9","Relation":"pubmed","Mesh_Term":"Quality of Life","Mesh_Id":"D011788","PMID_freq":3,"PMIDs":"28052910, 35241130, 31937335"}

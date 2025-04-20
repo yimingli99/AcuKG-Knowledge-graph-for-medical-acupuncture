@@ -1,0 +1,1786 @@
+@prefix acu: <http://example.org/acupuncture/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/acupuncture/Chinesename/record1> acu:Acupoint_Code "LU1" ;
+    acu:Chinese_Name "中府" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72746e+08 .
+
+<http://example.org/acupuncture/Chinesename/record10> acu:Acupoint_Code "LU10" ;
+    acu:Chinese_Name "魚(鱼)際(际)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72755e+08 .
+
+<http://example.org/acupuncture/Chinesename/record100> acu:Acupoint_Code "HT3" ;
+    acu:Chinese_Name "少海(海)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7285e+08 .
+
+<http://example.org/acupuncture/Chinesename/record101> acu:Acupoint_Code "HT4" ;
+    acu:Chinese_Name "靈(灵,霊)道(道)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72851e+08 .
+
+<http://example.org/acupuncture/Chinesename/record102> acu:Acupoint_Code "HT5" ;
+    acu:Chinese_Name "通(通)里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72852e+08 .
+
+<http://example.org/acupuncture/Chinesename/record103> acu:Acupoint_Code "HT6" ;
+    acu:Chinese_Name "陰(阴)郄" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72853e+08 .
+
+<http://example.org/acupuncture/Chinesename/record104> acu:Acupoint_Code "HT7" ;
+    acu:Chinese_Name "神(神)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72854e+08 .
+
+<http://example.org/acupuncture/Chinesename/record105> acu:Acupoint_Code "HT8" ;
+    acu:Chinese_Name "少府" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72855e+08 .
+
+<http://example.org/acupuncture/Chinesename/record106> acu:Acupoint_Code "HT9" ;
+    acu:Chinese_Name "少衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72856e+08 .
+
+<http://example.org/acupuncture/Chinesename/record107> acu:Acupoint_Code "SI1" ;
+    acu:Chinese_Name "少澤(泽,沢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72858e+08 .
+
+<http://example.org/acupuncture/Chinesename/record108> acu:Acupoint_Code "SI2" ;
+    acu:Chinese_Name "前谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72859e+08 .
+
+<http://example.org/acupuncture/Chinesename/record109> acu:Acupoint_Code "SI3" ;
+    acu:Chinese_Name "後(后)谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7286e+08 .
+
+<http://example.org/acupuncture/Chinesename/record11> acu:Acupoint_Code "LU11" ;
+    acu:Chinese_Name "少商" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72756e+08 .
+
+<http://example.org/acupuncture/Chinesename/record110> acu:Acupoint_Code "SI4" ;
+    acu:Chinese_Name "腕骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72861e+08 .
+
+<http://example.org/acupuncture/Chinesename/record111> acu:Acupoint_Code "SI5" ;
+    acu:Chinese_Name "陽(阳)谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72862e+08 .
+
+<http://example.org/acupuncture/Chinesename/record112> acu:Acupoint_Code "SI6" ;
+    acu:Chinese_Name "養(养)老" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72863e+08 .
+
+<http://example.org/acupuncture/Chinesename/record113> acu:Acupoint_Code "SI7" ;
+    acu:Chinese_Name "支正" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72864e+08 .
+
+<http://example.org/acupuncture/Chinesename/record114> acu:Acupoint_Code "SI8" ;
+    acu:Chinese_Name "小海(海)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72865e+08 .
+
+<http://example.org/acupuncture/Chinesename/record115> acu:Acupoint_Code "SI9" ;
+    acu:Chinese_Name "肩貞(贞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72866e+08 .
+
+<http://example.org/acupuncture/Chinesename/record116> acu:Acupoint_Code "SI10" ;
+    acu:Chinese_Name "臑兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72867e+08 .
+
+<http://example.org/acupuncture/Chinesename/record117> acu:Acupoint_Code "SI11" ;
+    acu:Chinese_Name "天宗" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72868e+08 .
+
+<http://example.org/acupuncture/Chinesename/record118> acu:Acupoint_Code "SI12" ;
+    acu:Chinese_Name "秉風(风)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72869e+08 .
+
+<http://example.org/acupuncture/Chinesename/record119> acu:Acupoint_Code "SI13" ;
+    acu:Chinese_Name "曲垣" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7287e+08 .
+
+<http://example.org/acupuncture/Chinesename/record12> acu:Acupoint_Code "LI1" ;
+    acu:Chinese_Name "商陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72758e+08 .
+
+<http://example.org/acupuncture/Chinesename/record120> acu:Acupoint_Code "SI14" ;
+    acu:Chinese_Name "肩外兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72871e+08 .
+
+<http://example.org/acupuncture/Chinesename/record121> acu:Acupoint_Code "SI15" ;
+    acu:Chinese_Name "肩中兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72872e+08 .
+
+<http://example.org/acupuncture/Chinesename/record122> acu:Acupoint_Code "SI16" ;
+    acu:Chinese_Name "天窗(窓)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72873e+08 .
+
+<http://example.org/acupuncture/Chinesename/record123> acu:Acupoint_Code "SI17" ;
+    acu:Chinese_Name "天容" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72874e+08 .
+
+<http://example.org/acupuncture/Chinesename/record124> acu:Acupoint_Code "SI18" ;
+    acu:Chinese_Name "顴(颧)髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72875e+08 .
+
+<http://example.org/acupuncture/Chinesename/record125> acu:Acupoint_Code "SI19" ;
+    acu:Chinese_Name "聽(听,聴)宮(宫)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72876e+08 .
+
+<http://example.org/acupuncture/Chinesename/record126> acu:Acupoint_Code "BL1" ;
+    acu:Chinese_Name "睛(睛)明" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72878e+08 .
+
+<http://example.org/acupuncture/Chinesename/record127> acu:Acupoint_Code "BL2" ;
+    acu:Chinese_Name "攢(攒,攅)竹" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72879e+08 .
+
+<http://example.org/acupuncture/Chinesename/record128> acu:Acupoint_Code "BL3" ;
+    acu:Chinese_Name "眉衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7288e+08 .
+
+<http://example.org/acupuncture/Chinesename/record129> acu:Acupoint_Code "BL4" ;
+    acu:Chinese_Name "曲差" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72881e+08 .
+
+<http://example.org/acupuncture/Chinesename/record13> acu:Acupoint_Code "LI2" ;
+    acu:Chinese_Name "二間(间)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72759e+08 .
+
+<http://example.org/acupuncture/Chinesename/record130> acu:Acupoint_Code "BL5" ;
+    acu:Chinese_Name "五處(处,処)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72882e+08 .
+
+<http://example.org/acupuncture/Chinesename/record131> acu:Acupoint_Code "BL6" ;
+    acu:Chinese_Name "承光" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72883e+08 .
+
+<http://example.org/acupuncture/Chinesename/record132> acu:Acupoint_Code "BL7" ;
+    acu:Chinese_Name "通(通)天" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72884e+08 .
+
+<http://example.org/acupuncture/Chinesename/record133> acu:Acupoint_Code "BL8" ;
+    acu:Chinese_Name "絡(络)卻(却)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72885e+08 .
+
+<http://example.org/acupuncture/Chinesename/record134> acu:Acupoint_Code "BL9" ;
+    acu:Chinese_Name "玉枕" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72886e+08 .
+
+<http://example.org/acupuncture/Chinesename/record135> acu:Acupoint_Code "BL10" ;
+    acu:Chinese_Name "天柱" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72887e+08 .
+
+<http://example.org/acupuncture/Chinesename/record136> acu:Acupoint_Code "BL11" ;
+    acu:Chinese_Name "大杼" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72888e+08 .
+
+<http://example.org/acupuncture/Chinesename/record137> acu:Acupoint_Code "BL12" ;
+    acu:Chinese_Name "風(风)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72889e+08 .
+
+<http://example.org/acupuncture/Chinesename/record138> acu:Acupoint_Code "BL13" ;
+    acu:Chinese_Name "肺兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7289e+08 .
+
+<http://example.org/acupuncture/Chinesename/record139> acu:Acupoint_Code "BL14" ;
+    acu:Chinese_Name "厥陰(阴)兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72891e+08 .
+
+<http://example.org/acupuncture/Chinesename/record14> acu:Acupoint_Code "LI3" ;
+    acu:Chinese_Name "三間(间)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7276e+08 .
+
+<http://example.org/acupuncture/Chinesename/record140> acu:Acupoint_Code "BL15" ;
+    acu:Chinese_Name "心兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72892e+08 .
+
+<http://example.org/acupuncture/Chinesename/record141> acu:Acupoint_Code "BL16" ;
+    acu:Chinese_Name "督兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72893e+08 .
+
+<http://example.org/acupuncture/Chinesename/record142> acu:Acupoint_Code "BL17" ;
+    acu:Chinese_Name "膈兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72894e+08 .
+
+<http://example.org/acupuncture/Chinesename/record143> acu:Acupoint_Code "BL18" ;
+    acu:Chinese_Name "肝兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72895e+08 .
+
+<http://example.org/acupuncture/Chinesename/record144> acu:Acupoint_Code "BL19" ;
+    acu:Chinese_Name "膽兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72897e+08 .
+
+<http://example.org/acupuncture/Chinesename/record145> acu:Acupoint_Code "BL20" ;
+    acu:Chinese_Name "脾兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72898e+08 .
+
+<http://example.org/acupuncture/Chinesename/record146> acu:Acupoint_Code "BL21" ;
+    acu:Chinese_Name "胃兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72899e+08 .
+
+<http://example.org/acupuncture/Chinesename/record147> acu:Acupoint_Code "BL22" ;
+    acu:Chinese_Name "三焦兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.729e+08 .
+
+<http://example.org/acupuncture/Chinesename/record148> acu:Acupoint_Code "BL23" ;
+    acu:Chinese_Name "腎兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72901e+08 .
+
+<http://example.org/acupuncture/Chinesename/record149> acu:Acupoint_Code "BL24" ;
+    acu:Chinese_Name "氣(气,気)海(海)兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72902e+08 .
+
+<http://example.org/acupuncture/Chinesename/record15> acu:Acupoint_Code "LI4" ;
+    acu:Chinese_Name "合谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72761e+08 .
+
+<http://example.org/acupuncture/Chinesename/record150> acu:Acupoint_Code "BL25" ;
+    acu:Chinese_Name "大腸兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72903e+08 .
+
+<http://example.org/acupuncture/Chinesename/record151> acu:Acupoint_Code "BL26" ;
+    acu:Chinese_Name "關(关,関)元兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72904e+08 .
+
+<http://example.org/acupuncture/Chinesename/record152> acu:Acupoint_Code "BL27" ;
+    acu:Chinese_Name "小腸(肠)兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72905e+08 .
+
+<http://example.org/acupuncture/Chinesename/record153> acu:Acupoint_Code "BL28" ;
+    acu:Chinese_Name "膀胱兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72906e+08 .
+
+<http://example.org/acupuncture/Chinesename/record154> acu:Acupoint_Code "BL29" ;
+    acu:Chinese_Name "中膂兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72907e+08 .
+
+<http://example.org/acupuncture/Chinesename/record155> acu:Acupoint_Code "BL30" ;
+    acu:Chinese_Name "白環(环)兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72908e+08 .
+
+<http://example.org/acupuncture/Chinesename/record156> acu:Acupoint_Code "BL31" ;
+    acu:Chinese_Name "上髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72909e+08 .
+
+<http://example.org/acupuncture/Chinesename/record157> acu:Acupoint_Code "BL32" ;
+    acu:Chinese_Name "次髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7291e+08 .
+
+<http://example.org/acupuncture/Chinesename/record158> acu:Acupoint_Code "BL33" ;
+    acu:Chinese_Name "中髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72911e+08 .
+
+<http://example.org/acupuncture/Chinesename/record159> acu:Acupoint_Code "BL34" ;
+    acu:Chinese_Name "下髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72912e+08 .
+
+<http://example.org/acupuncture/Chinesename/record16> acu:Acupoint_Code "LI5" ;
+    acu:Chinese_Name "陽(阳)谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72762e+08 .
+
+<http://example.org/acupuncture/Chinesename/record160> acu:Acupoint_Code "BL35" ;
+    acu:Chinese_Name "會(会)陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72913e+08 .
+
+<http://example.org/acupuncture/Chinesename/record161> acu:Acupoint_Code "BL36" ;
+    acu:Chinese_Name "承扶" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record162> acu:Acupoint_Code "BL37" ;
+    acu:Chinese_Name "殷門(门)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record163> acu:Acupoint_Code "BL38" ;
+    acu:Chinese_Name "(浮)郄" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record164> acu:Acupoint_Code "BL39" ;
+    acu:Chinese_Name "委陽(阳)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record165> acu:Acupoint_Code "BL40" ;
+    acu:Chinese_Name "委中" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record166> acu:Acupoint_Code "BL41" ;
+    acu:Chinese_Name "附分" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record167> acu:Acupoint_Code "BL42" ;
+    acu:Chinese_Name "魄户" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record168> acu:Acupoint_Code "BL43" ;
+    acu:Chinese_Name "膏肓" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record169> acu:Acupoint_Code "BL44" ;
+    acu:Chinese_Name "神(神)堂" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record17> acu:Acupoint_Code "LI6" ;
+    acu:Chinese_Name "偏歷(历)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72763e+08 .
+
+<http://example.org/acupuncture/Chinesename/record170> acu:Acupoint_Code "BL45" ;
+    acu:Chinese_Name "譩譆" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record171> acu:Acupoint_Code "BL46" ;
+    acu:Chinese_Name "膈關(关,関)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record172> acu:Acupoint_Code "BL47" ;
+    acu:Chinese_Name "魂門(门)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record173> acu:Acupoint_Code "BL48" ;
+    acu:Chinese_Name "陽(阳)綱(纲)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record174> acu:Acupoint_Code "BL49" ;
+    acu:Chinese_Name "意舍(舎)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record175> acu:Acupoint_Code "BL50" ;
+    acu:Chinese_Name "胃倉(仓)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record176> acu:Acupoint_Code "BL51" ;
+    acu:Chinese_Name "肓門(门)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record177> acu:Acupoint_Code "BL52" ;
+    acu:Chinese_Name "志室" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record178> acu:Acupoint_Code "BL53" ;
+    acu:Chinese_Name "胞(胞)肓" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record179> acu:Acupoint_Code "BL54" ;
+    acu:Chinese_Name "秩邊(边,辺)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record18> acu:Acupoint_Code "LI7" ;
+    acu:Chinese_Name "溫(温)溜" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72764e+08 .
+
+<http://example.org/acupuncture/Chinesename/record180> acu:Acupoint_Code "BL55" ;
+    acu:Chinese_Name "合陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72933e+08 .
+
+<http://example.org/acupuncture/Chinesename/record181> acu:Acupoint_Code "BL56" ;
+    acu:Chinese_Name "承筋" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72934e+08 .
+
+<http://example.org/acupuncture/Chinesename/record182> acu:Acupoint_Code "BL57" ;
+    acu:Chinese_Name "承山" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72935e+08 .
+
+<http://example.org/acupuncture/Chinesename/record183> acu:Acupoint_Code "BL58" ;
+    acu:Chinese_Name "飛(飞)揚(扬)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72936e+08 .
+
+<http://example.org/acupuncture/Chinesename/record184> acu:Acupoint_Code "BL59" ;
+    acu:Chinese_Name "跗陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72937e+08 .
+
+<http://example.org/acupuncture/Chinesename/record185> acu:Acupoint_Code "BL60" ;
+    acu:Chinese_Name "崑(昆)崙(侖,仑)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72939e+08 .
+
+<http://example.org/acupuncture/Chinesename/record186> acu:Acupoint_Code "BL61" ;
+    acu:Chinese_Name "僕(仆)參(参)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7294e+08 .
+
+<http://example.org/acupuncture/Chinesename/record187> acu:Acupoint_Code "BL62" ;
+    acu:Chinese_Name "申脈(脉)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72941e+08 .
+
+<http://example.org/acupuncture/Chinesename/record188> acu:Acupoint_Code "BL63" ;
+    acu:Chinese_Name "金門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72942e+08 .
+
+<http://example.org/acupuncture/Chinesename/record189> acu:Acupoint_Code "BL64" ;
+    acu:Chinese_Name "京骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72943e+08 .
+
+<http://example.org/acupuncture/Chinesename/record19> acu:Acupoint_Code "LI8" ;
+    acu:Chinese_Name "下廉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72765e+08 .
+
+<http://example.org/acupuncture/Chinesename/record190> acu:Acupoint_Code "BL65" ;
+    acu:Chinese_Name "束骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72944e+08 .
+
+<http://example.org/acupuncture/Chinesename/record191> acu:Acupoint_Code "BL66" ;
+    acu:Chinese_Name "足通(通)谷" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record192> acu:Acupoint_Code "BL67" ;
+    acu:Chinese_Name "至陰(阴)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record193> acu:Acupoint_Code "KI1" ;
+    acu:Chinese_Name "湧(涌)泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72946e+08 .
+
+<http://example.org/acupuncture/Chinesename/record194> acu:Acupoint_Code "KI2" ;
+    acu:Chinese_Name "然谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72947e+08 .
+
+<http://example.org/acupuncture/Chinesename/record195> acu:Acupoint_Code "KI3" ;
+    acu:Chinese_Name "太谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72948e+08 .
+
+<http://example.org/acupuncture/Chinesename/record196> acu:Acupoint_Code "KI4" ;
+    acu:Chinese_Name "大鍾(钟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72949e+08 .
+
+<http://example.org/acupuncture/Chinesename/record197> acu:Acupoint_Code "KI5" ;
+    acu:Chinese_Name "水泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7295e+08 .
+
+<http://example.org/acupuncture/Chinesename/record198> acu:Acupoint_Code "KI6" ;
+    acu:Chinese_Name "照海(海)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72951e+08 .
+
+<http://example.org/acupuncture/Chinesename/record199> acu:Acupoint_Code "KI7" ;
+    acu:Chinese_Name "復(复)溜" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72952e+08 .
+
+<http://example.org/acupuncture/Chinesename/record2> acu:Acupoint_Code "LU2" ;
+    acu:Chinese_Name "雲(云)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72747e+08 .
+
+<http://example.org/acupuncture/Chinesename/record20> acu:Acupoint_Code "LI9" ;
+    acu:Chinese_Name "上廉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72766e+08 .
+
+<http://example.org/acupuncture/Chinesename/record200> acu:Acupoint_Code "KI8" ;
+    acu:Chinese_Name "交信" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72953e+08 .
+
+<http://example.org/acupuncture/Chinesename/record201> acu:Acupoint_Code "KI9" ;
+    acu:Chinese_Name "築(筑)賓(宾)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72954e+08 .
+
+<http://example.org/acupuncture/Chinesename/record202> acu:Acupoint_Code "KI10" ;
+    acu:Chinese_Name "陰(阴)谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72955e+08 .
+
+<http://example.org/acupuncture/Chinesename/record203> acu:Acupoint_Code "KI11" ;
+    acu:Chinese_Name "橫骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72956e+08 .
+
+<http://example.org/acupuncture/Chinesename/record204> acu:Acupoint_Code "KI12" ;
+    acu:Chinese_Name "大赫" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72957e+08 .
+
+<http://example.org/acupuncture/Chinesename/record205> acu:Acupoint_Code "KI13" ;
+    acu:Chinese_Name "氣(气,気)穴" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72958e+08 .
+
+<http://example.org/acupuncture/Chinesename/record206> acu:Acupoint_Code "KI14" ;
+    acu:Chinese_Name "四滿(满,満)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72959e+08 .
+
+<http://example.org/acupuncture/Chinesename/record207> acu:Acupoint_Code "KI15" ;
+    acu:Chinese_Name "中注" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7296e+08 .
+
+<http://example.org/acupuncture/Chinesename/record208> acu:Acupoint_Code "KI16" ;
+    acu:Chinese_Name "肓兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72961e+08 .
+
+<http://example.org/acupuncture/Chinesename/record209> acu:Acupoint_Code "KI17" ;
+    acu:Chinese_Name "商曲" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72962e+08 .
+
+<http://example.org/acupuncture/Chinesename/record21> acu:Acupoint_Code "LI10" ;
+    acu:Chinese_Name "手三里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72767e+08 .
+
+<http://example.org/acupuncture/Chinesename/record210> acu:Acupoint_Code "KI18" ;
+    acu:Chinese_Name "石關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72963e+08 .
+
+<http://example.org/acupuncture/Chinesename/record211> acu:Acupoint_Code "KI19" ;
+    acu:Chinese_Name "陰(阴)都(都)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72964e+08 .
+
+<http://example.org/acupuncture/Chinesename/record212> acu:Acupoint_Code "KI20" ;
+    acu:Chinese_Name "腹通(通)谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72965e+08 .
+
+<http://example.org/acupuncture/Chinesename/record213> acu:Acupoint_Code "KI21" ;
+    acu:Chinese_Name "幽門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72966e+08 .
+
+<http://example.org/acupuncture/Chinesename/record214> acu:Acupoint_Code "KI22" ;
+    acu:Chinese_Name "步(歩)廊" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72967e+08 .
+
+<http://example.org/acupuncture/Chinesename/record215> acu:Acupoint_Code "KI23" ;
+    acu:Chinese_Name "神(神)封" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72968e+08 .
+
+<http://example.org/acupuncture/Chinesename/record216> acu:Acupoint_Code "KI24" ;
+    acu:Chinese_Name "靈(灵,霊)墟(墟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72969e+08 .
+
+<http://example.org/acupuncture/Chinesename/record217> acu:Acupoint_Code "KI25" ;
+    acu:Chinese_Name "神(神)藏(蔵)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7297e+08 .
+
+<http://example.org/acupuncture/Chinesename/record218> acu:Acupoint_Code "KI26" ;
+    acu:Chinese_Name "彧中" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72971e+08 .
+
+<http://example.org/acupuncture/Chinesename/record219> acu:Acupoint_Code "KI27" ;
+    acu:Chinese_Name "兪(俞)府" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72972e+08 .
+
+<http://example.org/acupuncture/Chinesename/record22> acu:Acupoint_Code "LI11" ;
+    acu:Chinese_Name "曲池" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72768e+08 .
+
+<http://example.org/acupuncture/Chinesename/record220> acu:Acupoint_Code "PC1" ;
+    acu:Chinese_Name "天池" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72974e+08 .
+
+<http://example.org/acupuncture/Chinesename/record221> acu:Acupoint_Code "PC2" ;
+    acu:Chinese_Name "天泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72975e+08 .
+
+<http://example.org/acupuncture/Chinesename/record222> acu:Acupoint_Code "PC3" ;
+    acu:Chinese_Name "曲澤(泽,沢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72976e+08 .
+
+<http://example.org/acupuncture/Chinesename/record223> acu:Acupoint_Code "PC4" ;
+    acu:Chinese_Name "郄門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72977e+08 .
+
+<http://example.org/acupuncture/Chinesename/record224> acu:Acupoint_Code "PC5" ;
+    acu:Chinese_Name "間(间)使" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72978e+08 .
+
+<http://example.org/acupuncture/Chinesename/record225> acu:Acupoint_Code "PC6" ;
+    acu:Chinese_Name "內關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72979e+08 .
+
+<http://example.org/acupuncture/Chinesename/record226> acu:Acupoint_Code "PC7" ;
+    acu:Chinese_Name "大陵" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7298e+08 .
+
+<http://example.org/acupuncture/Chinesename/record227> acu:Acupoint_Code "PC8" ;
+    acu:Chinese_Name "勞(劳,労)宮(宫)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72981e+08 .
+
+<http://example.org/acupuncture/Chinesename/record228> acu:Acupoint_Code "PC9" ;
+    acu:Chinese_Name "中衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72982e+08 .
+
+<http://example.org/acupuncture/Chinesename/record229> acu:Acupoint_Code "TE1" ;
+    acu:Chinese_Name "關(关,関)衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72984e+08 .
+
+<http://example.org/acupuncture/Chinesename/record23> acu:Acupoint_Code "LI12" ;
+    acu:Chinese_Name "肘髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72769e+08 .
+
+<http://example.org/acupuncture/Chinesename/record230> acu:Acupoint_Code "TE2" ;
+    acu:Chinese_Name "液門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72985e+08 .
+
+<http://example.org/acupuncture/Chinesename/record231> acu:Acupoint_Code "TE3" ;
+    acu:Chinese_Name "中渚(渚)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72986e+08 .
+
+<http://example.org/acupuncture/Chinesename/record232> acu:Acupoint_Code "TE4" ;
+    acu:Chinese_Name "陽(阳)池" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72987e+08 .
+
+<http://example.org/acupuncture/Chinesename/record233> acu:Acupoint_Code "TE5" ;
+    acu:Chinese_Name "外關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72988e+08 .
+
+<http://example.org/acupuncture/Chinesename/record234> acu:Acupoint_Code "TE6" ;
+    acu:Chinese_Name "支溝(沟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72989e+08 .
+
+<http://example.org/acupuncture/Chinesename/record235> acu:Acupoint_Code "TE7" ;
+    acu:Chinese_Name "會(会)宗" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7299e+08 .
+
+<http://example.org/acupuncture/Chinesename/record236> acu:Acupoint_Code "TE8" ;
+    acu:Chinese_Name "三陽(阳)絡(络)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72991e+08 .
+
+<http://example.org/acupuncture/Chinesename/record237> acu:Acupoint_Code "TE9" ;
+    acu:Chinese_Name "四瀆(渎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72992e+08 .
+
+<http://example.org/acupuncture/Chinesename/record238> acu:Acupoint_Code "TE10" ;
+    acu:Chinese_Name "天井" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72993e+08 .
+
+<http://example.org/acupuncture/Chinesename/record239> acu:Acupoint_Code "TE11" ;
+    acu:Chinese_Name "淸(清)冷(令)淵(渊)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72994e+08 .
+
+<http://example.org/acupuncture/Chinesename/record24> acu:Acupoint_Code "LI13" ;
+    acu:Chinese_Name "手五里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7277e+08 .
+
+<http://example.org/acupuncture/Chinesename/record240> acu:Acupoint_Code "TE12" ;
+    acu:Chinese_Name "消濼(泺)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72995e+08 .
+
+<http://example.org/acupuncture/Chinesename/record241> acu:Acupoint_Code "TE13" ;
+    acu:Chinese_Name "臑會(会)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72996e+08 .
+
+<http://example.org/acupuncture/Chinesename/record242> acu:Acupoint_Code "TE14" ;
+    acu:Chinese_Name "肩髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72997e+08 .
+
+<http://example.org/acupuncture/Chinesename/record243> acu:Acupoint_Code "TE15" ;
+    acu:Chinese_Name "天髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72999e+08 .
+
+<http://example.org/acupuncture/Chinesename/record244> acu:Acupoint_Code "TE16" ;
+    acu:Chinese_Name "天牖" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73e+08 .
+
+<http://example.org/acupuncture/Chinesename/record245> acu:Acupoint_Code "TE17" ;
+    acu:Chinese_Name "翳風(风)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73001e+08 .
+
+<http://example.org/acupuncture/Chinesename/record246> acu:Acupoint_Code "TE18" ;
+    acu:Chinese_Name "瘈脈(脉)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73002e+08 .
+
+<http://example.org/acupuncture/Chinesename/record247> acu:Acupoint_Code "TE19" ;
+    acu:Chinese_Name "顱(颅)息" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73003e+08 .
+
+<http://example.org/acupuncture/Chinesename/record248> acu:Acupoint_Code "TE20" ;
+    acu:Chinese_Name "角孫(孙)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73004e+08 .
+
+<http://example.org/acupuncture/Chinesename/record249> acu:Acupoint_Code "TE21" ;
+    acu:Chinese_Name "耳門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73005e+08 .
+
+<http://example.org/acupuncture/Chinesename/record25> acu:Acupoint_Code "LI14" ;
+    acu:Chinese_Name "臂臑" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72771e+08 .
+
+<http://example.org/acupuncture/Chinesename/record250> acu:Acupoint_Code "TE22" ;
+    acu:Chinese_Name "耳和髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73006e+08 .
+
+<http://example.org/acupuncture/Chinesename/record251> acu:Acupoint_Code "TE23" ;
+    acu:Chinese_Name "絲(丝)竹空" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73007e+08 .
+
+<http://example.org/acupuncture/Chinesename/record252> acu:Acupoint_Code "GB1" ;
+    acu:Chinese_Name "瞳子髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73009e+08 .
+
+<http://example.org/acupuncture/Chinesename/record253> acu:Acupoint_Code "GB2" ;
+    acu:Chinese_Name "聽(听,聴)會(会)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7301e+08 .
+
+<http://example.org/acupuncture/Chinesename/record254> acu:Acupoint_Code "GB3" ;
+    acu:Chinese_Name "上關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73011e+08 .
+
+<http://example.org/acupuncture/Chinesename/record255> acu:Acupoint_Code "GB4" ;
+    acu:Chinese_Name "頷(颔)厭(厌)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73012e+08 .
+
+<http://example.org/acupuncture/Chinesename/record256> acu:Acupoint_Code "GB5" ;
+    acu:Chinese_Name "懸(悬)顱(颅)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73013e+08 .
+
+<http://example.org/acupuncture/Chinesename/record257> acu:Acupoint_Code "GB6" ;
+    acu:Chinese_Name "懸(悬)釐(厘)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73014e+08 .
+
+<http://example.org/acupuncture/Chinesename/record258> acu:Acupoint_Code "GB7" ;
+    acu:Chinese_Name "曲鬢(鬓)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73015e+08 .
+
+<http://example.org/acupuncture/Chinesename/record259> acu:Acupoint_Code "GB8" ;
+    acu:Chinese_Name "率谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73016e+08 .
+
+<http://example.org/acupuncture/Chinesename/record26> acu:Acupoint_Code "LI15" ;
+    acu:Chinese_Name "肩髃(髃)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72772e+08 .
+
+<http://example.org/acupuncture/Chinesename/record260> acu:Acupoint_Code "GB9" ;
+    acu:Chinese_Name "天衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73017e+08 .
+
+<http://example.org/acupuncture/Chinesename/record261> acu:Acupoint_Code "GB10" ;
+    acu:Chinese_Name "(浮)白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73018e+08 .
+
+<http://example.org/acupuncture/Chinesename/record262> acu:Acupoint_Code "GB11" ;
+    acu:Chinese_Name "頭(头)竅(窍)陰(阴)" ;
+    acu:Relation "haschinesename" .
+
+<http://example.org/acupuncture/Chinesename/record263> acu:Acupoint_Code "GB12" ;
+    acu:Chinese_Name "完骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73019e+08 .
+
+<http://example.org/acupuncture/Chinesename/record264> acu:Acupoint_Code "GB13" ;
+    acu:Chinese_Name "本神(神)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7302e+08 .
+
+<http://example.org/acupuncture/Chinesename/record265> acu:Acupoint_Code "GB14" ;
+    acu:Chinese_Name "陽(阳)白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73021e+08 .
+
+<http://example.org/acupuncture/Chinesename/record266> acu:Acupoint_Code "GB15" ;
+    acu:Chinese_Name "頭(头)臨(临)泣" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73022e+08 .
+
+<http://example.org/acupuncture/Chinesename/record267> acu:Acupoint_Code "GB16" ;
+    acu:Chinese_Name "目窗(窓)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73023e+08 .
+
+<http://example.org/acupuncture/Chinesename/record268> acu:Acupoint_Code "GB17" ;
+    acu:Chinese_Name "正營(营,営)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73024e+08 .
+
+<http://example.org/acupuncture/Chinesename/record269> acu:Acupoint_Code "GB18" ;
+    acu:Chinese_Name "承靈(灵,霊)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73025e+08 .
+
+<http://example.org/acupuncture/Chinesename/record27> acu:Acupoint_Code "LI16" ;
+    acu:Chinese_Name "巨骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72773e+08 .
+
+<http://example.org/acupuncture/Chinesename/record270> acu:Acupoint_Code "GB19" ;
+    acu:Chinese_Name "腦(脑,脳)空" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73026e+08 .
+
+<http://example.org/acupuncture/Chinesename/record271> acu:Acupoint_Code "GB20" ;
+    acu:Chinese_Name "風(风)池" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73027e+08 .
+
+<http://example.org/acupuncture/Chinesename/record272> acu:Acupoint_Code "GB21" ;
+    acu:Chinese_Name "肩井" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73028e+08 .
+
+<http://example.org/acupuncture/Chinesename/record273> acu:Acupoint_Code "GB22" ;
+    acu:Chinese_Name "淵(渊)液" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73029e+08 .
+
+<http://example.org/acupuncture/Chinesename/record274> acu:Acupoint_Code "GB23" ;
+    acu:Chinese_Name "輒(辄)筋" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7303e+08 .
+
+<http://example.org/acupuncture/Chinesename/record275> acu:Acupoint_Code "GB24" ;
+    acu:Chinese_Name "日月" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73031e+08 .
+
+<http://example.org/acupuncture/Chinesename/record276> acu:Acupoint_Code "GB25" ;
+    acu:Chinese_Name "京門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73032e+08 .
+
+<http://example.org/acupuncture/Chinesename/record277> acu:Acupoint_Code "GB26" ;
+    acu:Chinese_Name "帶(带,帯)脈(脉)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73033e+08 .
+
+<http://example.org/acupuncture/Chinesename/record278> acu:Acupoint_Code "GB27" ;
+    acu:Chinese_Name "五樞(枢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73034e+08 .
+
+<http://example.org/acupuncture/Chinesename/record279> acu:Acupoint_Code "GB28" ;
+    acu:Chinese_Name "維(维)道(道)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73035e+08 .
+
+<http://example.org/acupuncture/Chinesename/record28> acu:Acupoint_Code "LI17" ;
+    acu:Chinese_Name "天鼎" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72774e+08 .
+
+<http://example.org/acupuncture/Chinesename/record280> acu:Acupoint_Code "GB29" ;
+    acu:Chinese_Name "居髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73036e+08 .
+
+<http://example.org/acupuncture/Chinesename/record281> acu:Acupoint_Code "GB30" ;
+    acu:Chinese_Name "環(环)跳" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73037e+08 .
+
+<http://example.org/acupuncture/Chinesename/record282> acu:Acupoint_Code "GB31" ;
+    acu:Chinese_Name "風(风)市" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73038e+08 .
+
+<http://example.org/acupuncture/Chinesename/record283> acu:Acupoint_Code "GB32" ;
+    acu:Chinese_Name "中瀆(渎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73039e+08 .
+
+<http://example.org/acupuncture/Chinesename/record284> acu:Acupoint_Code "GB33" ;
+    acu:Chinese_Name "膝陽(阳)關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7304e+08 .
+
+<http://example.org/acupuncture/Chinesename/record285> acu:Acupoint_Code "GB34" ;
+    acu:Chinese_Name "陽(阳)陵泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73041e+08 .
+
+<http://example.org/acupuncture/Chinesename/record286> acu:Acupoint_Code "GB35" ;
+    acu:Chinese_Name "陽(阳)交" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73042e+08 .
+
+<http://example.org/acupuncture/Chinesename/record287> acu:Acupoint_Code "GB36" ;
+    acu:Chinese_Name "外丘(邱)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73043e+08 .
+
+<http://example.org/acupuncture/Chinesename/record288> acu:Acupoint_Code "GB37" ;
+    acu:Chinese_Name "光明" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73044e+08 .
+
+<http://example.org/acupuncture/Chinesename/record289> acu:Acupoint_Code "GB38" ;
+    acu:Chinese_Name "陽(阳)輔(辅)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73045e+08 .
+
+<http://example.org/acupuncture/Chinesename/record29> acu:Acupoint_Code "LI18" ;
+    acu:Chinese_Name "扶突" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72775e+08 .
+
+<http://example.org/acupuncture/Chinesename/record290> acu:Acupoint_Code "GB39" ;
+    acu:Chinese_Name "懸(悬)鍾(钟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73046e+08 .
+
+<http://example.org/acupuncture/Chinesename/record291> acu:Acupoint_Code "GB40" ;
+    acu:Chinese_Name "丘(坵)墟(墟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73047e+08 .
+
+<http://example.org/acupuncture/Chinesename/record292> acu:Acupoint_Code "GB41" ;
+    acu:Chinese_Name "足臨(临)泣" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73048e+08 .
+
+<http://example.org/acupuncture/Chinesename/record293> acu:Acupoint_Code "GB42" ;
+    acu:Chinese_Name "地五會(会)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73049e+08 .
+
+<http://example.org/acupuncture/Chinesename/record294> acu:Acupoint_Code "GB43" ;
+    acu:Chinese_Name "俠(侠)谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7305e+08 .
+
+<http://example.org/acupuncture/Chinesename/record295> acu:Acupoint_Code "GB44" ;
+    acu:Chinese_Name "足竅(窍)陰(阴)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73051e+08 .
+
+<http://example.org/acupuncture/Chinesename/record296> acu:Acupoint_Code "LR1" ;
+    acu:Chinese_Name "大敦" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73053e+08 .
+
+<http://example.org/acupuncture/Chinesename/record297> acu:Acupoint_Code "LR2" ;
+    acu:Chinese_Name "行間(间)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73054e+08 .
+
+<http://example.org/acupuncture/Chinesename/record298> acu:Acupoint_Code "LR3" ;
+    acu:Chinese_Name "太衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73055e+08 .
+
+<http://example.org/acupuncture/Chinesename/record299> acu:Acupoint_Code "LR4" ;
+    acu:Chinese_Name "中封" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73056e+08 .
+
+<http://example.org/acupuncture/Chinesename/record3> acu:Acupoint_Code "LU3" ;
+    acu:Chinese_Name "天府" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72748e+08 .
+
+<http://example.org/acupuncture/Chinesename/record30> acu:Acupoint_Code "LI19" ;
+    acu:Chinese_Name "口禾髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72776e+08 .
+
+<http://example.org/acupuncture/Chinesename/record300> acu:Acupoint_Code "LR5" ;
+    acu:Chinese_Name "蠡溝(沟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73057e+08 .
+
+<http://example.org/acupuncture/Chinesename/record301> acu:Acupoint_Code "LR6" ;
+    acu:Chinese_Name "中都(都)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73058e+08 .
+
+<http://example.org/acupuncture/Chinesename/record302> acu:Acupoint_Code "LR7" ;
+    acu:Chinese_Name "膝關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73059e+08 .
+
+<http://example.org/acupuncture/Chinesename/record303> acu:Acupoint_Code "LR8" ;
+    acu:Chinese_Name "曲泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7306e+08 .
+
+<http://example.org/acupuncture/Chinesename/record304> acu:Acupoint_Code "LR9" ;
+    acu:Chinese_Name "陰(阴)包(包)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73061e+08 .
+
+<http://example.org/acupuncture/Chinesename/record305> acu:Acupoint_Code "LR10" ;
+    acu:Chinese_Name "足五里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73062e+08 .
+
+<http://example.org/acupuncture/Chinesename/record306> acu:Acupoint_Code "LR11" ;
+    acu:Chinese_Name "陰(阴)廉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73063e+08 .
+
+<http://example.org/acupuncture/Chinesename/record307> acu:Acupoint_Code "LR12" ;
+    acu:Chinese_Name "急脈(脉)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73064e+08 .
+
+<http://example.org/acupuncture/Chinesename/record308> acu:Acupoint_Code "LR13" ;
+    acu:Chinese_Name "章門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73065e+08 .
+
+<http://example.org/acupuncture/Chinesename/record309> acu:Acupoint_Code "LR14" ;
+    acu:Chinese_Name "期門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73066e+08 .
+
+<http://example.org/acupuncture/Chinesename/record31> acu:Acupoint_Code "LI20" ;
+    acu:Chinese_Name "迎(迎)香" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72777e+08 .
+
+<http://example.org/acupuncture/Chinesename/record310> acu:Acupoint_Code "GV1" ;
+    acu:Chinese_Name "長(长)強" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73068e+08 .
+
+<http://example.org/acupuncture/Chinesename/record311> acu:Acupoint_Code "GV2" ;
+    acu:Chinese_Name "腰兪(俞)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73069e+08 .
+
+<http://example.org/acupuncture/Chinesename/record312> acu:Acupoint_Code "GV3" ;
+    acu:Chinese_Name "腰陽(阳)關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7307e+08 .
+
+<http://example.org/acupuncture/Chinesename/record313> acu:Acupoint_Code "GV4" ;
+    acu:Chinese_Name "命門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73071e+08 .
+
+<http://example.org/acupuncture/Chinesename/record314> acu:Acupoint_Code "GV5" ;
+    acu:Chinese_Name "懸(悬)樞(枢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73072e+08 .
+
+<http://example.org/acupuncture/Chinesename/record315> acu:Acupoint_Code "GV6" ;
+    acu:Chinese_Name "脊中" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73073e+08 .
+
+<http://example.org/acupuncture/Chinesename/record316> acu:Acupoint_Code "GV7" ;
+    acu:Chinese_Name "中樞(枢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73074e+08 .
+
+<http://example.org/acupuncture/Chinesename/record317> acu:Acupoint_Code "GV8" ;
+    acu:Chinese_Name "筋縮(缩)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73075e+08 .
+
+<http://example.org/acupuncture/Chinesename/record318> acu:Acupoint_Code "GV9" ;
+    acu:Chinese_Name "至陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73076e+08 .
+
+<http://example.org/acupuncture/Chinesename/record319> acu:Acupoint_Code "GV10" ;
+    acu:Chinese_Name "靈(灵,霊)臺(台)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73077e+08 .
+
+<http://example.org/acupuncture/Chinesename/record32> acu:Acupoint_Code "ST1" ;
+    acu:Chinese_Name "承泣" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72779e+08 .
+
+<http://example.org/acupuncture/Chinesename/record320> acu:Acupoint_Code "GV11" ;
+    acu:Chinese_Name "神(神)道(道)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73078e+08 .
+
+<http://example.org/acupuncture/Chinesename/record321> acu:Acupoint_Code "GV12" ;
+    acu:Chinese_Name "身柱" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73079e+08 .
+
+<http://example.org/acupuncture/Chinesename/record322> acu:Acupoint_Code "GV13" ;
+    acu:Chinese_Name "陶道(道)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7308e+08 .
+
+<http://example.org/acupuncture/Chinesename/record323> acu:Acupoint_Code "GV14" ;
+    acu:Chinese_Name "大椎" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73081e+08 .
+
+<http://example.org/acupuncture/Chinesename/record324> acu:Acupoint_Code "GV15" ;
+    acu:Chinese_Name "瘂(哑)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73082e+08 .
+
+<http://example.org/acupuncture/Chinesename/record325> acu:Acupoint_Code "GV16" ;
+    acu:Chinese_Name "風(风)府" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73083e+08 .
+
+<http://example.org/acupuncture/Chinesename/record326> acu:Acupoint_Code "GV17" ;
+    acu:Chinese_Name "腦(脑,脳)戶" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73084e+08 .
+
+<http://example.org/acupuncture/Chinesename/record327> acu:Acupoint_Code "GV18" ;
+    acu:Chinese_Name "強間(间)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73085e+08 .
+
+<http://example.org/acupuncture/Chinesename/record328> acu:Acupoint_Code "GV19" ;
+    acu:Chinese_Name "後(后)頂(顶)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73086e+08 .
+
+<http://example.org/acupuncture/Chinesename/record329> acu:Acupoint_Code "GV20" ;
+    acu:Chinese_Name "百會(会)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73087e+08 .
+
+<http://example.org/acupuncture/Chinesename/record33> acu:Acupoint_Code "ST2" ;
+    acu:Chinese_Name "四白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7278e+08 .
+
+<http://example.org/acupuncture/Chinesename/record330> acu:Acupoint_Code "GV21" ;
+    acu:Chinese_Name "前頂(顶)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73088e+08 .
+
+<http://example.org/acupuncture/Chinesename/record331> acu:Acupoint_Code "GV22" ;
+    acu:Chinese_Name "顖(囟)會(会)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73089e+08 .
+
+<http://example.org/acupuncture/Chinesename/record332> acu:Acupoint_Code "GV23" ;
+    acu:Chinese_Name "上星" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7309e+08 .
+
+<http://example.org/acupuncture/Chinesename/record333> acu:Acupoint_Code "GV24" ;
+    acu:Chinese_Name "神(神)庭" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73091e+08 .
+
+<http://example.org/acupuncture/Chinesename/record334> acu:Acupoint_Code "GV25" ;
+    acu:Chinese_Name "素髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73092e+08 .
+
+<http://example.org/acupuncture/Chinesename/record335> acu:Acupoint_Code "GV26" ;
+    acu:Chinese_Name "水溝(沟)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73093e+08 .
+
+<http://example.org/acupuncture/Chinesename/record336> acu:Acupoint_Code "GV27" ;
+    acu:Chinese_Name "兌(兑)端" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73094e+08 .
+
+<http://example.org/acupuncture/Chinesename/record337> acu:Acupoint_Code "GV28" ;
+    acu:Chinese_Name "齦(龈)交" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73095e+08 .
+
+<http://example.org/acupuncture/Chinesename/record338> acu:Acupoint_Code "CV1" ;
+    acu:Chinese_Name "會(会)陰(阴)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73097e+08 .
+
+<http://example.org/acupuncture/Chinesename/record339> acu:Acupoint_Code "CV2" ;
+    acu:Chinese_Name "曲骨(骨)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73098e+08 .
+
+<http://example.org/acupuncture/Chinesename/record34> acu:Acupoint_Code "ST3" ;
+    acu:Chinese_Name "巨髎(髎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72781e+08 .
+
+<http://example.org/acupuncture/Chinesename/record340> acu:Acupoint_Code "CV3" ;
+    acu:Chinese_Name "中極(极)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.731e+08 .
+
+<http://example.org/acupuncture/Chinesename/record341> acu:Acupoint_Code "CV4" ;
+    acu:Chinese_Name "關(关,関)元" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73101e+08 .
+
+<http://example.org/acupuncture/Chinesename/record342> acu:Acupoint_Code "CV5" ;
+    acu:Chinese_Name "石門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73102e+08 .
+
+<http://example.org/acupuncture/Chinesename/record343> acu:Acupoint_Code "CV6" ;
+    acu:Chinese_Name "氣(气,気)海(海)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73103e+08 .
+
+<http://example.org/acupuncture/Chinesename/record344> acu:Acupoint_Code "CV7" ;
+    acu:Chinese_Name "陰(阴)交" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73104e+08 .
+
+<http://example.org/acupuncture/Chinesename/record345> acu:Acupoint_Code "CV8" ;
+    acu:Chinese_Name "神(神)闕(阙)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73105e+08 .
+
+<http://example.org/acupuncture/Chinesename/record346> acu:Acupoint_Code "CV9" ;
+    acu:Chinese_Name "水分" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73106e+08 .
+
+<http://example.org/acupuncture/Chinesename/record347> acu:Acupoint_Code "CV10" ;
+    acu:Chinese_Name "下脘" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73107e+08 .
+
+<http://example.org/acupuncture/Chinesename/record348> acu:Acupoint_Code "CV11" ;
+    acu:Chinese_Name "建里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73108e+08 .
+
+<http://example.org/acupuncture/Chinesename/record349> acu:Acupoint_Code "CV12" ;
+    acu:Chinese_Name "中脘" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73109e+08 .
+
+<http://example.org/acupuncture/Chinesename/record35> acu:Acupoint_Code "ST4" ;
+    acu:Chinese_Name "地倉(仓)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72782e+08 .
+
+<http://example.org/acupuncture/Chinesename/record350> acu:Acupoint_Code "CV13" ;
+    acu:Chinese_Name "上脘" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7311e+08 .
+
+<http://example.org/acupuncture/Chinesename/record351> acu:Acupoint_Code "CV14" ;
+    acu:Chinese_Name "巨闕(阙)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73111e+08 .
+
+<http://example.org/acupuncture/Chinesename/record352> acu:Acupoint_Code "CV15" ;
+    acu:Chinese_Name "鳩(鸠)尾" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73112e+08 .
+
+<http://example.org/acupuncture/Chinesename/record353> acu:Acupoint_Code "CV16" ;
+    acu:Chinese_Name "中庭" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73113e+08 .
+
+<http://example.org/acupuncture/Chinesename/record354> acu:Acupoint_Code "CV17" ;
+    acu:Chinese_Name "膻中" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73114e+08 .
+
+<http://example.org/acupuncture/Chinesename/record355> acu:Acupoint_Code "CV18" ;
+    acu:Chinese_Name "玉堂" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73115e+08 .
+
+<http://example.org/acupuncture/Chinesename/record356> acu:Acupoint_Code "CV19" ;
+    acu:Chinese_Name "紫宮(宫)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73116e+08 .
+
+<http://example.org/acupuncture/Chinesename/record357> acu:Acupoint_Code "CV20" ;
+    acu:Chinese_Name "華(华)蓋(盖)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73117e+08 .
+
+<http://example.org/acupuncture/Chinesename/record358> acu:Acupoint_Code "CV21" ;
+    acu:Chinese_Name "璇璣(玑)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73118e+08 .
+
+<http://example.org/acupuncture/Chinesename/record359> acu:Acupoint_Code "CV22" ;
+    acu:Chinese_Name "天突" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73119e+08 .
+
+<http://example.org/acupuncture/Chinesename/record36> acu:Acupoint_Code "ST5" ;
+    acu:Chinese_Name "大迎(迎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72783e+08 .
+
+<http://example.org/acupuncture/Chinesename/record360> acu:Acupoint_Code "CV23" ;
+    acu:Chinese_Name "廉泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7312e+08 .
+
+<http://example.org/acupuncture/Chinesename/record361> acu:Acupoint_Code "CV24" ;
+    acu:Chinese_Name "承漿(浆)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.73121e+08 .
+
+<http://example.org/acupuncture/Chinesename/record37> acu:Acupoint_Code "ST6" ;
+    acu:Chinese_Name "頰(颊)車(车)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72784e+08 .
+
+<http://example.org/acupuncture/Chinesename/record38> acu:Acupoint_Code "ST7" ;
+    acu:Chinese_Name "下關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72785e+08 .
+
+<http://example.org/acupuncture/Chinesename/record39> acu:Acupoint_Code "ST8" ;
+    acu:Chinese_Name "頭(头)維(维)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72786e+08 .
+
+<http://example.org/acupuncture/Chinesename/record4> acu:Acupoint_Code "LU4" ;
+    acu:Chinese_Name "俠(侠)白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72749e+08 .
+
+<http://example.org/acupuncture/Chinesename/record40> acu:Acupoint_Code "ST9" ;
+    acu:Chinese_Name "人迎(迎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72787e+08 .
+
+<http://example.org/acupuncture/Chinesename/record41> acu:Acupoint_Code "ST10" ;
+    acu:Chinese_Name "水突" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72788e+08 .
+
+<http://example.org/acupuncture/Chinesename/record42> acu:Acupoint_Code "ST11" ;
+    acu:Chinese_Name "氣(气,気)舍(舎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72789e+08 .
+
+<http://example.org/acupuncture/Chinesename/record43> acu:Acupoint_Code "ST12" ;
+    acu:Chinese_Name "缺盆" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7279e+08 .
+
+<http://example.org/acupuncture/Chinesename/record44> acu:Acupoint_Code "ST13" ;
+    acu:Chinese_Name "氣(气,気)戶" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72791e+08 .
+
+<http://example.org/acupuncture/Chinesename/record45> acu:Acupoint_Code "ST14" ;
+    acu:Chinese_Name "庫(库)房" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72792e+08 .
+
+<http://example.org/acupuncture/Chinesename/record46> acu:Acupoint_Code "ST15" ;
+    acu:Chinese_Name "屋翳" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72793e+08 .
+
+<http://example.org/acupuncture/Chinesename/record47> acu:Acupoint_Code "ST16" ;
+    acu:Chinese_Name "膺窗(窓)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72794e+08 .
+
+<http://example.org/acupuncture/Chinesename/record48> acu:Acupoint_Code "ST17" ;
+    acu:Chinese_Name "(乳)中" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72796e+08 .
+
+<http://example.org/acupuncture/Chinesename/record49> acu:Acupoint_Code "ST18" ;
+    acu:Chinese_Name "(乳)根" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72797e+08 .
+
+<http://example.org/acupuncture/Chinesename/record5> acu:Acupoint_Code "LU5" ;
+    acu:Chinese_Name "尺澤(泽,沢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7275e+08 .
+
+<http://example.org/acupuncture/Chinesename/record50> acu:Acupoint_Code "ST19" ;
+    acu:Chinese_Name "不容" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72798e+08 .
+
+<http://example.org/acupuncture/Chinesename/record51> acu:Acupoint_Code "ST20" ;
+    acu:Chinese_Name "承滿(满,満)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72799e+08 .
+
+<http://example.org/acupuncture/Chinesename/record52> acu:Acupoint_Code "ST21" ;
+    acu:Chinese_Name "梁門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.728e+08 .
+
+<http://example.org/acupuncture/Chinesename/record53> acu:Acupoint_Code "ST22" ;
+    acu:Chinese_Name "關(关,関)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72801e+08 .
+
+<http://example.org/acupuncture/Chinesename/record54> acu:Acupoint_Code "ST23" ;
+    acu:Chinese_Name "太乙" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72802e+08 .
+
+<http://example.org/acupuncture/Chinesename/record55> acu:Acupoint_Code "ST24" ;
+    acu:Chinese_Name "滑(滑)肉門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72803e+08 .
+
+<http://example.org/acupuncture/Chinesename/record56> acu:Acupoint_Code "ST25" ;
+    acu:Chinese_Name "天樞(枢)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72804e+08 .
+
+<http://example.org/acupuncture/Chinesename/record57> acu:Acupoint_Code "ST26" ;
+    acu:Chinese_Name "外陵" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72805e+08 .
+
+<http://example.org/acupuncture/Chinesename/record58> acu:Acupoint_Code "ST27" ;
+    acu:Chinese_Name "大巨" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72806e+08 .
+
+<http://example.org/acupuncture/Chinesename/record59> acu:Acupoint_Code "ST28" ;
+    acu:Chinese_Name "水道(道)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72807e+08 .
+
+<http://example.org/acupuncture/Chinesename/record6> acu:Acupoint_Code "LU6" ;
+    acu:Chinese_Name "孔最" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72751e+08 .
+
+<http://example.org/acupuncture/Chinesename/record60> acu:Acupoint_Code "ST29" ;
+    acu:Chinese_Name "歸(归,帰)來(来)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72808e+08 .
+
+<http://example.org/acupuncture/Chinesename/record61> acu:Acupoint_Code "ST30" ;
+    acu:Chinese_Name "氣(气,気)衝(冲)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72809e+08 .
+
+<http://example.org/acupuncture/Chinesename/record62> acu:Acupoint_Code "ST31" ;
+    acu:Chinese_Name "髀(髀)關(关,関)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7281e+08 .
+
+<http://example.org/acupuncture/Chinesename/record63> acu:Acupoint_Code "ST32" ;
+    acu:Chinese_Name "伏兎(兔)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72811e+08 .
+
+<http://example.org/acupuncture/Chinesename/record64> acu:Acupoint_Code "ST33" ;
+    acu:Chinese_Name "陰(阴)市" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72812e+08 .
+
+<http://example.org/acupuncture/Chinesename/record65> acu:Acupoint_Code "ST34" ;
+    acu:Chinese_Name "梁丘" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72813e+08 .
+
+<http://example.org/acupuncture/Chinesename/record66> acu:Acupoint_Code "ST35" ;
+    acu:Chinese_Name "犢(犊)鼻" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72814e+08 .
+
+<http://example.org/acupuncture/Chinesename/record67> acu:Acupoint_Code "ST36" ;
+    acu:Chinese_Name "足三里" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72815e+08 .
+
+<http://example.org/acupuncture/Chinesename/record68> acu:Acupoint_Code "ST37" ;
+    acu:Chinese_Name "上巨虛(虚)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72816e+08 .
+
+<http://example.org/acupuncture/Chinesename/record69> acu:Acupoint_Code "ST38" ;
+    acu:Chinese_Name "條(条)口" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72817e+08 .
+
+<http://example.org/acupuncture/Chinesename/record7> acu:Acupoint_Code "LU7" ;
+    acu:Chinese_Name "列缺" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72752e+08 .
+
+<http://example.org/acupuncture/Chinesename/record70> acu:Acupoint_Code "ST39" ;
+    acu:Chinese_Name "下巨虛(虚)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72818e+08 .
+
+<http://example.org/acupuncture/Chinesename/record71> acu:Acupoint_Code "ST40" ;
+    acu:Chinese_Name "豐(丰,豊)隆(隆)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72819e+08 .
+
+<http://example.org/acupuncture/Chinesename/record72> acu:Acupoint_Code "ST41" ;
+    acu:Chinese_Name "解谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7282e+08 .
+
+<http://example.org/acupuncture/Chinesename/record73> acu:Acupoint_Code "ST42" ;
+    acu:Chinese_Name "衝(冲)陽(阳)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72821e+08 .
+
+<http://example.org/acupuncture/Chinesename/record74> acu:Acupoint_Code "ST43" ;
+    acu:Chinese_Name "陷(陥)谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72822e+08 .
+
+<http://example.org/acupuncture/Chinesename/record75> acu:Acupoint_Code "ST44" ;
+    acu:Chinese_Name "内庭" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72823e+08 .
+
+<http://example.org/acupuncture/Chinesename/record76> acu:Acupoint_Code "ST45" ;
+    acu:Chinese_Name "厲(厉)兌(兑)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72824e+08 .
+
+<http://example.org/acupuncture/Chinesename/record77> acu:Acupoint_Code "SP1" ;
+    acu:Chinese_Name "隱(隐,隠)白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72826e+08 .
+
+<http://example.org/acupuncture/Chinesename/record78> acu:Acupoint_Code "SP2" ;
+    acu:Chinese_Name "大都(都)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72827e+08 .
+
+<http://example.org/acupuncture/Chinesename/record79> acu:Acupoint_Code "SP3" ;
+    acu:Chinese_Name "太白" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72828e+08 .
+
+<http://example.org/acupuncture/Chinesename/record8> acu:Acupoint_Code "LU8" ;
+    acu:Chinese_Name "經(经,経)渠" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72753e+08 .
+
+<http://example.org/acupuncture/Chinesename/record80> acu:Acupoint_Code "SP4" ;
+    acu:Chinese_Name "公孫(孙)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72829e+08 .
+
+<http://example.org/acupuncture/Chinesename/record81> acu:Acupoint_Code "SP5" ;
+    acu:Chinese_Name "商丘" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7283e+08 .
+
+<http://example.org/acupuncture/Chinesename/record82> acu:Acupoint_Code "SP6" ;
+    acu:Chinese_Name "三陰(阴)交" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72831e+08 .
+
+<http://example.org/acupuncture/Chinesename/record83> acu:Acupoint_Code "SP7" ;
+    acu:Chinese_Name "漏谷" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72832e+08 .
+
+<http://example.org/acupuncture/Chinesename/record84> acu:Acupoint_Code "SP8" ;
+    acu:Chinese_Name "地機(机)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72833e+08 .
+
+<http://example.org/acupuncture/Chinesename/record85> acu:Acupoint_Code "SP9" ;
+    acu:Chinese_Name "陰(阴)陵泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72834e+08 .
+
+<http://example.org/acupuncture/Chinesename/record86> acu:Acupoint_Code "SP10" ;
+    acu:Chinese_Name "血海(海)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72835e+08 .
+
+<http://example.org/acupuncture/Chinesename/record87> acu:Acupoint_Code "SP11" ;
+    acu:Chinese_Name "箕門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72836e+08 .
+
+<http://example.org/acupuncture/Chinesename/record88> acu:Acupoint_Code "SP12" ;
+    acu:Chinese_Name "衝(冲)門(门)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72837e+08 .
+
+<http://example.org/acupuncture/Chinesename/record89> acu:Acupoint_Code "SP13" ;
+    acu:Chinese_Name "府舍(舎)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72838e+08 .
+
+<http://example.org/acupuncture/Chinesename/record9> acu:Acupoint_Code "LU9" ;
+    acu:Chinese_Name "太淵(渊)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72754e+08 .
+
+<http://example.org/acupuncture/Chinesename/record90> acu:Acupoint_Code "SP14" ;
+    acu:Chinese_Name "腹結(结)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72839e+08 .
+
+<http://example.org/acupuncture/Chinesename/record91> acu:Acupoint_Code "SP15" ;
+    acu:Chinese_Name "大橫" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.7284e+08 .
+
+<http://example.org/acupuncture/Chinesename/record92> acu:Acupoint_Code "SP16" ;
+    acu:Chinese_Name "腹哀" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72841e+08 .
+
+<http://example.org/acupuncture/Chinesename/record93> acu:Acupoint_Code "SP17" ;
+    acu:Chinese_Name "食竇(窦)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72842e+08 .
+
+<http://example.org/acupuncture/Chinesename/record94> acu:Acupoint_Code "SP18" ;
+    acu:Chinese_Name "天谿(溪)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72843e+08 .
+
+<http://example.org/acupuncture/Chinesename/record95> acu:Acupoint_Code "SP19" ;
+    acu:Chinese_Name "胸鄉(乡,郷)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72844e+08 .
+
+<http://example.org/acupuncture/Chinesename/record96> acu:Acupoint_Code "SP20" ;
+    acu:Chinese_Name "周榮(荣,栄)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72845e+08 .
+
+<http://example.org/acupuncture/Chinesename/record97> acu:Acupoint_Code "SP21" ;
+    acu:Chinese_Name "大包(包)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72846e+08 .
+
+<http://example.org/acupuncture/Chinesename/record98> acu:Acupoint_Code "HT1" ;
+    acu:Chinese_Name "極(极)泉" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72848e+08 .
+
+<http://example.org/acupuncture/Chinesename/record99> acu:Acupoint_Code "HT2" ;
+    acu:Chinese_Name "靑(青)靈(灵,霊)" ;
+    acu:Relation "haschinesename" ;
+    acu:SNOMED_code 2.72849e+08 .
+

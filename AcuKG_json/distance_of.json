@@ -1,0 +1,302 @@
+{"Acupoint_Code":"BL1","Relation":"0.1 B-cun","Anatomy":"eye","UBERON_code":"UBERON_0000970","SNOMED_CT_code":81745001.0}
+{"Acupoint_Code":"BL3","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL4","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL4","Relation":"1.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL5","Relation":"1 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL5","Relation":"1.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL5","Relation":"0.5 B-cun","Anatomy":"BL4","UBERON_code":null,"SNOMED_CT_code":272881001.0}
+{"Acupoint_Code":"BL6","Relation":"2.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL6","Relation":"1.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL6","Relation":"1.5 B-cun","Anatomy":"BL5","UBERON_code":null,"SNOMED_CT_code":272882008.0}
+{"Acupoint_Code":"BL6","Relation":"2 B-cun","Anatomy":"BL4","UBERON_code":null,"SNOMED_CT_code":272881001.0}
+{"Acupoint_Code":"BL7","Relation":"4 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL7","Relation":"1.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL8","Relation":"1.5 B-cun","Anatomy":"gV20","UBERON_code":null,"SNOMED_CT_code":273087007.0}
+{"Acupoint_Code":"BL8","Relation":"0.5 B-cun","Anatomy":"gV20","UBERON_code":null,"SNOMED_CT_code":273087007.0}
+{"Acupoint_Code":"BL8","Relation":"1.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL8","Relation":"5.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL9","Relation":"1.3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL11","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL12","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL13","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL14","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL15","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL16","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL17","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL18","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL19","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL20","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL21","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL22","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL23","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL24","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL25","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL26","Relation":"1.5 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL27","Relation":"1.5 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL28","Relation":"1.5 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL29","Relation":"1.5 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL30","Relation":"1.5 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL30","Relation":"1.5 B-cun","Anatomy":"sacral hiatus","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL35","Relation":"0.5 B-cun","Anatomy":"coccyx","UBERON_code":"UBERON_0001350","SNOMED_CT_code":64688005.0}
+{"Acupoint_Code":"BL37","Relation":"6 B-cun","Anatomy":"gluteal fold","UBERON_code":null,"SNOMED_CT_code":89508007.0}
+{"Acupoint_Code":"BL38","Relation":"1 B-cun","Anatomy":"popliteal crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL38","Relation":"1 B-cun","Anatomy":"BL39","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL41","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL42","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL43","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL44","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL45","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL46","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL47","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL48","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL49","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL50","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL51","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL52","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL53","Relation":"3 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL54","Relation":"3 B-cun","Anatomy":"sacral hiatus","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL54","Relation":"3 B-cun","Anatomy":"median sacral crest","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL55","Relation":"2 B-cun","Anatomy":"popliteal crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL55","Relation":"2 B-cun","Anatomy":"BL40","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL56","Relation":"5 B-cun","Anatomy":"popliteal crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"BL58","Relation":"1 B-cun","Anatomy":"BL57","UBERON_code":null,"SNOMED_CT_code":272935002.0}
+{"Acupoint_Code":"BL59","Relation":"3 B-cun","Anatomy":"BL60","UBERON_code":null,"SNOMED_CT_code":272939008.0}
+{"Acupoint_Code":"BL67","Relation":"0.1 f-cun","Anatomy":"toenail","UBERON_code":null,"SNOMED_CT_code":76578001.0}
+{"Acupoint_Code":"CV3","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV4","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV5","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV6","Relation":"1.5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV7","Relation":"1 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV9","Relation":"1 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV10","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV11","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV12","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV13","Relation":"5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV14","Relation":"6 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"CV15","Relation":"1 B-cun","Anatomy":"xiphisternal junction","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"CV21","Relation":"1 B-cun","Anatomy":"suprasternal fossa","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"CV21","Relation":"1 B-cun","Anatomy":"CV22","UBERON_code":null,"SNOMED_CT_code":273119003.0}
+{"Acupoint_Code":"GB1","Relation":"0.5 B-cun","Anatomy":"eye","UBERON_code":"UBERON_0000970","SNOMED_CT_code":81745001.0}
+{"Acupoint_Code":"GB8","Relation":"1.5 B-cun","Anatomy":"temporal hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB8","Relation":"1.5 B-cun","Anatomy":"hairline","UBERON_code":"UBERON_0004104","SNOMED_CT_code":null}
+{"Acupoint_Code":"GB9","Relation":"0.5 B-cun","Anatomy":"GB8","UBERON_code":null,"SNOMED_CT_code":273016008.0}
+{"Acupoint_Code":"GB9","Relation":"2 B-cun","Anatomy":"hairline","UBERON_code":"UBERON_0004104","SNOMED_CT_code":null}
+{"Acupoint_Code":"GB10","Relation":"1 B-cun","Anatomy":"hairline","UBERON_code":"UBERON_0004104","SNOMED_CT_code":null}
+{"Acupoint_Code":"GB13","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB13","Relation":"3 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB14","Relation":"1 B-cun","Anatomy":"eyebrow","UBERON_code":"UBERON_0010163","SNOMED_CT_code":84238004.0}
+{"Acupoint_Code":"GB15","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB16","Relation":"1.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB16","Relation":"1 B-cun","Anatomy":"GB15","UBERON_code":null,"SNOMED_CT_code":273022004.0}
+{"Acupoint_Code":"GB17","Relation":"2.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB17","Relation":"2 B-cun","Anatomy":"GB15","UBERON_code":null,"SNOMED_CT_code":273022004.0}
+{"Acupoint_Code":"GB18","Relation":"4 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB18","Relation":"1.5 B-cun","Anatomy":"gB17","UBERON_code":null,"SNOMED_CT_code":273024003.0}
+{"Acupoint_Code":"GB23","Relation":"1 B-cun","Anatomy":"midaxillary line","UBERON_code":null,"SNOMED_CT_code":260515002.0}
+{"Acupoint_Code":"GB24","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB24","Relation":"one rib","Anatomy":"Lr14","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB27","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"GB27","Relation":"3 B-cun","Anatomy":"GB26","UBERON_code":null,"SNOMED_CT_code":273033001.0}
+{"Acupoint_Code":"GB28","Relation":"0.5 B-cun","Anatomy":"anterior superior iliac spine","UBERON_code":"UBERON_0013708","SNOMED_CT_code":39583001.0}
+{"Acupoint_Code":"GB28","Relation":"0.5 B-cun","Anatomy":"gB27","UBERON_code":null,"SNOMED_CT_code":273034007.0}
+{"Acupoint_Code":"GB30","Relation":"lateral one third","Anatomy":"greater trochanter","UBERON_code":"UBERON_0002503","SNOMED_CT_code":30547004.0}
+{"Acupoint_Code":"GB30","Relation":"medial two thirds","Anatomy":"greater trochanter","UBERON_code":"UBERON_0002503","SNOMED_CT_code":30547004.0}
+{"Acupoint_Code":"GB32","Relation":"7 B-cun","Anatomy":"popliteal crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GB35","Relation":"7 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"GB36","Relation":"7 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"GB37","Relation":"5 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"GB38","Relation":"4 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"GB39","Relation":"3 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"GB44","Relation":"0.1 f-cun","Anatomy":"toenail","UBERON_code":null,"SNOMED_CT_code":76578001.0}
+{"Acupoint_Code":"GV15","Relation":"0.5 B-cun","Anatomy":"GV16","UBERON_code":null,"SNOMED_CT_code":273083006.0}
+{"Acupoint_Code":"GV16","Relation":"between","Anatomy":"trapezius muscles","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV18","Relation":"4 B-cun","Anatomy":"posterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV18","Relation":"1.5 B-cun","Anatomy":"gV17","UBERON_code":null,"SNOMED_CT_code":273084000.0}
+{"Acupoint_Code":"GV19","Relation":"5.5 B-cun","Anatomy":"posterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV19","Relation":"1.5 B-cun","Anatomy":"gV20","UBERON_code":null,"SNOMED_CT_code":273087007.0}
+{"Acupoint_Code":"GV20","Relation":"5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV21","Relation":"3.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV22","Relation":"2 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV23","Relation":"1 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV24","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV26","Relation":"upper one third","Anatomy":"philtrum midline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"GV26","Relation":"lower two thirds","Anatomy":"philtrum midline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT2","Relation":"3 B-cun","Anatomy":"cubital crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT4","Relation":"1.5 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT4","Relation":"1.5 B-cun","Anatomy":"HT7","UBERON_code":null,"SNOMED_CT_code":272854001.0}
+{"Acupoint_Code":"HT4","Relation":"1.5 B-cun","Anatomy":"pisiform bone","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT5","Relation":"1 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT5","Relation":"1 B-cun","Anatomy":"HT7","UBERON_code":null,"SNOMED_CT_code":272854001.0}
+{"Acupoint_Code":"HT5","Relation":"1 B-cun","Anatomy":"pisiform bone","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT6","Relation":"0.5 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT6","Relation":"0.5 B-cun","Anatomy":"HT7","UBERON_code":null,"SNOMED_CT_code":272854001.0}
+{"Acupoint_Code":"HT6","Relation":"0.5 B-cun","Anatomy":"pisiform bone","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"HT9","Relation":"0.1 f-cun","Anatomy":"little fingernail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI5","Relation":"1 B-cun","Anatomy":"KI3","UBERON_code":null,"SNOMED_CT_code":272948003.0}
+{"Acupoint_Code":"KI6","Relation":"1 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"KI7","Relation":"2 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"KI8","Relation":"2 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"KI8","Relation":"0.5 B-cun","Anatomy":"KI7","UBERON_code":null,"SNOMED_CT_code":272952003.0}
+{"Acupoint_Code":"KI9","Relation":"5 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"KI11","Relation":"5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI11","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI12","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI12","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI13","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI13","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI14","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI14","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI15","Relation":"1 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI15","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI16","Relation":"0.5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI17","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI17","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI18","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI18","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI19","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI19","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI20","Relation":"5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI20","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI21","Relation":"6 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"KI21","Relation":"0.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI22","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI23","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI24","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI25","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI26","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"KI27","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI1","Relation":"0.1 f-cun","Anatomy":"index fingernail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI6","Relation":"3 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI7","Relation":"5 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI8","Relation":"4 B-cun","Anatomy":"cubital crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI8","Relation":"1 B-cun","Anatomy":"LI9","UBERON_code":null,"SNOMED_CT_code":272766004.0}
+{"Acupoint_Code":"LI9","Relation":"3 B-cun","Anatomy":"cubital crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI10","Relation":"2 B-cun","Anatomy":"cubital crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI13","Relation":"3 B-cun","Anatomy":"cubital crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI14","Relation":"7 B-cun","Anatomy":"LI11","UBERON_code":null,"SNOMED_CT_code":272768003.0}
+{"Acupoint_Code":"LI19","Relation":"0.5 B-cun","Anatomy":"GV 26","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LI19","Relation":"upper one third","Anatomy":"philtrum","UBERON_code":"UBERON_0005402","SNOMED_CT_code":32087006.0}
+{"Acupoint_Code":"LI19","Relation":"lower two thirds","Anatomy":"philtrum","UBERON_code":"UBERON_0005402","SNOMED_CT_code":32087006.0}
+{"Acupoint_Code":"LR1","Relation":"0.1 f-cun","Anatomy":"toenail","UBERON_code":null,"SNOMED_CT_code":76578001.0}
+{"Acupoint_Code":"LR5","Relation":"5 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"LR6","Relation":"7 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"LR7","Relation":"1 B-cun","Anatomy":"SP9","UBERON_code":null,"SNOMED_CT_code":272834002.0}
+{"Acupoint_Code":"LR9","Relation":"4 B-cun","Anatomy":"patella","UBERON_code":"UBERON_0002446","SNOMED_CT_code":64234005.0}
+{"Acupoint_Code":"LR10","Relation":"3 B-cun","Anatomy":"St30","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LR11","Relation":"2 B-cun","Anatomy":"St30","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LR12","Relation":"2.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LR14","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LR14","Relation":"2 B-cun","Anatomy":"St19","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU1","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU1","Relation":"1 B-cun","Anatomy":"LU2","UBERON_code":null,"SNOMED_CT_code":272747004.0}
+{"Acupoint_Code":"LU2","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU3","Relation":"3 B-cun","Anatomy":"anterior axillary fold","UBERON_code":null,"SNOMED_CT_code":52239003.0}
+{"Acupoint_Code":"LU4","Relation":"4 B-cun","Anatomy":"anterior axillary fold","UBERON_code":null,"SNOMED_CT_code":52239003.0}
+{"Acupoint_Code":"LU6","Relation":"7 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU6","Relation":"5 B-cun","Anatomy":"LU5","UBERON_code":null,"SNOMED_CT_code":272750001.0}
+{"Acupoint_Code":"LU7","Relation":"1.5 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU8","Relation":"1 B-cun","Anatomy":"LU9","UBERON_code":null,"SNOMED_CT_code":272754005.0}
+{"Acupoint_Code":"LU8","Relation":"1 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"LU11","Relation":"0.1 f-cun","Anatomy":"thumb nail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"PC1","Relation":"5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"PC2","Relation":"2 B-cun","Anatomy":"anterior axillary fold","UBERON_code":null,"SNOMED_CT_code":52239003.0}
+{"Acupoint_Code":"PC4","Relation":"5 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"PC5","Relation":"3 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"PC5","Relation":"3 B-cun","Anatomy":"PC7","UBERON_code":null,"SNOMED_CT_code":272980001.0}
+{"Acupoint_Code":"PC6","Relation":"2 B-cun","Anatomy":"palmar wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"PC6","Relation":"2 B-cun","Anatomy":"PC7","UBERON_code":null,"SNOMED_CT_code":272980001.0}
+{"Acupoint_Code":"PC9","Relation":"0.1 F-cun","Anatomy":"middle fingernail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SI1","Relation":"0.1 f-cun","Anatomy":"little fingernail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SI6","Relation":"1 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SI7","Relation":"5 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SI9","Relation":"1 B-cun","Anatomy":"posterior axillary fold","UBERON_code":null,"SNOMED_CT_code":55665000.0}
+{"Acupoint_Code":"SI14","Relation":"3 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SI15","Relation":"2 B-cun","Anatomy":"posterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP1","Relation":"0.1 f-cun","Anatomy":"toenail","UBERON_code":null,"SNOMED_CT_code":76578001.0}
+{"Acupoint_Code":"SP6","Relation":"3 B-cun","Anatomy":"medial malleolus","UBERON_code":null,"SNOMED_CT_code":6417001.0}
+{"Acupoint_Code":"SP6","Relation":"1 B-cun","Anatomy":"KI8","UBERON_code":null,"SNOMED_CT_code":272953008.0}
+{"Acupoint_Code":"SP7","Relation":"3 B-cun","Anatomy":"SP6","UBERON_code":null,"SNOMED_CT_code":272831005.0}
+{"Acupoint_Code":"SP8","Relation":"3 B-cun","Anatomy":"SP9","UBERON_code":null,"SNOMED_CT_code":272834002.0}
+{"Acupoint_Code":"SP10","Relation":"2 B-cun","Anatomy":"patella","UBERON_code":"UBERON_0002446","SNOMED_CT_code":64234005.0}
+{"Acupoint_Code":"SP13","Relation":"4.3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"SP13","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP14","Relation":"1.3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"SP14","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP15","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"SP16","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"SP16","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP16","Relation":"3 B-cun","Anatomy":"SP15","UBERON_code":null,"SNOMED_CT_code":272840009.0}
+{"Acupoint_Code":"SP17","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP18","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP19","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"SP20","Relation":"6 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST4","Relation":"0.4 f-cun","Anatomy":"mouth","UBERON_code":"UBERON_0000165","SNOMED_CT_code":21082005.0}
+{"Acupoint_Code":"ST6","Relation":"one fingerbreadth","Anatomy":"mandible","UBERON_code":"UBERON_0001684","SNOMED_CT_code":91609006.0}
+{"Acupoint_Code":"ST8","Relation":"0.5 B-cun","Anatomy":"anterior hairline","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST8","Relation":"4.5 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST12","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST13","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST14","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST15","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST16","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST18","Relation":"4 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST19","Relation":"6 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST19","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST19","Relation":"2 B-cun","Anatomy":"CV14","UBERON_code":null,"SNOMED_CT_code":273111000.0}
+{"Acupoint_Code":"ST20","Relation":"5 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST20","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST20","Relation":"5 B-cun","Anatomy":"ST25","UBERON_code":null,"SNOMED_CT_code":272804007.0}
+{"Acupoint_Code":"ST20","Relation":"1 B-cun","Anatomy":"St19","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST20","Relation":"2 B-cun","Anatomy":"CV13","UBERON_code":null,"SNOMED_CT_code":273110004.0}
+{"Acupoint_Code":"ST21","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST21","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST21","Relation":"4 B-cun","Anatomy":"ST25","UBERON_code":null,"SNOMED_CT_code":272804007.0}
+{"Acupoint_Code":"ST21","Relation":"1 B-cun","Anatomy":"St20","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST21","Relation":"2 B-cun","Anatomy":"CV12","UBERON_code":null,"SNOMED_CT_code":273109009.0}
+{"Acupoint_Code":"ST22","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST22","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST23","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST23","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST24","Relation":"1 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST24","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST25","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST26","Relation":"1 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST26","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST27","Relation":"2 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST27","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST28","Relation":"3 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST28","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST28","Relation":"3 B-cun","Anatomy":"ST25","UBERON_code":null,"SNOMED_CT_code":272804007.0}
+{"Acupoint_Code":"ST28","Relation":"1 B-cun","Anatomy":"St27","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST28","Relation":"2 B-cun","Anatomy":"CV4","UBERON_code":null,"SNOMED_CT_code":273101007.0}
+{"Acupoint_Code":"ST29","Relation":"4 B-cun","Anatomy":"umbilicus","UBERON_code":"UBERON_0007118","SNOMED_CT_code":78220002.0}
+{"Acupoint_Code":"ST29","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST29","Relation":"4 B-cun","Anatomy":"ST25","UBERON_code":null,"SNOMED_CT_code":272804007.0}
+{"Acupoint_Code":"ST29","Relation":"1 B-cun","Anatomy":"St28","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST29","Relation":"2 B-cun","Anatomy":"CV3","UBERON_code":null,"SNOMED_CT_code":273100008.0}
+{"Acupoint_Code":"ST30","Relation":"2 B-cun","Anatomy":"anterior median line","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST30","Relation":"B-cun","Anatomy":"ST25","UBERON_code":null,"SNOMED_CT_code":272804007.0}
+{"Acupoint_Code":"ST30","Relation":"2 B-cun","Anatomy":"CV2","UBERON_code":null,"SNOMED_CT_code":273098008.0}
+{"Acupoint_Code":"ST32","Relation":"6 B-cun","Anatomy":"patella","UBERON_code":"UBERON_0002446","SNOMED_CT_code":64234005.0}
+{"Acupoint_Code":"ST33","Relation":"3 B-cun","Anatomy":"patella","UBERON_code":"UBERON_0002446","SNOMED_CT_code":64234005.0}
+{"Acupoint_Code":"ST34","Relation":"2 B-cun","Anatomy":"patella","UBERON_code":"UBERON_0002446","SNOMED_CT_code":64234005.0}
+{"Acupoint_Code":"ST34","Relation":"1 B-cun","Anatomy":"St33","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"ST36","Relation":"3 B-cun","Anatomy":"ST35","UBERON_code":null,"SNOMED_CT_code":272814003.0}
+{"Acupoint_Code":"ST37","Relation":"6 B-cun","Anatomy":"ST35","UBERON_code":null,"SNOMED_CT_code":272814003.0}
+{"Acupoint_Code":"ST38","Relation":"8 B-cun","Anatomy":"ST35","UBERON_code":null,"SNOMED_CT_code":272814003.0}
+{"Acupoint_Code":"ST39","Relation":"9 B-cun","Anatomy":"ST35","UBERON_code":null,"SNOMED_CT_code":272814003.0}
+{"Acupoint_Code":"ST40","Relation":"8 B-cun","Anatomy":"lateral malleolus","UBERON_code":null,"SNOMED_CT_code":113225006.0}
+{"Acupoint_Code":"ST40","Relation":"one fingerbreadth","Anatomy":"ST38","UBERON_code":null,"SNOMED_CT_code":272817005.0}
+{"Acupoint_Code":"ST45","Relation":"0.1 f-cun","Anatomy":"second toenail","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"TE1","Relation":"0.1 f-cun","Anatomy":"fingernail","UBERON_code":null,"SNOMED_CT_code":91456000.0}
+{"Acupoint_Code":"TE5","Relation":"2 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"TE5","Relation":"2 B-cun","Anatomy":"TE4","UBERON_code":null,"SNOMED_CT_code":272987003.0}
+{"Acupoint_Code":"TE6","Relation":"3 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"TE6","Relation":"1 B-cun","Anatomy":"TE5","UBERON_code":null,"SNOMED_CT_code":272988008.0}
+{"Acupoint_Code":"TE7","Relation":"3 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"TE8","Relation":"4 B-cun","Anatomy":"dorsal wrist crease","UBERON_code":null,"SNOMED_CT_code":null}
+{"Acupoint_Code":"TE9","Relation":"5 B-cun","Anatomy":"olecranon","UBERON_code":"UBERON_0006810","SNOMED_CT_code":37888007.0}
+{"Acupoint_Code":"TE10","Relation":"1 B-cun","Anatomy":"olecranon","UBERON_code":"UBERON_0006810","SNOMED_CT_code":37888007.0}
+{"Acupoint_Code":"TE11","Relation":"2 B-cun","Anatomy":"olecranon","UBERON_code":"UBERON_0006810","SNOMED_CT_code":37888007.0}
+{"Acupoint_Code":"TE12","Relation":"5 B-cun","Anatomy":"olecranon","UBERON_code":"UBERON_0006810","SNOMED_CT_code":37888007.0}
+{"Acupoint_Code":"TE13","Relation":"3 B-cun","Anatomy":"acromial angle","UBERON_code":null,"SNOMED_CT_code":null}

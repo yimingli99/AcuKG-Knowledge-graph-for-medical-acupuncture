@@ -1,0 +1,2362 @@
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LU2","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"LU3","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU3","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LU3","Relation":"treats","Indication":"Medial Aspect Of Upper Arm Pain"}
+{"Acupoint_Code":"LU4","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU4","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"LU4","Relation":"treats","Indication":"Medial Aspect Of Upper Arm Pain"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Afternoon Fever"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Arm Spasmodic Pain"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Elbow Spasmodic Pain"}
+{"Acupoint_Code":"LU5","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Arm Spasmodic Pain"}
+{"Acupoint_Code":"LU6","Relation":"treats","Indication":"Elbow Spasmodic Pain"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Persistent Cough"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Wrist Weakness"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Cerebral Circulation Insufficiency"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Memory Loss"}
+{"Acupoint_Code":"LU7","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU8","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LU9","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Voice Loss"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"LU10","Relation":"treats","Indication":"Feverish Sensation On Palm"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"LU11","Relation":"treats","Indication":"Thumb Spasmodic Pain"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Submandibular Region Swelling"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Finger Numbness"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Febrile Diseases With Anhidrosis"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Xerostomia"}
+{"Acupoint_Code":"LI1","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Blurred Vision"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Decreased Saliva"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Dry Mouth"}
+{"Acupoint_Code":"LI2","Relation":"treats","Indication":"Xerostomia"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Finger Redness"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Finger Swelling"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Dorsum Of Hand Redness"}
+{"Acupoint_Code":"LI3","Relation":"treats","Indication":"Dorsum Of Hand Swelling"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"LI4","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI5","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Handache"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI6","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI7","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI8","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LI8","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"LI8","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI8","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"LI8","Relation":"treats","Indication":"Upper Limb Motor Impairment"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Upper Limb Motor Impairment"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Arm Numbness"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Hand Numbness"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"LI9","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Upper Limb Motor Impairment"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"LI10","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Urticaria"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Upper Extremity Motor Impairment"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"LI11","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"LI12","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"LI12","Relation":"treats","Indication":"Arm Contracture"}
+{"Acupoint_Code":"LI12","Relation":"treats","Indication":"Elbow Contracture"}
+{"Acupoint_Code":"LI12","Relation":"treats","Indication":"Arm Numbness"}
+{"Acupoint_Code":"LI12","Relation":"treats","Indication":"Elbow Numbness"}
+{"Acupoint_Code":"LI13","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI13","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"LI13","Relation":"treats","Indication":"Arm Contracture"}
+{"Acupoint_Code":"LI13","Relation":"treats","Indication":"Elbow Contracture"}
+{"Acupoint_Code":"LI13","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI14","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI14","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI14","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"LI14","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI15","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI15","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"LI15","Relation":"treats","Indication":"Motor Impairment Of Upper Extremity"}
+{"Acupoint_Code":"LI15","Relation":"treats","Indication":"Rubella"}
+{"Acupoint_Code":"LI15","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI16","Relation":"treats","Indication":"Upper Extremity Motor Impairment"}
+{"Acupoint_Code":"LI16","Relation":"treats","Indication":"Upper Extremity Pain"}
+{"Acupoint_Code":"LI16","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"LI16","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LI17","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"LI17","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI17","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI17","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"LI18","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"LI19","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"LI19","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LI19","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Hyposmia"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"LI20","Relation":"treats","Indication":"Face Itching"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Night Blindness"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"ST1","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Eye Itching"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"ST2","Relation":"treats","Indication":"Face Pain"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"ST3","Relation":"treats","Indication":"Lip Swelling"}
+{"Acupoint_Code":"ST4","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"ST4","Relation":"treats","Indication":"Salivation"}
+{"Acupoint_Code":"ST4","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"ST5","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST5","Relation":"treats","Indication":"Trismus"}
+{"Acupoint_Code":"ST5","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"ST5","Relation":"treats","Indication":"Face Pain"}
+{"Acupoint_Code":"ST5","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Mumps"}
+{"Acupoint_Code":"ST6","Relation":"treats","Indication":"Trismus"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Otorrhea"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Face Pain"}
+{"Acupoint_Code":"ST7","Relation":"treats","Indication":"Jaw Motor Impairment"}
+{"Acupoint_Code":"ST8","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"ST8","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"ST8","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"ST8","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"ST9","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST9","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST9","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"ST9","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"ST9","Relation":"treats","Indication":"Face Flush"}
+{"Acupoint_Code":"ST10","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST10","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST10","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"ST11","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"ST12","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST12","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST12","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST12","Relation":"treats","Indication":"Supraclavicular Fossa Pain"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Hypochrondrium Pain"}
+{"Acupoint_Code":"ST13","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST14","Relation":"treats","Indication":"Fullness Sensation"}
+{"Acupoint_Code":"ST14","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST14","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Costal Pain"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Costal Fullness"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST15","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Hypochrondrium Pain"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Hypochrondrium Fullness"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST16","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST18","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST18","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST18","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST18","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST18","Relation":"treats","Indication":"Insufficient Lactation"}
+{"Acupoint_Code":"ST19","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST19","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"ST19","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST19","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"ST20","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST20","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST20","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"ST20","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"ST21","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST21","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"ST21","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"ST21","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST21","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST22","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"ST23","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST23","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"ST23","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"ST23","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"ST24","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST24","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"ST24","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Umbilical Pain"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"ST25","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"ST26","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST26","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"ST26","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"ST27","Relation":"treats","Indication":"Lower Abdominal Distensiodysuria"}
+{"Acupoint_Code":"ST27","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"ST27","Relation":"treats","Indication":"Seminal Emission"}
+{"Acupoint_Code":"ST27","Relation":"treats","Indication":"Premature Ejaculation"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Lower Abdominal Distension"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"ST28","Relation":"treats","Indication":"Sterility"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"ST29","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"External Genitalia Pain"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"External Genitalia Swelling"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"ST30","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"ST31","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"ST31","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"ST31","Relation":"treats","Indication":"Motor Impairment"}
+{"Acupoint_Code":"ST31","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"ST31","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Iliac Region Pain"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Knee Coldness"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Paralysis"}
+{"Acupoint_Code":"ST32","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Leg Numbness"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Leg Soreness"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Knee Numbness"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Knee Soreness"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Knee Motor Impairment"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Leg Motor Impairment"}
+{"Acupoint_Code":"ST33","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"ST34","Relation":"treats","Indication":"Knee Numbness"}
+{"Acupoint_Code":"ST34","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"ST34","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST34","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST34","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"ST35","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"ST35","Relation":"treats","Indication":"Knee Motor Impairment"}
+{"Acupoint_Code":"ST35","Relation":"treats","Indication":"Knee Numbness"}
+{"Acupoint_Code":"ST35","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Enteritiris"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Leg Pain"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Knee Joint Pain"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Emaciation Due To General Deficiency"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"ST36","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Enteritiris"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Paralysis Due To Stroke"}
+{"Acupoint_Code":"ST37","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Knee Numbness"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Leg Numbness"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Leg Pain"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Leg Soreness"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Knee Soreness"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Shoulder Motor Impairment"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Shoulder Weakness"}
+{"Acupoint_Code":"ST38","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST39","Relation":"treats","Indication":"Lower Abdominal Pain"}
+{"Acupoint_Code":"ST39","Relation":"treats","Indication":"Backache Refer To Testis"}
+{"Acupoint_Code":"ST39","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"ST39","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"ST39","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Excessive Sputum"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"ST40","Relation":"treats","Indication":"Low Extremity Swelling"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Ankle Joint Pain"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST41","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Upper Teeth Pain"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Dorsum Of Foot Redness"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Dorsum Of Foot Swelling"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Foot Motor Impairment"}
+{"Acupoint_Code":"ST42","Relation":"treats","Indication":"Foot Muscular Atrophy"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"General Edema"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"Face Edema"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"Dorsum Of Foot Swelling"}
+{"Acupoint_Code":"ST43","Relation":"treats","Indication":"Dorsum Of Foot Pain"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Face Pain"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Dorsum Of Foot Swelling"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Dorsum Of Foot Pain"}
+{"Acupoint_Code":"ST44","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Hoarse Voice"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Foot Coldness"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Leg Coldness"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Dream-Disturbed Sleep"}
+{"Acupoint_Code":"ST45","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Bloody Stool"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Menorrhagia"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Dream-Disturbed Sleep"}
+{"Acupoint_Code":"SP1","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"SP2","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP2","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"SP2","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP2","Relation":"treats","Indication":"Febrile Diseases With Anhidrosis"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Sluggishness"}
+{"Acupoint_Code":"SP3","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"SP4","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Tongue Pain"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Ankle Pain"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Foot Pain"}
+{"Acupoint_Code":"SP5","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Premenstrual Syndrome"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Female Problem"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Sterility"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Delayed Labor"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Genital Pain"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"SP6","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Knee Coldness"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Leg Coldness"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Leg Paralysis"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Knee Paralysis"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Leg Numbness"}
+{"Acupoint_Code":"SP7","Relation":"treats","Indication":"Knee Numbness"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"SP8","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Urine Incontinence"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Genital Pain"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"SP9","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Urticaria"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Eczema"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Erysipelas"}
+{"Acupoint_Code":"SP10","Relation":"treats","Indication":"Medial Aspect Of Thigh Pain"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Inguinal Region Swelling"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Inguinal Region Pain"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"SP11","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"SP12","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP12","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"SP12","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"SP13","Relation":"treats","Indication":"Lower Abdominal Pain"}
+{"Acupoint_Code":"SP13","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"SP14","Relation":"treats","Indication":"Umbilical Pain"}
+{"Acupoint_Code":"SP14","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP14","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"SP14","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP14","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP15","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"SP15","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP15","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"SP15","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"SP15","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP16","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"SP16","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"SP16","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"SP16","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"SP17","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"SP17","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"SP17","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"SP17","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"SP18","Relation":"treats","Indication":"Insufficient Lactation"}
+{"Acupoint_Code":"SP19","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"SP19","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"SP19","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"SP19","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"SP20","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"SP20","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"SP20","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"SP20","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"SP21","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"SP21","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"SP21","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"SP21","Relation":"treats","Indication":"General Body Weakness"}
+{"Acupoint_Code":"SP21","Relation":"treats","Indication":"General Pain"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Costal Pain"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Arm Cold Pain"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Elbow Cold Pain"}
+{"Acupoint_Code":"HT1","Relation":"treats","Indication":"Throat Dryness"}
+{"Acupoint_Code":"HT2","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"HT2","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT2","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"HT2","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Arm Numbness"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Hand Numbness"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Arm Spasmodic Pain"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Hand Spasmodic Pain"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Hand Tremor"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"HT3","Relation":"treats","Indication":"Axilla Pain"}
+{"Acupoint_Code":"HT4","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT4","Relation":"treats","Indication":"Arm Spasmodic Pain"}
+{"Acupoint_Code":"HT4","Relation":"treats","Indication":"Elbow Spasmodic Pain"}
+{"Acupoint_Code":"HT4","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Stuttering"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"HT5","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Hysteria"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"HT6","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Hysteria"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Amnesia"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Dementia"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Palm Feverish Sensation"}
+{"Acupoint_Code":"HT7","Relation":"treats","Indication":"Yellowish Sclera"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Little Finger Spasmodic Pain"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Palm Feverish Sensation"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"HT8","Relation":"treats","Indication":"External Genitalia Pruritus"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"HT9","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Insufficient Lactation"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"SI1","Relation":"treats","Indication":"Cornea Cloudiness"}
+{"Acupoint_Code":"SI2","Relation":"treats","Indication":"Finger Numbness"}
+{"Acupoint_Code":"SI2","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"SI2","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"SI2","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"SI2","Relation":"treats","Indication":"Reddish Urine"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Acute Lumbar Sprain"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Finger Numbness"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Finger Contracture"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"SI3","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Febrile Diseases With Anhidrosis"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Finger Contracture"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"SI4","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"SI5","Relation":"treats","Indication":"Submandibular Region Swelling"}
+{"Acupoint_Code":"SI5","Relation":"treats","Indication":"Neck Swelling"}
+{"Acupoint_Code":"SI5","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"SI5","Relation":"treats","Indication":"Hand Pain"}
+{"Acupoint_Code":"SI5","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"SI6","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"SI6","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI6","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"SI6","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Finger Spasmodic Pain"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Elbow Spasmodic Pain"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"SI7","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Nape Pain"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"SI8","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"SI9","Relation":"treats","Indication":"Scapular Region Pain"}
+{"Acupoint_Code":"SI9","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"SI9","Relation":"treats","Indication":"Hand Motor Impairment"}
+{"Acupoint_Code":"SI10","Relation":"treats","Indication":"Shoulder Swelling"}
+{"Acupoint_Code":"SI10","Relation":"treats","Indication":"Arm Weakness"}
+{"Acupoint_Code":"SI10","Relation":"treats","Indication":"Shoulder Weakness"}
+{"Acupoint_Code":"SI10","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"SI10","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI11","Relation":"treats","Indication":"Scapular Region Pain"}
+{"Acupoint_Code":"SI11","Relation":"treats","Indication":"Lateroposterior Aspect Of Elbow Pain"}
+{"Acupoint_Code":"SI11","Relation":"treats","Indication":"Lateroposterior Aspect Of Arm Pain"}
+{"Acupoint_Code":"SI11","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"SI12","Relation":"treats","Indication":"Scapular Region Pain"}
+{"Acupoint_Code":"SI12","Relation":"treats","Indication":"Upper Extremity Pain"}
+{"Acupoint_Code":"SI12","Relation":"treats","Indication":"Upper Extremity Numbness"}
+{"Acupoint_Code":"SI12","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"SI12","Relation":"treats","Indication":"Shoulder Motor Impairment"}
+{"Acupoint_Code":"SI13","Relation":"treats","Indication":"Scapular Region Stiffness"}
+{"Acupoint_Code":"SI13","Relation":"treats","Indication":"Scapular Region Pain"}
+{"Acupoint_Code":"SI14","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"SI14","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI14","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"SI14","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"SI15","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"SI15","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"SI15","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"SI15","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"SI15","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Voice Sudden Loss"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"SI16","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Foreigh Body Sensation In The Throat"}
+{"Acupoint_Code":"SI17","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Face Pain"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"SI18","Relation":"treats","Indication":"Yellowish Sclera"}
+{"Acupoint_Code":"SI19","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"SI19","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"SI19","Relation":"treats","Indication":"Otorrhea"}
+{"Acupoint_Code":"SI19","Relation":"treats","Indication":"Mandibular Joint Motor Impairment"}
+{"Acupoint_Code":"SI19","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Canthus Itching"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Night Blindness"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Color Blindess"}
+{"Acupoint_Code":"BL1","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Vision Failing"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Supraorbital Region Pain"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"BL2","Relation":"treats","Indication":"Glaucoma"}
+{"Acupoint_Code":"BL3","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL3","Relation":"treats","Indication":"Giddiness"}
+{"Acupoint_Code":"BL3","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL3","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL4","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL4","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL4","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL4","Relation":"treats","Indication":"Vision Failing"}
+{"Acupoint_Code":"BL4","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL5","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL5","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL5","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL5","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"BL6","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL6","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL6","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL7","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL7","Relation":"treats","Indication":"Giddiness"}
+{"Acupoint_Code":"BL7","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL7","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL7","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"BL8","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"BL8","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL8","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"BL8","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL9","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"BL9","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL9","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"BL9","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"BL9","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL10","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Scapular Region Soreness"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Scapular Region Pain"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"BL11","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Common Cold"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL12","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Afternoon Fever"}
+{"Acupoint_Code":"BL13","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"BL14","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL14","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"BL14","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"BL14","Relation":"treats","Indication":"Stuffy Chest"}
+{"Acupoint_Code":"BL14","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Panic"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Memory Loss"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL15","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL16","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"BL16","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Belching"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Afternoon Fever"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"BL17","Relation":"treats","Indication":"Measles"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Night Blindness"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"BL18","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Mouth Bitter Taste"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Pulmonary Tuberculosis"}
+{"Acupoint_Code":"BL19","Relation":"treats","Indication":"Afternoon Fever"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Bloody Stool"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Profuse Menstruation"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"BL20","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"BL21","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"BL22","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Knee Weakness"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL23","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL24","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL24","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL24","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"BL24","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"BL25","Relation":"treats","Indication":"Sciatica"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Sciatica"}
+{"Acupoint_Code":"BL26","Relation":"treats","Indication":"Frequent Urination"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Distension"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Lower Abdominal Pain"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Hematuria"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Lower Back Pain"}
+{"Acupoint_Code":"BL27","Relation":"treats","Indication":"Sciatica"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Frequent Urination"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL28","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"BL29","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"BL29","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"BL29","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL29","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Pain Due To Hernia"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Cold Sensation"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Tenesmus"}
+{"Acupoint_Code":"BL30","Relation":"treats","Indication":"Rectum Prolapse"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL31","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL32","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL33","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL34","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL34","Relation":"treats","Indication":"Lower Abdominal Pain"}
+{"Acupoint_Code":"BL34","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL34","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL34","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Bloody Stool"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"BL35","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Gluteal Pain"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL36","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"BL37","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"BL38","Relation":"treats","Indication":"Femoral Region Numbness"}
+{"Acupoint_Code":"BL38","Relation":"treats","Indication":"Gluteal Numbness"}
+{"Acupoint_Code":"BL38","Relation":"treats","Indication":"Contracture Of Tendon In Popliteal Fossa"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Low Abdomen Fullness"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Low Abdomen Distension"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Foot Cramp"}
+{"Acupoint_Code":"BL39","Relation":"treats","Indication":"Leg Cramp"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Hip Joint Motor Impairment"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Contracture Of Tendon In Popliteal Fossa"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL40","Relation":"treats","Indication":"Erysipelas"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Shoulder Stiffness"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Arm Numbness"}
+{"Acupoint_Code":"BL41","Relation":"treats","Indication":"Elbow Numbness"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Pulmonary Tuberculosis"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL42","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Pulmonary Tuberculosis"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Poor Memory"}
+{"Acupoint_Code":"BL43","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Stuffy Chest"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL44","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"BL45","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"BL45","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"BL45","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL45","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Dysphagia"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Belching"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"BL46","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL47","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"BL47","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"BL47","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL47","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL47","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL48","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL48","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"BL48","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL48","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"BL48","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"BL49","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL49","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL49","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"BL49","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"BL49","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"BL50","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL50","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL50","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"BL50","Relation":"treats","Indication":"Infantile Indigestion"}
+{"Acupoint_Code":"BL51","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"BL51","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL51","Relation":"treats","Indication":"Abdominal Mass"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Frequent Urination"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL52","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"BL53","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"BL53","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"BL53","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL53","Relation":"treats","Indication":"Anuria"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Lumbosacral Region Pain"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Swelling Around External Genitalia"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL54","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"BL55","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL55","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"BL55","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"BL56","Relation":"treats","Indication":"Muscle Gastrocnemius Spasm"}
+{"Acupoint_Code":"BL56","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"BL56","Relation":"treats","Indication":"Acute Low Back Pain"}
+{"Acupoint_Code":"BL57","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL57","Relation":"treats","Indication":"Gastrocnemius Spasm"}
+{"Acupoint_Code":"BL57","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"BL57","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"BL57","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"BL58","Relation":"treats","Indication":"Leg Weakness"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"Head Heavy Sensation"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"External Malleolus Swelling"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"External Malleolus Redness"}
+{"Acupoint_Code":"BL59","Relation":"treats","Indication":"Low Extremity Paralysis"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Heel Pain"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Heel Swelling"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Difficult Labor"}
+{"Acupoint_Code":"BL60","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL61","Relation":"treats","Indication":"Low Extremity Weakness"}
+{"Acupoint_Code":"BL61","Relation":"treats","Indication":"Low Extremity Muscular Atrophy"}
+{"Acupoint_Code":"BL61","Relation":"treats","Indication":"Heel Pain"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL62","Relation":"treats","Indication":"Leg Pain"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Heat"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Pain"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"External\n Malleolus Pain"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"BL63","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Heat"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Chill"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Interior Wind"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Mood Instability"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Brain Uncomfortable Feeling"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Back Weakness"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"BL64","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Backache"}
+{"Acupoint_Code":"BL65","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"BL66","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL66","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"BL66","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"BL66","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL66","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Fetus Malposition"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Difficult Labor"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Afterbirth Retention"}
+{"Acupoint_Code":"BL67","Relation":"treats","Indication":"Burning Feet"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Tongue Dryness"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Voice Loss"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Sole Feverish Sensation"}
+{"Acupoint_Code":"KI1","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Pruritus Vulva"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Thirst"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Odrsum Of Foot Swelling"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Odrsum Of Foot Pain"}
+{"Acupoint_Code":"KI2","Relation":"treats","Indication":"Acute Infantile Omphalitis"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Thirst"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Frequent Micturition"}
+{"Acupoint_Code":"KI3","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Blood Spitting"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Heel Pain"}
+{"Acupoint_Code":"KI4","Relation":"treats","Indication":"Dementia"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI5","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Pruritus Vulva"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Micturition Frequency"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"KI6","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Leg Muscular Atrophy"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Night Sweat"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Spontaneous Sweat"}
+{"Acupoint_Code":"KI7","Relation":"treats","Indication":"Febrile Diseases Without Sweat"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Testis Swelling"}
+{"Acupoint_Code":"KI8","Relation":"treats","Indication":"Testis Pain"}
+{"Acupoint_Code":"KI9","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"KI9","Relation":"treats","Indication":"Low Leg Pain"}
+{"Acupoint_Code":"KI9","Relation":"treats","Indication":"Foot Pain"}
+{"Acupoint_Code":"KI9","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Popliteal Fossa Pain"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"KI10","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Low Abdomen Fullness"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"KI11","Relation":"treats","Indication":"Genital Pain"}
+{"Acupoint_Code":"KI12","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"KI12","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"KI12","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"KI12","Relation":"treats","Indication":"External Genital Pain"}
+{"Acupoint_Code":"KI12","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"KI13","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI13","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"KI13","Relation":"treats","Indication":"Dysuria"}
+{"Acupoint_Code":"KI13","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI13","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"KI14","Relation":"treats","Indication":"Postpartum Abdominal Pain"}
+{"Acupoint_Code":"KI15","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"KI15","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI15","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI16","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"KI16","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI16","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI16","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI16","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI17","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI17","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI17","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI18","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI18","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI18","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI18","Relation":"treats","Indication":"Postpartum Abdominal Pain"}
+{"Acupoint_Code":"KI18","Relation":"treats","Indication":"Sterility"}
+{"Acupoint_Code":"KI19","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"KI19","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI19","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"KI19","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"KI19","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI20","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"KI20","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI20","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI20","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"KI21","Relation":"treats","Indication":"Morning Sickness"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Hypochondrium Distension"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Chest Distension"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"KI22","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"KI23","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI23","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI23","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"KI23","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"KI23","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"KI24","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI24","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI24","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"KI24","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"KI24","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"KI25","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI25","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI25","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"KI26","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI26","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI26","Relation":"treats","Indication":"Phlegm Accumulation"}
+{"Acupoint_Code":"KI26","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"KI26","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"KI27","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"KI27","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"KI27","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"PC1","Relation":"treats","Indication":"Chest Suffocating Sensation"}
+{"Acupoint_Code":"PC1","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"PC1","Relation":"treats","Indication":"Axillary Region Pain"}
+{"Acupoint_Code":"PC1","Relation":"treats","Indication":"Axillary Region Swelling"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Hypochondrium Distension"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"PC2","Relation":"treats","Indication":"Medical Aspect Of Arm Pain"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Arm Tremor"}
+{"Acupoint_Code":"PC3","Relation":"treats","Indication":"Hand Tremor"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Hematemesis"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Hemoptysis"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Furuncle"}
+{"Acupoint_Code":"PC4","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Axilla Swelling"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Arm Contracture"}
+{"Acupoint_Code":"PC5","Relation":"treats","Indication":"Elbow Contracture"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Stuffy Chest"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Elbow Contracture"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Arm Contracture"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"PC6","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Stuffy Chest"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"PC7","Relation":"treats","Indication":"Foul Breath"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Gastritis"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Foul Breath"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Foot Fungus Infection"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Hand Fungus Infection"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"PC8","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Tongue Swelling"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Heat Stroke"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"PC9","Relation":"treats","Indication":"Palm Feverish Sensation"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"TE1","Relation":"treats","Indication":"Irritability"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Sudden Deafness"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"TE2","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"TE3","Relation":"treats","Indication":"Finger Motor Impairment"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Wrist Pain"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE4","Relation":"treats","Indication":"Thirst"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Cheek Pain"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Strained Neck"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Elbow Motor Impairment"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Finger Pain"}
+{"Acupoint_Code":"TE5","Relation":"treats","Indication":"Hand Tremor"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Back Heavy Sensation"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Shoulder Heavy Sensation"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE6","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"TE7","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE7","Relation":"treats","Indication":"Ear Pain"}
+{"Acupoint_Code":"TE7","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"TE7","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Hand Pain"}
+{"Acupoint_Code":"TE8","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE9","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE9","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE9","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"TE9","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"TE9","Relation":"treats","Indication":"Forearm Pain"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"TE10","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"TE11","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE11","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE11","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"TE11","Relation":"treats","Indication":"Shoulder Motor Impairment"}
+{"Acupoint_Code":"TE11","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"TE12","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE12","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"TE12","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE12","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"TE13","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"TE13","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"TE13","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE14","Relation":"treats","Indication":"Upper Arm Motor Impairment"}
+{"Acupoint_Code":"TE14","Relation":"treats","Indication":"Shoulder Motor Impairment"}
+{"Acupoint_Code":"TE14","Relation":"treats","Indication":"Upper Arm Pain"}
+{"Acupoint_Code":"TE14","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE15","Relation":"treats","Indication":"Elbow Pain"}
+{"Acupoint_Code":"TE15","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"TE15","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"TE16","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE16","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"TE16","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"TE16","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"TE16","Relation":"treats","Indication":"Sudden Deafness"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Otorrhea"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"TE17","Relation":"treats","Indication":"Trismus"}
+{"Acupoint_Code":"TE18","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE18","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE18","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE18","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"TE19","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE19","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE19","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE19","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Eye Swelling"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Gum Swelling"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE20","Relation":"treats","Indication":"Parotitis"}
+{"Acupoint_Code":"TE21","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE21","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"TE21","Relation":"treats","Indication":"Otorrhea"}
+{"Acupoint_Code":"TE21","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE21","Relation":"treats","Indication":"Lip Stiffness"}
+{"Acupoint_Code":"TE22","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"TE22","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"TE22","Relation":"treats","Indication":"Lockjaw"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Eyelind Twitch"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"TE23","Relation":"treats","Indication":"Face Paralysis"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Vision Failing"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"GB1","Relation":"treats","Indication":"Eye Deviation"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Temperomandibular Joint Motor Impairment"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Mumps"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"GB2","Relation":"treats","Indication":"Eye Deviation"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Diplacusis"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Eye Deviation"}
+{"Acupoint_Code":"GB3","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"GB4","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GB5","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB5","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB5","Relation":"treats","Indication":"Face Swelling"}
+{"Acupoint_Code":"GB6","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB6","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB6","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB6","Relation":"treats","Indication":"Frequent Sneezing"}
+{"Acupoint_Code":"GB7","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB7","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"GB7","Relation":"treats","Indication":"Trismus"}
+{"Acupoint_Code":"GB7","Relation":"treats","Indication":"Temporal Region Pain"}
+{"Acupoint_Code":"GB7","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GB8","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB8","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB8","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"GB8","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GB9","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB9","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GB9","Relation":"treats","Indication":"Gum Pain"}
+{"Acupoint_Code":"GB9","Relation":"treats","Indication":"Gum Swelling"}
+{"Acupoint_Code":"GB9","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"GB10","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB10","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB10","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB11","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB11","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB11","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB11","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB11","Relation":"treats","Indication":"Ear Pain"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Retro-Auricular Pain"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Eye Deviation"}
+{"Acupoint_Code":"GB12","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"GB13","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB13","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"GB13","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB13","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Frontal Region Headache"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Orbital Ridge Pain"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Eyelid Twitching"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Eyelid Ptosis"}
+{"Acupoint_Code":"GB14","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Lacrimation"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"GB15","Relation":"treats","Indication":"Manic Depression"}
+{"Acupoint_Code":"GB16","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB16","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB16","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"GB16","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"GB16","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"GB17","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB17","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Dementia"}
+{"Acupoint_Code":"GB18","Relation":"treats","Indication":"Obsessive Thought"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB19","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Blurred Vision"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Glaucoma"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Eye Pain"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Eye Redness"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Convulsion"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Common Cold"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"GB20","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Insufficient Lactation"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"GB21","Relation":"treats","Indication":"Difficult Labor"}
+{"Acupoint_Code":"GB22","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"GB22","Relation":"treats","Indication":"Axillary Region Swelling"}
+{"Acupoint_Code":"GB22","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB22","Relation":"treats","Indication":"Arm Motor Impairment"}
+{"Acupoint_Code":"GB22","Relation":"treats","Indication":"Arm Pain"}
+{"Acupoint_Code":"GB23","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"GB23","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB23","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"GB24","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"GB25","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"GB25","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"GB25","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"GB25","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB25","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB26","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB27","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"GB27","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"GB27","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB27","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"GB27","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"GB28","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"GB28","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"GB28","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"GB28","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Lumbar Numbness"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Thigh Numbness"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Paralysis"}
+{"Acupoint_Code":"GB29","Relation":"treats","Indication":"Low Limb Muscular Atrophy"}
+{"Acupoint_Code":"GB30","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"GB30","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB30","Relation":"treats","Indication":"Low Limb Muscular Atrophy"}
+{"Acupoint_Code":"GB30","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Lumbar Sore"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Thigh Soreness"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Low Limb Paralysis"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"GB31","Relation":"treats","Indication":"General Pruritus"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Knee Soreness"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Thigh Soreness"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Low Limb Weakness"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Low Limb Numbness"}
+{"Acupoint_Code":"GB32","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"GB33","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"GB33","Relation":"treats","Indication":"Knee Swelling"}
+{"Acupoint_Code":"GB33","Relation":"treats","Indication":"Contracture Of Tendon In Popliteal Fossa"}
+{"Acupoint_Code":"GB33","Relation":"treats","Indication":"Leg Numbness"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Low Extremity Weakness"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Knee Swelling"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Mouth Bitter Taste"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"GB34","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GB35","Relation":"treats","Indication":"Hypochondrium Fullness"}
+{"Acupoint_Code":"GB35","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"GB35","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"GB35","Relation":"treats","Indication":"Leg Paralysis"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Fever"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Chill"}
+{"Acupoint_Code":"GB36","Relation":"treats","Indication":"Rabies"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Low Extremity Motor Impairment"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Night Blindness"}
+{"Acupoint_Code":"GB37","Relation":"treats","Indication":"Breast Distending Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Axillary Region Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Llumbar Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Lateral Aspect Of Low Extremity Pain"}
+{"Acupoint_Code":"GB38","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Low Limb Muscular Atrophy"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Leg Spastic Pain"}
+{"Acupoint_Code":"GB39","Relation":"treats","Indication":"Beriberi"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Axillary Region Swelling"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Low Limb Muscular Atrophy"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"External Malleolus Swelling"}
+{"Acupoint_Code":"GB40","Relation":"treats","Indication":"External Malleolus Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Scrofula"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Breast Distending Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Dorsum Of Foot Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Dorsum Of Foot Swelling"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Toe Pain"}
+{"Acupoint_Code":"GB41","Relation":"treats","Indication":"Toe Swelling"}
+{"Acupoint_Code":"GB42","Relation":"treats","Indication":"Canthus Pain"}
+{"Acupoint_Code":"GB42","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB42","Relation":"treats","Indication":"Breast Distending Pain"}
+{"Acupoint_Code":"GB42","Relation":"treats","Indication":"Dorsum Of Foot Swelling"}
+{"Acupoint_Code":"GB42","Relation":"treats","Indication":"Dorsum Of Foot Pain"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Outer Canthus Pain"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Cheek Swelling"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Breast Distending Pain"}
+{"Acupoint_Code":"GB43","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Migraine"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Dream-Disturbed Sleep"}
+{"Acupoint_Code":"GB44","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"LR1","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"LR1","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"LR1","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"LR1","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"LR1","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"LR2","Relation":"treats","Indication":"Liver Fire"}
+{"Acupoint_Code":"LR2","Relation":"treats","Indication":"Liver Yang"}
+{"Acupoint_Code":"LR2","Relation":"treats","Indication":"Blood Heat"}
+{"Acupoint_Code":"LR2","Relation":"treats","Indication":"Interior Wind"}
+{"Acupoint_Code":"LR3","Relation":"treats","Indication":"Depression Distal To Junction Of The First And Second Metatarsal Bone"}
+{"Acupoint_Code":"LR4","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"LR4","Relation":"treats","Indication":"External Genital Pain"}
+{"Acupoint_Code":"LR4","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"LR4","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"LR4","Relation":"treats","Indication":"Hypochondrium Distend Pain"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Pruritus Vulva"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Leg Atrophy"}
+{"Acupoint_Code":"LR5","Relation":"treats","Indication":"Leg Weakness"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"LR6","Relation":"treats","Indication":"Prolonged Lochia"}
+{"Acupoint_Code":"LR7","Relation":"treats","Indication":"Knee Pain"}
+{"Acupoint_Code":"LR7","Relation":"treats","Indication":"Inner Knee Pain"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"External Genital Pain"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Pruritus Vulva"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Medial Aspect Of Knee Pain"}
+{"Acupoint_Code":"LR8","Relation":"treats","Indication":"Medial Aspect Of Thigh Pain"}
+{"Acupoint_Code":"LR9","Relation":"treats","Indication":"Lumbosacral Region Pain"}
+{"Acupoint_Code":"LR9","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"LR9","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"LR9","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"LR9","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"LR10","Relation":"treats","Indication":"Low Abdomen Fullness"}
+{"Acupoint_Code":"LR10","Relation":"treats","Indication":"Lower Abdominal Distension"}
+{"Acupoint_Code":"LR10","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"LR11","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"LR11","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"LR11","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"LR11","Relation":"treats","Indication":"Leg Pain"}
+{"Acupoint_Code":"LR11","Relation":"treats","Indication":"Thigh Pain"}
+{"Acupoint_Code":"LR12","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"LR12","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"LR12","Relation":"treats","Indication":"External Genital Pain"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"LR13","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Hypochondrium Pain"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Mastitis"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Depression"}
+{"Acupoint_Code":"LR14","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Vaginitis"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV1","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Urine Dribbling"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"CV2","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Frequent Urination"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"CV3","Relation":"treats","Indication":"Vaginitis"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Frequent Urination"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Urine Retention"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Low Abdomen Pain"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Rectum Prolapse"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Postpartum Hemorrhage"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"CV4","Relation":"treats","Indication":"Flaccid Type Apoplexy"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Anuria"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV5","Relation":"treats","Indication":"Postpartum Hemorrhage"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Enuresis"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Dysmenorrhea"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Amenorrhea"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Postpartum Hemorrhage"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"CV6","Relation":"treats","Indication":"Flaccid Type Apoplexy"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Hernia"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Uterine Bleeding"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Morbid Leukorrhea"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Pruritus Vulva"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Postpartum Hemorrhage"}
+{"Acupoint_Code":"CV7","Relation":"treats","Indication":"Umbilical Pain"}
+{"Acupoint_Code":"CV8","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"CV8","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"CV8","Relation":"treats","Indication":"Flaccid Type Apoplexy"}
+{"Acupoint_Code":"CV8","Relation":"treats","Indication":"Rectal Prolapse"}
+{"Acupoint_Code":"CV8","Relation":"treats","Indication":"Unchecked Diarrhea"}
+{"Acupoint_Code":"CV9","Relation":"treats","Indication":"Fluid Transformation Inadequate"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Abdominal Pain"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV10","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Edema"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"CV11","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Borborygmus"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Dysentery"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"CV12","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Stomach Pain"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Abdominal Distension"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"CV13","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Acid Regurgitation"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"CV14","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"CV15","Relation":"treats","Indication":"Abdomen Skin Itching"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Intercostal Region Fullness"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Intercostal Region Distension"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Chest Distension"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Nausea"}
+{"Acupoint_Code":"CV16","Relation":"treats","Indication":"Anorexia"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Insufficient Lactation"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"CV17","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"CV18","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV18","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"CV18","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV18","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"CV19","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV19","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"CV19","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Intercostal Region Pain"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Intercostal Region Fullness"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"CV20","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV21","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"CV21","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"CV21","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Dry Throat"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Hiccup"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"CV22","Relation":"treats","Indication":"Goiter"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Subglossal Region Pain"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Subglossal Region Swelling"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Salivation"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Glossoplegia"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"CV23","Relation":"treats","Indication":"Swallow Difficulty"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Face Puffiness"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Gum Swelling"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Toothache"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Salivation"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"CV24","Relation":"treats","Indication":"Eye Deviation"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Bloody Stool"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Rectum Prolapse"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Constipation"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"GV1","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Hemorrhoids"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Low Extremity Muscular Atrophy"}
+{"Acupoint_Code":"GV2","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Lumbosacral Region Pain"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Muscular Atrophy"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Motor Impairment"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Low Extremity Numbness"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Low Extremity Pain"}
+{"Acupoint_Code":"GV3","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Lumbar Pain"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Impotence"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Nocturnal Emission"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Irregular Menstruation"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"GV4","Relation":"treats","Indication":"Leukorrhea"}
+{"Acupoint_Code":"GV5","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"GV5","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"GV5","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"GV5","Relation":"treats","Indication":"Indigestion"}
+{"Acupoint_Code":"GV6","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"GV6","Relation":"treats","Indication":"Diarrhea"}
+{"Acupoint_Code":"GV6","Relation":"treats","Indication":"Jaundice Epilepsy"}
+{"Acupoint_Code":"GV6","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GV6","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV7","Relation":"treats","Indication":"Epigastric Pain"}
+{"Acupoint_Code":"GV7","Relation":"treats","Indication":"Low Back Pain"}
+{"Acupoint_Code":"GV7","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV8","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV8","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV8","Relation":"treats","Indication":"Gastric Pain"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Jaundice"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GV9","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"GV10","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"GV10","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"GV10","Relation":"treats","Indication":"Furuncle"}
+{"Acupoint_Code":"GV10","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GV10","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Poor Memory"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Anxiety"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"GV11","Relation":"treats","Indication":"Cardiac Pain"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"GV12","Relation":"treats","Indication":"Furuncle"}
+{"Acupoint_Code":"GV13","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV13","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV13","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"GV13","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Malaria"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Febrile Disease"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Afternoon Fever"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Cough"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Common Cold"}
+{"Acupoint_Code":"GV14","Relation":"treats","Indication":"Back Stiffness"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Mute"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Deafness"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Voice Sudden Hoarseness"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Tongue Stiffness"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Occipital Headache"}
+{"Acupoint_Code":"GV15","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Sore Throat"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Post-Apoplexy"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Hemiplegia"}
+{"Acupoint_Code":"GV16","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV17","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV17","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"GV17","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV17","Relation":"treats","Indication":"Neck Pain"}
+{"Acupoint_Code":"GV18","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV18","Relation":"treats","Indication":"Neck Stiffness"}
+{"Acupoint_Code":"GV18","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"GV18","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"GV19","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV19","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GV19","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV19","Relation":"treats","Indication":"Mania"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Tinnitus"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Aphasia"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Apoplexy"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Coma"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Uterus Prolapse"}
+{"Acupoint_Code":"GV20","Relation":"treats","Indication":"Rectum Prolapse"}
+{"Acupoint_Code":"GV21","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV21","Relation":"treats","Indication":"Dizziness"}
+{"Acupoint_Code":"GV21","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"GV21","Relation":"treats","Indication":"Vertical Headache"}
+{"Acupoint_Code":"GV21","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GV22","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV22","Relation":"treats","Indication":"Vision Blurring"}
+{"Acupoint_Code":"GV22","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GV22","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GV23","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV23","Relation":"treats","Indication":"Ophthalmalgia"}
+{"Acupoint_Code":"GV23","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"GV23","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GV23","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Anxiety"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Vertigo"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Palpitation"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Insomnia"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Headache"}
+{"Acupoint_Code":"GV24","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GV25","Relation":"treats","Indication":"Consciousness Loss"}
+{"Acupoint_Code":"GV25","Relation":"treats","Indication":"Nasal Obstruction"}
+{"Acupoint_Code":"GV25","Relation":"treats","Indication":"Epistaxis"}
+{"Acupoint_Code":"GV25","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"GV25","Relation":"treats","Indication":"Rosacea"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Epilepsy"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Hysteria"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Infantile Convulsion"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Coma"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Mouth Deviation"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Apoplexy-Faint"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Trismus"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Face Puffinesss"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Lower Back Pain"}
+{"Acupoint_Code":"GV26","Relation":"treats","Indication":"Low Back Stiffness"}
+{"Acupoint_Code":"GV27","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV27","Relation":"treats","Indication":"Lip Twitching"}
+{"Acupoint_Code":"GV27","Relation":"treats","Indication":"Lip Stiffness"}
+{"Acupoint_Code":"GV27","Relation":"treats","Indication":"Gum Pain"}
+{"Acupoint_Code":"GV27","Relation":"treats","Indication":"Gum Swelling"}
+{"Acupoint_Code":"GV28","Relation":"treats","Indication":"Mental Disorder"}
+{"Acupoint_Code":"GV28","Relation":"treats","Indication":"Gum Pain"}
+{"Acupoint_Code":"GV28","Relation":"treats","Indication":"Gum Swelling"}
+{"Acupoint_Code":"GV28","Relation":"treats","Indication":"Rhinorrhea"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Excess Type Cough"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Wheezing"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Asthma"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Chest Fullness"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Chest Pain"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Shoulder Pain"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Back Pain"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Phlegm"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Heat Excess Arising From The Middle Warmer"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Vomiting"}
+{"Acupoint_Code":"LU1","Relation":"treats","Indication":"Difficult Ingestion"}
