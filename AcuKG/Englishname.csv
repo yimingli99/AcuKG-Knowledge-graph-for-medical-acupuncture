@@ -1,362 +1,362 @@
 ﻿Acupoint_Code,Relation,English_Name
-LU-1,hasenglishname,Middle Assembly
-LU-2,hasenglishname,Cloud Gate
-LU-3,hasenglishname,Upper Arm Assembly
-LU-4,hasenglishname,Supporting the Lung
-LU-5,hasenglishname,Cubit Marsh
-LU-6,hasenglishname,Collection Hole
-LU-7,hasenglishname,Interrupted Sequence
-LU-8,hasenglishname,Channel Ditch
-LU-9,hasenglishname,Great Deep Pool
-LU-10,hasenglishname,Fish Border
-LU-11,hasenglishname,Lesser Metal
-LI-1,hasenglishname,Metal Yang
-LI-2,hasenglishname,Second Point
-LI-3,hasenglishname,Third Point
-LI-4,hasenglishname,Junction Valley
-LI-5,hasenglishname,Yang Stream
-LI-6,hasenglishname,Diverging Passage
-LI-7,hasenglishname,Warm Flow
-LI-8,hasenglishname,Lower Point at the Border
-LI-9,hasenglishname,Upper Point at the Border
-LI-10,hasenglishname,Arm Three Miles
-LI-11,hasenglishname,Pool at the Bend
-LI-12,hasenglishname,Elbow Bone Hole
-LI-13,hasenglishname,Arm Five Miles
-LI-14,hasenglishname,Upper Arm
-LI-15,hasenglishname,Shoulder and Clavicle
-LI-16,hasenglishname,Large Bone
-LI-17,hasenglishname,Head's Tripod
-LI-18,hasenglishname,Beside the Prominence
-LI-19,hasenglishname,Mouth Grain Hole
-LI-20,hasenglishname,Receiving Fragrance
-ST-1,hasenglishname,Tears Container
-ST-2,hasenglishname,Four Directions Brightness
-ST-3,hasenglishname,Large Bone Hole
-ST-4,hasenglishname,Earth Granary
-ST-5,hasenglishname,Large Receptacle (Facial Artery)
-ST-6,hasenglishname,Jaw Bone
-ST-7,hasenglishname,Below the Arch
-ST-8,hasenglishname,Head's Corner
-ST-9,hasenglishname,Man'sPrognosis (Carotid Artery)
-ST-10,hasenglishname,Liquid Passage
-ST-11,hasenglishname,Residence of Breath Qi
-ST-12,hasenglishname,Empty Basin
-ST-13,hasenglishname,Door of Breath
-ST-14,hasenglishname,Breath Storeroom
-ST-15,hasenglishname,Hiding the Breath
-ST-16,hasenglishname,Breast Window
-ST-17,hasenglishname,Breast Centre (Nipple)
-ST-18,hasenglishname,Breast Root
-ST-19,hasenglishname,Not Contained
-ST-20,hasenglishname,Receiving Fullness
-ST-21,hasenglishname,Beam Gate
-ST-22,hasenglishname,Shutting the Gate
-ST-23,hasenglishname,Great Unity
-ST-24,hasenglishname,Chime Gate
-ST-25,hasenglishname,Heavenly Pivot
-ST-26,hasenglishname,Outer Mound
-ST-27,hasenglishname,Great Bulge
-ST-28,hasenglishname,Waterway
-ST-29,hasenglishname,Restoring Position
-ST-30,hasenglishname,Qi Surge
-ST-31,hasenglishname,Thigh Gate
-ST-32,hasenglishname,Crouching Rabbit
-ST-33,hasenglishname,Yin Market
-ST-34,hasenglishname,Ridge Mound
-ST-35,hasenglishname,Calf's Nose
-ST-36,hasenglishname,Leg Three Miles
-ST-37,hasenglishname,Upper Great Void
-ST-38,hasenglishname,Ribbon Opening
-ST-39,hasenglishname,Lower Large Hollow
-ST-40,hasenglishname,Abundant Bulge
-ST-41,hasenglishname,Dividing Cleft
-ST-42,hasenglishname,Surging Yang
-ST-43,hasenglishname,Sunken Valley
-ST-44,hasenglishname,Inner Court
-ST-45,hasenglishname,Running Point
-SP-1,hasenglishname,Hidden White
-SP-2,hasenglishname,Great Pool
-SP-3,hasenglishname,Great White
-SP-4,hasenglishname,Grandfather Grandson
-SP-5,hasenglishname,Metal Mound
-SP-6,hasenglishname,Three Yin Intersection
-SP-7,hasenglishname,Leaking Valley
-SP-8,hasenglishname,Earth Cure
-SP-9,hasenglishname,Yin Mound Spring
-SP-10,hasenglishname,Sea of Blood
-SP-11,hasenglishname,Separation Gate
-SP-12,hasenglishname,Surging Gate
-SP-13,hasenglishname,Bpwel Abode
-SP-14,hasenglishname,Abdomen Stagnation
-SP-15,hasenglishname,Great Horizontal
-SP-16,hasenglishname,Abdomen Suffering
-SP-17,hasenglishname,Food Cavity
-SP-18,hasenglishname,Celestial Cleft
-SP-19,hasenglishname,Chest Village
-SP-20,hasenglishname,Complete Nourishment
-SP-21,hasenglishname,Great Embrace
-HE-1,hasenglishname,Highest Spring
-HE-2,hasenglishname,Green Spirit
-HE-3,hasenglishname,Lesser Sea
-HE-4,hasenglishname,Spirit Path
-HE-5,hasenglishname,Inward Connection
-HE-6,hasenglishname,Yin Cleft
-HE-7,hasenglishname,Spirit Gate
-HE-8,hasenglishname,Lesser Mansion
-HE-9,hasenglishname,Lesser Surge
-SI-1,hasenglishname,Lesser Marsh
-SI-2,hasenglishname,Front Valley
-SI-3,hasenglishname,Back Stream
-SI-4,hasenglishname,Wrist Bone
-SI-5,hasenglishname,Yang Valley
-SI-6,hasenglishname,Support the Aged
-SI-7,hasenglishname,Branch of Upright
-SI-8,hasenglishname,Small Sea
-SI-9,hasenglishname,True Shoulder
-SI-10,hasenglishname,Upper arm transporter
-SI-11,hasenglishname,Heavenly Gathering
-SI-12,hasenglishname,Grasping the Wind
-SI-13,hasenglishname,Crooked Wall
-SI-14,hasenglishname,Outer Shoulder Transporter
-SI-15,hasenglishname,Middle Shoulder Transporter
-SI-16,hasenglishname,Heavenly Window
-SI-17,hasenglishname,Heavenly Appearance
-SI-18,hasenglishname,Cheek Bone Crevice
-SI-19,hasenglishname,Palace of Hearing
-BL-1,hasenglishname,Bright Eyes
-BL-2,hasenglishname,Gathered Bamboo
-BL-3,hasenglishname,Eyebrows' Ascension
-BL-4,hasenglishname,Deviating Curve
-BL-5,hasenglishname,Fifth Position
-BL-6,hasenglishname,Receiving Light
-BL-7,hasenglishname,Reaching Upward
-BL-8,hasenglishname,Declining Connection
-BL-9,hasenglishname,Jade Pillow
-BL-10,hasenglishname,Upper Pillar
-BL-11,hasenglishname,Great Vertebra
-BL-12,hasenglishname,Wind Gate
-BL-13,hasenglishname,Lung Transporter
-BL-14,hasenglishname,Absolute yin Transporter
-BL-15,hasenglishname,Heart Transporter
-BL-16,hasenglishname,Governor Transporter
-BL-17,hasenglishname,Diaphragm Transporter
-BL-18,hasenglishname,Liver Transporter
-BL-19,hasenglishname,Gallbladder Transporter
-BL-20,hasenglishname,Spleen Transporter
-BL-21,hasenglishname,Stomach Transporter
-BL-22,hasenglishname,Sanjiao Transporter
-BL-23,hasenglishname,Kidney Transporter
-BL-24,hasenglishname,Sea of Qi Transporter
-BL-25,hasenglishname,Large Intestine Transporter
-BL-26,hasenglishname,Gate of Origin Transporter
-BL-27,hasenglishname,Small Intestine Transporter
-BL-28,hasenglishname,Bladder Transporter
-BL-29,hasenglishname,Mid-Spine Transporter
-BL-30,hasenglishname,White Ring Transporter
-BL-31,hasenglishname,Upper Bone Hole
-BL-32,hasenglishname,Second Bone Hole
-BL-33,hasenglishname,Middle Bone Hole
-BL-34,hasenglishname,Lower Bone Hole
-BL-35,hasenglishname,Meeting of Yang
-BL-36,hasenglishname,Hold and Support
-BL-37,hasenglishname,Hanstring Gate
-BL-38,hasenglishname,Superficial Cleft
-BL-39,hasenglishname,Lateral End of the Crease
-BL-40,hasenglishname,Middle of the Crease
-BL-41,hasenglishname,Outer Branch
-BL-42,hasenglishname,Door of the Corporeal Soul
-BL-43,hasenglishname,Vital Region Shu
-BL-44,hasenglishname,Spirit Hall
-BL-45,hasenglishname,That Hurt
-BL-46,hasenglishname,Diaphragm Gate
-BL-47,hasenglishname,Ethereal Soul Gate
-BL-48,hasenglishname,Linking to Gall Bladder
-BL-49,hasenglishname,Abode of Thought
-BL-50,hasenglishname,Stomach Granary
-BL-51,hasenglishname,Vitals Gate
-BL-52,hasenglishname,Willpower Room
-BL-53,hasenglishname,Bladder's Vitals
-BL-54,hasenglishname,Lowermost in Order
-BL-55,hasenglishname,Yang Confluence
-BL-56,hasenglishname,Sinews Support
-BL-57,hasenglishname,Mountain Support
-BL-58,hasenglishname,Taking Flight
-BL-59,hasenglishname,Tarsus Yang
-BL-60,hasenglishname,Kunlun Mountains
-BL-61,hasenglishname,Subservient Visitor
-BL-62,hasenglishname,Extending Vessel
-BL-63,hasenglishname,Golden Gate
-BL-64,hasenglishname,Metatarsal Tuberosity
-BL-65,hasenglishname,Metatarsal Head
-BL-66,hasenglishname,Foot Valley Passage
-BL-67,hasenglishname,Reaching Yin
-KI-1,hasenglishname,Bubbling Well
-KI-2,hasenglishname,Blazing Valley
-KI-3,hasenglishname,Great Stream
-KI-4,hasenglishname,Large Bell
-KI-5,hasenglishname,Water Spring
-KI-6,hasenglishname,Shining Sea
-KI-7,hasenglishname,Continuing Flow
-KI-8,hasenglishname,Intersecting with Spleen
-KI-9,hasenglishname,Strong Knees
-KI-10,hasenglishname,Yin Valley
-KI-11,hasenglishname,Pubic Bone
-KI-12,hasenglishname,Big Plentifulness
-KI-13,hasenglishname,Kidney Qi Cave
-KI-14,hasenglishname,Fourth for Fullnesses
-KI-15,hasenglishname,Pouring into the Middle
-KI-16,hasenglishname,Vitals Tissues Shu
-KI-17,hasenglishname,Metal Bend
-KI-18,hasenglishname,Stone Gate
-KI-19,hasenglishname,Yin Metropolis
-KI-20,hasenglishname,Abdominal Food Passage
-KI-21,hasenglishname,Hidden Gate
-KI-22,hasenglishname,Stepping Upwards
-K-23,hasenglishname,Spirit Manor
-KI-24,hasenglishname,Spirit Ruin
-KI-25,hasenglishname,Spirit Storehouse
-KI-26,hasenglishname,Refined Chest
-KI-27,hasenglishname,Shu Mansion
-PC-1,hasenglishname,Heavenly Pool
-PC-2,hasenglishname,Heavenly Spring
-PC-3,hasenglishname,Marsh at the Crook
-PC-4,hasenglishname,Xi-Cleft Gate
-PC-5,hasenglishname,Intermediate Messenger
-PC-6,hasenglishname,Inner Pass
-PC-7,hasenglishname,Great Mound
-PC-8,hasenglishname,Palace of Toil
-PC-9,hasenglishname,Middle Rushing
-TE-1,hasenglishname,Surge Gate
-TE-2,hasenglishname,Fluid Gate
-TE-3,hasenglishname,Central Islet
-TE-4,hasenglishname,Yang Pool
-TE-5,hasenglishname,Outer Pass
-TE-6,hasenglishname,Branch Ditch
-TE-7,hasenglishname,Convergence and Gathering
-TE-8,hasenglishname,Three Yang Connection
-TE-9,hasenglishname,Four Rivers
-TE-10,hasenglishname,Upper Well
-TE-11,hasenglishname,Cooling Deep Pool
-TE-12,hasenglishname,Draining Marsh
-TE-13,hasenglishname,Upper Arm Intersection
-TE-14,hasenglishname,Shoulder Bone Hole
-TE-15,hasenglishname,Upper Arm Hole
-TE-16,hasenglishname,Sky Window
-TE-17,hasenglishname,Wind Screen
-TE-18,hasenglishname,Convulsion Vessel
-TE-19,hasenglishname,Head's Tranquility
-TE-20,hasenglishname,Angle Vertex
-TE-21,hasenglishname,Ear Gate
-TE-22,hasenglishname,Ear Harmonising Foramen
-TE-23,hasenglishname,Silken Bamboo Hollow
-GB-1,hasenglishname,Pupil Crevice
-GB-2,hasenglishname,Meeting of Hearing
-GB-3,hasenglishname,Above the Joint
-GB-4,hasenglishname,Jaw Serenity
-GB-5,hasenglishname,Suspended Skull
-GB-6,hasenglishname,Suspended Hair
-GB-7,hasenglishname,Crook of the Temple
-GB-8,hasenglishname,Leading Valley
-GB-9,hasenglishname,Heavenly Rushing
-GB-10,hasenglishname,Floating White
-GB-11,hasenglishname,Yin Portals of the Head
-GB-12,hasenglishname,Mastoid Process
-GB-13,hasenglishname,Root of the Spirit
-GB-14,hasenglishname,Yang White
-GB-15,hasenglishname,Head Governor of Tears
-GB-16,hasenglishname,Window of the Eye
-GB-17,hasenglishname,Upright Nutrition
-GB-18,hasenglishname,Support Spirit
-GB-19,hasenglishname,Brain Hollow
-GB-20,hasenglishname,Wind Pool
-GB-21,hasenglishname,Shoulder Well
-GB-22,hasenglishname,Armpit Abyss
-GB-23,hasenglishname,Flank Sinews
-GB-24,hasenglishname,Sun and Moon
-GB-25,hasenglishname,Capital Gate
-GB-26,hasenglishname,Girdling Vessel
-GB-27,hasenglishname,Five Pivots
-GB-28,hasenglishname,Linking Path
-GB-29,hasenglishname,Stationary Crevice
-GB-30,hasenglishname,Jumping Circle
-GB-31,hasenglishname,Wind Market
-GB-32,hasenglishname,Middle Ditch
-GB-33,hasenglishname,Knee Yang Gate
-GB-34,hasenglishname,Yang Mound Spring
-GB-35,hasenglishname,Yang Intersection
-GB-36,hasenglishname,Outer Hill
-GB-37,hasenglishname,Bright Light
-GB-38,hasenglishname,Yang Assistance
-GB-39,hasenglishname,Suspended Bell
-GB-40,hasenglishname,Mound of Ruins
-GB-41,hasenglishname,Foot Governor of Tears
-GB-42,hasenglishname,Earth Five Meetings
-GB-43,hasenglishname,Clamped Stream
-GB-44,hasenglishname,Yin Portals of the Foot
-LR-1,hasenglishname,dà dūn
-LR-2,hasenglishname,xíng jiān
-LR-3,hasenglishname,taì chōng
-LR-4,hasenglishname,zhōng fēng
-LR-5,hasenglishname,lǐ gōu
-LR-6,hasenglishname,zhōng dū
-LR-7,hasenglishname,xī guān
-LR-8,hasenglishname,qū quán
-LR-9,hasenglishname,yīn bāo
-LR-10,hasenglishname,zú wǔ li
-LR-11,hasenglishname,yīn lián
-LR-12,hasenglishname,jí mài
-LR-13,hasenglishname,zhāng mén
-LR-14,hasenglishname,qí mén
-GV-1,hasenglishname,cháng qiáng
-GV-2,hasenglishname,yāo shū
-GV-3,hasenglishname,yāo yáng guān
-GV-4,hasenglishname,mìng mén
-GV-5,hasenglishname,xuán shū
-GV-6,hasenglishname,jì zhōng
-GV-7,hasenglishname,zhōng shū
-GV-8,hasenglishname,jīn suō
-GV-9,hasenglishname,zhì yáng
-GV-10,hasenglishname,líng tái
-GV-11,hasenglishname,shén dào
-GV-12,hasenglishname,shēn zhù
-GV-13,hasenglishname,táo dào
-GV-14,hasenglishname,dà zhuī
-GV-15,hasenglishname,yǎ mén
-GV-16,hasenglishname,fēng fǔ
-GV-17,hasenglishname,nǎo hù
-GV-18,hasenglishname,qiáng jiān
-GV-19,hasenglishname,hòu dǐng
-GV-20,hasenglishname,bǎi huì
-GV-21,hasenglishname,qián dǐng
-GV-22,hasenglishname,xìn huì
-GV-23,hasenglishname,shàng xīng
-GV-24,hasenglishname,shén tíng
-GV-25,hasenglishname,sù liáo
-GV-26,hasenglishname,rén zhōng
-GV-27,hasenglishname,duì duān
-GV-28,hasenglishname,yín jiāo
-CV-1,hasenglishname,huì yīn
-CV-2,hasenglishname,qū gǔ
-CV-3,hasenglishname,zhōng jí
-CV-4,hasenglishname,guān yuán
-CV-5,hasenglishname,shí mén
-CV-6,hasenglishname,qì hǎi
-CV-7,hasenglishname,yīn jiāo
-CV-8,hasenglishname,shén què
-CV-9,hasenglishname,shuǐ fēn
-CV-10,hasenglishname,xià wǎn [or xià guǎn]
-CV-11,hasenglishname,jiàn lǐ
-CV-12,hasenglishname,zhōng wǎn [or zhōng guǎn]
-CV-13,hasenglishname,shàng wǎn [or shàng guǎn]
-CV-14,hasenglishname,jù què
-CV-15,hasenglishname,jiū wěi
-CV-16,hasenglishname,zhōng tíng
-CV-17,hasenglishname,shān zhōng
-CV-18,hasenglishname,yù táng
-CV-19,hasenglishname,zǐ gōng
-CV-20,hasenglishname,huá gài
-CV-21,hasenglishname,xuán jī
-CV-22,hasenglishname,tiān tū
-CV-23,hasenglishname,lián quán
-CV-24,hasenglishname,chéng jiāng
+CV1,hasenglishname," Meeting of Yin													"
+CV10,hasenglishname," Lower Epigastrium													"
+CV11,hasenglishname," Building Mile (Interior Strengthening)													"
+CV12,hasenglishname," Middle of Epigastrium													"
+CV13,hasenglishname," Upper Epigastrium (Venter)													"
+CV14,hasenglishname," Great Palace (Great Tower Gate)													"
+CV15,hasenglishname," (Turtle) Dove Tail													"
+CV16,hasenglishname," Central Palace													"
+CV17,hasenglishname," Middle of Chest													"
+CV18,hasenglishname," Jade Hall													"
+CV19,hasenglishname," Purple Palace													"
+CV2,hasenglishname," Curved Bone													"
+CV20,hasenglishname," Floral Canopy													"
+CV21,hasenglishname," Jade Pivot													"
+CV22,hasenglishname," Heaven Projectio (Celestial Chimney)													"
+CV23,hasenglishname," Corner (Ridge) Spring													"
+CV24,hasenglishname," Saliva (Sauce) Receiver													"
+CV3,hasenglishname," Middle Extremity (Central Pole)													"
+CV4,hasenglishname," Gate to the Original Qi													"
+CV5,hasenglishname," Stone Door													"
+CV6,hasenglishname," Sea of Qi													"
+CV7,hasenglishname," Yin Crossing													"
+CV8,hasenglishname," Mind Palace (Spirit Gate)													"
+CV9,hasenglishname," Water Separation													"
+GB1,hasenglishname," Pupil Crevice (Bone Hole)													"
+GB10,hasenglishname," Floating White													"
+GB11,hasenglishname," Head Portal Yin													"
+GB12,hasenglishname," Completion Bone													"
+GB13,hasenglishname," Mind (Spirit) Root													"
+GB14,hasenglishname," Yang White													"
+GB15,hasenglishname," Falling Tears (Head Overlooking Tears)													"
+GB16,hasenglishname," Eye Window													"
+GB17,hasenglishname," Upright Construction													"
+GB18,hasenglishname," Spirit Receiver													"
+GB19,hasenglishname," Brain Hollow													"
+GB2,hasenglishname," Hearing Convergence													"
+GB20,hasenglishname," Wind Pond													"
+GB21,hasenglishname," Shoulder Well													"
+GB22,hasenglishname," Armpit Abyss													"
+GB23,hasenglishname," Sinew Seat													"
+GB24,hasenglishname," Sun and Moon													"
+GB25,hasenglishname," Capital Door													"
+GB26,hasenglishname," Girdle Vessel													"
+GB27,hasenglishname," Fifth Pivot													"
+GB28,hasenglishname," Linking Path													"
+GB29,hasenglishname," Squatting Crevice (Bone Hole)													"
+GB3,hasenglishname," Upper Gate													"
+GB30,hasenglishname," Jumping Circle													"
+GB31,hasenglishname," Wind Market													"
+GB32,hasenglishname," Central River													"
+GB33,hasenglishname," Knee Yang Gate (Joint)													"
+GB34,hasenglishname," Yang Hill Spring													"
+GB35,hasenglishname," Yang Crossing													"
+GB36,hasenglishname," Outer Mound													"
+GB37,hasenglishname," Brightness (Bright Light)													"
+GB38,hasenglishname," Yang Aid													"
+GB39,hasenglishname," Hanging Bell													"
+GB4,hasenglishname," Forehead Fullness													"
+GB40,hasenglishname," Mound (Hill) Ruins													"
+GB41,hasenglishname," Foot Overlooking Tears													"
+GB42,hasenglishname," Earth Fivefold Convergence													"
+GB43,hasenglishname," Stream Insertion (Pinched Ravine)													"
+GB44,hasenglishname," Foot Orifice (Portal) Yin													"
+GB5,hasenglishname," Hanging Skull													"
+GB6,hasenglishname," Deviation from Hanging Skull (Suspended Minute)													"
+GB7,hasenglishname," Temporal Hairline Curve													"
+GB8,hasenglishname," Leading Valley													"
+GB9,hasenglishname," Penetraing Heaven (Celestial Hub)													"
+GV1,hasenglishname," Long Strength (Strong)													"
+GV10,hasenglishname," Spirit Tower													"
+GV11,hasenglishname," Mind Way (Spirit Path)													"
+GV12,hasenglishname," Body Pillar													"
+GV13,hasenglishname," Kiln Way (Path)													"
+GV14,hasenglishname," Big Vertebrae (Great Hammer)													"
+GV15,hasenglishname," Mute's Gate													"
+GV16,hasenglishname," Wind Palace													"
+GV17,hasenglishname," Brain's Window													"
+GV18,hasenglishname," Unyeilding Space													"
+GV19,hasenglishname," Posterior Vertex													"
+GV2,hasenglishname," Lumbar Shu (Door)													"
+GV20,hasenglishname," Hundred Meetings (Convergence)													"
+GV21,hasenglishname," Before the Vertex													"
+GV22,hasenglishname," Fontanel Meeting													"
+GV23,hasenglishname," Upper Star													"
+GV24,hasenglishname," Mind Courtyard (Spirit Court)													"
+GV25,hasenglishname," White Bone-Hole													"
+GV26,hasenglishname," Middle of Person (Water Trough)													"
+GV27,hasenglishname," Extremity of the Mouth													"
+GV28,hasenglishname," Gum Intersection													"
+GV3,hasenglishname," Lumbar Yange Gate													"
+GV4,hasenglishname," Gate of Life													"
+GV5,hasenglishname," Suspended Pivot													"
+GV6,hasenglishname," Center of the Spine													"
+GV7,hasenglishname," Central Pivot													"
+GV8,hasenglishname," Tendon Spasm													"
+GV9,hasenglishname," Reaching Yang (Extremity of Yang)													"
+HE1,hasenglishname," Supreme Spring													"
+HE2,hasenglishname," Blue-Green (Cyan) Spirit													"
+HE3,hasenglishname," Lesser Yin Sea													"
+HE4,hasenglishname," Mind (Sprit) Path													"
+HE5,hasenglishname," Inner Communication													"
+HE6,hasenglishname," Yin Accumulation (Yin Cleft)													"
+HE7,hasenglishname," Mind Door (Spirit Gate)													"
+HE8,hasenglishname," Lesser Yin Mansion													"
+HE9,hasenglishname," Lesser Yin Rushing													"
+KI1,hasenglishname," Bubbling Spring													"
+KI10,hasenglishname," Yin Valley													"
+KI11,hasenglishname," Pubic Bone													"
+KI12,hasenglishname," Great Manifestation													"
+KI13,hasenglishname," Qi Hole													"
+KI14,hasenglishname," Fourfold Fullness													"
+KI15,hasenglishname," Central Flow													"
+KI16,hasenglishname," Vitals (Kidney Region)													"
+KI17,hasenglishname," Shang (Intestine) Bend													"
+KI18,hasenglishname," Stone Gate													"
+KI19,hasenglishname," Yin Metropolis													"
+KI2,hasenglishname," Blazing Balley													"
+KI20,hasenglishname," Open Valley													"
+KI21,hasenglishname," Dark Gate													"
+KI22,hasenglishname," Corridor Walk													"
+KI23,hasenglishname," Mind (Spirit) Seal													"
+KI24,hasenglishname," Spirit Burial-Ground (Ruins)													"
+KI25,hasenglishname," Mind (Spirit) Storehouse													"
+KI26,hasenglishname," Lively Center													"
+KI27,hasenglishname," Shu Mansion													"
+KI3,hasenglishname," Great Stream (Ravine)													"
+KI4,hasenglishname," Big Bell (Large Goblet)													"
+KI5,hasenglishname," Water Spring													"
+KI6,hasenglishname," Shining Sea													"
+KI7,hasenglishname," Returning Current (Recover Flow)													"
+KI8,hasenglishname," Meeting the Spleen Channel													"
+KI9,hasenglishname," Guest Building													"
+LI1,hasenglishname," Metal Yang													"
+LI10,hasenglishname," Arm Three Miles													"
+LI11,hasenglishname," Crooked Pond (Pool at the Bend)													"
+LI12,hasenglishname," Elbow Seam (Elbow Bone-Hole)													"
+LI13,hasenglishname," Five Li (Arm)													"
+LI14,hasenglishname," Arm and Scapula (Upper Arm)													"
+LI15,hasenglishname," Shoulder Transporting Point (Shoulder Bone)													"
+LI16,hasenglishname," Great Bone													"
+LI17,hasenglishname," Celestial Tripod													"
+LI18,hasenglishname,"  Support the Prominence													"
+LI19,hasenglishname," Grain Bone-Hole													"
+LI2,hasenglishname," Second Interval													"
+LI20,hasenglishname," Welcome Fragrance													"
+LI3,hasenglishname," Third Interval													"
+LI4,hasenglishname," Joining (Union) Valley													"
+LI5,hasenglishname," Yang Stream (Ravine)													"
+LI6,hasenglishname," Slanting (Veering) Passage													"
+LI7,hasenglishname," Warm Flow (Warm Dwelling)													"
+LI8,hasenglishname," Lower Corner (Ridge)													"
+LI9,hasenglishname," Upper Corner (Ridge)													"
+LR1,hasenglishname," Big Thick (Large Pile)													"
+LR10,hasenglishname," Five Li (Foot)													"
+LR11,hasenglishname," Yin Corner													"
+LR12,hasenglishname," Urgent Pulse													"
+LR13,hasenglishname," Camphorwood Gate													"
+LR14,hasenglishname," Cycle (Cyclic) Gate													"
+LR2,hasenglishname,Xingjian
+LR3,hasenglishname," Bigger Rushing (Great Surge)													"
+LR4,hasenglishname," Middle Seal (Mound Center)													"
+LR5,hasenglishname," Gourd Ditch (Woodworm Canal)													"
+LR6,hasenglishname," Middle Capital													"
+LR7,hasenglishname," Knee Gate (Knee Joint)													"
+LR8,hasenglishname," Spring at the Bend													"
+LR9,hasenglishname," Yin Bladder													"
+LU1,hasenglishname," Central Residence (Treasury)													"
+LU10,hasenglishname," Fish Border													"
+LU11,hasenglishname," Lesser Metal (Shang)													"
+LU2,hasenglishname," Cloud Door													"
+LU3,hasenglishname," Heavenly Residence (Celestial Storehouse)													"
+LU4,hasenglishname," Standing by White (Guarding White)													"
+LU5,hasenglishname," Foot Marsh (Cubit Marsh)													"
+LU6,hasenglishname," Biggest Hole (Collection Hole)													"
+LU7,hasenglishname," Broken Sequence													"
+LU8,hasenglishname," Channel Canal (Ditch)													"
+LU9,hasenglishname," Great Abyss													"
+PC1,hasenglishname," Heavenly Pond													"
+PC2,hasenglishname," Celestial Spring													"
+PC3,hasenglishname," Marsh at the Bend													"
+PC4,hasenglishname," Xi-Cleft Door													"
+PC5,hasenglishname," Intermediary Messenger													"
+PC6,hasenglishname," Inner Gate													"
+PC7,hasenglishname," Great Hill													"
+PC8,hasenglishname," Labor Palace													"
+PC9,hasenglishname," Central Hub													"
+SI1,hasenglishname," Lesser Marsh													"
+SI10,hasenglishname," Humerus Transporting Point (Upper Arm Point)													"
+SI11,hasenglishname," Heavenly Gathering													"
+SI12,hasenglishname," Grasping Wind													"
+SI13,hasenglishname," Crooked Wall													"
+SI14,hasenglishname," Outer Shoulder Shu													"
+SI15,hasenglishname," Central Shoulder Shu													"
+SI16,hasenglishname," Celestial Window													"
+SI17,hasenglishname," Heaven Appearance													"
+SI18,hasenglishname," Zygoma Crevice													"
+SI19,hasenglishname," Listening Palace													"
+SI2,hasenglishname," Front Valley													"
+SI3,hasenglishname," Back Stream (Ravine)													"
+SI4,hasenglishname," Wrist Bone													"
+SI5,hasenglishname," Yang Valley													"
+SI6,hasenglishname," Nourishing the Old													"
+SI7,hasenglishname," Branch to Heart Channel													"
+SI8,hasenglishname," Small Intestine Sea													"
+SI9,hasenglishname," Upright Shoulder													"
+TE1,hasenglishname," Gate Hub													"
+TE10,hasenglishname," Heavenly (Celestial) Well													"
+TE11,hasenglishname," Clear Cold Abyss													"
+TE12,hasenglishname," Dispersing Riverbed													"
+TE13,hasenglishname," Shoulder (Upper Arm) Convergence													"
+TE14,hasenglishname," Shoulder Crevice (Bone-Hole)													"
+TE15,hasenglishname," HeavenlY Crevice (Bone-Hole)													"
+TE16,hasenglishname," Celestial Oriole													"
+TE17,hasenglishname," Wind Screen													"
+TE18,hasenglishname," Spasm Vessel													"
+TE19,hasenglishname," Resting the Skull													"
+TE2,hasenglishname," Fluid Gate													"
+TE20,hasenglishname," Minute Angle (Angel Vertex)													"
+TE21,hasenglishname," Ear Door													"
+TE22,hasenglishname," Harmony Bone-Hole													"
+TE23,hasenglishname," Silk Bamboo Hole													"
+TE3,hasenglishname," Middle Islet													"
+TE4,hasenglishname," Yang Pond (Pool)													"
+TE5,hasenglishname," Outer Gate (Pass)													"
+TE6,hasenglishname," Branching Ditch													"
+TE7,hasenglishname," Converging Channels													"
+TE8,hasenglishname," Three Yang Connection (Proximity Only)													"
+TE9,hasenglishname," Four Rivers													"
+SP1,hasenglishname," Hidden White													"
+SP10,hasenglishname," Sea of Blood													"
+SP11,hasenglishname," Winnower Gate													"
+SP12,hasenglishname," Rushing Door (Surging Gate)													"
+SP13,hasenglishname," Bowel Residence													"
+SP14,hasenglishname," Abdominal Bind													"
+SP15,hasenglishname," Big Horizontal Stroke													"
+SP16,hasenglishname," Abdominal Lament													"
+SP17,hasenglishname," Food Hole													"
+SP18,hasenglishname," Celestial Gully Stream													"
+SP19,hasenglishname," Chest Village													"
+SP2,hasenglishname," Big Capital (Great Metropolis)													"
+SP20,hasenglishname," All-Round Flourishing													"
+SP21,hasenglishname," General Control (Great Embracement)													"
+SP3,hasenglishname," Greater (Supreme) White													"
+SP4,hasenglishname," Yellow Emperor													"
+SP5,hasenglishname," Gold (or Metal) Mound													"
+SP6,hasenglishname," Three Yin Meeting													"
+SP7,hasenglishname," Leaking Valley													"
+SP8,hasenglishname," Earth's Pivot													"
+SP9,hasenglishname," Yin Mound Spring													"
+ST1,hasenglishname," Containing Tears													"
+ST10,hasenglishname," Water Prominence													"
+ST11,hasenglishname," Qi Abode													"
+ST12,hasenglishname," Empty Basin													"
+ST13,hasenglishname," Qi Door													"
+ST14,hasenglishname," Storeroom													"
+ST15,hasenglishname," Roof													"
+ST16,hasenglishname," Breast Window													"
+ST17,hasenglishname," Breast Center													"
+ST18,hasenglishname," Breast Root													"
+ST19,hasenglishname," Not Contained													"
+ST2,hasenglishname," Four Whites													"
+ST20,hasenglishname," Assuming Fullness													"
+ST21,hasenglishname," Beam Door (Gate)													"
+ST22,hasenglishname," Pass Gate													"
+ST23,hasenglishname," Supreme Unity													"
+ST24,hasenglishname," Slippery Flesh Gate													"
+ST25,hasenglishname," Heavenly Pillar (Celestial Pivot)													"
+ST26,hasenglishname," Outer Mound													"
+ST27,hasenglishname," Big Great (Great Gigantic)													"
+ST28,hasenglishname," Water Passage													"
+ST29,hasenglishname," Return													"
+ST3,hasenglishname," Large Opening (Great Bone Hole)													"
+ST30,hasenglishname," Penetrating (Surging) Qi													"
+ST31,hasenglishname," Thigh Gate (Joint)													"
+ST32,hasenglishname," Hidden (Crouching) Rabbit													"
+ST33,hasenglishname," Yin Market													"
+ST34,hasenglishname," Beam Mound (Hill)													"
+ST35,hasenglishname," Calf Nose (Nostril)													"
+ST36,hasenglishname," Three Miles of the Foot													"
+ST37,hasenglishname," Upper Great Emptiness													"
+ST38,hasenglishname," Narrow (Ribbon) Opening													"
+ST39,hasenglishname," Lower Great Emptiness													"
+ST4,hasenglishname," Earth Grainery													"
+ST40,hasenglishname," Abundant Bulge													"
+ST41,hasenglishname," Dispersing Stream (Ravine Divide)													"
+ST42,hasenglishname," Rushing (Surging) Yang													"
+ST43,hasenglishname," Sinking Valley													"
+ST44,hasenglishname," Inner Courtyard													"
+ST45,hasenglishname," Sick (Severe) Mouth													"
+ST5,hasenglishname," Big Welcome (Great Reception)													"
+ST6,hasenglishname," Jaw Chariot (Bone)													"
+ST7,hasenglishname," Lower Gate (Below the Joint)													"
+ST8,hasenglishname," Head Support (Corner)													"
+ST9,hasenglishname," Person's Outcome (Man's Prognosis)													"
+BL1,hasenglishname," Eye Brightness (Bright Eyes)													"
+BL10,hasenglishname," Heaven's (Celestial) Pillar													"
+BL11,hasenglishname," Big Reed (Great Shuttle)													"
+BL12,hasenglishname," Wind Door (Gate)													"
+BL13,hasenglishname," Lung's Hollow													"
+BL14,hasenglishname," Absolute Yin (Jue Yin) Hollow													"
+BL15,hasenglishname," Heart's Hollow													"
+BL16,hasenglishname," Governing Hollow													"
+BL17,hasenglishname," Diaphragm's Hollow													"
+BL18,hasenglishname," Liver's Hollow													"
+BL19,hasenglishname," Gall Bladder's Hollow													"
+BL2,hasenglishname," Collecting Bamboo													"
+BL20,hasenglishname," Spleen's Hollow													"
+BL21,hasenglishname," Stomach's Hollow													"
+BL22,hasenglishname," Triple Burner's Hollow													"
+BL23,hasenglishname," Kidney's Hollow													"
+BL24,hasenglishname," Sea-of-Qi Shu													"
+BL25,hasenglishname," Large Intestine's Hollow													"
+BL26,hasenglishname," Gates of Origin													"
+BL27,hasenglishname," Small Intestine's Hollow													"
+BL28,hasenglishname," Bladder's Hollow													"
+BL29,hasenglishname," Central Spine Hollow													"
+BL3,hasenglishname," Eyebrow Ascension													"
+BL30,hasenglishname," White Ring Hollow													"
+BL31,hasenglishname," Upper Crevice (Upper Bone Hole)													"
+BL32,hasenglishname," Second Crevice (Second Bone Hole)													"
+BL33,hasenglishname," Central Crevice (Bone-Hole)													"
+BL34,hasenglishname," Lower Crevice													"
+BL35,hasenglishname," Meeting of Yang													"
+BL36,hasenglishname," Receiving Support													"
+BL37,hasenglishname," Huge Gate (Gate of Abundance)													"
+BL38,hasenglishname," Superficial Cleft													"
+BL39,hasenglishname," Supporting Yang (Bent Yang)													"
+BL4,hasenglishname," Deviating Turn													"
+BL40,hasenglishname," Supporting Middle (Bent Middle)													"
+BL41,hasenglishname," Attached Branch													"
+BL42,hasenglishname," Door of the Corporeal Soul (Po)													"
+BL43,hasenglishname," Vitals (Area below the Heart)													"
+BL44,hasenglishname," Mind Hall (Spirit Hall)													"
+BL45,hasenglishname," Yi Xi (Laughing Sound)													"
+BL46,hasenglishname," Diaphragm's Pass													"
+BL47,hasenglishname," Door of the Etheral Soul (Hun)													"
+BL48,hasenglishname," Yang Headrope													"
+BL49,hasenglishname," Thought Shelter (Reflection Abode)													"
+BL5,hasenglishname," Five Places (Fifth Place)													"
+BL50,hasenglishname," Stomach Grainery													"
+BL51,hasenglishname," Vitals Door (Gate)													"
+BL52,hasenglishname," Will Power Chamber													"
+BL53,hasenglishname," Bladder Vitals													"
+BL54,hasenglishname," Lowermost Edge													"
+BL55,hasenglishname," Yang Union													"
+BL56,hasenglishname," Sinew Supporter													"
+BL57,hasenglishname," Supporting Mountain													"
+BL58,hasenglishname," Flying Up (Taking Flight)													"
+BL59,hasenglishname," Instep Yang													"
+BL6,hasenglishname," Light Guard													"
+BL60,hasenglishname," Kunlun Mountains													"
+BL61,hasenglishname," Subservient Visitor													"
+BL62,hasenglishname," Ninth Channel (Extending Vessel)													"
+BL63,hasenglishname," Golden Door													"
+BL64,hasenglishname," Capital Bone													"
+BL65,hasenglishname," Blinding Bone													"
+BL66,hasenglishname," Passing Valley													"
+BL67,hasenglishname," Reaching Yin													"
+BL7,hasenglishname," Reaching Heaven (Celestial Connection)													"
+BL8,hasenglishname," Declining Connection													"
+BL9,hasenglishname," Jade Pillow													"
