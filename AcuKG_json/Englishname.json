@@ -1,361 +1,361 @@
-{"Acupoint_Code":"LU-1","Relation":"hasenglishname","English_Name":"Middle Assembly"}
-{"Acupoint_Code":"LU-2","Relation":"hasenglishname","English_Name":"Cloud Gate"}
-{"Acupoint_Code":"LU-3","Relation":"hasenglishname","English_Name":"Upper Arm Assembly"}
-{"Acupoint_Code":"LU-4","Relation":"hasenglishname","English_Name":"Supporting the Lung"}
-{"Acupoint_Code":"LU-5","Relation":"hasenglishname","English_Name":"Cubit Marsh"}
-{"Acupoint_Code":"LU-6","Relation":"hasenglishname","English_Name":"Collection Hole"}
-{"Acupoint_Code":"LU-7","Relation":"hasenglishname","English_Name":"Interrupted Sequence"}
-{"Acupoint_Code":"LU-8","Relation":"hasenglishname","English_Name":"Channel Ditch"}
-{"Acupoint_Code":"LU-9","Relation":"hasenglishname","English_Name":"Great Deep Pool"}
-{"Acupoint_Code":"LU-10","Relation":"hasenglishname","English_Name":"Fish Border"}
-{"Acupoint_Code":"LU-11","Relation":"hasenglishname","English_Name":"Lesser Metal"}
-{"Acupoint_Code":"LI-1","Relation":"hasenglishname","English_Name":"Metal Yang"}
-{"Acupoint_Code":"LI-2","Relation":"hasenglishname","English_Name":"Second Point"}
-{"Acupoint_Code":"LI-3","Relation":"hasenglishname","English_Name":"Third Point"}
-{"Acupoint_Code":"LI-4","Relation":"hasenglishname","English_Name":"Junction Valley"}
-{"Acupoint_Code":"LI-5","Relation":"hasenglishname","English_Name":"Yang Stream"}
-{"Acupoint_Code":"LI-6","Relation":"hasenglishname","English_Name":"Diverging Passage"}
-{"Acupoint_Code":"LI-7","Relation":"hasenglishname","English_Name":"Warm Flow"}
-{"Acupoint_Code":"LI-8","Relation":"hasenglishname","English_Name":"Lower Point at the Border"}
-{"Acupoint_Code":"LI-9","Relation":"hasenglishname","English_Name":"Upper Point at the Border"}
-{"Acupoint_Code":"LI-10","Relation":"hasenglishname","English_Name":"Arm Three Miles"}
-{"Acupoint_Code":"LI-11","Relation":"hasenglishname","English_Name":"Pool at the Bend"}
-{"Acupoint_Code":"LI-12","Relation":"hasenglishname","English_Name":"Elbow Bone Hole"}
-{"Acupoint_Code":"LI-13","Relation":"hasenglishname","English_Name":"Arm Five Miles"}
-{"Acupoint_Code":"LI-14","Relation":"hasenglishname","English_Name":"Upper Arm"}
-{"Acupoint_Code":"LI-15","Relation":"hasenglishname","English_Name":"Shoulder and Clavicle"}
-{"Acupoint_Code":"LI-16","Relation":"hasenglishname","English_Name":"Large Bone"}
-{"Acupoint_Code":"LI-17","Relation":"hasenglishname","English_Name":"Head's Tripod"}
-{"Acupoint_Code":"LI-18","Relation":"hasenglishname","English_Name":"Beside the Prominence"}
-{"Acupoint_Code":"LI-19","Relation":"hasenglishname","English_Name":"Mouth Grain Hole"}
-{"Acupoint_Code":"LI-20","Relation":"hasenglishname","English_Name":"Receiving Fragrance"}
-{"Acupoint_Code":"ST-1","Relation":"hasenglishname","English_Name":"Tears Container"}
-{"Acupoint_Code":"ST-2","Relation":"hasenglishname","English_Name":"Four Directions Brightness"}
-{"Acupoint_Code":"ST-3","Relation":"hasenglishname","English_Name":"Large Bone Hole"}
-{"Acupoint_Code":"ST-4","Relation":"hasenglishname","English_Name":"Earth Granary"}
-{"Acupoint_Code":"ST-5","Relation":"hasenglishname","English_Name":"Large Receptacle (Facial Artery)"}
-{"Acupoint_Code":"ST-6","Relation":"hasenglishname","English_Name":"Jaw Bone"}
-{"Acupoint_Code":"ST-7","Relation":"hasenglishname","English_Name":"Below the Arch"}
-{"Acupoint_Code":"ST-8","Relation":"hasenglishname","English_Name":"Head's Corner"}
-{"Acupoint_Code":"ST-9","Relation":"hasenglishname","English_Name":"Man'sPrognosis (Carotid Artery)"}
-{"Acupoint_Code":"ST-10","Relation":"hasenglishname","English_Name":"Liquid Passage"}
-{"Acupoint_Code":"ST-11","Relation":"hasenglishname","English_Name":"Residence of Breath Qi"}
-{"Acupoint_Code":"ST-12","Relation":"hasenglishname","English_Name":"Empty Basin"}
-{"Acupoint_Code":"ST-13","Relation":"hasenglishname","English_Name":"Door of Breath"}
-{"Acupoint_Code":"ST-14","Relation":"hasenglishname","English_Name":"Breath Storeroom"}
-{"Acupoint_Code":"ST-15","Relation":"hasenglishname","English_Name":"Hiding the Breath"}
-{"Acupoint_Code":"ST-16","Relation":"hasenglishname","English_Name":"Breast Window"}
-{"Acupoint_Code":"ST-17","Relation":"hasenglishname","English_Name":"Breast Centre (Nipple)"}
-{"Acupoint_Code":"ST-18","Relation":"hasenglishname","English_Name":"Breast Root"}
-{"Acupoint_Code":"ST-19","Relation":"hasenglishname","English_Name":"Not Contained"}
-{"Acupoint_Code":"ST-20","Relation":"hasenglishname","English_Name":"Receiving Fullness"}
-{"Acupoint_Code":"ST-21","Relation":"hasenglishname","English_Name":"Beam Gate"}
-{"Acupoint_Code":"ST-22","Relation":"hasenglishname","English_Name":"Shutting the Gate"}
-{"Acupoint_Code":"ST-23","Relation":"hasenglishname","English_Name":"Great Unity"}
-{"Acupoint_Code":"ST-24","Relation":"hasenglishname","English_Name":"Chime Gate"}
-{"Acupoint_Code":"ST-25","Relation":"hasenglishname","English_Name":"Heavenly Pivot"}
-{"Acupoint_Code":"ST-26","Relation":"hasenglishname","English_Name":"Outer Mound"}
-{"Acupoint_Code":"ST-27","Relation":"hasenglishname","English_Name":"Great Bulge"}
-{"Acupoint_Code":"ST-28","Relation":"hasenglishname","English_Name":"Waterway"}
-{"Acupoint_Code":"ST-29","Relation":"hasenglishname","English_Name":"Restoring Position"}
-{"Acupoint_Code":"ST-30","Relation":"hasenglishname","English_Name":"Qi Surge"}
-{"Acupoint_Code":"ST-31","Relation":"hasenglishname","English_Name":"Thigh Gate"}
-{"Acupoint_Code":"ST-32","Relation":"hasenglishname","English_Name":"Crouching Rabbit"}
-{"Acupoint_Code":"ST-33","Relation":"hasenglishname","English_Name":"Yin Market"}
-{"Acupoint_Code":"ST-34","Relation":"hasenglishname","English_Name":"Ridge Mound"}
-{"Acupoint_Code":"ST-35","Relation":"hasenglishname","English_Name":"Calf's Nose"}
-{"Acupoint_Code":"ST-36","Relation":"hasenglishname","English_Name":"Leg Three Miles"}
-{"Acupoint_Code":"ST-37","Relation":"hasenglishname","English_Name":"Upper Great Void"}
-{"Acupoint_Code":"ST-38","Relation":"hasenglishname","English_Name":"Ribbon Opening"}
-{"Acupoint_Code":"ST-39","Relation":"hasenglishname","English_Name":"Lower Large Hollow"}
-{"Acupoint_Code":"ST-40","Relation":"hasenglishname","English_Name":"Abundant Bulge"}
-{"Acupoint_Code":"ST-41","Relation":"hasenglishname","English_Name":"Dividing Cleft"}
-{"Acupoint_Code":"ST-42","Relation":"hasenglishname","English_Name":"Surging Yang"}
-{"Acupoint_Code":"ST-43","Relation":"hasenglishname","English_Name":"Sunken Valley"}
-{"Acupoint_Code":"ST-44","Relation":"hasenglishname","English_Name":"Inner Court"}
-{"Acupoint_Code":"ST-45","Relation":"hasenglishname","English_Name":"Running Point"}
-{"Acupoint_Code":"SP-1","Relation":"hasenglishname","English_Name":"Hidden White"}
-{"Acupoint_Code":"SP-2","Relation":"hasenglishname","English_Name":"Great Pool"}
-{"Acupoint_Code":"SP-3","Relation":"hasenglishname","English_Name":"Great White"}
-{"Acupoint_Code":"SP-4","Relation":"hasenglishname","English_Name":"Grandfather Grandson"}
-{"Acupoint_Code":"SP-5","Relation":"hasenglishname","English_Name":"Metal Mound"}
-{"Acupoint_Code":"SP-6","Relation":"hasenglishname","English_Name":"Three Yin Intersection"}
-{"Acupoint_Code":"SP-7","Relation":"hasenglishname","English_Name":"Leaking Valley"}
-{"Acupoint_Code":"SP-8","Relation":"hasenglishname","English_Name":"Earth Cure"}
-{"Acupoint_Code":"SP-9","Relation":"hasenglishname","English_Name":"Yin Mound Spring"}
-{"Acupoint_Code":"SP-10","Relation":"hasenglishname","English_Name":"Sea of Blood"}
-{"Acupoint_Code":"SP-11","Relation":"hasenglishname","English_Name":"Separation Gate"}
-{"Acupoint_Code":"SP-12","Relation":"hasenglishname","English_Name":"Surging Gate"}
-{"Acupoint_Code":"SP-13","Relation":"hasenglishname","English_Name":"Bpwel Abode"}
-{"Acupoint_Code":"SP-14","Relation":"hasenglishname","English_Name":"Abdomen Stagnation"}
-{"Acupoint_Code":"SP-15","Relation":"hasenglishname","English_Name":"Great Horizontal"}
-{"Acupoint_Code":"SP-16","Relation":"hasenglishname","English_Name":"Abdomen Suffering"}
-{"Acupoint_Code":"SP-17","Relation":"hasenglishname","English_Name":"Food Cavity"}
-{"Acupoint_Code":"SP-18","Relation":"hasenglishname","English_Name":"Celestial Cleft"}
-{"Acupoint_Code":"SP-19","Relation":"hasenglishname","English_Name":"Chest Village"}
-{"Acupoint_Code":"SP-20","Relation":"hasenglishname","English_Name":"Complete Nourishment"}
-{"Acupoint_Code":"SP-21","Relation":"hasenglishname","English_Name":"Great Embrace"}
-{"Acupoint_Code":"HE-1","Relation":"hasenglishname","English_Name":"Highest Spring"}
-{"Acupoint_Code":"HE-2","Relation":"hasenglishname","English_Name":"Green Spirit"}
-{"Acupoint_Code":"HE-3","Relation":"hasenglishname","English_Name":"Lesser Sea"}
-{"Acupoint_Code":"HE-4","Relation":"hasenglishname","English_Name":"Spirit Path"}
-{"Acupoint_Code":"HE-5","Relation":"hasenglishname","English_Name":"Inward Connection"}
-{"Acupoint_Code":"HE-6","Relation":"hasenglishname","English_Name":"Yin Cleft"}
-{"Acupoint_Code":"HE-7","Relation":"hasenglishname","English_Name":"Spirit Gate"}
-{"Acupoint_Code":"HE-8","Relation":"hasenglishname","English_Name":"Lesser Mansion"}
-{"Acupoint_Code":"HE-9","Relation":"hasenglishname","English_Name":"Lesser Surge"}
-{"Acupoint_Code":"SI-1","Relation":"hasenglishname","English_Name":"Lesser Marsh"}
-{"Acupoint_Code":"SI-2","Relation":"hasenglishname","English_Name":"Front Valley"}
-{"Acupoint_Code":"SI-3","Relation":"hasenglishname","English_Name":"Back Stream"}
-{"Acupoint_Code":"SI-4","Relation":"hasenglishname","English_Name":"Wrist Bone"}
-{"Acupoint_Code":"SI-5","Relation":"hasenglishname","English_Name":"Yang Valley"}
-{"Acupoint_Code":"SI-6","Relation":"hasenglishname","English_Name":"Support the Aged"}
-{"Acupoint_Code":"SI-7","Relation":"hasenglishname","English_Name":"Branch of Upright"}
-{"Acupoint_Code":"SI-8","Relation":"hasenglishname","English_Name":"Small Sea"}
-{"Acupoint_Code":"SI-9","Relation":"hasenglishname","English_Name":"True Shoulder"}
-{"Acupoint_Code":"SI-10","Relation":"hasenglishname","English_Name":"Upper arm transporter"}
-{"Acupoint_Code":"SI-11","Relation":"hasenglishname","English_Name":"Heavenly Gathering"}
-{"Acupoint_Code":"SI-12","Relation":"hasenglishname","English_Name":"Grasping the Wind"}
-{"Acupoint_Code":"SI-13","Relation":"hasenglishname","English_Name":"Crooked Wall"}
-{"Acupoint_Code":"SI-14","Relation":"hasenglishname","English_Name":"Outer Shoulder Transporter"}
-{"Acupoint_Code":"SI-15","Relation":"hasenglishname","English_Name":"Middle Shoulder Transporter"}
-{"Acupoint_Code":"SI-16","Relation":"hasenglishname","English_Name":"Heavenly Window"}
-{"Acupoint_Code":"SI-17","Relation":"hasenglishname","English_Name":"Heavenly Appearance"}
-{"Acupoint_Code":"SI-18","Relation":"hasenglishname","English_Name":"Cheek Bone Crevice"}
-{"Acupoint_Code":"SI-19","Relation":"hasenglishname","English_Name":"Palace of Hearing"}
-{"Acupoint_Code":"BL-1","Relation":"hasenglishname","English_Name":"Bright Eyes"}
-{"Acupoint_Code":"BL-2","Relation":"hasenglishname","English_Name":"Gathered Bamboo"}
-{"Acupoint_Code":"BL-3","Relation":"hasenglishname","English_Name":"Eyebrows' Ascension"}
-{"Acupoint_Code":"BL-4","Relation":"hasenglishname","English_Name":"Deviating Curve"}
-{"Acupoint_Code":"BL-5","Relation":"hasenglishname","English_Name":"Fifth Position"}
-{"Acupoint_Code":"BL-6","Relation":"hasenglishname","English_Name":"Receiving Light"}
-{"Acupoint_Code":"BL-7","Relation":"hasenglishname","English_Name":"Reaching Upward"}
-{"Acupoint_Code":"BL-8","Relation":"hasenglishname","English_Name":"Declining Connection"}
-{"Acupoint_Code":"BL-9","Relation":"hasenglishname","English_Name":"Jade Pillow"}
-{"Acupoint_Code":"BL-10","Relation":"hasenglishname","English_Name":"Upper Pillar"}
-{"Acupoint_Code":"BL-11","Relation":"hasenglishname","English_Name":"Great Vertebra"}
-{"Acupoint_Code":"BL-12","Relation":"hasenglishname","English_Name":"Wind Gate"}
-{"Acupoint_Code":"BL-13","Relation":"hasenglishname","English_Name":"Lung Transporter"}
-{"Acupoint_Code":"BL-14","Relation":"hasenglishname","English_Name":"Absolute yin Transporter"}
-{"Acupoint_Code":"BL-15","Relation":"hasenglishname","English_Name":"Heart Transporter"}
-{"Acupoint_Code":"BL-16","Relation":"hasenglishname","English_Name":"Governor Transporter"}
-{"Acupoint_Code":"BL-17","Relation":"hasenglishname","English_Name":"Diaphragm Transporter"}
-{"Acupoint_Code":"BL-18","Relation":"hasenglishname","English_Name":"Liver Transporter"}
-{"Acupoint_Code":"BL-19","Relation":"hasenglishname","English_Name":"Gallbladder Transporter"}
-{"Acupoint_Code":"BL-20","Relation":"hasenglishname","English_Name":"Spleen Transporter"}
-{"Acupoint_Code":"BL-21","Relation":"hasenglishname","English_Name":"Stomach Transporter"}
-{"Acupoint_Code":"BL-22","Relation":"hasenglishname","English_Name":"Sanjiao Transporter"}
-{"Acupoint_Code":"BL-23","Relation":"hasenglishname","English_Name":"Kidney Transporter"}
-{"Acupoint_Code":"BL-24","Relation":"hasenglishname","English_Name":"Sea of Qi Transporter"}
-{"Acupoint_Code":"BL-25","Relation":"hasenglishname","English_Name":"Large Intestine Transporter"}
-{"Acupoint_Code":"BL-26","Relation":"hasenglishname","English_Name":"Gate of Origin Transporter"}
-{"Acupoint_Code":"BL-27","Relation":"hasenglishname","English_Name":"Small Intestine Transporter"}
-{"Acupoint_Code":"BL-28","Relation":"hasenglishname","English_Name":"Bladder Transporter"}
-{"Acupoint_Code":"BL-29","Relation":"hasenglishname","English_Name":"Mid-Spine Transporter"}
-{"Acupoint_Code":"BL-30","Relation":"hasenglishname","English_Name":"White Ring Transporter"}
-{"Acupoint_Code":"BL-31","Relation":"hasenglishname","English_Name":"Upper Bone Hole"}
-{"Acupoint_Code":"BL-32","Relation":"hasenglishname","English_Name":"Second Bone Hole"}
-{"Acupoint_Code":"BL-33","Relation":"hasenglishname","English_Name":"Middle Bone Hole"}
-{"Acupoint_Code":"BL-34","Relation":"hasenglishname","English_Name":"Lower Bone Hole"}
-{"Acupoint_Code":"BL-35","Relation":"hasenglishname","English_Name":"Meeting of Yang"}
-{"Acupoint_Code":"BL-36","Relation":"hasenglishname","English_Name":"Hold and Support"}
-{"Acupoint_Code":"BL-37","Relation":"hasenglishname","English_Name":"Hanstring Gate"}
-{"Acupoint_Code":"BL-38","Relation":"hasenglishname","English_Name":"Superficial Cleft"}
-{"Acupoint_Code":"BL-39","Relation":"hasenglishname","English_Name":"Lateral End of the Crease"}
-{"Acupoint_Code":"BL-40","Relation":"hasenglishname","English_Name":"Middle of the Crease"}
-{"Acupoint_Code":"BL-41","Relation":"hasenglishname","English_Name":"Outer Branch"}
-{"Acupoint_Code":"BL-42","Relation":"hasenglishname","English_Name":"Door of the Corporeal Soul"}
-{"Acupoint_Code":"BL-43","Relation":"hasenglishname","English_Name":"Vital Region Shu"}
-{"Acupoint_Code":"BL-44","Relation":"hasenglishname","English_Name":"Spirit Hall"}
-{"Acupoint_Code":"BL-45","Relation":"hasenglishname","English_Name":"That Hurt"}
-{"Acupoint_Code":"BL-46","Relation":"hasenglishname","English_Name":"Diaphragm Gate"}
-{"Acupoint_Code":"BL-47","Relation":"hasenglishname","English_Name":"Ethereal Soul Gate"}
-{"Acupoint_Code":"BL-48","Relation":"hasenglishname","English_Name":"Linking to Gall Bladder"}
-{"Acupoint_Code":"BL-49","Relation":"hasenglishname","English_Name":"Abode of Thought"}
-{"Acupoint_Code":"BL-50","Relation":"hasenglishname","English_Name":"Stomach Granary"}
-{"Acupoint_Code":"BL-51","Relation":"hasenglishname","English_Name":"Vitals Gate"}
-{"Acupoint_Code":"BL-52","Relation":"hasenglishname","English_Name":"Willpower Room"}
-{"Acupoint_Code":"BL-53","Relation":"hasenglishname","English_Name":"Bladder's Vitals"}
-{"Acupoint_Code":"BL-54","Relation":"hasenglishname","English_Name":"Lowermost in Order"}
-{"Acupoint_Code":"BL-55","Relation":"hasenglishname","English_Name":"Yang Confluence"}
-{"Acupoint_Code":"BL-56","Relation":"hasenglishname","English_Name":"Sinews Support"}
-{"Acupoint_Code":"BL-57","Relation":"hasenglishname","English_Name":"Mountain Support"}
-{"Acupoint_Code":"BL-58","Relation":"hasenglishname","English_Name":"Taking Flight"}
-{"Acupoint_Code":"BL-59","Relation":"hasenglishname","English_Name":"Tarsus Yang"}
-{"Acupoint_Code":"BL-60","Relation":"hasenglishname","English_Name":"Kunlun Mountains"}
-{"Acupoint_Code":"BL-61","Relation":"hasenglishname","English_Name":"Subservient Visitor"}
-{"Acupoint_Code":"BL-62","Relation":"hasenglishname","English_Name":"Extending Vessel"}
-{"Acupoint_Code":"BL-63","Relation":"hasenglishname","English_Name":"Golden Gate"}
-{"Acupoint_Code":"BL-64","Relation":"hasenglishname","English_Name":"Metatarsal Tuberosity"}
-{"Acupoint_Code":"BL-65","Relation":"hasenglishname","English_Name":"Metatarsal Head"}
-{"Acupoint_Code":"BL-66","Relation":"hasenglishname","English_Name":"Foot Valley Passage"}
-{"Acupoint_Code":"BL-67","Relation":"hasenglishname","English_Name":"Reaching Yin"}
-{"Acupoint_Code":"KI-1","Relation":"hasenglishname","English_Name":"Bubbling Well"}
-{"Acupoint_Code":"KI-2","Relation":"hasenglishname","English_Name":"Blazing Valley"}
-{"Acupoint_Code":"KI-3","Relation":"hasenglishname","English_Name":"Great Stream"}
-{"Acupoint_Code":"KI-4","Relation":"hasenglishname","English_Name":"Large Bell"}
-{"Acupoint_Code":"KI-5","Relation":"hasenglishname","English_Name":"Water Spring"}
-{"Acupoint_Code":"KI-6","Relation":"hasenglishname","English_Name":"Shining Sea"}
-{"Acupoint_Code":"KI-7","Relation":"hasenglishname","English_Name":"Continuing Flow"}
-{"Acupoint_Code":"KI-8","Relation":"hasenglishname","English_Name":"Intersecting with Spleen"}
-{"Acupoint_Code":"KI-9","Relation":"hasenglishname","English_Name":"Strong Knees"}
-{"Acupoint_Code":"KI-10","Relation":"hasenglishname","English_Name":"Yin Valley"}
-{"Acupoint_Code":"KI-11","Relation":"hasenglishname","English_Name":"Pubic Bone"}
-{"Acupoint_Code":"KI-12","Relation":"hasenglishname","English_Name":"Big Plentifulness"}
-{"Acupoint_Code":"KI-13","Relation":"hasenglishname","English_Name":"Kidney Qi Cave"}
-{"Acupoint_Code":"KI-14","Relation":"hasenglishname","English_Name":"Fourth for Fullnesses"}
-{"Acupoint_Code":"KI-15","Relation":"hasenglishname","English_Name":"Pouring into the Middle"}
-{"Acupoint_Code":"KI-16","Relation":"hasenglishname","English_Name":"Vitals Tissues Shu"}
-{"Acupoint_Code":"KI-17","Relation":"hasenglishname","English_Name":"Metal Bend"}
-{"Acupoint_Code":"KI-18","Relation":"hasenglishname","English_Name":"Stone Gate"}
-{"Acupoint_Code":"KI-19","Relation":"hasenglishname","English_Name":"Yin Metropolis"}
-{"Acupoint_Code":"KI-20","Relation":"hasenglishname","English_Name":"Abdominal Food Passage"}
-{"Acupoint_Code":"KI-21","Relation":"hasenglishname","English_Name":"Hidden Gate"}
-{"Acupoint_Code":"KI-22","Relation":"hasenglishname","English_Name":"Stepping Upwards"}
-{"Acupoint_Code":"K-23","Relation":"hasenglishname","English_Name":"Spirit Manor"}
-{"Acupoint_Code":"KI-24","Relation":"hasenglishname","English_Name":"Spirit Ruin"}
-{"Acupoint_Code":"KI-25","Relation":"hasenglishname","English_Name":"Spirit Storehouse"}
-{"Acupoint_Code":"KI-26","Relation":"hasenglishname","English_Name":"Refined Chest"}
-{"Acupoint_Code":"KI-27","Relation":"hasenglishname","English_Name":"Shu Mansion"}
-{"Acupoint_Code":"PC-1","Relation":"hasenglishname","English_Name":"Heavenly Pool"}
-{"Acupoint_Code":"PC-2","Relation":"hasenglishname","English_Name":"Heavenly Spring"}
-{"Acupoint_Code":"PC-3","Relation":"hasenglishname","English_Name":"Marsh at the Crook"}
-{"Acupoint_Code":"PC-4","Relation":"hasenglishname","English_Name":"Xi-Cleft Gate"}
-{"Acupoint_Code":"PC-5","Relation":"hasenglishname","English_Name":"Intermediate Messenger"}
-{"Acupoint_Code":"PC-6","Relation":"hasenglishname","English_Name":"Inner Pass"}
-{"Acupoint_Code":"PC-7","Relation":"hasenglishname","English_Name":"Great Mound"}
-{"Acupoint_Code":"PC-8","Relation":"hasenglishname","English_Name":"Palace of Toil"}
-{"Acupoint_Code":"PC-9","Relation":"hasenglishname","English_Name":"Middle Rushing"}
-{"Acupoint_Code":"TE-1","Relation":"hasenglishname","English_Name":"Surge Gate"}
-{"Acupoint_Code":"TE-2","Relation":"hasenglishname","English_Name":"Fluid Gate"}
-{"Acupoint_Code":"TE-3","Relation":"hasenglishname","English_Name":"Central Islet"}
-{"Acupoint_Code":"TE-4","Relation":"hasenglishname","English_Name":"Yang Pool"}
-{"Acupoint_Code":"TE-5","Relation":"hasenglishname","English_Name":"Outer Pass"}
-{"Acupoint_Code":"TE-6","Relation":"hasenglishname","English_Name":"Branch Ditch"}
-{"Acupoint_Code":"TE-7","Relation":"hasenglishname","English_Name":"Convergence and Gathering"}
-{"Acupoint_Code":"TE-8","Relation":"hasenglishname","English_Name":"Three Yang Connection"}
-{"Acupoint_Code":"TE-9","Relation":"hasenglishname","English_Name":"Four Rivers"}
-{"Acupoint_Code":"TE-10","Relation":"hasenglishname","English_Name":"Upper Well"}
-{"Acupoint_Code":"TE-11","Relation":"hasenglishname","English_Name":"Cooling Deep Pool"}
-{"Acupoint_Code":"TE-12","Relation":"hasenglishname","English_Name":"Draining Marsh"}
-{"Acupoint_Code":"TE-13","Relation":"hasenglishname","English_Name":"Upper Arm Intersection"}
-{"Acupoint_Code":"TE-14","Relation":"hasenglishname","English_Name":"Shoulder Bone Hole"}
-{"Acupoint_Code":"TE-15","Relation":"hasenglishname","English_Name":"Upper Arm Hole"}
-{"Acupoint_Code":"TE-16","Relation":"hasenglishname","English_Name":"Sky Window"}
-{"Acupoint_Code":"TE-17","Relation":"hasenglishname","English_Name":"Wind Screen"}
-{"Acupoint_Code":"TE-18","Relation":"hasenglishname","English_Name":"Convulsion Vessel"}
-{"Acupoint_Code":"TE-19","Relation":"hasenglishname","English_Name":"Head's Tranquility"}
-{"Acupoint_Code":"TE-20","Relation":"hasenglishname","English_Name":"Angle Vertex"}
-{"Acupoint_Code":"TE-21","Relation":"hasenglishname","English_Name":"Ear Gate"}
-{"Acupoint_Code":"TE-22","Relation":"hasenglishname","English_Name":"Ear Harmonising Foramen"}
-{"Acupoint_Code":"TE-23","Relation":"hasenglishname","English_Name":"Silken Bamboo Hollow"}
-{"Acupoint_Code":"GB-1","Relation":"hasenglishname","English_Name":"Pupil Crevice"}
-{"Acupoint_Code":"GB-2","Relation":"hasenglishname","English_Name":"Meeting of Hearing"}
-{"Acupoint_Code":"GB-3","Relation":"hasenglishname","English_Name":"Above the Joint"}
-{"Acupoint_Code":"GB-4","Relation":"hasenglishname","English_Name":"Jaw Serenity"}
-{"Acupoint_Code":"GB-5","Relation":"hasenglishname","English_Name":"Suspended Skull"}
-{"Acupoint_Code":"GB-6","Relation":"hasenglishname","English_Name":"Suspended Hair"}
-{"Acupoint_Code":"GB-7","Relation":"hasenglishname","English_Name":"Crook of the Temple"}
-{"Acupoint_Code":"GB-8","Relation":"hasenglishname","English_Name":"Leading Valley"}
-{"Acupoint_Code":"GB-9","Relation":"hasenglishname","English_Name":"Heavenly Rushing"}
-{"Acupoint_Code":"GB-10","Relation":"hasenglishname","English_Name":"Floating White"}
-{"Acupoint_Code":"GB-11","Relation":"hasenglishname","English_Name":"Yin Portals of the Head"}
-{"Acupoint_Code":"GB-12","Relation":"hasenglishname","English_Name":"Mastoid Process"}
-{"Acupoint_Code":"GB-13","Relation":"hasenglishname","English_Name":"Root of the Spirit"}
-{"Acupoint_Code":"GB-14","Relation":"hasenglishname","English_Name":"Yang White"}
-{"Acupoint_Code":"GB-15","Relation":"hasenglishname","English_Name":"Head Governor of Tears"}
-{"Acupoint_Code":"GB-16","Relation":"hasenglishname","English_Name":"Window of the Eye"}
-{"Acupoint_Code":"GB-17","Relation":"hasenglishname","English_Name":"Upright Nutrition"}
-{"Acupoint_Code":"GB-18","Relation":"hasenglishname","English_Name":"Support Spirit"}
-{"Acupoint_Code":"GB-19","Relation":"hasenglishname","English_Name":"Brain Hollow"}
-{"Acupoint_Code":"GB-20","Relation":"hasenglishname","English_Name":"Wind Pool"}
-{"Acupoint_Code":"GB-21","Relation":"hasenglishname","English_Name":"Shoulder Well"}
-{"Acupoint_Code":"GB-22","Relation":"hasenglishname","English_Name":"Armpit Abyss"}
-{"Acupoint_Code":"GB-23","Relation":"hasenglishname","English_Name":"Flank Sinews"}
-{"Acupoint_Code":"GB-24","Relation":"hasenglishname","English_Name":"Sun and Moon"}
-{"Acupoint_Code":"GB-25","Relation":"hasenglishname","English_Name":"Capital Gate"}
-{"Acupoint_Code":"GB-26","Relation":"hasenglishname","English_Name":"Girdling Vessel"}
-{"Acupoint_Code":"GB-27","Relation":"hasenglishname","English_Name":"Five Pivots"}
-{"Acupoint_Code":"GB-28","Relation":"hasenglishname","English_Name":"Linking Path"}
-{"Acupoint_Code":"GB-29","Relation":"hasenglishname","English_Name":"Stationary Crevice"}
-{"Acupoint_Code":"GB-30","Relation":"hasenglishname","English_Name":"Jumping Circle"}
-{"Acupoint_Code":"GB-31","Relation":"hasenglishname","English_Name":"Wind Market"}
-{"Acupoint_Code":"GB-32","Relation":"hasenglishname","English_Name":"Middle Ditch"}
-{"Acupoint_Code":"GB-33","Relation":"hasenglishname","English_Name":"Knee Yang Gate"}
-{"Acupoint_Code":"GB-34","Relation":"hasenglishname","English_Name":"Yang Mound Spring"}
-{"Acupoint_Code":"GB-35","Relation":"hasenglishname","English_Name":"Yang Intersection"}
-{"Acupoint_Code":"GB-36","Relation":"hasenglishname","English_Name":"Outer Hill"}
-{"Acupoint_Code":"GB-37","Relation":"hasenglishname","English_Name":"Bright Light"}
-{"Acupoint_Code":"GB-38","Relation":"hasenglishname","English_Name":"Yang Assistance"}
-{"Acupoint_Code":"GB-39","Relation":"hasenglishname","English_Name":"Suspended Bell"}
-{"Acupoint_Code":"GB-40","Relation":"hasenglishname","English_Name":"Mound of Ruins"}
-{"Acupoint_Code":"GB-41","Relation":"hasenglishname","English_Name":"Foot Governor of Tears"}
-{"Acupoint_Code":"GB-42","Relation":"hasenglishname","English_Name":"Earth Five Meetings"}
-{"Acupoint_Code":"GB-43","Relation":"hasenglishname","English_Name":"Clamped Stream"}
-{"Acupoint_Code":"GB-44","Relation":"hasenglishname","English_Name":"Yin Portals of the Foot"}
-{"Acupoint_Code":"LR-1","Relation":"hasenglishname","English_Name":"d\u00e0 d\u016bn"}
-{"Acupoint_Code":"LR-2","Relation":"hasenglishname","English_Name":"x\u00edng ji\u0101n"}
-{"Acupoint_Code":"LR-3","Relation":"hasenglishname","English_Name":"ta\u00ec ch\u014dng"}
-{"Acupoint_Code":"LR-4","Relation":"hasenglishname","English_Name":"zh\u014dng f\u0113ng"}
-{"Acupoint_Code":"LR-5","Relation":"hasenglishname","English_Name":"l\u01d0 g\u014du"}
-{"Acupoint_Code":"LR-6","Relation":"hasenglishname","English_Name":"zh\u014dng d\u016b"}
-{"Acupoint_Code":"LR-7","Relation":"hasenglishname","English_Name":"x\u012b gu\u0101n"}
-{"Acupoint_Code":"LR-8","Relation":"hasenglishname","English_Name":"q\u016b qu\u00e1n"}
-{"Acupoint_Code":"LR-9","Relation":"hasenglishname","English_Name":"y\u012bn b\u0101o"}
-{"Acupoint_Code":"LR-10","Relation":"hasenglishname","English_Name":"z\u00fa w\u01d4 li"}
-{"Acupoint_Code":"LR-11","Relation":"hasenglishname","English_Name":"y\u012bn li\u00e1n"}
-{"Acupoint_Code":"LR-12","Relation":"hasenglishname","English_Name":"j\u00ed m\u00e0i"}
-{"Acupoint_Code":"LR-13","Relation":"hasenglishname","English_Name":"zh\u0101ng m\u00e9n"}
-{"Acupoint_Code":"LR-14","Relation":"hasenglishname","English_Name":"q\u00ed m\u00e9n"}
-{"Acupoint_Code":"GV-1","Relation":"hasenglishname","English_Name":"ch\u00e1ng qi\u00e1ng"}
-{"Acupoint_Code":"GV-2","Relation":"hasenglishname","English_Name":"y\u0101o sh\u016b"}
-{"Acupoint_Code":"GV-3","Relation":"hasenglishname","English_Name":"y\u0101o y\u00e1ng gu\u0101n"}
-{"Acupoint_Code":"GV-4","Relation":"hasenglishname","English_Name":"m\u00ecng m\u00e9n"}
-{"Acupoint_Code":"GV-5","Relation":"hasenglishname","English_Name":"xu\u00e1n sh\u016b"}
-{"Acupoint_Code":"GV-6","Relation":"hasenglishname","English_Name":"j\u00ec zh\u014dng"}
-{"Acupoint_Code":"GV-7","Relation":"hasenglishname","English_Name":"zh\u014dng sh\u016b"}
-{"Acupoint_Code":"GV-8","Relation":"hasenglishname","English_Name":"j\u012bn su\u014d"}
-{"Acupoint_Code":"GV-9","Relation":"hasenglishname","English_Name":"zh\u00ec y\u00e1ng"}
-{"Acupoint_Code":"GV-10","Relation":"hasenglishname","English_Name":"l\u00edng t\u00e1i"}
-{"Acupoint_Code":"GV-11","Relation":"hasenglishname","English_Name":"sh\u00e9n d\u00e0o"}
-{"Acupoint_Code":"GV-12","Relation":"hasenglishname","English_Name":"sh\u0113n zh\u00f9"}
-{"Acupoint_Code":"GV-13","Relation":"hasenglishname","English_Name":"t\u00e1o d\u00e0o"}
-{"Acupoint_Code":"GV-14","Relation":"hasenglishname","English_Name":"d\u00e0 zhu\u012b"}
-{"Acupoint_Code":"GV-15","Relation":"hasenglishname","English_Name":"y\u01ce m\u00e9n"}
-{"Acupoint_Code":"GV-16","Relation":"hasenglishname","English_Name":"f\u0113ng f\u01d4"}
-{"Acupoint_Code":"GV-17","Relation":"hasenglishname","English_Name":"n\u01ceo h\u00f9"}
-{"Acupoint_Code":"GV-18","Relation":"hasenglishname","English_Name":"qi\u00e1ng ji\u0101n"}
-{"Acupoint_Code":"GV-19","Relation":"hasenglishname","English_Name":"h\u00f2u d\u01d0ng"}
-{"Acupoint_Code":"GV-20","Relation":"hasenglishname","English_Name":"b\u01cei hu\u00ec"}
-{"Acupoint_Code":"GV-21","Relation":"hasenglishname","English_Name":"qi\u00e1n d\u01d0ng"}
-{"Acupoint_Code":"GV-22","Relation":"hasenglishname","English_Name":"x\u00ecn hu\u00ec"}
-{"Acupoint_Code":"GV-23","Relation":"hasenglishname","English_Name":"sh\u00e0ng x\u012bng"}
-{"Acupoint_Code":"GV-24","Relation":"hasenglishname","English_Name":"sh\u00e9n t\u00edng"}
-{"Acupoint_Code":"GV-25","Relation":"hasenglishname","English_Name":"s\u00f9 li\u00e1o"}
-{"Acupoint_Code":"GV-26","Relation":"hasenglishname","English_Name":"r\u00e9n zh\u014dng"}
-{"Acupoint_Code":"GV-27","Relation":"hasenglishname","English_Name":"du\u00ec du\u0101n"}
-{"Acupoint_Code":"GV-28","Relation":"hasenglishname","English_Name":"y\u00edn ji\u0101o"}
-{"Acupoint_Code":"CV-1","Relation":"hasenglishname","English_Name":"hu\u00ec y\u012bn"}
-{"Acupoint_Code":"CV-2","Relation":"hasenglishname","English_Name":"q\u016b g\u01d4"}
-{"Acupoint_Code":"CV-3","Relation":"hasenglishname","English_Name":"zh\u014dng j\u00ed"}
-{"Acupoint_Code":"CV-4","Relation":"hasenglishname","English_Name":"gu\u0101n yu\u00e1n"}
-{"Acupoint_Code":"CV-5","Relation":"hasenglishname","English_Name":"sh\u00ed m\u00e9n"}
-{"Acupoint_Code":"CV-6","Relation":"hasenglishname","English_Name":"q\u00ec h\u01cei"}
-{"Acupoint_Code":"CV-7","Relation":"hasenglishname","English_Name":"y\u012bn ji\u0101o"}
-{"Acupoint_Code":"CV-8","Relation":"hasenglishname","English_Name":"sh\u00e9n qu\u00e8"}
-{"Acupoint_Code":"CV-9","Relation":"hasenglishname","English_Name":"shu\u01d0 f\u0113n"}
-{"Acupoint_Code":"CV-10","Relation":"hasenglishname","English_Name":"xi\u00e0 w\u01cen [or\u00a0xi\u00e0 gu\u01cen]"}
-{"Acupoint_Code":"CV-11","Relation":"hasenglishname","English_Name":"ji\u00e0n l\u01d0"}
-{"Acupoint_Code":"CV-12","Relation":"hasenglishname","English_Name":"zh\u014dng w\u01cen [or\u00a0zh\u014dng gu\u01cen]"}
-{"Acupoint_Code":"CV-13","Relation":"hasenglishname","English_Name":"sh\u00e0ng w\u01cen [or\u00a0sh\u00e0ng gu\u01cen]"}
-{"Acupoint_Code":"CV-14","Relation":"hasenglishname","English_Name":"j\u00f9 qu\u00e8"}
-{"Acupoint_Code":"CV-15","Relation":"hasenglishname","English_Name":"ji\u016b w\u011bi"}
-{"Acupoint_Code":"CV-16","Relation":"hasenglishname","English_Name":"zh\u014dng t\u00edng"}
-{"Acupoint_Code":"CV-17","Relation":"hasenglishname","English_Name":"sh\u0101n zh\u014dng"}
-{"Acupoint_Code":"CV-18","Relation":"hasenglishname","English_Name":"y\u00f9 t\u00e1ng"}
-{"Acupoint_Code":"CV-19","Relation":"hasenglishname","English_Name":"z\u01d0 g\u014dng"}
-{"Acupoint_Code":"CV-20","Relation":"hasenglishname","English_Name":"hu\u00e1 g\u00e0i"}
-{"Acupoint_Code":"CV-21","Relation":"hasenglishname","English_Name":"xu\u00e1n j\u012b"}
-{"Acupoint_Code":"CV-22","Relation":"hasenglishname","English_Name":"ti\u0101n t\u016b"}
-{"Acupoint_Code":"CV-23","Relation":"hasenglishname","English_Name":"li\u00e1n qu\u00e1n"}
-{"Acupoint_Code":"CV-24","Relation":"hasenglishname","English_Name":"ch\u00e9ng ji\u0101ng"}
+{"Acupoint_Code":"CV1","Relation":"hasenglishname","English_Name":" Meeting of Yin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV10","Relation":"hasenglishname","English_Name":" Lower Epigastrium\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV11","Relation":"hasenglishname","English_Name":" Building Mile (Interior Strengthening)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV12","Relation":"hasenglishname","English_Name":" Middle of Epigastrium\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV13","Relation":"hasenglishname","English_Name":" Upper Epigastrium (Venter)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV14","Relation":"hasenglishname","English_Name":" Great Palace (Great Tower Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV15","Relation":"hasenglishname","English_Name":" (Turtle) Dove Tail\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV16","Relation":"hasenglishname","English_Name":" Central Palace\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV17","Relation":"hasenglishname","English_Name":" Middle of Chest\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV18","Relation":"hasenglishname","English_Name":" Jade Hall\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV19","Relation":"hasenglishname","English_Name":" Purple Palace\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV2","Relation":"hasenglishname","English_Name":" Curved Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV20","Relation":"hasenglishname","English_Name":" Floral Canopy\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV21","Relation":"hasenglishname","English_Name":" Jade Pivot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV22","Relation":"hasenglishname","English_Name":" Heaven Projectio (Celestial Chimney)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV23","Relation":"hasenglishname","English_Name":" Corner (Ridge) Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV24","Relation":"hasenglishname","English_Name":" Saliva (Sauce) Receiver\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV3","Relation":"hasenglishname","English_Name":" Middle Extremity (Central Pole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV4","Relation":"hasenglishname","English_Name":" Gate to the Original Qi\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV5","Relation":"hasenglishname","English_Name":" Stone Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV6","Relation":"hasenglishname","English_Name":" Sea of Qi\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV7","Relation":"hasenglishname","English_Name":" Yin Crossing\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV8","Relation":"hasenglishname","English_Name":" Mind Palace (Spirit Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"CV9","Relation":"hasenglishname","English_Name":" Water Separation\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB1","Relation":"hasenglishname","English_Name":" Pupil Crevice (Bone Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB10","Relation":"hasenglishname","English_Name":" Floating White\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB11","Relation":"hasenglishname","English_Name":" Head Portal Yin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB12","Relation":"hasenglishname","English_Name":" Completion Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB13","Relation":"hasenglishname","English_Name":" Mind (Spirit) Root\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB14","Relation":"hasenglishname","English_Name":" Yang White\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB15","Relation":"hasenglishname","English_Name":" Falling Tears (Head Overlooking Tears)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB16","Relation":"hasenglishname","English_Name":" Eye Window\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB17","Relation":"hasenglishname","English_Name":" Upright Construction\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB18","Relation":"hasenglishname","English_Name":" Spirit Receiver\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB19","Relation":"hasenglishname","English_Name":" Brain Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB2","Relation":"hasenglishname","English_Name":" Hearing Convergence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB20","Relation":"hasenglishname","English_Name":" Wind Pond\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB21","Relation":"hasenglishname","English_Name":" Shoulder Well\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB22","Relation":"hasenglishname","English_Name":" Armpit Abyss\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB23","Relation":"hasenglishname","English_Name":" Sinew Seat\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB24","Relation":"hasenglishname","English_Name":" Sun and Moon\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB25","Relation":"hasenglishname","English_Name":" Capital Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB26","Relation":"hasenglishname","English_Name":" Girdle Vessel\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB27","Relation":"hasenglishname","English_Name":" Fifth Pivot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB28","Relation":"hasenglishname","English_Name":" Linking Path\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB29","Relation":"hasenglishname","English_Name":" Squatting Crevice (Bone Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB3","Relation":"hasenglishname","English_Name":" Upper Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB30","Relation":"hasenglishname","English_Name":" Jumping Circle\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB31","Relation":"hasenglishname","English_Name":" Wind Market\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB32","Relation":"hasenglishname","English_Name":" Central River\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB33","Relation":"hasenglishname","English_Name":" Knee Yang Gate (Joint)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB34","Relation":"hasenglishname","English_Name":" Yang Hill Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB35","Relation":"hasenglishname","English_Name":" Yang Crossing\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB36","Relation":"hasenglishname","English_Name":" Outer Mound\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB37","Relation":"hasenglishname","English_Name":" Brightness (Bright Light)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB38","Relation":"hasenglishname","English_Name":" Yang Aid\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB39","Relation":"hasenglishname","English_Name":" Hanging Bell\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB4","Relation":"hasenglishname","English_Name":" Forehead Fullness\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB40","Relation":"hasenglishname","English_Name":" Mound (Hill) Ruins\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB41","Relation":"hasenglishname","English_Name":" Foot Overlooking Tears\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB42","Relation":"hasenglishname","English_Name":" Earth Fivefold Convergence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB43","Relation":"hasenglishname","English_Name":" Stream Insertion (Pinched Ravine)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB44","Relation":"hasenglishname","English_Name":" Foot Orifice (Portal) Yin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB5","Relation":"hasenglishname","English_Name":" Hanging Skull\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB6","Relation":"hasenglishname","English_Name":" Deviation from Hanging Skull (Suspended Minute)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB7","Relation":"hasenglishname","English_Name":" Temporal Hairline Curve\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB8","Relation":"hasenglishname","English_Name":" Leading Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GB9","Relation":"hasenglishname","English_Name":" Penetraing Heaven (Celestial Hub)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV1","Relation":"hasenglishname","English_Name":" Long Strength (Strong)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV10","Relation":"hasenglishname","English_Name":" Spirit Tower\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV11","Relation":"hasenglishname","English_Name":" Mind Way (Spirit Path)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV12","Relation":"hasenglishname","English_Name":" Body Pillar\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV13","Relation":"hasenglishname","English_Name":" Kiln Way (Path)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV14","Relation":"hasenglishname","English_Name":" Big Vertebrae (Great Hammer)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV15","Relation":"hasenglishname","English_Name":" Mute's Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV16","Relation":"hasenglishname","English_Name":" Wind Palace\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV17","Relation":"hasenglishname","English_Name":" Brain's Window\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV18","Relation":"hasenglishname","English_Name":" Unyeilding Space\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV19","Relation":"hasenglishname","English_Name":" Posterior Vertex\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV2","Relation":"hasenglishname","English_Name":" Lumbar Shu (Door)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV20","Relation":"hasenglishname","English_Name":" Hundred Meetings (Convergence)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV21","Relation":"hasenglishname","English_Name":" Before the Vertex\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV22","Relation":"hasenglishname","English_Name":" Fontanel Meeting\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV23","Relation":"hasenglishname","English_Name":" Upper Star\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV24","Relation":"hasenglishname","English_Name":" Mind Courtyard (Spirit Court)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV25","Relation":"hasenglishname","English_Name":" White Bone-Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV26","Relation":"hasenglishname","English_Name":" Middle of Person (Water Trough)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV27","Relation":"hasenglishname","English_Name":" Extremity of the Mouth\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV28","Relation":"hasenglishname","English_Name":" Gum Intersection\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV3","Relation":"hasenglishname","English_Name":" Lumbar Yange Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV4","Relation":"hasenglishname","English_Name":" Gate of Life\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV5","Relation":"hasenglishname","English_Name":" Suspended Pivot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV6","Relation":"hasenglishname","English_Name":" Center of the Spine\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV7","Relation":"hasenglishname","English_Name":" Central Pivot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV8","Relation":"hasenglishname","English_Name":" Tendon Spasm\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"GV9","Relation":"hasenglishname","English_Name":" Reaching Yang (Extremity of Yang)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE1","Relation":"hasenglishname","English_Name":" Supreme Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE2","Relation":"hasenglishname","English_Name":" Blue-Green (Cyan) Spirit\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE3","Relation":"hasenglishname","English_Name":" Lesser Yin Sea\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE4","Relation":"hasenglishname","English_Name":" Mind (Sprit) Path\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE5","Relation":"hasenglishname","English_Name":" Inner Communication\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE6","Relation":"hasenglishname","English_Name":" Yin Accumulation (Yin Cleft)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE7","Relation":"hasenglishname","English_Name":" Mind Door (Spirit Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE8","Relation":"hasenglishname","English_Name":" Lesser Yin Mansion\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"HE9","Relation":"hasenglishname","English_Name":" Lesser Yin Rushing\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI1","Relation":"hasenglishname","English_Name":" Bubbling Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI10","Relation":"hasenglishname","English_Name":" Yin Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI11","Relation":"hasenglishname","English_Name":" Pubic Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI12","Relation":"hasenglishname","English_Name":" Great Manifestation\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI13","Relation":"hasenglishname","English_Name":" Qi Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI14","Relation":"hasenglishname","English_Name":" Fourfold Fullness\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI15","Relation":"hasenglishname","English_Name":" Central Flow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI16","Relation":"hasenglishname","English_Name":" Vitals (Kidney Region)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI17","Relation":"hasenglishname","English_Name":" Shang (Intestine) Bend\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI18","Relation":"hasenglishname","English_Name":" Stone Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI19","Relation":"hasenglishname","English_Name":" Yin Metropolis\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI2","Relation":"hasenglishname","English_Name":" Blazing Balley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI20","Relation":"hasenglishname","English_Name":" Open Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI21","Relation":"hasenglishname","English_Name":" Dark Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI22","Relation":"hasenglishname","English_Name":" Corridor Walk\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI23","Relation":"hasenglishname","English_Name":" Mind (Spirit) Seal\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI24","Relation":"hasenglishname","English_Name":" Spirit Burial-Ground (Ruins)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI25","Relation":"hasenglishname","English_Name":" Mind (Spirit) Storehouse\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI26","Relation":"hasenglishname","English_Name":" Lively Center\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI27","Relation":"hasenglishname","English_Name":" Shu Mansion\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI3","Relation":"hasenglishname","English_Name":" Great Stream (Ravine)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI4","Relation":"hasenglishname","English_Name":" Big Bell (Large Goblet)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI5","Relation":"hasenglishname","English_Name":" Water Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI6","Relation":"hasenglishname","English_Name":" Shining Sea\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI7","Relation":"hasenglishname","English_Name":" Returning Current (Recover Flow)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI8","Relation":"hasenglishname","English_Name":" Meeting the Spleen Channel\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"KI9","Relation":"hasenglishname","English_Name":" Guest Building\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI1","Relation":"hasenglishname","English_Name":" Metal Yang\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI10","Relation":"hasenglishname","English_Name":" Arm Three Miles\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI11","Relation":"hasenglishname","English_Name":" Crooked Pond (Pool at the Bend)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI12","Relation":"hasenglishname","English_Name":" Elbow Seam (Elbow Bone-Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI13","Relation":"hasenglishname","English_Name":" Five Li (Arm)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI14","Relation":"hasenglishname","English_Name":" Arm and Scapula (Upper Arm)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI15","Relation":"hasenglishname","English_Name":" Shoulder Transporting Point (Shoulder Bone)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI16","Relation":"hasenglishname","English_Name":" Great Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI17","Relation":"hasenglishname","English_Name":" Celestial Tripod\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI18","Relation":"hasenglishname","English_Name":"  Support the Prominence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI19","Relation":"hasenglishname","English_Name":" Grain Bone-Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI2","Relation":"hasenglishname","English_Name":" Second Interval\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI20","Relation":"hasenglishname","English_Name":" Welcome Fragrance\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI3","Relation":"hasenglishname","English_Name":" Third Interval\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI4","Relation":"hasenglishname","English_Name":" Joining (Union) Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI5","Relation":"hasenglishname","English_Name":" Yang Stream (Ravine)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI6","Relation":"hasenglishname","English_Name":" Slanting (Veering) Passage\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI7","Relation":"hasenglishname","English_Name":" Warm Flow (Warm Dwelling)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI8","Relation":"hasenglishname","English_Name":" Lower Corner (Ridge)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LI9","Relation":"hasenglishname","English_Name":" Upper Corner (Ridge)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR1","Relation":"hasenglishname","English_Name":" Big Thick (Large Pile)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR10","Relation":"hasenglishname","English_Name":" Five Li (Foot)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR11","Relation":"hasenglishname","English_Name":" Yin Corner\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR12","Relation":"hasenglishname","English_Name":" Urgent Pulse\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR13","Relation":"hasenglishname","English_Name":" Camphorwood Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR14","Relation":"hasenglishname","English_Name":" Cycle (Cyclic) Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR2","Relation":"hasenglishname","English_Name":"Xingjian"}
+{"Acupoint_Code":"LR3","Relation":"hasenglishname","English_Name":" Bigger Rushing (Great Surge)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR4","Relation":"hasenglishname","English_Name":" Middle Seal (Mound Center)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR5","Relation":"hasenglishname","English_Name":" Gourd Ditch (Woodworm Canal)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR6","Relation":"hasenglishname","English_Name":" Middle Capital\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR7","Relation":"hasenglishname","English_Name":" Knee Gate (Knee Joint)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR8","Relation":"hasenglishname","English_Name":" Spring at the Bend\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LR9","Relation":"hasenglishname","English_Name":" Yin Bladder\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU1","Relation":"hasenglishname","English_Name":" Central Residence (Treasury)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU10","Relation":"hasenglishname","English_Name":" Fish Border\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU11","Relation":"hasenglishname","English_Name":" Lesser Metal (Shang)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU2","Relation":"hasenglishname","English_Name":" Cloud Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU3","Relation":"hasenglishname","English_Name":" Heavenly Residence (Celestial Storehouse)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU4","Relation":"hasenglishname","English_Name":" Standing by White (Guarding White)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU5","Relation":"hasenglishname","English_Name":" Foot Marsh (Cubit Marsh)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU6","Relation":"hasenglishname","English_Name":" Biggest Hole (Collection Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU7","Relation":"hasenglishname","English_Name":" Broken Sequence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU8","Relation":"hasenglishname","English_Name":" Channel Canal (Ditch)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"LU9","Relation":"hasenglishname","English_Name":" Great Abyss\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC1","Relation":"hasenglishname","English_Name":" Heavenly Pond\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC2","Relation":"hasenglishname","English_Name":" Celestial Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC3","Relation":"hasenglishname","English_Name":" Marsh at the Bend\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC4","Relation":"hasenglishname","English_Name":" Xi-Cleft Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC5","Relation":"hasenglishname","English_Name":" Intermediary Messenger\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC6","Relation":"hasenglishname","English_Name":" Inner Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC7","Relation":"hasenglishname","English_Name":" Great Hill\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC8","Relation":"hasenglishname","English_Name":" Labor Palace\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"PC9","Relation":"hasenglishname","English_Name":" Central Hub\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI1","Relation":"hasenglishname","English_Name":" Lesser Marsh\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI10","Relation":"hasenglishname","English_Name":" Humerus Transporting Point (Upper Arm Point)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI11","Relation":"hasenglishname","English_Name":" Heavenly Gathering\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI12","Relation":"hasenglishname","English_Name":" Grasping Wind\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI13","Relation":"hasenglishname","English_Name":" Crooked Wall\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI14","Relation":"hasenglishname","English_Name":" Outer Shoulder Shu\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI15","Relation":"hasenglishname","English_Name":" Central Shoulder Shu\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI16","Relation":"hasenglishname","English_Name":" Celestial Window\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI17","Relation":"hasenglishname","English_Name":" Heaven Appearance\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI18","Relation":"hasenglishname","English_Name":" Zygoma Crevice\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI19","Relation":"hasenglishname","English_Name":" Listening Palace\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI2","Relation":"hasenglishname","English_Name":" Front Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI3","Relation":"hasenglishname","English_Name":" Back Stream (Ravine)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI4","Relation":"hasenglishname","English_Name":" Wrist Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI5","Relation":"hasenglishname","English_Name":" Yang Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI6","Relation":"hasenglishname","English_Name":" Nourishing the Old\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI7","Relation":"hasenglishname","English_Name":" Branch to Heart Channel\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI8","Relation":"hasenglishname","English_Name":" Small Intestine Sea\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SI9","Relation":"hasenglishname","English_Name":" Upright Shoulder\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE1","Relation":"hasenglishname","English_Name":" Gate Hub\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE10","Relation":"hasenglishname","English_Name":" Heavenly (Celestial) Well\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE11","Relation":"hasenglishname","English_Name":" Clear Cold Abyss\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE12","Relation":"hasenglishname","English_Name":" Dispersing Riverbed\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE13","Relation":"hasenglishname","English_Name":" Shoulder (Upper Arm) Convergence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE14","Relation":"hasenglishname","English_Name":" Shoulder Crevice (Bone-Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE15","Relation":"hasenglishname","English_Name":" HeavenlY Crevice (Bone-Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE16","Relation":"hasenglishname","English_Name":" Celestial Oriole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE17","Relation":"hasenglishname","English_Name":" Wind Screen\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE18","Relation":"hasenglishname","English_Name":" Spasm Vessel\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE19","Relation":"hasenglishname","English_Name":" Resting the Skull\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE2","Relation":"hasenglishname","English_Name":" Fluid Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE20","Relation":"hasenglishname","English_Name":" Minute Angle (Angel Vertex)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE21","Relation":"hasenglishname","English_Name":" Ear Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE22","Relation":"hasenglishname","English_Name":" Harmony Bone-Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE23","Relation":"hasenglishname","English_Name":" Silk Bamboo Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE3","Relation":"hasenglishname","English_Name":" Middle Islet\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE4","Relation":"hasenglishname","English_Name":" Yang Pond (Pool)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE5","Relation":"hasenglishname","English_Name":" Outer Gate (Pass)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE6","Relation":"hasenglishname","English_Name":" Branching Ditch\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE7","Relation":"hasenglishname","English_Name":" Converging Channels\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE8","Relation":"hasenglishname","English_Name":" Three Yang Connection (Proximity Only)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"TE9","Relation":"hasenglishname","English_Name":" Four Rivers\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP1","Relation":"hasenglishname","English_Name":" Hidden White\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP10","Relation":"hasenglishname","English_Name":" Sea of Blood\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP11","Relation":"hasenglishname","English_Name":" Winnower Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP12","Relation":"hasenglishname","English_Name":" Rushing Door (Surging Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP13","Relation":"hasenglishname","English_Name":" Bowel Residence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP14","Relation":"hasenglishname","English_Name":" Abdominal Bind\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP15","Relation":"hasenglishname","English_Name":" Big Horizontal Stroke\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP16","Relation":"hasenglishname","English_Name":" Abdominal Lament\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP17","Relation":"hasenglishname","English_Name":" Food Hole\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP18","Relation":"hasenglishname","English_Name":" Celestial Gully Stream\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP19","Relation":"hasenglishname","English_Name":" Chest Village\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP2","Relation":"hasenglishname","English_Name":" Big Capital (Great Metropolis)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP20","Relation":"hasenglishname","English_Name":" All-Round Flourishing\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP21","Relation":"hasenglishname","English_Name":" General Control (Great Embracement)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP3","Relation":"hasenglishname","English_Name":" Greater (Supreme) White\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP4","Relation":"hasenglishname","English_Name":" Yellow Emperor\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP5","Relation":"hasenglishname","English_Name":" Gold (or Metal) Mound\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP6","Relation":"hasenglishname","English_Name":" Three Yin Meeting\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP7","Relation":"hasenglishname","English_Name":" Leaking Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP8","Relation":"hasenglishname","English_Name":" Earth's Pivot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"SP9","Relation":"hasenglishname","English_Name":" Yin Mound Spring\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST1","Relation":"hasenglishname","English_Name":" Containing Tears\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST10","Relation":"hasenglishname","English_Name":" Water Prominence\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST11","Relation":"hasenglishname","English_Name":" Qi Abode\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST12","Relation":"hasenglishname","English_Name":" Empty Basin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST13","Relation":"hasenglishname","English_Name":" Qi Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST14","Relation":"hasenglishname","English_Name":" Storeroom\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST15","Relation":"hasenglishname","English_Name":" Roof\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST16","Relation":"hasenglishname","English_Name":" Breast Window\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST17","Relation":"hasenglishname","English_Name":" Breast Center\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST18","Relation":"hasenglishname","English_Name":" Breast Root\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST19","Relation":"hasenglishname","English_Name":" Not Contained\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST2","Relation":"hasenglishname","English_Name":" Four Whites\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST20","Relation":"hasenglishname","English_Name":" Assuming Fullness\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST21","Relation":"hasenglishname","English_Name":" Beam Door (Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST22","Relation":"hasenglishname","English_Name":" Pass Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST23","Relation":"hasenglishname","English_Name":" Supreme Unity\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST24","Relation":"hasenglishname","English_Name":" Slippery Flesh Gate\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST25","Relation":"hasenglishname","English_Name":" Heavenly Pillar (Celestial Pivot)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST26","Relation":"hasenglishname","English_Name":" Outer Mound\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST27","Relation":"hasenglishname","English_Name":" Big Great (Great Gigantic)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST28","Relation":"hasenglishname","English_Name":" Water Passage\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST29","Relation":"hasenglishname","English_Name":" Return\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST3","Relation":"hasenglishname","English_Name":" Large Opening (Great Bone Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST30","Relation":"hasenglishname","English_Name":" Penetrating (Surging) Qi\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST31","Relation":"hasenglishname","English_Name":" Thigh Gate (Joint)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST32","Relation":"hasenglishname","English_Name":" Hidden (Crouching) Rabbit\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST33","Relation":"hasenglishname","English_Name":" Yin Market\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST34","Relation":"hasenglishname","English_Name":" Beam Mound (Hill)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST35","Relation":"hasenglishname","English_Name":" Calf Nose (Nostril)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST36","Relation":"hasenglishname","English_Name":" Three Miles of the Foot\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST37","Relation":"hasenglishname","English_Name":" Upper Great Emptiness\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST38","Relation":"hasenglishname","English_Name":" Narrow (Ribbon) Opening\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST39","Relation":"hasenglishname","English_Name":" Lower Great Emptiness\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST4","Relation":"hasenglishname","English_Name":" Earth Grainery\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST40","Relation":"hasenglishname","English_Name":" Abundant Bulge\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST41","Relation":"hasenglishname","English_Name":" Dispersing Stream (Ravine Divide)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST42","Relation":"hasenglishname","English_Name":" Rushing (Surging) Yang\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST43","Relation":"hasenglishname","English_Name":" Sinking Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST44","Relation":"hasenglishname","English_Name":" Inner Courtyard\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST45","Relation":"hasenglishname","English_Name":" Sick (Severe) Mouth\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST5","Relation":"hasenglishname","English_Name":" Big Welcome (Great Reception)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST6","Relation":"hasenglishname","English_Name":" Jaw Chariot (Bone)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST7","Relation":"hasenglishname","English_Name":" Lower Gate (Below the Joint)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST8","Relation":"hasenglishname","English_Name":" Head Support (Corner)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"ST9","Relation":"hasenglishname","English_Name":" Person's Outcome (Man's Prognosis)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL1","Relation":"hasenglishname","English_Name":" Eye Brightness (Bright Eyes)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL10","Relation":"hasenglishname","English_Name":" Heaven's (Celestial) Pillar\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL11","Relation":"hasenglishname","English_Name":" Big Reed (Great Shuttle)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL12","Relation":"hasenglishname","English_Name":" Wind Door (Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL13","Relation":"hasenglishname","English_Name":" Lung's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL14","Relation":"hasenglishname","English_Name":" Absolute Yin (Jue Yin) Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL15","Relation":"hasenglishname","English_Name":" Heart's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL16","Relation":"hasenglishname","English_Name":" Governing Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL17","Relation":"hasenglishname","English_Name":" Diaphragm's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL18","Relation":"hasenglishname","English_Name":" Liver's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL19","Relation":"hasenglishname","English_Name":" Gall Bladder's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL2","Relation":"hasenglishname","English_Name":" Collecting Bamboo\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL20","Relation":"hasenglishname","English_Name":" Spleen's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL21","Relation":"hasenglishname","English_Name":" Stomach's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL22","Relation":"hasenglishname","English_Name":" Triple Burner's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL23","Relation":"hasenglishname","English_Name":" Kidney's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL24","Relation":"hasenglishname","English_Name":" Sea-of-Qi Shu\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL25","Relation":"hasenglishname","English_Name":" Large Intestine's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL26","Relation":"hasenglishname","English_Name":" Gates of Origin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL27","Relation":"hasenglishname","English_Name":" Small Intestine's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL28","Relation":"hasenglishname","English_Name":" Bladder's Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL29","Relation":"hasenglishname","English_Name":" Central Spine Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL3","Relation":"hasenglishname","English_Name":" Eyebrow Ascension\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL30","Relation":"hasenglishname","English_Name":" White Ring Hollow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL31","Relation":"hasenglishname","English_Name":" Upper Crevice (Upper Bone Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL32","Relation":"hasenglishname","English_Name":" Second Crevice (Second Bone Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL33","Relation":"hasenglishname","English_Name":" Central Crevice (Bone-Hole)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL34","Relation":"hasenglishname","English_Name":" Lower Crevice\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL35","Relation":"hasenglishname","English_Name":" Meeting of Yang\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL36","Relation":"hasenglishname","English_Name":" Receiving Support\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL37","Relation":"hasenglishname","English_Name":" Huge Gate (Gate of Abundance)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL38","Relation":"hasenglishname","English_Name":" Superficial Cleft\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL39","Relation":"hasenglishname","English_Name":" Supporting Yang (Bent Yang)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL4","Relation":"hasenglishname","English_Name":" Deviating Turn\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL40","Relation":"hasenglishname","English_Name":" Supporting Middle (Bent Middle)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL41","Relation":"hasenglishname","English_Name":" Attached Branch\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL42","Relation":"hasenglishname","English_Name":" Door of the Corporeal Soul (Po)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL43","Relation":"hasenglishname","English_Name":" Vitals (Area below the Heart)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL44","Relation":"hasenglishname","English_Name":" Mind Hall (Spirit Hall)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL45","Relation":"hasenglishname","English_Name":" Yi Xi (Laughing Sound)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL46","Relation":"hasenglishname","English_Name":" Diaphragm's Pass\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL47","Relation":"hasenglishname","English_Name":" Door of the Etheral Soul (Hun)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL48","Relation":"hasenglishname","English_Name":" Yang Headrope\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL49","Relation":"hasenglishname","English_Name":" Thought Shelter (Reflection Abode)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL5","Relation":"hasenglishname","English_Name":" Five Places (Fifth Place)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL50","Relation":"hasenglishname","English_Name":" Stomach Grainery\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL51","Relation":"hasenglishname","English_Name":" Vitals Door (Gate)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL52","Relation":"hasenglishname","English_Name":" Will Power Chamber\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL53","Relation":"hasenglishname","English_Name":" Bladder Vitals\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL54","Relation":"hasenglishname","English_Name":" Lowermost Edge\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL55","Relation":"hasenglishname","English_Name":" Yang Union\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL56","Relation":"hasenglishname","English_Name":" Sinew Supporter\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL57","Relation":"hasenglishname","English_Name":" Supporting Mountain\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL58","Relation":"hasenglishname","English_Name":" Flying Up (Taking Flight)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL59","Relation":"hasenglishname","English_Name":" Instep Yang\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL6","Relation":"hasenglishname","English_Name":" Light Guard\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL60","Relation":"hasenglishname","English_Name":" Kunlun Mountains\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL61","Relation":"hasenglishname","English_Name":" Subservient Visitor\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL62","Relation":"hasenglishname","English_Name":" Ninth Channel (Extending Vessel)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL63","Relation":"hasenglishname","English_Name":" Golden Door\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL64","Relation":"hasenglishname","English_Name":" Capital Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL65","Relation":"hasenglishname","English_Name":" Blinding Bone\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL66","Relation":"hasenglishname","English_Name":" Passing Valley\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL67","Relation":"hasenglishname","English_Name":" Reaching Yin\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL7","Relation":"hasenglishname","English_Name":" Reaching Heaven (Celestial Connection)\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL8","Relation":"hasenglishname","English_Name":" Declining Connection\t\t\t\t\t\t\t\t\t\t\t\t\t"}
+{"Acupoint_Code":"BL9","Relation":"hasenglishname","English_Name":" Jade Pillow\t\t\t\t\t\t\t\t\t\t\t\t\t"}
