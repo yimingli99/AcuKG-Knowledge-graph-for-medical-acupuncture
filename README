@@ -57,4 +57,7 @@ AcuKG is built from multiple data sources, structured into CSV files:
 - **Clinical Decision Support**: AcuKG helps practitioners identify effective acupoints for specific conditions based on evidence-based insights.
 - **Medical Knowledge Integration**: Provides interoperability with standardized medical ontologies for broader healthcare applications.
 
+## **Please Cite**
+Yiming Li, Xueqing Peng, Suyuan Peng, Jianfu Li, Donghong Pei, Qin Zhang, Yiwei Lu, Yan Hu, Fang Li, Li Zhou, Yongqun He, Cui Tao, Hua Xu, Na Hong, AcuKG: a comprehensive knowledge graph for medical acupuncture, Journal of the American Medical Informatics Association, 2025;, ocaf179, https://doi.org/10.1093/jamia/ocaf179
+
 
