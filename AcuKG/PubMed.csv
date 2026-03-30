@@ -1,0 +1,456 @@
+Acupoint_Code,Relation,Mesh_Term,Mesh_Id,PMID_freq,PMIDs
+BL1,pubmed,Dry Eye Syndromes,D015352,2,"29851826, 35897025"
+BL1,pubmed,Quality of Life,D011788,1,35897025
+BL10,pubmed,Quality of Life,D011788,1,32029008
+BL11,pubmed,Quality of Life,D011788,2,"32029008, 32925788"
+BL11,pubmed,Radiculopathy,D011843,1,32029008
+BL11,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+BL12,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+BL13,pubmed,Asthma,D001249,2,"32509851, 32727619"
+BL13,pubmed,Obesity,D009765,1,31775839
+BL13,pubmed,Quality of Life,D011788,1,32727619
+BL13,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+BL13,pubmed,Weight Loss,D015431,1,31775839
+BL15,pubmed,"Angina, Stable",D060050,1,33158451
+BL18,pubmed,Quality of Life,D011788,2,"32925788, 31774002"
+BL20,pubmed,"Fatigue Syndrome, Chronic",D015673,1,23693129
+BL20,pubmed,Obesity,D009765,2,"33235115, 31775839"
+BL20,pubmed,Quality of Life,D011788,1,32925788
+BL20,pubmed,Weight Loss,D015431,2,"35966092, 31775839"
+BL21,pubmed,Obesity,D009765,1,33235115
+BL23,pubmed,Asthma,D001249,2,"32509851, 32727619"
+BL23,pubmed,Chronic Disease,D002908,1,20540806
+BL23,pubmed,"Fatigue Syndrome, Chronic",D015673,2,"23693129, 30832713"
+BL23,pubmed,Low Back Pain,D017116,3,"26069973, 20540806, 21663617"
+BL23,pubmed,Obesity,D009765,1,31775839
+BL23,pubmed,Quality of Life,D011788,3,"31774002, 32925788, 32727619"
+BL23,pubmed,Weight Loss,D015431,1,31775839
+BL24,pubmed,Chronic Disease,D002908,1,20540806
+BL24,pubmed,Low Back Pain,D017116,3,"20540806, 26069973, 21663617"
+BL25,pubmed,Chronic Disease,D002908,1,20540806
+BL25,pubmed,Constipation,D003248,1,22759406
+BL25,pubmed,Low Back Pain,D017116,3,"20540806, 26069973, 21663617"
+BL32,pubmed,Dysmenorrhea,D004412,1,29970155
+BL37,pubmed,Chronic Disease,D002908,1,20540806
+BL39,pubmed,"Osteoarthritis, Knee",D020370,1,23782709
+BL40,pubmed,Chronic Disease,D002908,1,20540806
+BL40,pubmed,Chronic Pain,D059350,1,28445309
+BL57,pubmed,Muscle Spasticity,D009128,1,25643051
+BL60,pubmed,Chronic Pain,D059350,1,28445309
+BL60,pubmed,"Osteoarthritis, Knee",D020370,1,23782709
+CV12,pubmed,Abdominal Pain,D015746,1,29769133
+CV12,pubmed,Acute Disease,D000208,1,29769133
+CV12,pubmed,Chronic Pain,D059350,1,28445309
+CV12,pubmed,Fatigue,D005221,3,"35616251, 31706345, 28679410"
+CV12,pubmed,Gastroparesis,D018589,1,32399130
+CV12,pubmed,Nausea,D009325,3,"29029639, 27821107, 25963295"
+CV12,pubmed,Obesity,D009765,3,"27457720, 31775839, 33235115"
+CV12,pubmed,Quality of Life,D011788,4,"29029639, 31706345, 25963295, 31937335"
+CV12,pubmed,Vomiting,D014839,3,"29029639, 27821107, 25963295"
+CV12,pubmed,Weight Loss,D015431,3,"27457720, 31775839, 35966092"
+CV13,pubmed,Abdominal Pain,D015746,1,29769133
+CV13,pubmed,Acute Disease,D000208,1,29769133
+CV13,pubmed,Vomiting,D014839,1,27821107
+CV14,pubmed,"Angina, Stable",D060050,1,33158451
+CV14,pubmed,Quality of Life,D011788,1,32576237
+CV3,pubmed,Dysmenorrhea,D004412,1,33592837
+CV4,pubmed,Dysmenorrhea,D004412,3,"32195949, 29970155, 33592837"
+CV4,pubmed,Fatigue,D005221,3,"35616251, 31706345, 27495269"
+CV4,pubmed,"Fatigue Syndrome, Chronic",D015673,2,"27886247, 30832713"
+CV4,pubmed,Obesity,D009765,1,31775839
+CV4,pubmed,Quality of Life,D011788,5,"24886348, 32195949, 31706345, 27495269, 31774002"
+CV4,pubmed,Stroke,D020521,1,30397007
+CV4,pubmed,Weight Loss,D015431,1,31775839
+CV5,pubmed,Dysmenorrhea,D004412,1,29970155
+CV6,pubmed,Dysmenorrhea,D004412,1,33592837
+CV6,pubmed,Fatigue,D005221,3,"35616251, 31706345, 27495269"
+CV6,pubmed,Obesity,D009765,2,"27457720, 31775839"
+CV6,pubmed,Quality of Life,D011788,3,"31706345, 27495269, 31774002"
+CV6,pubmed,Stroke,D020521,1,30397007
+CV6,pubmed,Weight Loss,D015431,2,"27457720, 31775839"
+CV8,pubmed,Dysmenorrhea,D004412,2,"33592837, 29970155"
+CV8,pubmed,Fatigue,D005221,1,28679410
+DU20,pubmed,Hypertension,D006973,1,33907133
+DU24,pubmed,Hypertension,D006973,1,33907133
+EX-B2,pubmed,Chronic Pain,D059350,1,28445309
+EX-CA1,pubmed,Dysmenorrhea,D004412,2,"33592837, 29970155"
+EX-CA1,pubmed,Hot Flashes,D019584,1,24950841
+EX-CA1,pubmed,"Infertility, Female",D007247,1,30142768
+EX-HN,pubmed,Hypertension,D006973,1,33907133
+EX-HN-3,pubmed,"Pain, Postoperative",D010149,1,31915045
+EX-HN-3,pubmed,Postoperative Nausea and Vomiting,D020250,1,31915045
+EX-HN1,pubmed,Parkinson Disease,D010300,1,31780587
+EX-HN3,pubmed,"Rhinitis, Allergic",D065631,2,"27829410, 23302264"
+EX-HN3,pubmed,"Rhinitis, Allergic, Perennial",D012221,3,"27829410, 23302264, 31992367"
+EX-HN3,pubmed,"Rhinitis, Allergic, Seasonal",D006255,1,23302264
+EX-HN8,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+Ex-LE04,pubmed,Pain,D010146,1,23497032
+EX-LE2,pubmed,"Osteoarthritis, Knee",D020370,2,"20576162, 23782709"
+EX-LE4,pubmed,"Osteoarthritis, Knee",D020370,2,"28438185, 33906695"
+EX-LE4,pubmed,Pain,D010146,1,30558062
+EX-LE5,pubmed,"Osteoarthritis, Knee",D020370,2,"20576162, 23782709"
+EX–CA1,pubmed,Dysmenorrhea,D004412,1,33592837
+EXHN15,pubmed,Quality of Life,D011788,1,32029008
+GB 26,pubmed,Obesity,D009765,1,31775839
+GB1,pubmed,Myopia,D009216,2,"33120756, 25476698"
+GB12,pubmed,Chronic Disease,D002908,1,20540806
+Gb12,pubmed,Stroke,D020521,1,30397007
+GB14,pubmed,Hypertension,D006973,1,33907133
+GB2,pubmed,Tinnitus,D014012,3,"28143471, 23176350, 25872506"
+GB20,pubmed,Chronic Pain,D059350,1,30522504
+GB20,pubmed,Hypertension,D006973,3,"33907133, 24216113, 30546033"
+GB20,pubmed,Migraine Disorders,D008881,2,"24915066, 22894176"
+GB20,pubmed,Migraine without Aura,D020326,2,"35750456, 35854329"
+GB20,pubmed,Neck Pain,D019547,1,30522504
+GB20,pubmed,Quality of Life,D011788,3,"24886348, 35750456, 32029008"
+GB20,pubmed,Stroke,D020521,2,"30397007, 32957353"
+GB21,pubmed,Chronic Pain,D059350,2,"28445309, 30522504"
+GB21,pubmed,Neck Pain,D019547,2,"25027157, 30522504"
+GB21,pubmed,Shoulder Pain,D020069,1,25027157
+GB26,pubmed,Chronic Disease,D002908,1,20540806
+GB26,pubmed,Obesity,D009765,2,"27457720, 31775839"
+GB26,pubmed,Weight Loss,D015431,2,"27457720, 31775839"
+GB3,pubmed,"Osteoarthritis, Knee",D020370,4,"35945733, 20576162, 23782709, 25910930"
+GB30,pubmed,Chronic Disease,D002908,1,20540806
+GB30,pubmed,Chronic Pain,D059350,1,28445309
+GB33,pubmed,Migraine Disorders,D008881,1,25496446
+GB34,pubmed,Acute Disease,D000208,1,28202067
+GB34,pubmed,Acute Pain,D059787,2,"35144662, 31142359"
+GB34,pubmed,Chronic Disease,D002908,1,20540806
+GB34,pubmed,Chronic Pain,D059350,3,"24742182, 28445309, 33657762"
+GB34,pubmed,Migraine Disorders,D008881,2,"24915066, 22894176"
+GB34,pubmed,Migraine without Aura,D020326,2,"35750456, 35854329"
+GB34,pubmed,"Osteoarthritis, Knee",D020370,3,"20576162, 23782709, 25910930"
+GB34,pubmed,"Pain, Postoperative",D010149,3,"32381110, 31142359, 25910930"
+GB34,pubmed,Parkinson Disease,D010300,1,31780587
+GB34,pubmed,Quality of Life,D011788,2,"24886348, 35750456"
+GB34,pubmed,Stroke,D020521,2,"28202067, 32957353"
+GB37,pubmed,Migraine Disorders,D008881,1,24915066
+GB39,pubmed,Abdominal Pain,D015746,1,29769133
+GB39,pubmed,Acute Disease,D000208,1,29769133
+GB39,pubmed,"Osteoarthritis, Knee",D020370,1,23782709
+GB39,pubmed,Pain,D010146,2,"25175308, 24555788"
+GB39,pubmed,Quality of Life,D011788,2,"24886348, 32925788"
+GB39,pubmed,Stroke,D020521,2,"30397007, 32957353"
+GB40,pubmed,Stroke,D020521,1,30397007
+GB40,pubmed,Tinnitus,D014012,1,23176350
+GB41,pubmed,Chronic Disease,D002908,1,20540806
+GB41,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+GB41,pubmed,Quality of Life,D011788,2,"28052910, 35750456"
+GB41,pubmed,Tinnitus,D014012,1,23176350
+GB43,pubmed,Tinnitus,D014012,1,25872506
+GB5,pubmed,Parkinson Disease,D010300,1,31780587
+GB6,pubmed,Parkinson Disease,D010300,1,31780587
+GB8,pubmed,Migraine without Aura,D020326,2,"35750456, 35854329"
+GB8,pubmed,Tinnitus,D014012,2,"35368921, 28143471"
+GV14,pubmed,Chronic Pain,D059350,1,28445309
+GV14,pubmed,Quality of Life,D011788,3,"32029008, 32576237, 35002538"
+GV14,pubmed,Radiculopathy,D011843,2,"32029008, 35002538"
+GV15,pubmed,Quality of Life,D011788,1,32029008
+GV16,pubmed,Quality of Life,D011788,1,32029008
+GV20,pubmed,Fatigue,D005221,2,"35616251, 31706345"
+GV20,pubmed,"Fatigue Syndrome, Chronic",D015673,2,"23693129, 30832713"
+GV20,pubmed,"Pain, Postoperative",D010149,1,31915045
+GV20,pubmed,Postoperative Nausea and Vomiting,D020250,1,31915045
+GV20,pubmed,Quality of Life,D011788,2,"24886348, 31706345"
+GV20,pubmed,Sleep Initiation and Maintenance Disorders,D007319,3,"32807158, 35303841, 31146772"
+GV20,pubmed,Tinnitus,D014012,2,"35368921, 23176350"
+GV21,pubmed,Constipation,D003248,1,31780587
+GV21,pubmed,Parkinson Disease,D010300,1,31780587
+GV24,pubmed,Chronic Disease,D002908,1,20540806
+GV26,pubmed,Chronic Disease,D002908,1,20540806
+GV3,pubmed,Chronic Disease,D002908,1,20540806
+GV4,pubmed,Chronic Disease,D002908,1,20540806
+GV5,pubmed,Chronic Disease,D002908,1,20540806
+HE7,pubmed,"Pain, Postoperative",D010149,1,25047046
+HT5,pubmed,"Angina, Stable",D060050,2,"24499445, 33158451"
+HT6,pubmed,"Angina, Stable",D060050,1,33158451
+HT7,pubmed,"Angina, Stable",D060050,1,33158451
+HT7,pubmed,Depression,D003863,1,30142795
+HT7,pubmed,Fatigue,D005221,3,"35616251, 33663090, 34106628"
+HT7,pubmed,Hypertension,D006973,1,33907133
+HT7,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+HT7,pubmed,Quality of Life,D011788,4,"24886348, 28052910, 30075491, 25027493"
+HT7,pubmed,Sleep Initiation and Maintenance Disorders,D007319,6,"32164719, 35508300, 32791711, 32807158, 35303841, 31146772"
+HT7,pubmed,Substance Withdrawal Syndrome,D013375,1,30142795
+HT7,pubmed,Tinnitus,D014012,3,"35368921, 23176350, 25872506"
+HT8,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+HT8,pubmed,Quality of Life,D011788,1,28052910
+KI1,pubmed,Pruritus,D011537,2,"34032717, 30075491"
+KI1,pubmed,Quality of Life,D011788,2,"34032717, 30075491"
+KI1,pubmed,"Renal Insufficiency, Chronic",D051436,2,"34032717, 30075491"
+KI15,pubmed,Quality of Life,D011788,2,"35750456, 35002538"
+KI15,pubmed,Tinnitus,D014012,2,"23176350, 25872506"
+KI3,pubmed,Hypertension,D006973,3,"33907133, 24216113, 30546033"
+KI3,pubmed,"Infertility, Female",D007247,2,"30142768, 24886647"
+KI3,pubmed,"Osteoarthritis, Knee",D020370,1,23782709
+KI6,pubmed,Parkinson Disease,D010300,1,31780587
+L20,pubmed,"Rhinitis, Allergic, Seasonal",D006255,1,23302264
+LI10,pubmed,Chronic Pain,D059350,1,28445309
+LI10,pubmed,Stroke,D020521,2,"30397007, 32957353"
+LI11,pubmed,Acute Disease,D000208,1,28202067
+LI11,pubmed,Chronic Pain,D059350,2,"23317340, 28445309"
+LI11,pubmed,Constipation,D003248,1,22759406
+LI11,pubmed,Hypertension,D006973,6,"35902195, 35789530, 33588904, 24216113, 32571411, 34363051"
+LI11,pubmed,Parkinson Disease,D010300,1,31780587
+LI11,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+LI11,pubmed,Quality of Life,D011788,6,"35789530, 33588904, 28052910, 32571411, 32576237, 27829410"
+LI11,pubmed,"Rhinitis, Allergic",D065631,2,"23302264, 27829410"
+LI11,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,23302264
+LI11,pubmed,"Rhinitis, Allergic, Seasonal",D006255,1,23302264
+LI11,pubmed,Stroke,D020521,3,"30397007, 28202067, 32957353"
+LI14,pubmed,Chronic Pain,D059350,2,"24742182, 31366643"
+LI14,pubmed,Shoulder Pain,D020069,1,24742182
+LI15,pubmed,Acute Disease,D000208,1,28202067
+LI15,pubmed,Chronic Pain,D059350,1,24742182
+LI15,pubmed,Shoulder Pain,D020069,1,24742182
+LI15,pubmed,Stroke,D020521,2,"30397007, 28202067"
+LI16,pubmed,Shoulder Pain,D020069,1,30249298
+LI17,pubmed,Chronic Pain,D059350,1,30522504
+LI17,pubmed,Neck Pain,D019547,1,30522504
+LI18,pubmed,Hypertension,D006973,1,24216113
+LI20,pubmed,"Rhinitis, Allergic",D065631,2,"23302264, 27829410"
+LI20,pubmed,"Rhinitis, Allergic, Perennial",D012221,3,"31992367, 23302264, 27829410"
+LI20,pubmed,Stroke,D020521,1,30397007
+LI4,pubmed,Abdominal Pain,D015746,1,29769133
+LI4,pubmed,Acute Disease,D000208,2,"29769133, 28202067"
+LI4,pubmed,Chronic Pain,D059350,1,28445309
+LI4,pubmed,Colic,D003085,3,"20959312, 28093383, 32375501"
+LI4,pubmed,Fatigue,D005221,2,"31706345, 28679410"
+LI4,pubmed,Hypertension,D006973,5,"35902195, 35789530, 33588904, 32571411, 34363051"
+LI4,pubmed,"Infertility, Female",D007247,1,24886647
+LI4,pubmed,Lung Neoplasms,D008175,2,"31706345, 32062864"
+LI4,pubmed,Muscle Spasticity,D009128,1,25643051
+LI4,pubmed,Nausea,D009325,2,"28069044, 32062864"
+LI4,pubmed,Pain,D010146,2,"19574017, 23935833"
+LI4,pubmed,"Pain, Postoperative",D010149,5,"32819923, 25047046, 31358034, 23707680, 32062864"
+LI4,pubmed,Parkinson Disease,D010300,1,31780587
+LI4,pubmed,Postoperative Complications,D011183,2,"30425466, 33976542"
+LI4,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+LI4,pubmed,Quality of Life,D011788,8,"24886348, 35789530, 31706345, 33588904, 28052910, 32571411, 32576237, 27829410"
+LI4,pubmed,"Rhinitis, Allergic",D065631,2,"23302264, 27829410"
+Li4,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,23302264
+LI4,pubmed,"Rhinitis, Allergic, Seasonal",D006255,1,23302264
+LI4,pubmed,Stroke,D020521,3,"30397007, 28202067, 32957353"
+LI4,pubmed,Substance Withdrawal Syndrome,D013375,2,"19574017, 32340502"
+LI4,pubmed,Vomiting,D014839,2,"28069044, 32062864"
+LI6,pubmed,Migraine Disorders,D008881,1,22894176
+Ll4,pubmed,Cancer Pain,D000072716,1,30635007
+Ll4,pubmed,Quality of Life,D011788,1,30635007
+LR3,pubmed,Acute Disease,D000208,1,28202067
+LR3,pubmed,Chronic Pain,D059350,1,28445309
+LR3,pubmed,Fatigue,D005221,2,"33663090, 31706345"
+LR3,pubmed,Hypertension,D006973,8,"35902195, 33907133, 35789530, 33588904, 24216113, 30546033, 32571411, 34363051"
+LR3,pubmed,"Infertility, Female",D007247,2,"30142768, 24886647"
+LR3,pubmed,Parkinson Disease,D010300,1,31780587
+LR3,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+LR3,pubmed,Quality of Life,D011788,6,"24886348, 35789530, 31706345, 33588904, 28052910, 32571411"
+LR3,pubmed,Stroke,D020521,3,"30397007, 32957353, 28202067"
+LU10,pubmed,Muscle Spasticity,D009128,1,25643051
+LU5,pubmed,Hypertension,D006973,1,32571411
+LU5,pubmed,Quality of Life,D011788,1,32571411
+LU5,pubmed,Stroke,D020521,1,35773693
+LU6,pubmed,"Angina, Stable",D060050,2,"24499445, 33158451"
+LU7,pubmed,"Angina, Stable",D060050,1,33158451
+LU9,pubmed,"Angina, Stable",D060050,2,"24499445, 33158451"
+LU9,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+LV3,pubmed,"Pain, Postoperative",D010149,1,25047046
+P6,pubmed,Nausea,D009325,1,28069044
+P6,pubmed,"Pain, Postoperative",D010149,1,31358034
+P6,pubmed,Vomiting,D014839,1,28069044
+PC6,pubmed,Abdominal Pain,D015746,1,29769133
+PC6,pubmed,Acute Disease,D000208,1,29769133
+PC6,pubmed,"Angina, Stable",D060050,2,"25925670, 24499445"
+PC6,pubmed,Cancer Pain,D000072716,2,"28651642, 30635007"
+PC6,pubmed,Chronic Pain,D059350,1,28445309
+PC6,pubmed,Cognition Disorders,D003072,2,"23587135, 33976542"
+PC6,pubmed,Depression,D003863,1,30142795
+PC6,pubmed,Fatigue,D005221,3,"35616251, 28851420, 34106628"
+PC6,pubmed,Gastroparesis,D018589,2,"32399130, 35241130"
+PC6,pubmed,Hypertension,D006973,2,"24216113, 30546033"
+PC6,pubmed,Irritable Bowel Syndrome,D043183,1,34666815
+PC6,pubmed,Nausea,D009325,4,"25963295, 28069044, 27821107, 32062864"
+PC6,pubmed,Pain,D010146,2,"19574017, 23894632"
+PC6,pubmed,"Pain, Postoperative",D010149,5,"32819923, 25047046, 31358034, 32062864, 31915045"
+PC6,pubmed,Postoperative Complications,D011183,3,"34106628, 30425466, 33976542"
+PC6,pubmed,Postoperative Nausea and Vomiting,D020250,4,"25394818, 28052910, 33482878, 31915045"
+PC6,pubmed,Quality of Life,D011788,8,"25963295, 35395946, 30635007, 34666815, 28851420, 28052910, 29179761, 35241130"
+PC6,pubmed,Stroke,D020521,3,"35773693, 24453485, 32957353"
+PC6,pubmed,Substance Withdrawal Syndrome,D013375,3,"19574017, 32340502, 30142795"
+PC6,pubmed,Vomiting,D014839,4,"25963295, 28069044, 27821107, 32062864"
+RN 04,pubmed,Obesity,D009765,1,31775839
+RN 06,pubmed,Obesity,D009765,1,31775839
+RN12,pubmed,Obesity,D009765,1,31775839
+RN12,pubmed,Quality of Life,D011788,1,31937335
+RN22,pubmed,"Rhinitis, Allergic, Perennial",D012221,1,31992367
+RN4,pubmed,Hot Flashes,D019584,1,24950841
+RN4,pubmed,Hypertension,D006973,1,33907133
+RN4,pubmed,Obesity,D009765,1,31775839
+RN6,pubmed,Hypertension,D006973,1,33907133
+RN6,pubmed,Obesity,D009765,1,31775839
+SI10,pubmed,Shoulder Pain,D020069,1,30249298
+SI11,pubmed,Chronic Pain,D059350,1,24742182
+SI11,pubmed,Shoulder Pain,D020069,1,24742182
+Si12,pubmed,Chronic Pain,D059350,1,28445309
+SI14,pubmed,Chronic Pain,D059350,1,30522504
+SI14,pubmed,Neck Pain,D019547,2,"25027157, 30522504"
+SI14,pubmed,Shoulder Pain,D020069,1,25027157
+SI19,pubmed,Tinnitus,D014012,2,"35368921, 28143471"
+SI3,pubmed,Chronic Pain,D059350,1,28445309
+SI9,pubmed,Chronic Pain,D059350,1,24742182
+SI9,pubmed,Shoulder Pain,D020069,1,24742182
+SP 09,pubmed,Obesity,D009765,1,31775839
+SP 15,pubmed,Obesity,D009765,1,31775839
+SP09,pubmed,Obesity,D009765,1,31775839
+SP10,pubmed,Hypertension,D006973,2,"30546033, 24216113"
+SP10,pubmed,"Infertility, Female",D007247,1,30142768
+SP10,pubmed,"Osteoarthritis, Knee",D020370,4,"35945733, 23497032, 20576162, 33906695"
+SP10,pubmed,Pain,D010146,2,"30558062, 23497032"
+SP10,pubmed,Stroke,D020521,1,30397007
+SP13,pubmed,Chronic Disease,D002908,1,20540806
+SP14,pubmed,Chronic Disease,D002908,1,20540806
+SP14,pubmed,Parkinson Disease,D010300,1,31780587
+SP15,pubmed,Obesity,D009765,2,"27457720, 31775839"
+SP15,pubmed,Weight Loss,D015431,2,"27457720, 31775839"
+SP4,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+SP4,pubmed,Quality of Life,D011788,2,"28052910, 31937335"
+SP6,pubmed,Abdominal Pain,D015746,1,29769133
+SP6,pubmed,Acute Disease,D000208,2,"29769133, 28202067"
+SP6,pubmed,Cancer Pain,D000072716,2,"28651642, 30635007"
+SP6,pubmed,Chronic Pain,D059350,2,"28445309, 33657762"
+SP6,pubmed,Constipation,D003248,2,"31774002, 31780587"
+SP6,pubmed,Depression,D003863,1,30142795
+SP6,pubmed,Dysmenorrhea,D004412,3,"26733563, 24555788, 24929459"
+SP6,pubmed,Fatigue,D005221,3,"35616251, 31706345, 34106628"
+SP6,pubmed,"Fatigue Syndrome, Chronic",D015673,1,30832713
+SP6,pubmed,Hot Flashes,D019584,2,"24886348, 24950841"
+SP6,pubmed,Hypertension,D006973,1,33907133
+SP6,pubmed,"Infertility, Female",D007247,2,"30142768, 24886647"
+SP6,pubmed,Obesity,D009765,1,27457720
+SP6,pubmed,"Osteoarthritis, Knee",D020370,1,23782709
+SP6,pubmed,Pain,D010146,2,"26733563, 24555788"
+SP6,pubmed,"Pain, Postoperative",D010149,1,31358034
+SP6,pubmed,Postoperative Complications,D011183,1,34106628
+SP6,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+SP6,pubmed,Quality of Life,D011788,9,"24886348, 32195949, 30635007, 31706345, 24950841, 28052910, 29179761, 31774002, 32925788"
+SP6,pubmed,Sleep Initiation and Maintenance Disorders,D007319,3,"32164719, 32807158, 31146772"
+SP6,pubmed,Stroke,D020521,3,"35773693, 28202067, 32957353"
+SP6,pubmed,Substance Withdrawal Syndrome,D013375,1,30142795
+SP6,pubmed,Weight Loss,D015431,1,27457720
+SP9,pubmed,Acute Pain,D059787,2,"31142359, 35144662"
+SP9,pubmed,Hypertension,D006973,3,"30546033, 33907133, 24216113"
+SP9,pubmed,"Osteoarthritis, Knee",D020370,4,"23497032, 20576162, 23782709, 35945733"
+SP9,pubmed,Pain,D010146,1,23497032
+SP9,pubmed,"Pain, Postoperative",D010149,2,"31142359, 32381110"
+SP9,pubmed,Stroke,D020521,1,30397007
+ST 36,pubmed,Obesity,D009765,1,31775839
+ST 40,pubmed,Obesity,D009765,1,31775839
+ST25,pubmed,Abdominal Pain,D015746,1,30326940
+ST25,pubmed,Constipation,D003248,5,"31780587, 29903020, 25526462, 22759406, 31774002"
+ST25,pubmed,Dysmenorrhea,D004412,1,33592837
+ST25,pubmed,Hot Flashes,D019584,1,24950841
+ST25,pubmed,Irritable Bowel Syndrome,D043183,2,"30326940, 34666815"
+ST25,pubmed,Obesity,D009765,3,"33235115, 27457720, 31775839"
+ST25,pubmed,Quality of Life,D011788,5,"30326940, 34666815, 24950841, 31937335, 31774002"
+ST25,pubmed,Weight Loss,D015431,3,"35966092, 27457720, 31775839"
+ST26,pubmed,Abdominal Pain,D015746,1,30326940
+ST26,pubmed,Quality of Life,D011788,1,30326940
+ST28,pubmed,Stroke,D020521,1,30397007
+ST29,pubmed,Dysmenorrhea,D004412,1,33592837
+ST31,pubmed,Stroke,D020521,1,30397007
+ST32,pubmed,Acute Pain,D059787,1,35144662
+ST32,pubmed,"Pain, Postoperative",D010149,1,32381110
+ST34,pubmed,Acute Disease,D000208,1,28202067
+ST34,pubmed,"Osteoarthritis, Knee",D020370,4,"35945733, 23497032, 20576162, 33906695"
+ST34,pubmed,Pain,D010146,2,"23497032, 30558062"
+ST34,pubmed,Stroke,D020521,2,"30397007, 28202067"
+ST35,pubmed,Hypertension,D006973,1,32571411
+ST35,pubmed,Nausea,D009325,2,"29029639, 27821107"
+ST35,pubmed,"Osteoarthritis, Knee",D020370,6,"24962039, 33906695, 23497032, 23782709, 28438185, 28404609"
+ST35,pubmed,Pain,D010146,2,"30558062, 23497032"
+ST35,pubmed,Postoperative Complications,D011183,1,33976542
+ST35,pubmed,Quality of Life,D011788,3,"29029639, 34666815, 32571411"
+ST35,pubmed,Vomiting,D014839,2,"29029639, 27821107"
+ST36,pubmed,Abdominal Pain,D015746,2,"29769133, 30326940"
+ST36,pubmed,Acute Disease,D000208,2,"28202067, 29769133"
+ST36,pubmed,Acute Pain,D059787,1,35144662
+ST36,pubmed,Cancer Pain,D000072716,2,"30635007, 28651642"
+ST36,pubmed,Chronic Disease,D002908,1,20540806
+ST36,pubmed,Chronic Pain,D059350,3,"28445309, 28404609, 31366643"
+ST36,pubmed,Cognition Disorders,D003072,2,"33976542, 23587135"
+ST36,pubmed,Colic,D003085,3,"28093383, 35027415, 32375501"
+ST36,pubmed,Depression,D003863,2,"29029639, 30142795"
+ST36,pubmed,Fatigue,D005221,5,"35616251, 31706345, 28679410, 34106628, 27495269"
+ST36,pubmed,"Fatigue Syndrome, Chronic",D015673,2,"30832713, 27886247"
+ST36,pubmed,Gastroparesis,D018589,2,"35241130, 32399130"
+ST36,pubmed,Hypertension,D006973,7,"35789530, 32571411, 34363051, 24216113, 35902195, 33907133, 33588904"
+ST36,pubmed,"Infertility, Female",D007247,2,"30142768, 24886647"
+ST36,pubmed,Irritable Bowel Syndrome,D043183,2,"34666815, 30326940"
+ST36,pubmed,Migraine Disorders,D008881,2,"25496446, 22894176"
+ST36,pubmed,Muscle Spasticity,D009128,1,25643051
+ST36,pubmed,Nausea,D009325,3,"29029639, 28069044, 27821107"
+ST36,pubmed,Obesity,D009765,3,"27457720, 33235115, 31775839"
+ST36,pubmed,"Osteoarthritis, Knee",D020370,7,"31702640, 23497032, 23782709, 25910930, 28438185, 28404609, 35945733"
+ST36,pubmed,Pain,D010146,2,"23497032, 25175308"
+ST36,pubmed,"Pain, Postoperative",D010149,6,"25910930, 32819923, 31915045, 32381110, 25047046, 31358034"
+ST36,pubmed,Postoperative Complications,D011183,2,"33976542, 34106628"
+ST36,pubmed,Postoperative Nausea and Vomiting,D020250,2,"28052910, 31915045"
+ST36,pubmed,Quality of Life,D011788,17,"29029639, 35789530, 28052910, 32571411, 24886348, 34666815, 31937335, 30635007, 31706345, 31774002, 32576237, 35241130, 27829410, 33588904, 30326940, 27495269, 32925788"
+ST36,pubmed,"Rhinitis, Allergic",D065631,2,"23302264, 27829410"
+ST36,pubmed,"Rhinitis, Allergic, Perennial",D012221,2,"31992367, 23302264"
+ST36,pubmed,"Rhinitis, Allergic, Seasonal",D006255,2,"24708643, 23302264"
+ST36,pubmed,Stroke,D020521,2,"28202067, 32957353"
+ST36,pubmed,Substance Withdrawal Syndrome,D013375,1,30142795
+ST36,pubmed,Vomiting,D014839,3,"29029639, 28069044, 27821107"
+ST36,pubmed,Weight Loss,D015431,2,"27457720, 31775839"
+ST37,pubmed,Abdominal Pain,D015746,2,"30326940, 29769133"
+ST37,pubmed,Acute Disease,D000208,1,29769133
+ST37,pubmed,Constipation,D003248,3,"31780587, 31774002, 22759406"
+ST37,pubmed,Irritable Bowel Syndrome,D043183,2,"30326940, 34666815"
+ST37,pubmed,Postoperative Nausea and Vomiting,D020250,1,28052910
+ST37,pubmed,Quality of Life,D011788,5,"28052910, 30326940, 34666815, 31774002, 32576237"
+ST38,pubmed,Chronic Pain,D059350,1,24742182
+ST38,pubmed,Shoulder Pain,D020069,1,24742182
+ST4,pubmed,Chronic Disease,D002908,1,20540806
+ST4,pubmed,Low Back Pain,D017116,1,20540806
+ST4,pubmed,Obesity,D009765,1,31775839
+ST4,pubmed,Stroke,D020521,1,30397007
+ST40,pubmed,Hypertension,D006973,1,33907133
+ST40,pubmed,"Infertility, Female",D007247,1,24886647
+ST40,pubmed,Obesity,D009765,3,"33235115, 27457720, 31775839"
+ST40,pubmed,Weight Loss,D015431,3,"31775839, 35966092, 27457720"
+ST41,pubmed,Depression,D003863,1,29029639
+ST41,pubmed,Hypertension,D006973,1,32571411
+ST41,pubmed,Nausea,D009325,2,"29029639, 27821107"
+ST41,pubmed,Quality of Life,D011788,2,"32571411, 29029639"
+ST41,pubmed,Vomiting,D014839,2,"29029639, 27821107"
+ST42,pubmed,Fatigue,D005221,1,33663090
+ST43,pubmed,Chronic Pain,D059350,1,28445309
+ST44,pubmed,Migraine without Aura,D020326,1,35854329
+ST44,pubmed,"Pain, Postoperative",D010149,1,23707680
+ST44,pubmed,Quality of Life,D011788,1,32576237
+ST6,pubmed,Stroke,D020521,1,30397007
+ST8,pubmed,Hypertension,D006973,1,33907133
+ST8,pubmed,Migraine Disorders,D008881,1,22894176
+ST9,pubmed,Hypertension,D006973,2,"24216113, 30546033"
+TE11,pubmed,Chronic Pain,D059350,1,28445309
+TE14,pubmed,Chronic Pain,D059350,1,24742182
+TE14,pubmed,"Pain, Postoperative",D010149,1,30249298
+TE14,pubmed,Shoulder Pain,D020069,2,"24742182, 30249298"
+TE16,pubmed,Chronic Pain,D059350,1,30522504
+TE16,pubmed,Neck Pain,D019547,1,30522504
+TE17,pubmed,"Pain, Postoperative",D010149,1,23707680
+TE17,pubmed,Stroke,D020521,1,30397007
+TE17,pubmed,Tinnitus,D014012,4,"28143471, 23176350, 25872506, 35368921"
+TE19,pubmed,Migraine Disorders,D008881,1,25496446
+TE21,pubmed,Tinnitus,D014012,2,"28143471, 23176350"
+TE3,pubmed,Quality of Life,D011788,2,"35750456, 35002538"
+TE3,pubmed,Tinnitus,D014012,3,"28143471, 23176350, 25872506"
+TE5,pubmed,Acute Disease,D000208,1,28202067
+TE5,pubmed,Chronic Pain,D059350,1,28445309
+TE5,pubmed,Hypertension,D006973,2,"24216113, 30546033"
+TE5,pubmed,Migraine Disorders,D008881,2,"24915066, 22894176"
+TE5,pubmed,Migraine without Aura,D020326,2,"35750456, 35854329"
+TE5,pubmed,Quality of Life,D011788,2,"35002538, 35750456"
+TE5,pubmed,Stroke,D020521,3,"30397007, 22738270, 28202067"
+TE8,pubmed,Migraine Disorders,D008881,1,25496446
