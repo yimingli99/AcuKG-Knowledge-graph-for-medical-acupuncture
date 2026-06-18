@@ -1,0 +1,3187 @@
+@prefix prop: <http://example.org/property/> .
+
+<http://example.org/resource/record/0> prop:Acupoint_Code "BL1" ;
+    prop:Mesh_Id "D015352" ;
+    prop:Mesh_Term "Dry Eye Syndromes" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29851826, 35897025" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/1> prop:Acupoint_Code "BL1" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "35897025" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/10> prop:Acupoint_Code "BL13" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/100> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24915066, 22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/101> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D020326" ;
+    prop:Mesh_Term "Migraine without Aura" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35854329" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/102> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D019547" ;
+    prop:Mesh_Term "Neck Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/103> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "24886348, 35750456, 32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/104> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30397007, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/105> prop:Acupoint_Code "GB21" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28445309, 30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/106> prop:Acupoint_Code "GB21" ;
+    prop:Mesh_Id "D019547" ;
+    prop:Mesh_Term "Neck Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "25027157, 30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/107> prop:Acupoint_Code "GB21" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25027157" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/108> prop:Acupoint_Code "GB26" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/109> prop:Acupoint_Code "GB26" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/11> prop:Acupoint_Code "BL13" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/110> prop:Acupoint_Code "GB26" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/111> prop:Acupoint_Code "GB3" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "35945733, 20576162, 23782709, 25910930" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/112> prop:Acupoint_Code "GB30" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/113> prop:Acupoint_Code "GB30" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/114> prop:Acupoint_Code "GB33" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25496446" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/115> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/116> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D059787" ;
+    prop:Mesh_Term "Acute Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35144662, 31142359" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/117> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/118> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "24742182, 28445309, 33657762" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/119> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24915066, 22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/12> prop:Acupoint_Code "BL15" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/120> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D020326" ;
+    prop:Mesh_Term "Migraine without Aura" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35854329" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/121> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "20576162, 23782709, 25910930" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/122> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "32381110, 31142359, 25910930" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/123> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/124> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24886348, 35750456" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/125> prop:Acupoint_Code "GB34" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28202067, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/126> prop:Acupoint_Code "GB37" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24915066" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/127> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/128> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/129> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/13> prop:Acupoint_Code "BL18" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32925788, 31774002" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/130> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "25175308, 24555788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/131> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24886348, 32925788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/132> prop:Acupoint_Code "GB39" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30397007, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/133> prop:Acupoint_Code "GB40" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/134> prop:Acupoint_Code "GB40" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23176350" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/135> prop:Acupoint_Code "GB41" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/136> prop:Acupoint_Code "GB41" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/137> prop:Acupoint_Code "GB41" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28052910, 35750456" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/138> prop:Acupoint_Code "GB41" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23176350" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/139> prop:Acupoint_Code "GB43" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25872506" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/14> prop:Acupoint_Code "BL20" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23693129" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/140> prop:Acupoint_Code "GB5" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/141> prop:Acupoint_Code "GB6" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/142> prop:Acupoint_Code "GB8" ;
+    prop:Mesh_Id "D020326" ;
+    prop:Mesh_Term "Migraine without Aura" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35854329" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/143> prop:Acupoint_Code "GB8" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35368921, 28143471" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/144> prop:Acupoint_Code "GV14" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/145> prop:Acupoint_Code "GV14" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "32029008, 32576237, 35002538" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/146> prop:Acupoint_Code "GV14" ;
+    prop:Mesh_Id "D011843" ;
+    prop:Mesh_Term "Radiculopathy" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32029008, 35002538" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/147> prop:Acupoint_Code "GV15" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/148> prop:Acupoint_Code "GV16" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/149> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35616251, 31706345" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/15> prop:Acupoint_Code "BL20" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33235115, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/150> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23693129, 30832713" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/151> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/152> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/153> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24886348, 31706345" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/154> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D007319" ;
+    prop:Mesh_Term "Sleep Initiation and Maintenance Disorders" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "32807158, 35303841, 31146772" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/155> prop:Acupoint_Code "GV20" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35368921, 23176350" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/156> prop:Acupoint_Code "GV21" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/157> prop:Acupoint_Code "GV21" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/158> prop:Acupoint_Code "GV24" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/159> prop:Acupoint_Code "GV26" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/16> prop:Acupoint_Code "BL20" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32925788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/160> prop:Acupoint_Code "GV3" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/161> prop:Acupoint_Code "GV4" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/162> prop:Acupoint_Code "GV5" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/163> prop:Acupoint_Code "HE7" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25047046" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/164> prop:Acupoint_Code "HT5" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24499445, 33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/165> prop:Acupoint_Code "HT6" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/166> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/167> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D003863" ;
+    prop:Mesh_Term "Depression" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/168> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 33663090, 34106628" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/169> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/17> prop:Acupoint_Code "BL20" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35966092, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/170> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/171> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "24886348, 28052910, 30075491, 25027493" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/172> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D007319" ;
+    prop:Mesh_Term "Sleep Initiation and Maintenance Disorders" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "32164719, 35508300, 32791711, 32807158, 35303841, 31146772" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/173> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D013375" ;
+    prop:Mesh_Term "Substance Withdrawal Syndrome" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/174> prop:Acupoint_Code "HT7" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35368921, 23176350, 25872506" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/175> prop:Acupoint_Code "HT8" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/176> prop:Acupoint_Code "HT8" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/177> prop:Acupoint_Code "KI1" ;
+    prop:Mesh_Id "D011537" ;
+    prop:Mesh_Term "Pruritus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "34032717, 30075491" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/178> prop:Acupoint_Code "KI1" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "34032717, 30075491" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/179> prop:Acupoint_Code "KI1" ;
+    prop:Mesh_Id "D051436" ;
+    prop:Mesh_Term "Renal Insufficiency, Chronic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "34032717, 30075491" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/18> prop:Acupoint_Code "BL21" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33235115" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/180> prop:Acupoint_Code "KI15" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35002538" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/181> prop:Acupoint_Code "KI15" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23176350, 25872506" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/182> prop:Acupoint_Code "KI3" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "33907133, 24216113, 30546033" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/183> prop:Acupoint_Code "KI3" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30142768, 24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/184> prop:Acupoint_Code "KI3" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/185> prop:Acupoint_Code "KI6" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/186> prop:Acupoint_Code "L20" ;
+    prop:Mesh_Id "D006255" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Seasonal" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/187> prop:Acupoint_Code "LI10" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/188> prop:Acupoint_Code "LI10" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30397007, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/189> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/19> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D001249" ;
+    prop:Mesh_Term "Asthma" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32509851, 32727619" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/190> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23317340, 28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/191> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "22759406" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/192> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "35902195, 35789530, 33588904, 24216113, 32571411, 34363051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/193> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/194> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/195> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "35789530, 33588904, 28052910, 32571411, 32576237, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/196> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D065631" ;
+    prop:Mesh_Term "Rhinitis, Allergic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23302264, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/197> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/198> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D006255" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Seasonal" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/199> prop:Acupoint_Code "LI11" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "30397007, 28202067, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/2> prop:Acupoint_Code "BL10" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/20> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/200> prop:Acupoint_Code "LI14" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24742182, 31366643" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/201> prop:Acupoint_Code "LI14" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/202> prop:Acupoint_Code "LI15" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/203> prop:Acupoint_Code "LI15" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/204> prop:Acupoint_Code "LI15" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/205> prop:Acupoint_Code "LI15" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30397007, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/206> prop:Acupoint_Code "LI16" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30249298" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/207> prop:Acupoint_Code "LI17" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/208> prop:Acupoint_Code "LI17" ;
+    prop:Mesh_Id "D019547" ;
+    prop:Mesh_Term "Neck Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/209> prop:Acupoint_Code "LI18" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24216113" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/21> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23693129, 30832713" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/210> prop:Acupoint_Code "LI20" ;
+    prop:Mesh_Id "D065631" ;
+    prop:Mesh_Term "Rhinitis, Allergic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23302264, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/211> prop:Acupoint_Code "LI20" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "31992367, 23302264, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/212> prop:Acupoint_Code "LI20" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/213> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/214> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29769133, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/215> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/216> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D003085" ;
+    prop:Mesh_Term "Colic" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "20959312, 28093383, 32375501" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/217> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31706345, 28679410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/218> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "35902195, 35789530, 33588904, 32571411, 34363051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/219> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/22> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D017116" ;
+    prop:Mesh_Term "Low Back Pain" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "26069973, 20540806, 21663617" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/220> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D008175" ;
+    prop:Mesh_Term "Lung Neoplasms" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31706345, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/221> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D009128" ;
+    prop:Mesh_Term "Muscle Spasticity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25643051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/222> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28069044, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/223> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "19574017, 23935833" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/224> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "32819923, 25047046, 31358034, 23707680, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/225> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/226> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D011183" ;
+    prop:Mesh_Term "Postoperative Complications" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30425466, 33976542" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/227> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/228> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "8" ;
+    prop:PMIDs "24886348, 35789530, 31706345, 33588904, 28052910, 32571411, 32576237, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/229> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D065631" ;
+    prop:Mesh_Term "Rhinitis, Allergic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23302264, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/23> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/230> prop:Acupoint_Code "Li4" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/231> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D006255" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Seasonal" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/232> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "30397007, 28202067, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/233> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D013375" ;
+    prop:Mesh_Term "Substance Withdrawal Syndrome" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "19574017, 32340502" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/234> prop:Acupoint_Code "LI4" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28069044, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/235> prop:Acupoint_Code "LI6" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/236> prop:Acupoint_Code "Ll4" ;
+    prop:Mesh_Id "D000072716" ;
+    prop:Mesh_Term "Cancer Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30635007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/237> prop:Acupoint_Code "Ll4" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30635007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/238> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/239> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/24> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "31774002, 32925788, 32727619" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/240> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33663090, 31706345" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/241> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "8" ;
+    prop:PMIDs "35902195, 33907133, 35789530, 33588904, 24216113, 30546033, 32571411, 34363051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/242> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30142768, 24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/243> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/244> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/245> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "24886348, 35789530, 31706345, 33588904, 28052910, 32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/246> prop:Acupoint_Code "LR3" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "30397007, 32957353, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/247> prop:Acupoint_Code "LU10" ;
+    prop:Mesh_Id "D009128" ;
+    prop:Mesh_Term "Muscle Spasticity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25643051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/248> prop:Acupoint_Code "LU5" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/249> prop:Acupoint_Code "LU5" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/25> prop:Acupoint_Code "BL23" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/250> prop:Acupoint_Code "LU5" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "35773693" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/251> prop:Acupoint_Code "LU6" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24499445, 33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/252> prop:Acupoint_Code "LU7" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/253> prop:Acupoint_Code "LU9" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24499445, 33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/254> prop:Acupoint_Code "LU9" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/255> prop:Acupoint_Code "LV3" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25047046" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/256> prop:Acupoint_Code "P6" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28069044" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/257> prop:Acupoint_Code "P6" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31358034" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/258> prop:Acupoint_Code "P6" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28069044" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/259> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/26> prop:Acupoint_Code "BL24" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/260> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/261> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "25925670, 24499445" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/262> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D000072716" ;
+    prop:Mesh_Term "Cancer Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28651642, 30635007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/263> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/264> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D003072" ;
+    prop:Mesh_Term "Cognition Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23587135, 33976542" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/265> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D003863" ;
+    prop:Mesh_Term "Depression" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/266> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 28851420, 34106628" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/267> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D018589" ;
+    prop:Mesh_Term "Gastroparesis" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32399130, 35241130" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/268> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24216113, 30546033" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/269> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D043183" ;
+    prop:Mesh_Term "Irritable Bowel Syndrome" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "34666815" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/27> prop:Acupoint_Code "BL24" ;
+    prop:Mesh_Id "D017116" ;
+    prop:Mesh_Term "Low Back Pain" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "20540806, 26069973, 21663617" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/270> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "25963295, 28069044, 27821107, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/271> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "19574017, 23894632" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/272> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "32819923, 25047046, 31358034, 32062864, 31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/273> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D011183" ;
+    prop:Mesh_Term "Postoperative Complications" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "34106628, 30425466, 33976542" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/274> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "25394818, 28052910, 33482878, 31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/275> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "8" ;
+    prop:PMIDs "25963295, 35395946, 30635007, 34666815, 28851420, 28052910, 29179761, 35241130" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/276> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35773693, 24453485, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/277> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D013375" ;
+    prop:Mesh_Term "Substance Withdrawal Syndrome" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "19574017, 32340502, 30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/278> prop:Acupoint_Code "PC6" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "25963295, 28069044, 27821107, 32062864" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/279> prop:Acupoint_Code "RN 04" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/28> prop:Acupoint_Code "BL25" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/280> prop:Acupoint_Code "RN 06" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/281> prop:Acupoint_Code "RN12" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/282> prop:Acupoint_Code "RN12" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31937335" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/283> prop:Acupoint_Code "RN22" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/284> prop:Acupoint_Code "RN4" ;
+    prop:Mesh_Id "D019584" ;
+    prop:Mesh_Term "Hot Flashes" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24950841" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/285> prop:Acupoint_Code "RN4" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/286> prop:Acupoint_Code "RN4" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/287> prop:Acupoint_Code "RN6" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/288> prop:Acupoint_Code "RN6" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/289> prop:Acupoint_Code "SI10" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30249298" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/29> prop:Acupoint_Code "BL25" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "22759406" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/290> prop:Acupoint_Code "SI11" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/291> prop:Acupoint_Code "SI11" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/292> prop:Acupoint_Code "Si12" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/293> prop:Acupoint_Code "SI14" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/294> prop:Acupoint_Code "SI14" ;
+    prop:Mesh_Id "D019547" ;
+    prop:Mesh_Term "Neck Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "25027157, 30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/295> prop:Acupoint_Code "SI14" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25027157" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/296> prop:Acupoint_Code "SI19" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35368921, 28143471" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/297> prop:Acupoint_Code "SI3" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/298> prop:Acupoint_Code "SI9" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/299> prop:Acupoint_Code "SI9" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/3> prop:Acupoint_Code "BL11" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32029008, 32925788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/30> prop:Acupoint_Code "BL25" ;
+    prop:Mesh_Id "D017116" ;
+    prop:Mesh_Term "Low Back Pain" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "20540806, 26069973, 21663617" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/300> prop:Acupoint_Code "SP 09" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/301> prop:Acupoint_Code "SP 15" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/302> prop:Acupoint_Code "SP09" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/303> prop:Acupoint_Code "SP10" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30546033, 24216113" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/304> prop:Acupoint_Code "SP10" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142768" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/305> prop:Acupoint_Code "SP10" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "35945733, 23497032, 20576162, 33906695" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/306> prop:Acupoint_Code "SP10" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30558062, 23497032" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/307> prop:Acupoint_Code "SP10" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/308> prop:Acupoint_Code "SP13" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/309> prop:Acupoint_Code "SP14" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/31> prop:Acupoint_Code "BL32" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29970155" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/310> prop:Acupoint_Code "SP14" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/311> prop:Acupoint_Code "SP15" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/312> prop:Acupoint_Code "SP15" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/313> prop:Acupoint_Code "SP4" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/314> prop:Acupoint_Code "SP4" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28052910, 31937335" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/315> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/316> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29769133, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/317> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D000072716" ;
+    prop:Mesh_Term "Cancer Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28651642, 30635007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/318> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28445309, 33657762" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/319> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31774002, 31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/32> prop:Acupoint_Code "BL37" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/320> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D003863" ;
+    prop:Mesh_Term "Depression" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/321> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "26733563, 24555788, 24929459" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/322> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 31706345, 34106628" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/323> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30832713" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/324> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D019584" ;
+    prop:Mesh_Term "Hot Flashes" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24886348, 24950841" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/325> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/326> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30142768, 24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/327> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "27457720" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/328> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/329> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "26733563, 24555788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/33> prop:Acupoint_Code "BL39" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/330> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31358034" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/331> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D011183" ;
+    prop:Mesh_Term "Postoperative Complications" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "34106628" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/332> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/333> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "9" ;
+    prop:PMIDs "24886348, 32195949, 30635007, 31706345, 24950841, 28052910, 29179761, 31774002, 32925788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/334> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D007319" ;
+    prop:Mesh_Term "Sleep Initiation and Maintenance Disorders" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "32164719, 32807158, 31146772" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/335> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35773693, 28202067, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/336> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D013375" ;
+    prop:Mesh_Term "Substance Withdrawal Syndrome" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/337> prop:Acupoint_Code "SP6" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "27457720" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/338> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D059787" ;
+    prop:Mesh_Term "Acute Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31142359, 35144662" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/339> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "30546033, 33907133, 24216113" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/34> prop:Acupoint_Code "BL40" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/340> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "23497032, 20576162, 23782709, 35945733" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/341> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23497032" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/342> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31142359, 32381110" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/343> prop:Acupoint_Code "SP9" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/344> prop:Acupoint_Code "ST 36" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/345> prop:Acupoint_Code "ST 40" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/346> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30326940" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/347> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "31780587, 29903020, 25526462, 22759406, 31774002" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/348> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/349> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D019584" ;
+    prop:Mesh_Term "Hot Flashes" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24950841" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/35> prop:Acupoint_Code "BL40" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/350> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D043183" ;
+    prop:Mesh_Term "Irritable Bowel Syndrome" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30326940, 34666815" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/351> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "33235115, 27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/352> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "30326940, 34666815, 24950841, 31937335, 31774002" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/353> prop:Acupoint_Code "ST25" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35966092, 27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/354> prop:Acupoint_Code "ST26" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30326940" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/355> prop:Acupoint_Code "ST26" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30326940" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/356> prop:Acupoint_Code "ST28" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/357> prop:Acupoint_Code "ST29" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/358> prop:Acupoint_Code "ST31" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/359> prop:Acupoint_Code "ST32" ;
+    prop:Mesh_Id "D059787" ;
+    prop:Mesh_Term "Acute Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "35144662" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/36> prop:Acupoint_Code "BL57" ;
+    prop:Mesh_Id "D009128" ;
+    prop:Mesh_Term "Muscle Spasticity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25643051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/360> prop:Acupoint_Code "ST32" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32381110" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/361> prop:Acupoint_Code "ST34" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/362> prop:Acupoint_Code "ST34" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "35945733, 23497032, 20576162, 33906695" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/363> prop:Acupoint_Code "ST34" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23497032, 30558062" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/364> prop:Acupoint_Code "ST34" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30397007, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/365> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/366> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29029639, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/367> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "24962039, 33906695, 23497032, 23782709, 28438185, 28404609" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/368> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30558062, 23497032" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/369> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D011183" ;
+    prop:Mesh_Term "Postoperative Complications" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33976542" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/37> prop:Acupoint_Code "BL60" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/370> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "29029639, 34666815, 32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/371> prop:Acupoint_Code "ST35" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29029639, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/372> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29769133, 30326940" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/373> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28202067, 29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/374> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D059787" ;
+    prop:Mesh_Term "Acute Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "35144662" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/375> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D000072716" ;
+    prop:Mesh_Term "Cancer Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30635007, 28651642" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/376> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/377> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "28445309, 28404609, 31366643" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/378> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D003072" ;
+    prop:Mesh_Term "Cognition Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33976542, 23587135" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/379> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D003085" ;
+    prop:Mesh_Term "Colic" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "28093383, 35027415, 32375501" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/38> prop:Acupoint_Code "BL60" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/380> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D003863" ;
+    prop:Mesh_Term "Depression" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29029639, 30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/381> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "35616251, 31706345, 28679410, 34106628, 27495269" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/382> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30832713, 27886247" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/383> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D018589" ;
+    prop:Mesh_Term "Gastroparesis" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35241130, 32399130" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/384> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "7" ;
+    prop:PMIDs "35789530, 32571411, 34363051, 24216113, 35902195, 33907133, 33588904" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/385> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30142768, 24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/386> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D043183" ;
+    prop:Mesh_Term "Irritable Bowel Syndrome" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "34666815, 30326940" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/387> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "25496446, 22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/388> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D009128" ;
+    prop:Mesh_Term "Muscle Spasticity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25643051" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/389> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "29029639, 28069044, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/39> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/390> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "27457720, 33235115, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/391> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "7" ;
+    prop:PMIDs "31702640, 23497032, 23782709, 25910930, 28438185, 28404609, 35945733" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/392> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23497032, 25175308" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/393> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "6" ;
+    prop:PMIDs "25910930, 32819923, 31915045, 32381110, 25047046, 31358034" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/394> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D011183" ;
+    prop:Mesh_Term "Postoperative Complications" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33976542, 34106628" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/395> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28052910, 31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/396> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "17" ;
+    prop:PMIDs "29029639, 35789530, 28052910, 32571411, 24886348, 34666815, 31937335, 30635007, 31706345, 31774002, 32576237, 35241130, 27829410, 33588904, 30326940, 27495269, 32925788" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/397> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D065631" ;
+    prop:Mesh_Term "Rhinitis, Allergic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "23302264, 27829410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/398> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "31992367, 23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/399> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D006255" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Seasonal" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24708643, 23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/4> prop:Acupoint_Code "BL11" ;
+    prop:Mesh_Id "D011843" ;
+    prop:Mesh_Term "Radiculopathy" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/40> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/400> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28202067, 32957353" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/401> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D013375" ;
+    prop:Mesh_Term "Substance Withdrawal Syndrome" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142795" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/402> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "29029639, 28069044, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/403> prop:Acupoint_Code "ST36" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/404> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30326940, 29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/405> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/406> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D003248" ;
+    prop:Mesh_Term "Constipation" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "31780587, 31774002, 22759406" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/407> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D043183" ;
+    prop:Mesh_Term "Irritable Bowel Syndrome" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "30326940, 34666815" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/408> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28052910" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/409> prop:Acupoint_Code "ST37" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "28052910, 30326940, 34666815, 31774002, 32576237" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/41> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/410> prop:Acupoint_Code "ST38" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/411> prop:Acupoint_Code "ST38" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/412> prop:Acupoint_Code "ST4" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/413> prop:Acupoint_Code "ST4" ;
+    prop:Mesh_Id "D017116" ;
+    prop:Mesh_Term "Low Back Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/414> prop:Acupoint_Code "ST4" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/415> prop:Acupoint_Code "ST4" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/416> prop:Acupoint_Code "ST40" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/417> prop:Acupoint_Code "ST40" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24886647" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/418> prop:Acupoint_Code "ST40" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "33235115, 27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/419> prop:Acupoint_Code "ST40" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "31775839, 35966092, 27457720" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/42> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 31706345, 28679410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/420> prop:Acupoint_Code "ST41" ;
+    prop:Mesh_Id "D003863" ;
+    prop:Mesh_Term "Depression" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29029639" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/421> prop:Acupoint_Code "ST41" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32571411" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/422> prop:Acupoint_Code "ST41" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29029639, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/423> prop:Acupoint_Code "ST41" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32571411, 29029639" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/424> prop:Acupoint_Code "ST41" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "29029639, 27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/425> prop:Acupoint_Code "ST42" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33663090" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/426> prop:Acupoint_Code "ST43" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/427> prop:Acupoint_Code "ST44" ;
+    prop:Mesh_Id "D020326" ;
+    prop:Mesh_Term "Migraine without Aura" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "35854329" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/428> prop:Acupoint_Code "ST44" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23707680" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/429> prop:Acupoint_Code "ST44" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32576237" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/43> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D018589" ;
+    prop:Mesh_Term "Gastroparesis" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32399130" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/430> prop:Acupoint_Code "ST6" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/431> prop:Acupoint_Code "ST8" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/432> prop:Acupoint_Code "ST8" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/433> prop:Acupoint_Code "ST9" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24216113, 30546033" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/434> prop:Acupoint_Code "TE11" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/435> prop:Acupoint_Code "TE14" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24742182" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/436> prop:Acupoint_Code "TE14" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30249298" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/437> prop:Acupoint_Code "TE14" ;
+    prop:Mesh_Id "D020069" ;
+    prop:Mesh_Term "Shoulder Pain" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24742182, 30249298" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/438> prop:Acupoint_Code "TE16" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/439> prop:Acupoint_Code "TE16" ;
+    prop:Mesh_Id "D019547" ;
+    prop:Mesh_Term "Neck Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/44> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D009325" ;
+    prop:Mesh_Term "Nausea" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "29029639, 27821107, 25963295" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/440> prop:Acupoint_Code "TE17" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23707680" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/441> prop:Acupoint_Code "TE17" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/442> prop:Acupoint_Code "TE17" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "28143471, 23176350, 25872506, 35368921" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/443> prop:Acupoint_Code "TE19" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25496446" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/444> prop:Acupoint_Code "TE21" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28143471, 23176350" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/445> prop:Acupoint_Code "TE3" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35002538" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/446> prop:Acupoint_Code "TE3" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "28143471, 23176350, 25872506" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/447> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/448> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/449> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24216113, 30546033" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/45> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "27457720, 31775839, 33235115" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/450> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "24915066, 22894176" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/451> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D020326" ;
+    prop:Mesh_Term "Migraine without Aura" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35750456, 35854329" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/452> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "35002538, 35750456" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/453> prop:Acupoint_Code "TE5" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "30397007, 22738270, 28202067" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/454> prop:Acupoint_Code "TE8" ;
+    prop:Mesh_Id "D008881" ;
+    prop:Mesh_Term "Migraine Disorders" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "25496446" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/46> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "4" ;
+    prop:PMIDs "29029639, 31706345, 25963295, 31937335" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/47> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "29029639, 27821107, 25963295" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/48> prop:Acupoint_Code "CV12" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "27457720, 31775839, 35966092" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/49> prop:Acupoint_Code "CV13" ;
+    prop:Mesh_Id "D015746" ;
+    prop:Mesh_Term "Abdominal Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/5> prop:Acupoint_Code "BL11" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/50> prop:Acupoint_Code "CV13" ;
+    prop:Mesh_Id "D000208" ;
+    prop:Mesh_Term "Acute Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29769133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/51> prop:Acupoint_Code "CV13" ;
+    prop:Mesh_Id "D014839" ;
+    prop:Mesh_Term "Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "27821107" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/52> prop:Acupoint_Code "CV14" ;
+    prop:Mesh_Id "D060050" ;
+    prop:Mesh_Term "Angina, Stable" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33158451" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/53> prop:Acupoint_Code "CV14" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32576237" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/54> prop:Acupoint_Code "CV3" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/55> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "32195949, 29970155, 33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/56> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 31706345, 27495269" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/57> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D015673" ;
+    prop:Mesh_Term "Fatigue Syndrome, Chronic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27886247, 30832713" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/58> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/59> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "5" ;
+    prop:PMIDs "24886348, 32195949, 31706345, 27495269, 31774002" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/6> prop:Acupoint_Code "BL12" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/60> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/61> prop:Acupoint_Code "CV4" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/62> prop:Acupoint_Code "CV5" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "29970155" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/63> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/64> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "35616251, 31706345, 27495269" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/65> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/66> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "31706345, 27495269, 31774002" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/67> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/68> prop:Acupoint_Code "CV6" ;
+    prop:Mesh_Id "D015431" ;
+    prop:Mesh_Term "Weight Loss" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27457720, 31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/69> prop:Acupoint_Code "CV8" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33592837, 29970155" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/7> prop:Acupoint_Code "BL13" ;
+    prop:Mesh_Id "D001249" ;
+    prop:Mesh_Term "Asthma" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "32509851, 32727619" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/70> prop:Acupoint_Code "CV8" ;
+    prop:Mesh_Id "D005221" ;
+    prop:Mesh_Term "Fatigue" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28679410" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/71> prop:Acupoint_Code "DU20" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/72> prop:Acupoint_Code "DU24" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/73> prop:Acupoint_Code "EX-B2" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "28445309" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/74> prop:Acupoint_Code "EX-CA1" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33592837, 29970155" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/75> prop:Acupoint_Code "EX-CA1" ;
+    prop:Mesh_Id "D019584" ;
+    prop:Mesh_Term "Hot Flashes" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "24950841" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/76> prop:Acupoint_Code "EX-CA1" ;
+    prop:Mesh_Id "D007247" ;
+    prop:Mesh_Term "Infertility, Female" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30142768" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/77> prop:Acupoint_Code "EX-HN" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/78> prop:Acupoint_Code "EX-HN-3" ;
+    prop:Mesh_Id "D010149" ;
+    prop:Mesh_Term "Pain, Postoperative" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/79> prop:Acupoint_Code "EX-HN-3" ;
+    prop:Mesh_Id "D020250" ;
+    prop:Mesh_Term "Postoperative Nausea and Vomiting" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31915045" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/8> prop:Acupoint_Code "BL13" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/80> prop:Acupoint_Code "EX-HN1" ;
+    prop:Mesh_Id "D010300" ;
+    prop:Mesh_Term "Parkinson Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31780587" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/81> prop:Acupoint_Code "EX-HN3" ;
+    prop:Mesh_Id "D065631" ;
+    prop:Mesh_Term "Rhinitis, Allergic" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "27829410, 23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/82> prop:Acupoint_Code "EX-HN3" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "27829410, 23302264, 31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/83> prop:Acupoint_Code "EX-HN3" ;
+    prop:Mesh_Id "D006255" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Seasonal" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23302264" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/84> prop:Acupoint_Code "EX-HN8" ;
+    prop:Mesh_Id "D012221" ;
+    prop:Mesh_Term "Rhinitis, Allergic, Perennial" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31992367" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/85> prop:Acupoint_Code "Ex-LE04" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "23497032" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/86> prop:Acupoint_Code "EX-LE2" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "20576162, 23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/87> prop:Acupoint_Code "EX-LE4" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "28438185, 33906695" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/88> prop:Acupoint_Code "EX-LE4" ;
+    prop:Mesh_Id "D010146" ;
+    prop:Mesh_Term "Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30558062" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/89> prop:Acupoint_Code "EX-LE5" ;
+    prop:Mesh_Id "D020370" ;
+    prop:Mesh_Term "Osteoarthritis, Knee" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "20576162, 23782709" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/9> prop:Acupoint_Code "BL13" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32727619" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/90> prop:Acupoint_Code "EX–CA1" ;
+    prop:Mesh_Id "D004412" ;
+    prop:Mesh_Term "Dysmenorrhea" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33592837" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/91> prop:Acupoint_Code "EXHN15" ;
+    prop:Mesh_Id "D011788" ;
+    prop:Mesh_Term "Quality of Life" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "32029008" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/92> prop:Acupoint_Code "GB 26" ;
+    prop:Mesh_Id "D009765" ;
+    prop:Mesh_Term "Obesity" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "31775839" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/93> prop:Acupoint_Code "GB1" ;
+    prop:Mesh_Id "D009216" ;
+    prop:Mesh_Term "Myopia" ;
+    prop:PMID_freq "2" ;
+    prop:PMIDs "33120756, 25476698" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/94> prop:Acupoint_Code "GB12" ;
+    prop:Mesh_Id "D002908" ;
+    prop:Mesh_Term "Chronic Disease" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "20540806" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/95> prop:Acupoint_Code "Gb12" ;
+    prop:Mesh_Id "D020521" ;
+    prop:Mesh_Term "Stroke" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30397007" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/96> prop:Acupoint_Code "GB14" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "33907133" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/97> prop:Acupoint_Code "GB2" ;
+    prop:Mesh_Id "D014012" ;
+    prop:Mesh_Term "Tinnitus" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "28143471, 23176350, 25872506" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/98> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D059350" ;
+    prop:Mesh_Term "Chronic Pain" ;
+    prop:PMID_freq "1" ;
+    prop:PMIDs "30522504" ;
+    prop:Relation "pubmed" .
+
+<http://example.org/resource/record/99> prop:Acupoint_Code "GB20" ;
+    prop:Mesh_Id "D006973" ;
+    prop:Mesh_Term "Hypertension" ;
+    prop:PMID_freq "3" ;
+    prop:PMIDs "33907133, 24216113, 30546033" ;
+    prop:Relation "pubmed" .
+
